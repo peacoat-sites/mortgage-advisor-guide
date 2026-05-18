@@ -10,9 +10,9 @@ enableEmoji = true
   description = "Practical mortgage guides for first-time buyers, refinancers, and anyone navigating the home loan process."
   niche = "Mortgage & Home Financing"
   adsense_id = "ca-pub-3466203197759215"
-  adsense_slot_header = "SLOT_MORT_HEADER"
-  adsense_slot_incontent = "SLOT_MORT_INCONTENT"
-  adsense_slot_sidebar = "SLOT_MORT_SIDEBAR"
+  adsense_slot_header = "auto"
+  adsense_slot_incontent = "auto"
+  adsense_slot_sidebar = "auto"
   image_query = "mortgage home buying loan house keys signing"
   author = "Mortgage Advisor Guide Editorial Team"
   logo_text = "Mortgage Advisor Guide"
@@ -20,12 +20,24 @@ enableEmoji = true
   primary_color = "#1a3a5c"
   cloudflare_analytics = ""
 
+  # Authority theme
+  hero_color_1 = "#1a0933"
+  hero_color_2 = "#4c1d95"
+  hero_color_3 = "#6d28d9"
+  hero_color_4 = "#0f172a"
+  monthly_readers = 81000
+  research_hours  = 640
+  satisfaction    = 97
+  trust_extra     = "NMLS-reviewed guidance"
+  impact_verification = ""
+  impact_tracking_id  = "" 
+
 [taxonomies]
   category = "categories"
   tag = "tags"
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
 
 [sitemap]
@@ -37,6 +49,10 @@ enableEmoji = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = false
 
 [permalinks]
   posts = "/:slug/"
