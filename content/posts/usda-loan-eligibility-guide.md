@@ -3,7 +3,7 @@ title: "Usda Loan Eligibility Guide"
 date: 2026-05-19T12:22:39.451217+00:00
 draft: false
 description: "Learn if you qualify for a USDA loan with our complete eligibility guide covering income limits, property requirements, credit scores, and how to apply today."
-image: "https://images.pexels.com/photos/27920274/pexels-photo-27920274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34134899/pexels-photo-34134899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["USDA", "loan", "eligibility", "guide"]
 author: "Tom Whitfield"
