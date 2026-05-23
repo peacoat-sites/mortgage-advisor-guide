@@ -3,7 +3,7 @@ title: "30 Year Vs 15 Year Mortgage"
 date: 2026-05-18T18:30:06.807097+00:00
 draft: false
 description: "Compare 30-year and 15-year mortgages to find the best fit for your budget. Learn about monthly payments, interest costs, and which loan term saves you more mon"
-image: "https://images.pexels.com/photos/8292879/pexels-photo-8292879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8293750/pexels-photo-8293750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["year", "year", "mortgage"]
 author: "Susan Park"
