@@ -9,6 +9,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+author = "Stephen Brenish"
   description = "Practical mortgage guides for first-time buyers, refinancers, and anyone navigating the home loan process."
   niche = "Mortgage & Home Financing"
   adsense_id = "ca-pub-3466203197759215"
