@@ -3,7 +3,7 @@ title: "How To Refinance Mortgage"
 date: 2026-05-20T12:05:35.421396+00:00
 draft: false
 description: "Learn how to refinance your mortgage step by step. Discover when to refinance, how to compare lenders, and ways to lower your rate and save money long term."
-image: "https://images.pexels.com/photos/12955837/pexels-photo-12955837.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7821540/pexels-photo-7821540.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Refinancing"]
 tags: ["refinance", "mortgage"]
 author: "Alicia Rivera"
