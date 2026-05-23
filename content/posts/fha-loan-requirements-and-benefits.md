@@ -3,7 +3,7 @@ title: "Fha Loan Requirements And Benefits"
 date: 2026-05-18T22:08:40.493200+00:00
 draft: false
 description: "Discover FHA loan requirements, credit score minimums, down payment options, and key benefits to help first-time homebuyers qualify for affordable mortgage fina"
-image: "https://images.pexels.com/photos/7821490/pexels-photo-7821490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5849569/pexels-photo-5849569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["loan", "requirements", "benefits"]
 author: "David Carver"
