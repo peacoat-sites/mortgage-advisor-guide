@@ -3,7 +3,7 @@ title: "How Much House Can I Afford"
 date: 2026-05-18T22:01:56.351488+00:00
 draft: false
 description: "Find out how much house you can afford based on your income, debt, and down payment. Use our tips and tools to set a realistic homebuying budget today."
-image: "https://images.pexels.com/photos/27920274/pexels-photo-27920274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8815820/pexels-photo-8815820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["much", "house", "afford"]
 author: "Tom Whitfield"
