@@ -1,6 +1,5 @@
 googleAnalytics = "G-05V9VDCD5V"
 baseURL = "https://mortgageadvisorguide.com/"
-enableGitInfo = true
 languageCode = "en-us"
 title = "Mortgage Advisor Guide"
 [pagination]
@@ -31,7 +30,7 @@ author = "Stephen Brenish"
   monthly_readers = 81000
   research_hours  = 640
   satisfaction    = 97
-  trust_extra     = "NMLS-reviewed guidance"
+  trust_extra     = "NMMLS-reviewed guidance"
   impact_verification = ""
   impact_tracking_id  = "" 
 
