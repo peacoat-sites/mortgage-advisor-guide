@@ -34,6 +34,12 @@ author = "Stephen Brenish"
   impact_verification = ""
   impact_tracking_id  = "" 
 
+  persona_name       = "Greg Callahan"
+  persona_title      = "Mortgage & Home Finance Editor"
+  persona_bio        = "Greg is a finance researcher who has spent years analyzing mortgage products, lender requirements, and homebuying strategies. He writes practical guides to help first-time buyers and refinancers understand their options before signing anything."
+  persona_initials   = "GC"
+  disclaimer         = "This content is for general informational purposes only and does not constitute financial or lending advice. Loan terms vary by lender and borrower profile. Always consult a licensed mortgage professional before making borrowing decisions."
+
 [taxonomies]
   category = "categories"
   tag = "tags"
