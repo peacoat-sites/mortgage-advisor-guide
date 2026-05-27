@@ -1,138 +1,82 @@
 ---
 title: "Privacy Policy"
-description: "Privacy Policy for Mortgage Advisor Guide — how we collect, use, and protect your information."
-layout: "page"
+date: 2026-01-01
+draft: false
+description: "Privacy Policy for Mortgage Advisor Guide"
 ---
 
-*Last updated: 2026-05-18*
+## Privacy Policy
 
-Mortgage Advisor Guide ("we," "us," or "our") operates the website at [https://mortgageadvisorguide.com](https://mortgageadvisorguide.com) (the "Site"). This Privacy Policy explains how we collect, use, disclose, and protect your information when you visit the Site.
+*Last updated: May 27, 2026*
 
-Please read this policy carefully. By using the Site, you agree to the terms described below.
-
----
-
-## 1. Information We Collect
-
-### Information You Provide
-We collect information you voluntarily provide when contacting us (e.g., your name and email address).
-
-### Automatically Collected Information
-When you visit the Site, third-party services we use may automatically collect:
-
-- Browser type and version
-- Pages visited and time on page
-- Referring URL
-- Device type and operating system
-- General geographic location (country/region)
-
-We do not directly store this data — it is processed by the third-party services described below.
+This Privacy Policy describes how Mortgage Advisor Guide ("we," "us," or "our") collects, uses, and shares information when you visit mortgageadvisorguide.com (the "Site").
 
 ---
 
-## 2. Cookies and Tracking Technologies
+## Information We Collect
 
-Our Site uses cookies and similar tracking technologies. A cookie is a small data file stored on your device.
+**Information You Provide**
+We do not require account creation to read our content. If you contact us, we collect the name, email address, and message you provide.
 
-### Types of Cookies We Use
-
-| Type | Purpose | Examples |
-|------|---------|---------|
-| **Necessary** | Site functionality | Session, preference cookies |
-| **Analytics** | Understand traffic patterns | Cloudflare Analytics |
-| **Advertising** | Serve relevant ads | Google AdSense, DoubleClick |
-
-### Your Cookie Choices
-You can control cookies through your browser settings or by declining consent via the banner displayed on your first visit. Note that declining advertising cookies will result in less relevant ads (not no ads).
+**Automatically Collected Information**
+When you visit the Site, we and our partners automatically collect: your IP address and approximate location (city/region), browser type and device, pages visited and time on page, referring URL or search query, and date/time of visit. This is collected via server logs, cookies, and the third-party services described below.
 
 ---
 
-## 3. Advertising Partners & Third-Party Services
+## Cookies
 
-### Google AdSense & DoubleClick
-We use **Google AdSense** to display advertisements. Google and its partners use cookies — including the **DoubleClick cookie** — to serve ads based on your prior visits to this Site and other sites across the internet. This is known as interest-based advertising.
+| Cookie Type | Purpose |
+|---|---|
+| Strictly Necessary | Site functionality |
+| Analytics | Understanding how visitors use the Site (Google Analytics) |
+| Advertising | Serving relevant ads (Google AdSense) |
 
-**To opt out of personalized advertising:**
-- Visit [Google Ad Settings](https://www.google.com/settings/ads)
-- Visit [www.aboutads.info/choices](http://www.aboutads.info/choices/) (DAA opt-out tool)
-- Visit [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/) (NAI opt-out tool)
-
-Google's use of advertising cookies enables it and its partners to serve ads based on your visit here and on other sites. For more information, see [Google's Privacy & Terms](https://policies.google.com/technologies/ads).
-
-### Cloudflare Analytics
-We use **Cloudflare Web Analytics** to understand site traffic. Cloudflare Analytics does not use cookies and does not track individual users across sites. See [Cloudflare's Privacy Policy](https://www.cloudflare.com/privacypolicy/).
-
-### Affiliate Programs
-This Site participates in the **Amazon Services LLC Associates Program** and may include other affiliate links. If you click an affiliate link and make a purchase, we may earn a small commission at no additional cost to you. This does not influence our editorial content or recommendations.
+You can disable cookies in your browser settings. Disabling advertising cookies means ads may be less relevant but you will still see ads.
 
 ---
 
-## 4. How We Use Your Information
+## Third-Party Services
 
-We use the information we collect to:
+**Google Analytics** — We use Google Analytics to understand site usage. It collects anonymized data via cookies. [Google's Privacy Policy](https://policies.google.com/privacy) | [Opt-out Add-on](https://tools.google.com/dlpage/gaoptout)
 
-- Operate and improve the Site
-- Respond to inquiries and emails
-- Analyze usage trends and site performance
-- Display relevant advertising
+**Google AdSense** — We display ads served by Google AdSense. Google uses the DoubleClick cookie to serve ads based on prior site visits. Opt out at [Google Ad Settings](https://www.google.com/settings/ads) or [NAI Opt-out](https://optout.networkadvertising.org/).
 
-We do **not** sell, trade, or rent your personal information to third parties.
+**Amazon Associates** — We participate in the Amazon Associates Program. When you purchase through our links, we may earn a commission. [Amazon's Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
 
 ---
 
-## 5. Third-Party Links
+## How We Use Information
 
-Our Site may contain links to third-party websites. We have no control over and assume no responsibility for the privacy practices or content of third-party sites. We encourage you to review their privacy policies before providing any personal information.
-
----
-
-## 6. Children's Privacy
-
-Our Site is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us immediately.
+We use information to operate and improve the Site, analyze traffic, serve ads, respond to inquiries, and comply with legal obligations. **We do not sell your personal information.**
 
 ---
 
-## 7. Your Privacy Rights
+## Your Privacy Rights
 
-### California Residents (CCPA)
-If you are a California resident, you have the right to:
-- Know what personal information we collect
-- Request deletion of your personal information
-- Opt out of the sale of personal information (we do not sell personal information)
+**California (CCPA):** You have the right to know what data we collect, request deletion, and opt out of data sales. We do not sell personal data. Contact us to exercise your rights.
 
-To exercise your rights, contact us at the email below.
-
-### European Residents (GDPR)
-If you are located in the European Economic Area, you have rights including the right to access, rectify, or erase your personal data, and the right to object to or restrict processing. To exercise these rights, contact us at [hello@mortgageadvisorguide.com](mailto:hello@mortgageadvisorguide.com).
+**European Residents (GDPR):** You have rights to access, correct, or delete your personal data. Our legal bases are legitimate interest (analytics) and consent (advertising cookies). Contact us to exercise your rights.
 
 ---
 
-## 8. Data Retention
+## Data Retention
 
-We retain personal information (such as emails you send us) only as long as necessary to fulfill the purpose for which it was collected, unless a longer retention period is required by law.
-
----
-
-## 9. Security
-
-We implement reasonable technical and organizational measures to protect your information. However, no method of internet transmission or electronic storage is 100% secure.
+Analytics data is retained for up to 26 months. Contact form messages are retained for up to 2 years.
 
 ---
 
-## 10. Changes to This Policy
+## Children's Privacy
 
-We may update this Privacy Policy periodically. The date of the most recent revision appears at the top of this page. Your continued use of the Site after changes are posted constitutes acceptance of the updated policy.
-
----
-
-## 11. Contact Us
-
-If you have questions about this Privacy Policy or wish to exercise your privacy rights, contact us at:
-
-**Mortgage Advisor Guide**
-Email: [hello@mortgageadvisorguide.com](mailto:hello@mortgageadvisorguide.com)
-Website: [https://mortgageadvisorguide.com](https://mortgageadvisorguide.com)
+This Site is not directed at children under 13. We do not knowingly collect data from children.
 
 ---
 
-*This site provides general information about mortgages and home financing. Consult a licensed mortgage professional or financial advisor before making borrowing decisions.*
+## Changes to This Policy
+
+We may update this policy periodically. Changes will be posted on this page with a revised date.
+
+---
+
+## Contact
+
+Email: contact@mortgageadvisorguide.com
