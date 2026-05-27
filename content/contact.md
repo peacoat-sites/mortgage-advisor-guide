@@ -1,52 +1,22 @@
 ---
-title: "Contact Mortgage Advisor Guide"
-description: "Get in touch with the Mortgage Advisor Guide team."
-layout: "page"
+title: "Contact"
+description: "Get in touch with Greg Callahan at mortgageadvisorguide.com."
 ---
 
-## Get In Touch
+# Contact Us
 
-We welcome questions, corrections, topic suggestions, and general feedback.
+Have a question, correction, or feedback about something you read on mortgageadvisorguide.com? We’d love to hear from you.
 
-<div class="contact-grid">
-<div class="contact-card">
+**Email:** [support@mortgageadvisorguide.com](mailto:support@mortgageadvisorguide.com)
 
-### Email Us
-The best way to reach us is by email. We typically respond within 2–3 business days.
+Greg Callahan personally reads every message and aims to respond within 2–3 business days.
 
-[hello@mortgageadvisorguide.com](mailto:hello@mortgageadvisorguide.com)
+## What to Include
 
-</div>
-<div class="contact-card">
+To help us respond quickly, please include:
+- The article or topic your question is about
+- Any specific details that would help us assist you
 
-### Topic Requests
-Want us to cover a specific topic related to mortgage & home financing? Send us a note and we'll add it to our editorial queue.
+## What We Can’t Help With
 
-</div>
-</div>
-
-## What We Can Help With
-
-- **Content corrections** — Found an error or outdated information? Please let us know. We take accuracy seriously.
-- **Topic suggestions** — Is there something we haven't covered that you'd like explained?
-- **General feedback** — We want to know what's helpful and what isn't.
-
-## What We Cannot Help With
-
-We are an informational resource, not a professional services provider. We are not able to:
-
-- Provide personalized advice on your specific situation
-- Refer you to specific professionals or companies
-- Answer legal, medical, financial, or insurance questions about your individual case
-
-<div class="disclaimer-box">
-
-The content on this site is for **general educational purposes only** and does not constitute financial, mortgage, or legal advice. Mortgage rates, qualification requirements, and loan terms change frequently and vary by lender and borrower profile. Always consult a **licensed mortgage professional or HUD-approved housing counselor** before making home financing decisions.
-
-If you need professional guidance, please consult a qualified professional in your area.
-
-</div>
-
-## Advertising & Partnerships
-
-For advertising inquiries, please email us at [hello@mortgageadvisorguide.com](mailto:hello@mortgageadvisorguide.com) with "Advertising" in the subject line.
+We’re a content-only publication and cannot provide personalized financial advice. For professional guidance, please consult a qualified licensed mortgage broker.
