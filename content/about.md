@@ -1,43 +1,40 @@
 ---
 title: "About Mortgage Advisor Guide"
-description: "Learn about Mortgage Advisor Guide — our mission, editorial standards, and the topics we cover."
-layout: "page"
+date: 2026-01-01
+draft: false
+description: "About Mortgage Advisor Guide — meet Greg Callahan and learn how we help homebuyers navigate mortgages."
 ---
 
-## Our Mission
+## About Mortgage Advisor Guide
 
-Mortgage Advisor Guide helps home buyers and homeowners understand the mortgage process from pre-approval to closing — and beyond. We explain the numbers, the jargon, and the tradeoffs in plain English so you can negotiate from a position of knowledge.
+Mortgage Advisor Guide is an independent resource that helps homebuyers and refinancers understand how mortgages work before they commit to one.
+
+## Meet the Editor
+
+**Greg Callahan** is the editor behind Mortgage Advisor Guide.
+
+Greg has spent years researching mortgage products, lender requirements, and home financing strategies — tracking how rates move, how underwriting standards shift, and how different loan programs affect what buyers actually pay over time. He started Mortgage Advisor Guide after watching friends and family make expensive mortgage decisions based on incomplete information or misleading advertising.
+
+His focus: give readers the context they need to have a smarter conversation with their lender and recognize a good deal when they see one.
 
 ## What We Cover
 
-Mortgage Advisor Guide publishes in-depth, reader-first guides on mortgage types, interest rates, refinancing, pre-approval, down payments, closing costs, FHA and VA loans, and working with mortgage lenders.
+Mortgage Advisor Guide covers the full spectrum of home financing — loan types, rate shopping, down payment strategies, mortgage insurance, the pre-approval process, closing costs, and refinancing. We also track first-time homebuyer programs and government-backed loan options by state.
 
-Every article is researched and written with one goal: give you the clearest, most accurate overview of the topic possible — without burying the answer or pushing you toward a product.
+## Our Approach
 
-## Editorial Standards
+We don't take referral fees from lenders. We don't have preferred partners. Every recommendation is based on research, not relationships.
 
-We follow a straightforward editorial process:
-
-- **Research-first:** Every article is grounded in publicly available data, government sources, and established industry guidance.
-- **Plain English:** We don't write for search engines — we write for real people who need real answers.
-- **Regular updates:** We review and update articles when rules, rates, or guidance change.
-- **No paid editorial:** Our editorial content is never written or influenced by advertisers or sponsors. Ads and content are strictly separated.
+Articles are researched from CFPB guidance, Freddie Mac and Fannie Mae guidelines, HUD programs, and published lender data — and updated as rates and programs change.
 
 ## Important Disclaimer
 
-<div class="disclaimer-box">
+Mortgage Advisor Guide provides general informational content. Greg Callahan is a researcher — not a licensed mortgage advisor or financial planner. Mortgage terms vary significantly by lender, loan type, and borrower profile. Always work with a licensed mortgage professional before making borrowing decisions.
 
-The content on this site is for **general educational purposes only** and does not constitute financial, mortgage, or legal advice. Mortgage rates, qualification requirements, and loan terms change frequently and vary by lender and borrower profile. Always consult a **licensed mortgage professional or HUD-approved housing counselor** before making home financing decisions.
+## Affiliate Disclosure
 
-</div>
-
-## About This Site
-
-Mortgage Advisor Guide is an independent informational resource. We are not affiliated with any government agency, insurance company, law firm, financial institution, or healthcare provider.
-
-This site may display advertisements through Google AdSense and may contain affiliate links. Clicking an affiliate link and making a purchase may earn us a small commission at no additional cost to you. These relationships never influence our editorial content.
+Some links on this site are affiliate links. If you click and make a purchase, we may earn a small commission at no extra cost to you.
 
 ## Contact
 
-Have a question, correction, or feedback? We'd love to hear from you.
-Reach us at: [hello@mortgageadvisorguide.com](mailto:hello@mortgageadvisorguide.com)
+Questions or corrections? [Contact us here](/contact/).
