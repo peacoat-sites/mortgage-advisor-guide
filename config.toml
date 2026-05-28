@@ -8,11 +8,6 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-hero_color_4 = "#000d08"
-hero_color_3 = "#34d399"
-hero_color_2 = "#001f14"
-hero_color_1 = "#00100a"
-primary_color = "#34d399"
 logo_text_2 = "Advisor Guide"
 logo_text_1 = "Mortgage"
   description = "Practical mortgage guides for first-time buyers, refinancers, and anyone navigating the home loan process."
