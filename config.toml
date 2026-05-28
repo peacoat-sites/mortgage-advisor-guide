@@ -1,6 +1,7 @@
 baseURL = "https://mortgageadvisorguide.com/"
 languageCode = "en-us"
 title = "Mortgage Advisor Guide"
+
 enableRobotsTXT = true
 enableEmoji = true
 
