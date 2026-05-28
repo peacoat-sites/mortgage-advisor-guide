@@ -7,6 +7,8 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+  page_bg = "#faf7ff"
+  nav_style = "dark"
 logo_text_2 = "Advisor Guide"
 logo_text_1 = "Mortgage"
   description = "Practical mortgage guides for first-time buyers, refinancers, and anyone navigating the home loan process."
