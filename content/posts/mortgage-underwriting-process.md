@@ -3,7 +3,7 @@ title: "Mortgage Underwriting Process"
 date: 2026-05-25T12:50:45.049690+00:00
 draft: false
 description: "Discover how the mortgage underwriting process works, from application to approval. Learn about credit checks, documentation, and timeline expectations."
-image: "https://pixabay.com/get/g10967a52c113668f12eab2b11fe8065f174674d31d7445844f51088ebcd81250f276c46b53e7ce773204acbc9518ac53786dde0bb5c0660bf91ee14af36c1c17_1280.jpg"
+image: "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Getting Started"]
 tags: ["mortgage", "underwriting", "process"]
 author: "David Carver"
