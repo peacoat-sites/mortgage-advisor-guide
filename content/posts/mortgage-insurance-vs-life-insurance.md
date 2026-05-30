@@ -3,7 +3,7 @@ title: "Mortgage Insurance Vs Life Insurance"
 date: 2026-05-29T21:54:35.810291+00:00
 draft: false
 description: "Confused about mortgage insurance vs life insurance? Discover the key differences, costs, and which option best protects your family and home in our complete gu"
-image: ""
+image: "https://images.pexels.com/photos/5849574/pexels-photo-5849574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["mortgage", "insurance", "life", "insurance"]
 author: "Alex Reeves"

@@ -3,7 +3,7 @@ title: "Mortgage With Student Loans"
 date: 2026-05-29T21:52:47.469196+00:00
 draft: false
 description: "Struggling to get a mortgage with student loans? Learn how lenders assess your debt, tips to boost approval odds, and how to buy a home despite student debt."
-image: ""
+image: "https://images.pexels.com/photos/8293638/pexels-photo-8293638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Qualification"]
 tags: ["mortgage", "with", "student", "loans"]
 author: "Dana Hargrove"

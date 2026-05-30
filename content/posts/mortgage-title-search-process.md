@@ -3,7 +3,7 @@ title: "Mortgage Title Search Process"
 date: 2026-05-29T22:01:09.992623+00:00
 draft: false
 description: "Learn how the mortgage title search process works, why it matters when buying a home, and how it protects you from hidden liens, ownership disputes, and legal i"
-image: ""
+image: "https://images.pexels.com/photos/12955837/pexels-photo-12955837.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Closing"]
 tags: ["mortgage", "title", "search", "process"]
 author: "Dana Hargrove"
