@@ -1,6 +1,6 @@
 ---
 title: "Mortgage Rates Today Explained"
-date: 2026-05-18T18:26:31.351478+00:00
+date: 2026-05-28T10:49:48.293673+00:00
 draft: false
 description: "Discover how mortgage rates work today, what drives them up or down, and how to secure the best rate for your home loan. Updated insights for smart borrowers."
 image: "https://images.pexels.com/photos/6120252/pexels-photo-6120252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

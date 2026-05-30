@@ -1,6 +1,6 @@
 ---
 title: "Pmi Explained Mortgage"
-date: 2026-05-20T00:31:23.420405+00:00
+date: 2026-05-29T18:32:25.042407+00:00
 draft: false
 description: "Learn what PMI is, why lenders require it, how much it costs, and when you can cancel it to stop paying private mortgage insurance on your home loan."
 image: "https://images.pexels.com/photos/7736029/pexels-photo-7736029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

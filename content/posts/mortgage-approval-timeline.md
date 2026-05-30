@@ -1,6 +1,6 @@
 ---
 title: "Mortgage Approval Timeline"
-date: 2026-05-26T12:25:55.054105+00:00
+date: 2026-05-22T14:22:28.257810+00:00
 draft: false
 description: "Get approved for your mortgage faster. Learn the typical timeline from application to closing, key milestones, and how to speed up the process."
 image: "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

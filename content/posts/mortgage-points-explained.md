@@ -1,6 +1,6 @@
 ---
 title: "Mortgage Points Explained"
-date: 2026-05-24T10:51:57.091972+00:00
+date: 2026-05-26T07:25:53.768236+00:00
 draft: false
 description: "Lower your interest rate by paying mortgage points upfront. Learn how points work, calculate savings, and decide if they're right for your home loan."
 image: "https://images.pexels.com/photos/7641859/pexels-photo-7641859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

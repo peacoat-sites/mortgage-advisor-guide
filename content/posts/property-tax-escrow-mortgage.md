@@ -1,6 +1,6 @@
 ---
 title: "Property Tax Escrow Mortgage"
-date: 2026-05-29T21:42:18.326809+00:00
+date: 2026-05-22T18:52:45.496060+00:00
 draft: false
 description: "Learn how property tax escrow works with your mortgage, why lenders require it, and how it affects your monthly payments and overall homeownership costs."
 image: "https://images.pexels.com/photos/34023965/pexels-photo-34023965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

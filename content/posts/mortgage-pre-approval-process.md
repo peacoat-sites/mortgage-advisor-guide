@@ -1,6 +1,6 @@
 ---
 title: "Mortgage Pre-Approval Process"
-date: 2026-05-18T18:32:53.218405+00:00
+date: 2026-05-22T23:05:21.756734+00:00
 draft: false
 description: "Get pre-approved for a mortgage with confidence. Learn step-by-step how the pre-approval process works, what lenders look for, and how to strengthen your applic"
 image: "https://images.pexels.com/photos/7821495/pexels-photo-7821495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

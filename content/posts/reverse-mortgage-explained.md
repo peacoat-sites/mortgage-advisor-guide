@@ -1,6 +1,6 @@
 ---
 title: "Reverse Mortgage Explained"
-date: 2026-05-28T22:27:44.888114+00:00
+date: 2026-05-18T16:11:55.301744+00:00
 draft: false
 description: "Discover how a reverse mortgage works, who qualifies, and the pros and cons. Learn if tapping your home equity in retirement is the right financial move for you"
 image: "https://images.pexels.com/photos/31424880/pexels-photo-31424880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Mortgage Escrow Account Explained"
-date: 2026-05-29T12:31:10.875117+00:00
+date: 2026-05-29T20:01:57.921959+00:00
 draft: false
 description: "Learn what a mortgage escrow account is, how it works, and why lenders require it. Discover how escrow manages your property taxes and insurance payments."
 image: "https://images.pexels.com/photos/32045967/pexels-photo-32045967.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

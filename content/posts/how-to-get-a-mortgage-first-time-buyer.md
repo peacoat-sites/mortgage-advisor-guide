@@ -1,6 +1,6 @@
 ---
 title: "How To Get A Mortgage First Time Buyer"
-date: 2026-05-18T18:23:19.187981+00:00
+date: 2026-05-28T19:56:07.176395+00:00
 draft: false
 description: "Learn how to get a mortgage as a first time buyer. Discover deposit requirements, eligibility tips, and step-by-step guidance to help you secure your first home"
 image: "https://images.pexels.com/photos/7841821/pexels-photo-7841821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

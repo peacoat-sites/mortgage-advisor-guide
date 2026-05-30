@@ -1,6 +1,6 @@
 ---
 title: "Mortgage Forbearance Explained"
-date: 2026-05-28T22:23:19.024950+00:00
+date: 2026-05-21T15:21:55.352714+00:00
 draft: false
 description: "Learn what mortgage forbearance is, how it works, who qualifies, and what happens when it ends. Protect your home and credit during financial hardship."
 image: "https://images.pexels.com/photos/34811748/pexels-photo-34811748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

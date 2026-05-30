@@ -1,6 +1,6 @@
 ---
 title: "Mortgage Qualification Requirements"
-date: 2026-05-18T22:03:55.896545+00:00
+date: 2026-05-21T06:58:14.304670+00:00
 draft: false
 description: "Learn what it takes to qualify for a mortgage. Explore credit score minimums, debt-to-income ratios, down payment options, and income verification requirements."
 image: "https://images.pexels.com/photos/7579192/pexels-photo-7579192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

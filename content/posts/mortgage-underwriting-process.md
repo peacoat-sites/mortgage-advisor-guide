@@ -1,6 +1,6 @@
 ---
 title: "Mortgage Underwriting Process"
-date: 2026-05-25T12:50:45.049690+00:00
+date: 2026-05-22T04:05:43.990985+00:00
 draft: false
 description: "Discover how the mortgage underwriting process works, from application to approval. Learn about credit checks, documentation, and timeline expectations."
 image: "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

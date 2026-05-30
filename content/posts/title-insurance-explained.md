@@ -1,6 +1,6 @@
 ---
 title: "Title Insurance Explained"
-date: 2026-05-29T21:59:21.203948+00:00
+date: 2026-05-28T09:54:59.527163+00:00
 draft: false
 description: "Learn what title insurance is, how it protects homebuyers and lenders from ownership disputes, and why it's an essential part of any real estate transaction."
 image: "https://images.pexels.com/photos/7734574/pexels-photo-7734574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Credit Score For Mortgage Approval"
-date: 2026-05-23T10:45:17.307978+00:00
+date: 2026-05-27T21:48:16.017760+00:00
 draft: false
 description: "Discover what credit score you need for mortgage approval. Learn minimum requirements, how lenders evaluate credit, and tips to improve your score before applyi"
 image: "https://images.pexels.com/photos/7821472/pexels-photo-7821472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
