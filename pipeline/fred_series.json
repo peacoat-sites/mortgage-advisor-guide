@@ -1,0 +1,7 @@
+{
+  "title": "Current Mortgage Rates",
+  "series": [
+    {"id": "MORTGAGE30US", "label": "30-Year Fixed", "unit": "%"},
+    {"id": "MORTGAGE15US", "label": "15-Year Fixed", "unit": "%"}
+  ]
+}
