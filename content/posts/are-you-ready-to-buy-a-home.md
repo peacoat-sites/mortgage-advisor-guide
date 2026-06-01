@@ -1,4 +1,5 @@
 ---
+quiz_page: true
 title: "Are You Ready to Buy a Home? Take the Readiness Quiz"
 description: "Wondering if you're ready to buy a home? Take this quick 7-question readiness quiz to gauge how your habits, goals, and timing line up with homeownership."
 slug: "are-you-ready-to-buy-a-home"
