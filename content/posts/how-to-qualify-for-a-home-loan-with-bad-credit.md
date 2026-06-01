@@ -3,7 +3,7 @@ title: "How To Qualify For A Home Loan With Bad Credit"
 date: 2026-05-31T11:09:42.615806+00:00
 draft: false
 description: "Learn how to qualify for a home loan with bad credit. Explore tips on improving your score, loan options, down payments, and lenders who work with bad credit bo"
-image: ""
+image: "https://images.pexels.com/photos/8293720/pexels-photo-8293720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Credit"]
 tags: ["qualify", "home", "loan", "with", "credit"]
 author: "Alex Reeves"
