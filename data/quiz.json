@@ -1,0 +1,149 @@
+{
+  "title": "Are You Ready to Buy a Home?",
+  "intro": "Answer 7 quick questions to see how well buying a home fits your current habits, goals, and timing. This is a self-reflection tool for general education, not financial or lending advice.",
+  "questions": [
+    {
+      "q": "How settled do you feel about staying in your current area for the next several years?",
+      "options": [
+        {
+          "t": "Pretty settled \u00e2\u20ac\u201d I expect to be here a good while",
+          "s": 3
+        },
+        {
+          "t": "Probably, but my plans could shift",
+          "s": 1
+        },
+        {
+          "t": "Honestly not sure where I'll be in a year or two",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "When you think about a regular monthly housing payment, how does that sit with you?",
+      "options": [
+        {
+          "t": "I like routine bills and stick to a budget already",
+          "s": 3
+        },
+        {
+          "t": "I manage, but my spending can be a bit up and down",
+          "s": 1
+        },
+        {
+          "t": "Steady monthly commitments stress me out",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about handling repairs and upkeep yourself?",
+      "options": [
+        {
+          "t": "I'd enjoy taking care of my own place",
+          "s": 3
+        },
+        {
+          "t": "I'd manage, even if some of it isn't my favorite",
+          "s": 1
+        },
+        {
+          "t": "I really prefer someone else handling that stuff",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How clear is your picture of what you want in a home?",
+      "options": [
+        {
+          "t": "Very clear \u00e2\u20ac\u201d I know my must-haves and dealbreakers",
+          "s": 3
+        },
+        {
+          "t": "I have a rough idea but I'm still figuring it out",
+          "s": 1
+        },
+        {
+          "t": "I haven't really thought it through yet",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How does the idea of saving toward a big upfront goal feel to you?",
+      "options": [
+        {
+          "t": "Motivating \u00e2\u20ac\u201d I like working toward a clear target",
+          "s": 3
+        },
+        {
+          "t": "Doable, though it takes effort to stay on track",
+          "s": 1
+        },
+        {
+          "t": "Tough \u00e2\u20ac\u201d long-term saving isn't my strength right now",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How much have you looked into how the home-buying process actually works?",
+      "options": [
+        {
+          "t": "Quite a bit \u00e2\u20ac\u201d I've read up on the steps involved",
+          "s": 3
+        },
+        {
+          "t": "A little \u00e2\u20ac\u201d I know the basics",
+          "s": 1
+        },
+        {
+          "t": "Barely at all \u00e2\u20ac\u201d it still feels like a mystery",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "What's your gut feeling about your timing for buying?",
+      "options": [
+        {
+          "t": "This feels like the right season of life for it",
+          "s": 3
+        },
+        {
+          "t": "Maybe soon, but I'd want to firm a few things up first",
+          "s": 1
+        },
+        {
+          "t": "It feels more like a someday goal than a now goal",
+          "s": 0
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": "Buying might not be your easiest fit just yet",
+      "body": "Based on your answers, a few pieces of the picture still feel up in the air \u00e2\u20ac\u201d and that's completely okay. Plenty of happy homeowners started exactly where you are. Right now the most useful thing isn't rushing toward a purchase; it's getting clearer on your plans and comfortable with the basics. Spend some time picturing where you want to be and learning how the process works, and you may feel very differently in a year.",
+      "cta": "Start with our first-time buyer basics"
+    },
+    {
+      "min": 8,
+      "max": 14,
+      "title": "Homeownership could work well for you, with a plan",
+      "body": "You're showing several signs of readiness \u00e2\u20ac\u201d you've thought about timing, routines, or what you want \u00e2\u20ac\u201d even if a couple of areas still need shoring up. That's a strong place to be. With a clear plan and a little homework on the steps ahead, buying could move from 'maybe someday' to a real, reachable goal. Focus next on the parts of the process you know least about.",
+      "cta": "Walk through our step-by-step home-buying guide"
+    },
+    {
+      "min": 15,
+      "max": 21,
+      "title": "You look like a strong candidate to buy",
+      "body": "Your answers point to someone who feels settled, knows what they want, and is comfortable with the habits and homework that homeownership asks for. That's a great foundation. The natural next move is to get specific \u00e2\u20ac\u201d line up your questions, understand your options, and start having real conversations so you can move forward with confidence.",
+      "cta": "Explore our guides on choosing the right mortgage"
+    }
+  ],
+  "disclaimer": "This quiz is for general education and self-reflection only \u00e2\u20ac\u201d it is not financial, lending, or real-estate advice, and it does not assess your eligibility for any loan. Talk to a licensed lender or financial professional before making decisions about buying a home."
+}
