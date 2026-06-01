@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "mortgage-income-documentation"
 affiliate_disclosure: true
+faqs:
+  - q: "How far back does income documentation typically need to go?"
+    a: "Most lenders require two years of income history, which is why they ask for two years of tax returns and W-2s. However, the specific window can vary by loan type and income source. Rental income and self-employment income almost always require two full years. For W-2 employees, some lenders will work with someone who's been in a new job less than a year if they're in the same field and the position is salaried rather than commission-based. The key is consistency and a logical career progression."
+  - q: "Can I use income from a second job on my application?"
+    a: "Yes, but with conditions. Lenders typically want to see that you've held the second job for at least two years and that the income has been consistent. If you just picked up a part-time gig three months ago, most underwriters won't count it. They want evidence that the income is stable and not a temporary bridge."
+  - q: "What if my income varies a lot from month to month?"
+    a: "Variable income gets averaged, usually over 24 months, unless there's a clear declining trend. If your income went from $90,000 two years ago to $60,000 last year, a lender might use an average or, more likely, raise a flag about the decline. A rising trend is viewed more favorably. Declining income signals risk, even if your most recent numbers look fine."
+  - q: "Do lenders verify income with my employer directly?"
+    a: "Yes, most lenders perform a Verification of Employment, often called a VOE, either by contacting your employer directly or through a third-party verification service. Some large employers use automated platforms that lenders can access electronically. This happens during the application process and sometimes again before closing, which is why you shouldn't change jobs mid-application without talking to your loan officer first."
+  - q: "What's the difference between gross income and qualifying income?"
+    a: "Gross income is what you earn before taxes and deductions. Qualifying income is what a lender uses after applying their specific calculation rules. For W-2 employees, these numbers are often close. For self-employed borrowers, qualifying income can be significantly lower than gross revenue because lenders calculate from your net income after write-offs, then add back specific non-cash items. This is one of the most common surprises for self-employed applicants."
 ---
 
 You filled out the application. You answered every question. You uploaded what felt like half your filing cabinet. And then the loan processor came back asking for something else, something you didn't expect, and now you're wondering if this whole process is designed to make you feel like you're doing it wrong. It's not. Mortgage income documentation is genuinely one of the most confusing parts of buying a home, and the confusion is rarely your fault. Lenders are required by law to verify that you can repay what you're borrowing, which sounds simple until you realize that "proving income" looks completely different depending on how you earn it.

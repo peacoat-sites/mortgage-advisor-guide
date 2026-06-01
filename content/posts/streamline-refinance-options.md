@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "streamline-refinance-options"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I get cash out with a streamline refinance?"
+    a: "No. All three major streamline programs are rate-and-term refinances only. If you need to access equity, you'll need a cash-out refinance, which requires full documentation, an appraisal, and standard underwriting. The streamline programs are specifically designed for borrowers whose goal is a lower rate or payment, not equity extraction."
+  - q: "Does a streamline refinance hurt my credit score?"
+    a: "It can create a small, temporary dip. The lender will perform a credit inquiry, and a new loan will lower the average age of your accounts. In my experience, the impact is usually minor and recovers within a few months. A non-credit-qualifying FHA streamline skips the full credit pull, which further limits the effect, but individual results vary."
+  - q: "Can I switch lenders for a streamline refinance?"
+    a: "Yes, for all three programs. You're not required to use your current servicer. In fact, shopping multiple lenders is highly advisable. Lenders have some flexibility in the rates they offer even within streamline programs, and the difference between a competitive and an uncompetitive offer can easily exceed $5,000 over the life of the loan."
+  - q: "What if my home's value has dropped since I bought it?"
+    a: "For FHA, VA, and USDA streamline refinances, the appraisal is generally waived, which means your current home value isn't a factor in qualifying. This is one of the primary advantages of streamline programs for borrowers in flat or declining markets who couldn't qualify for a conventional refinance due to insufficient equity."
+  - q: "How long does a streamline refinance take to close?"
+    a: "Faster than a standard refinance, but not instant. Most streamline refinances close in 20 to 30 days, compared to 45 to 60 days for a full conventional refinance. The reduced documentation requirements remove a major source of delays, but title work, lender capacity, and state recording requirements still take time. Don't let any lender promise you a two-week close without a good explanation for how they'll get there."
 ---
 
 You already have the loan. You've been paying it for years. Your credit score has improved, rates have dropped, or both. The logical next step is a refinance, but the moment you start researching, you hit a wall of paperwork requirements, income verification demands, and appraisal fees that make the whole thing feel like applying for a mortgage all over again. Here's what most coverage doesn't tell you: depending on your loan type, you may qualify for a streamline refinance that skips most of that friction entirely. Not all of it, but most.

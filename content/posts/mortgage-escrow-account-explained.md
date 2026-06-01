@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "mortgage-escrow-account-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "Does escrow cover my HOA fees?"
+    a: "No. Escrow accounts cover property taxes and homeowner's insurance only. Homeowners association fees are your responsibility to pay directly to your HOA. Some borrowers assume escrow handles all housing-related costs, which leads to missed HOA payments and potential liens. Mark your HOA due dates separately and pay them on your own."
+  - q: "What happens to my escrow account if I refinance?"
+    a: "When you refinance, your existing escrow account is typically closed and the remaining balance is refunded to you, usually within 30 days of the loan payoff. Your new loan will open a new escrow account, and you'll fund it at closing. This is one of the hidden costs of refinancing that people forget to factor in: you may need to bring extra cash to closing to fund the new escrow account even though you're about to receive a refund from the old one. The timing gap matters."
+  - q: "Can my servicer change, and will that affect my escrow?"
+    a: "Yes, your loan can be sold or transferred to a new servicer, and this happens fairly often. Your escrow balance and terms are required to transfer with the loan. The new servicer must honor your existing escrow setup. You'll receive notices from both the old and new servicer before the transfer happens. Double-check that your escrow balance transferred correctly by comparing statements before and after."
+  - q: "Why is my escrow payment higher than my neighbor's even though our homes are similar?"
+    a: "Several factors affect escrow amounts: your specific insurance coverage and policy type, the exact assessed value of your property versus theirs, when each property was last reassessed, and whether either of you has any tax exemptions like a homestead exemption. Even two nearly identical houses on the same street can have different tax and insurance profiles. If you think your taxes are too high, you can appeal your property assessment through your county assessor's office."
+  - q: "What is an escrow impound account, and is it different?"
+    a: "These are the same thing. 'Impound account' is simply the term used more commonly in western states like California, while 'escrow account' is the term used in most of the country. Both refer to the same mechanism: a servicer-managed account that collects funds for taxes and insurance as part of your monthly mortgage payment."
 ---
 
 You close on your home, you're handed a stack of papers thicker than a phone book, and somewhere buried in there is a section about an escrow account that your loan officer breezes past in about forty-five seconds. A year later, your mortgage payment jumps by $180 a month and you have no idea why. Nobody warned you this could happen. In my experience, escrow confusion is one of the top reasons borrowers feel blindsided after closing, and it's almost entirely preventable with a little upfront understanding.

@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "reverse-mortgage-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I lose my home with a reverse mortgage?"
+    a: "Yes, you can. Default happens most often not from missing loan payments (there aren't any) but from failing to pay property taxes, failing to maintain homeowner's insurance, letting the home fall into serious disrepair, or vacating the property as your primary residence. Lenders can and do initiate foreclosure proceedings when these obligations aren't met."
+  - q: "What happens to my spouse if I die first?"
+    a: "If your spouse is a co-borrower on the loan and meets the age requirement, they can remain in the home under the existing loan terms. If your spouse is a non-borrowing spouse (either because they're under 62 or weren't included on the loan), they may qualify for a 'deferral period' under HUD rules, but they must meet specific eligibility criteria. This is exactly the kind of detail that deserves a conversation with a HUD-approved housing counselor before you sign anything."
+  - q: "Do I pay taxes on reverse mortgage proceeds?"
+    a: "Generally, no. Reverse mortgage proceeds are considered loan advances, not income, so they're typically not subject to federal income tax. However, receiving a large lump sum can affect your eligibility for need-based programs like Medicaid or Supplemental Security Income. Consult a tax advisor or benefits counselor before you draw proceeds if you're enrolled in or anticipate needing those programs."
+  - q: "What if my home value drops and I owe more than it's worth?"
+    a: "This is where the FHA mortgage insurance earns its premium. HECMs are non-recourse loans, which means you or your estate can never owe more than the home's appraised value at the time of sale. If your loan balance is $300,000 and the home sells for $240,000, FHA makes up the difference to the lender. Your heirs won't be on the hook for the shortfall."
+  - q: "Is a reverse mortgage ever actually a good idea?"
+    a: "I'll be honest here too: yes, sometimes. For a borrower who is house-rich and cash-poor, has no heirs who need to inherit the home, wants to age in place, and fully understands the costs and obligations involved, a reverse mortgage can provide genuine financial relief and stability. The HECM line of credit strategy, in particular, has attracted serious attention from financial planners as a legitimate retirement income tool, not just a product of last resort. The key is that it has to be the right product for the right situation, with eyes fully open."
 ---
 
 Imagine you've paid off most of your mortgage over 30 years, you're 71 years old, and your home is worth $420,000. But your monthly Social Security check barely covers utilities and groceries, and your savings account is looking thin. A neighbor mentions a reverse mortgage and suddenly this product you've vaguely heard of on late-night TV commercials starts sounding like a lifeline. Before you call that 800 number, though, you need to understand what you're actually signing. Because a reverse mortgage is one of the most misunderstood financial products in the American lending landscape, and the gap between what borrowers expect and what actually happens can be enormous.

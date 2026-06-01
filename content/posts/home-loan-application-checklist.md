@@ -10,6 +10,17 @@ author: "David Carver"
 author_bio: "Former mortgage underwriter with 16 years at regional and national lenders. Now explains the mortgage process to home buyers."
 slug: "home-loan-application-checklist"
 affiliate_disclosure: true
+faqs:
+  - q: "How far back do lenders look at bank statements?"
+    a: "Most lenders want two to three months of statements. However, if there's a large or unusual deposit in those statements, the underwriter may ask you to explain it regardless of when it occurred. For self-employed borrowers or those with irregular income, some lenders will request 12 to 24 months of bank statements as the primary income verification method under bank statement loan programs."
+  - q: "Do I need to provide documents for every bank account I own?"
+    a: "Yes. Lenders require disclosure of all assets. Omitting an account isn't just a practical problem, it can raise red flags during underwriting if a deposit source or transfer doesn't match up. List every account and provide statements for all of them."
+  - q: "What if I've had a bankruptcy or foreclosure?"
+    a: "You can still qualify for a mortgage after a bankruptcy or foreclosure, but waiting periods apply. A Chapter 7 bankruptcy typically requires a two to four year waiting period depending on the loan type. A foreclosure is generally three to seven years. You'll need to show re-established credit and document the circumstances surrounding the event. Some lenders will ask for a written explanation letter."
+  - q: "Can I use cryptocurrency or investment account funds for my down payment?"
+    a: "Cryptocurrency is not directly accepted as a source of funds for most conventional or government-backed loans. However, if you liquidate crypto into cash and let it season in a traditional bank account for 60 to 90 days, it becomes traceable as an asset. Investment accounts can typically be used, but lenders may apply a discount (often around 30 percent) to the balance to account for market volatility and early withdrawal penalties."
+  - q: "How long does it take to process a mortgage application once everything is submitted?"
+    a: "With a complete, clean file, underwriting can take five to ten business days. Most loans close within 30 to 45 days of the application date. However, incomplete documentation is the single most common cause of delays. Missing one document or needing a clarification can reset parts of the process. Staying responsive to your loan officer's requests and having your documents organized from day one is the most effective way to hit your target closing date."
 ---
 
 You're sitting across from a loan officer, folder in hand, feeling prepared. Then they ask for your past two years of W-2s, your most recent 30 days of pay stubs, statements for every bank account you own, and proof of any gift funds you're using toward the down payment. You hand over three of the five items and watch their expression shift. That moment, where you're suddenly scrambling through your phone and email looking for documents you didn't know you needed, is exactly what this guide is designed to prevent.

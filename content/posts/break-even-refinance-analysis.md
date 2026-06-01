@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "break-even-refinance-analysis"
 affiliate_disclosure: true
+faqs:
+  - q: "How do I find my current loan's remaining interest quickly?"
+    a: "Pull up an online amortization calculator, enter your original loan amount, original interest rate, original loan term, and your start date. It will show you the remaining interest across every future payment. Alternatively, call your servicer and ask for a payoff quote and a remaining amortization schedule. This is a standard request and they're required to provide it."
+  - q: "Should I include my prepayment penalty in the break-even calculation?"
+    a: "Yes, always. If your current mortgage has a prepayment penalty clause, that fee adds directly to the cost of refinancing. Include it in your total closing cost figure in Step 1. Some older loans and certain loan products still carry these, so check your current note before you assume you're penalty-free."
+  - q: "What if my lender rolls the closing costs into the new loan?"
+    a: "Then your effective closing cost is the present value of those costs plus the interest you'll pay on them over the life of the loan. Rolling in $5,000 at 7% over 30 years costs you significantly more than $5,000. Your monthly savings will also be smaller because your loan balance is higher. The break-even still works the same way mathematically, but the timeline is longer than it appears."
+  - q: "Does my credit score affect the break-even calculation?"
+    a: "Indirectly, yes. Your credit score affects the rate you qualify for, which affects both the closing costs (lenders sometimes charge more for lower scores) and the monthly savings you can achieve. If your score has improved significantly since your original mortgage, refinancing may produce a larger rate improvement than someone whose score has stayed flat. If your score has dropped, you may not qualify for a rate that produces a positive break-even at all."
+  - q: "Is there a faster way to just get a rough number?"
+    a: "There is, with caveats. Take your total closing costs and divide by the monthly payment difference. That gives you a quick estimate in seconds. It's imprecise because it ignores amortization dynamics, but if the number comes out to 84 months and you're planning to stay five years, you don't need more precision to know the answer is no. If the number comes out to 18 months and you're planning to stay ten years, you probably need to go deeper to confirm the deal is as good as it looks. Refinancing can be one of the smartest financial moves you make as a homeowner, or it can be an expensive mista"
 ---
 
 Most people refinance because their loan officer told them the new rate was "great." I've watched borrowers roll $6,000 in closing costs into a loan that lowered their payment by $80 a month, never once asking how long it would take to actually come out ahead. The answer, in that case, was 75 months. Six and a quarter years. And they sold the house in four. They didn't save money. They lost it.

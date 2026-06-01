@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-reverse-mortgage-works"
 affiliate_disclosure: true
+faqs:
+  - q: "Does the bank own my home after I take a reverse mortgage?"
+    a: "No. You retain title to your home throughout the life of the loan, just as you do with a regular mortgage. The lender places a lien on the property, which gives them the right to be repaid when the home is sold or the loan otherwise comes due. You own it; they have a claim against it. The distinction matters legally and practically."
+  - q: "What happens if I outlive the loan or the lender goes out of business?"
+    a: "On a HECM, neither scenario ends your right to stay in the home. The FHA insurance guarantees that your tenure payments or line of credit continues even if you live to 105 or your original lender shuts down and the loan is transferred to a new servicer. This is the primary reason most financial planners prefer HECMs to proprietary reverse mortgages."
+  - q: "Can I lose my home with a reverse mortgage?"
+    a: "Yes, and it happens more than people realize. The most common reason is failure to pay property taxes or homeowner's insurance. Neglecting basic maintenance to the point where the property condition violates loan terms is another. Leaving the home for an extended period, such as a long nursing home stay, can also trigger a due-and-payable notice. The loan documents spell these out clearly. Read them."
+  - q: "Will a reverse mortgage affect my Medicare or Social Security?"
+    a: "Generally, no. Reverse mortgage proceeds are loan disbursements, not income, so they don't count toward Social Security's earnings limits or trigger Medicare surcharges. However, if you accumulate disbursements in a bank account and that balance pushes you over the asset limits for Medicaid or Supplemental Security Income (SSI), that's a different story. If you receive means-tested benefits, speak with a benefits counselor before taking a lump sum."
+  - q: "Should I take the lump sum or the line of credit?"
+    a: "For most borrowers who don't have an immediate large expense, the line of credit is the more flexible and often more financially advantageous option over time. The growth feature on the unused portion is genuinely useful. The lump sum locks you into a fixed rate and starts compounding immediately on the full amount. The right answer depends on your specific situation, but I've rarely seen a financial planner make a compelling case for the lump sum unless there's a specific, pressing need driving it."
 ---
 
 You're 72, your house is paid off, and your monthly Social Security check covers groceries but not much else. Your financial advisor mentions a reverse mortgage. Your son-in-law says it's a scam. Your neighbor says it saved her retirement. Nobody explains exactly how the money moves, who owns what, or what the fine print actually says. That's the problem with most reverse mortgage coverage: it either cheerleads the product or dismisses it, and neither serves the person trying to make an actual decision.

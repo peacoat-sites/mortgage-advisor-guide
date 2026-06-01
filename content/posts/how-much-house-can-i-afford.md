@@ -10,6 +10,17 @@ author: "Tom Whitfield"
 author_bio: "Mortgage broker turned consumer advocate. Helps borrowers compare loan products and avoid costly mistakes."
 slug: "how-much-house-can-i-afford"
 affiliate_disclosure: true
+faqs:
+  - q: "Is the 28/36 rule still relevant?"
+    a: "The 28/36 rule is a guideline suggesting you spend no more than 28% of gross income on housing and no more than 36% on total debt. It's dated but still directionally useful as a sanity check. Modern lending programs allow higher ratios, which means qualifying for a loan has gotten easier, not that the underlying math of affordability has changed. If your housing costs are pushing past 28% of gross, scrutinize the rest of your budget hard before signing anything."
+  - q: "How much should I have saved before buying a home?"
+    a: "At minimum: enough to cover your down payment, closing costs (typically 2% to 5% of the purchase price), and a post-closing reserve of three to six months of living expenses. Closing costs catch a lot of first-time buyers off guard. A $350,000 purchase can easily come with $7,000 to $17,500 in closing costs on top of the down payment. Plan for that number explicitly."
+  - q: "Does my student loan debt hurt my ability to afford a home?"
+    a: "Yes, in two ways. Student loan payments count against your back-end DTI, which reduces the loan amount you can qualify for. And if student loan payments are consuming a significant portion of your take-home pay, your real-world affordability is constrained regardless of what the DTI calculation shows. Income-driven repayment plans complicate this further, as lenders calculate your DTI using a specific formula for IBR payments that may differ from your actual payment."
+  - q: "Should I buy at the top of my budget or leave room?"
+    a: "Leave room. Your income might fluctuate, your expenses will grow, and something in that house will break. The buyers who feel most comfortable over a five to ten year horizon are almost never the ones who maxed out their pre-approval. Buying 15% to 20% below your maximum qualification gives you breathing room for raises, additional savings, and surprises. Homes should build wealth. They shouldn't create chronic financial stress."
+  - q: "Can I use bonuses or side income to qualify for a larger loan?"
+    a: "Lenders can use bonus or self-employment income if it's documented and consistent over a two-year history. A single large bonus won't typically count. Variable income that's been consistent and appears on two years of tax returns can be averaged and included. Just be careful about qualifying based on income you aren't certain will continue. Lenders verify history. They can't verify the future. Only you know whether that bonus is truly reliable or whether it was a one-time event."
 ---
 
 Most buyers walk into a lender's office knowing exactly one number: the pre-approval amount. They take it as gospel. I've watched clients get pre-approved for $550,000 and immediately start touring homes at that ceiling, only to realize three months later that the monthly payment was quietly eating their financial life. A pre-approval tells you what a lender is willing to risk. It tells you almost nothing about what you can actually afford.

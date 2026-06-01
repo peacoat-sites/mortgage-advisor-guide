@@ -10,6 +10,17 @@ author: "David Carver"
 author_bio: "Former mortgage underwriter with 16 years at regional and national lenders. Now explains the mortgage process to home buyers."
 slug: "how-to-get-pre-qualified-for-mortgage"
 affiliate_disclosure: true
+faqs:
+  - q: "Does getting pre-qualified hurt my credit score?"
+    a: "Usually not. Most lenders perform a soft credit inquiry at the pre-qualification stage, which doesn't affect your score. A hard inquiry, the kind that does have a small impact, typically happens during pre-approval. Always ask which type of pull a lender will run before giving them your Social Security number."
+  - q: "How long does a pre-qualification letter stay valid?"
+    a: "Most pre-qualification letters are valid for 60 to 90 days. After that, the lender may want to re-run the process, particularly if interest rates have shifted or your financial situation has changed. Don't get pre-qualified months before you're ready to actively shop."
+  - q: "Can I get pre-qualified if I'm self-employed?"
+    a: "Yes, but expect more questions and a more involved conversation. Lenders will typically want to know how long you've been self-employed and what your net income has looked like over the past two years. At the pre-qual stage it's still just a conversation, but self-employed borrowers often face more scrutiny later in the underwriting process, so setting realistic expectations early matters."
+  - q: "What's the minimum credit score needed to get pre-qualified?"
+    a: "It varies by lender and loan type. Conventional loans generally require a 620 minimum, though you'll get better pricing with a 740 or above. FHA loans allow scores down to 580 with a 3.5 percent down payment, and some lenders will go as low as 500 with a larger down payment. Pre-qualification is still worth attempting even if your score needs work, because it tells you exactly how far you have to go."
+  - q: "Should I get pre-qualified before finding a real estate agent?"
+    a: "It's a smart order of operations. Knowing your approximate price range helps your agent understand what to show you and signals to them that you're a serious buyer. Some buyer's agents won't invest serious time with clients who haven't at least started the lending conversation. Getting pre-qualified first, even informally, shows you've done your homework."
 ---
 
 You found the house. The listing went live at 8 a.m., and by noon your agent is texting you that three offers are already on the table. You call your agent back to ask what to do, and she says the same thing every agent says: "Do you have a pre-qual letter?" If you don't have one, you're essentially showing up to a job interview without a resume. Pre-qualification is often the first real step in buying a home, and yet most buyers treat it as an afterthought, something to grab quickly after they've already fallen in love with a property. That backward approach costs people houses every single year.

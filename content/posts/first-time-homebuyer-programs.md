@@ -10,6 +10,17 @@ author: "Tom Whitfield"
 author_bio: "Mortgage broker turned consumer advocate. Helps borrowers compare loan products and avoid costly mistakes."
 slug: "first-time-homebuyer-programs"
 affiliate_disclosure: true
+faqs:
+  - q: "Do first-time homebuyer programs require perfect credit?"
+    a: "No. Many programs, particularly FHA-backed options and state housing agency products, are specifically designed for buyers with imperfect credit. That said, most require a minimum score between 580 and 640 depending on the loan type and the specific program. Scores below 620 will narrow your options considerably and may require a longer credit-rebuilding period before you're a competitive applicant."
+  - q: "Can I use down payment assistance with a conventional loan?"
+    a: "Yes, in many cases. Programs like HomeReady and Home Possible are conventional products that can be layered with eligible down payment assistance. Whether a specific DPA source is compatible with a specific first mortgage depends on both the program rules and the lender. A lender experienced with your state's HFA programs will be able to tell you what combinations are permissible."
+  - q: "What income limits apply to most first-time buyer programs?"
+    a: "It varies by program and location, but most set eligibility at 80% to 120% of the Area Median Income for your county or metro area. A household earning $90,000 might qualify easily in one market and be over the limit in another. Check the specific program guidelines for your area and don't assume you earn too much without verifying."
+  - q: "How long does it take to close when using a state or local program?"
+    a: "Longer than a standard purchase, generally. The additional approval layers required by state agencies and DPA providers typically add one to three weeks to the process. In competitive markets where sellers want quick closings, this can put buyers using assistance at a disadvantage. Talk to your lender early about realistic timelines, and review the mortgage approval timeline guide to understand where delays typically occur."
+  - q: "Can I combine a first-time buyer program with seller concessions?"
+    a: "Sometimes. It depends on the loan type and how the program structures the assistance. FHA and conventional loans have limits on how much sellers can contribute toward closing costs based on your down payment percentage. Stacking seller concessions on top of DPA requires careful coordination to stay within those limits and avoid issues at the closing table. Your lender needs to map this out before you make an offer."
 ---
 
 You saved up for three years, kept your credit clean, and finally feel ready to buy a home. Then you sit down with a loan officer who rattles off a list of programs you've never heard of, hands you a stack of pamphlets, and sends you home more confused than when you walked in. That scene plays out every single day, and it costs buyers real money. First-time homebuyer programs are among the most underused tools in residential lending. Some offer thousands of dollars in down payment assistance. Others knock a meaningful amount off your interest rate. But you have to know what exists, what you actually qualify for, and what strings come attached before you can use them wisely.

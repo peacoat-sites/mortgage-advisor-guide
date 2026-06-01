@@ -10,6 +10,17 @@ author: "Tom Whitfield"
 author_bio: "Mortgage broker turned consumer advocate. Helps borrowers compare loan products and avoid costly mistakes."
 slug: "pmi-explained-mortgage"
 affiliate_disclosure: true
+faqs:
+  - q: "Is PMI tax deductible?"
+    a: "It has been at various points, depending on Congressional action, but the deduction has not been permanently established in the tax code and its availability has changed year to year. Don't plan your finances around this deduction being available. Talk to a tax professional about your specific situation."
+  - q: "Does PMI ever go away on an FHA loan?"
+    a: "Not always. For FHA loans originated after June 2013 with less than 10% down, mortgage insurance premium (MIP) lasts for the life of the loan. If you put down 10% or more on an FHA loan, MIP cancels at 11 years. This is one of the most important distinctions between FHA and conventional loans and it's frequently misunderstood."
+  - q: "Can I negotiate a lower PMI rate?"
+    a: "Not directly with the PMI provider. But because different lenders use different PMI companies, shopping multiple lenders is effectively how you find a better rate. You can also work to improve your credit score before applying, since that's one of the main drivers of your PMI rate."
+  - q: "What happens to PMI if I refinance?"
+    a: "When you refinance, the original loan is paid off and a new loan is originated. If your new loan is at 80% LTV or below, you won't have PMI. If you refinance into another loan above 80% LTV, you'll have PMI again on the new loan, potentially at a different rate."
+  - q: "How do I formally request PMI cancellation?"
+    a: "Send a written request to your loan servicer (the company you send your payment to, which may not be your original lender). Include your loan number, a statement that you're requesting cancellation under the Homeowners Protection Act, and evidence that your balance has reached the 80% threshold. Keep a copy. Follow up in writing if you don't receive confirmation within 30 days. PMI is a cost of entry for many buyers, and there's nothing inherently wrong with using it to purchase a home before you've saved 20%. What is wrong is paying it longer than you have to, or paying it without understandi"
 ---
 
 You're sitting at the closing table, flipping through a stack of documents, and you spot a line item you don't recognize: "PMI premium, $187/month." Nobody mentioned this during your pre-approval call. Your loan officer brushes past it like it's nothing. But over the next seven years? That's more than $15,000 leaving your pocket for a product that protects the lender, not you. That's the reality of private mortgage insurance, and it catches buyers off guard every single day.

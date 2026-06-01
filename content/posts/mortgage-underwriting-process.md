@@ -10,6 +10,17 @@ author: "David Carver"
 author_bio: "Former mortgage underwriter with 16 years at regional and national lenders. Now explains the mortgage process to home buyers."
 slug: "mortgage-underwriting-process"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does mortgage underwriting typically take?"
+    a: "For a straightforward file, underwriting can be completed in as few as two to three business days. Realistically, most borrowers experience seven to fourteen business days from file submission to Clear to Close, assuming conditions are returned promptly. Complex files, high lender volume, appraisal delays, or slow document returns can push that timeline to three to four weeks or beyond."
+  - q: "What does it mean if my loan is 'in suspense' or 'suspended'?"
+    a: "A suspended status means the underwriter has reviewed the file and determined it cannot move forward without additional information. It is not a denial. It typically means required documentation is missing, an appraisal hasn't been received, or there's a discrepancy that needs resolution. Your loan officer should give you a specific list of what's needed."
+  - q: "Can I talk directly to the underwriter?"
+    a: "Usually not. Underwriters at most lenders don't communicate directly with borrowers. Your loan officer is the conduit. This frustrates a lot of borrowers, but it's a liability management practice. If you feel your loan officer isn't communicating clearly, escalate to their manager."
+  - q: "Does the type of loan I'm applying for affect how underwriting works?"
+    a: "Yes, significantly. Conventional loans follow Fannie Mae or Freddie Mac guidelines, which tend to be stricter on credit and DTI but don't require mortgage insurance with a 20% down payment. FHA loans have their own set of guidelines with more flexibility on credit but require mortgage insurance premiums regardless of down payment. You can compare these paths by reading about FHA loan requirements and benefits alongside conventional loan requirements."
+  - q: "What happens after I get a Clear to Close?"
+    a: "The lender prepares your Closing Disclosure (CD), which must be delivered to you at least three business days before closing. Review every number on it carefully. Compare it against your Loan Estimate from earlier in the process. After the three-day waiting period, you proceed to closing, where you sign final documents, pay closing costs, and receive keys if it's a purchase. The loan funds, and you're officially a homeowner or refinancer."
 ---
 
 You submitted your mortgage application on a Tuesday. By Thursday, you still haven't heard anything. By the following Monday, you're refreshing your email every 20 minutes, wondering if silence means something is wrong. The truth is, nothing may be wrong at all. You're just in underwriting, which is the part of the mortgage process that most borrowers know the least about and worry about the most.

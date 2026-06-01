@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "mortgage-loan-modification-options"
 affiliate_disclosure: true
+faqs:
+  - q: "Will applying for a loan modification hurt my credit score?"
+    a: "The modification itself is typically reported to credit bureaus as 'modified,' which does have a negative mark. But here's the more honest answer: if you're already delinquent by the time you apply, the delinquencies themselves have likely already damaged your credit significantly. The modification is usually far less harmful than the alternative. Staying in ongoing default while avoiding modification does far more credit damage over time."
+  - q: "Can I be denied a loan modification and still stop foreclosure?"
+    a: "Yes. If you're denied a modification, you should immediately ask your servicer for the reason in writing and whether you qualify for other loss mitigation options like a repayment plan or short sale. You can also appeal a denial within a specified time window under CFPB rules. Don't assume one denial is the end of the road."
+  - q: "How long does the modification process take?"
+    a: "Plan for 30 to 90 days from a complete application submission to a decision, though some cases run longer. Government-backed loan programs have more defined timelines. Portfolio lenders can vary widely. During this time, keep paying what you can, keep documenting, and stay in contact with your servicer."
+  - q: "Do I need a lawyer or can I do this myself?"
+    a: "You don't legally need one, and many borrowers successfully navigate modifications on their own or with a HUD-approved counselor. An attorney makes sense if you're also navigating foreclosure proceedings simultaneously, if you believe your servicer is violating federal servicing rules, or if your loan situation is unusually complex. Free legal aid may also be available through your state's bar association if affordability is a concern."
+  - q: "What happens if I can't sustain even the modified payment?"
+    a: "It depends on whether you had a trial modification made permanent or not. If the modification was permanent and you default again, the servicer may pursue foreclosure, and re-modification is possible but not guaranteed. Some investor guidelines allow only one modification in the life of a loan. This is why it's critical to be realistic about what payment you can truly sustain before agreeing to a modification offer. Accepting a payment that's still too high just delays the problem."
 ---
 
 You got the letter on a Tuesday. Maybe it was a job loss, a medical crisis, a divorce that split the household income in half. Whatever brought you here, you're now staring at a mortgage payment you can't make, and you're terrified about what happens next. I've sat across from borrowers in exactly that position more times than I can count. The fear is real. But what most people don't realize is that lenders have far more tools to help you than they ever voluntarily advertise. Loan modification isn't a last-ditch desperation move. It's a formal process with rules, timelines, and real outcomes, and understanding it before you call your servicer can make the difference between keeping your home and losing it.

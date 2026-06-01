@@ -10,6 +10,17 @@ author: "David Carver"
 author_bio: "Former mortgage underwriter with 16 years at regional and national lenders. Now explains the mortgage process to home buyers."
 slug: "va-loan-benefits-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I use my VA loan benefit more than once?"
+    a: "Yes. The VA loan benefit isn't a one-time use. You can use it multiple times, though your available entitlement may be partially used if you still have an outstanding VA loan. In many cases, borrowers with full remaining entitlement can purchase again with no down payment regardless of loan size, thanks to the 2020 Blue Water Navy Act which removed previous VA loan limits for borrowers with full entitlement."
+  - q: "Does the VA loan have loan limits?"
+    a: "For borrowers with full VA entitlement, there are no VA-imposed loan limits. However, lenders may impose their own caps, and jumbo VA loans do exist for larger purchase prices. Borrowers with reduced entitlement (because they have an existing VA loan) may face effective limits tied to conforming loan limits in their county."
+  - q: "Can I use a VA loan to buy a multi-family property?"
+    a: "Yes, with conditions. You can purchase a property with up to four units using a VA loan, as long as you intend to occupy one of the units as your primary residence. This is a legitimate house-hacking strategy that lets veterans generate rental income while living in one unit."
+  - q: "Can I use a VA loan on a condo?"
+    a: "Yes, but the condo project must be on the VA's approved condo list, or must go through VA approval. Not all condo developments qualify. Check the VA's condo approval database before writing an offer on a condo."
+  - q: "What if I've had a bankruptcy or foreclosure?"
+    a: "A prior bankruptcy or foreclosure doesn't permanently disqualify you. VA guidelines typically require a two-year waiting period after a Chapter 7 discharge or foreclosure. Chapter 13 may allow a shorter window with documented on-time payments and trustee approval. Your lender's overlays may be stricter than VA minimums, so shop around if one lender declines you."
 ---
 
 You served four years in the Army, separated honorably, and now you're sitting across from a loan officer who just told you to put 10% down on a $380,000 home. That's $38,000 out of pocket before closing costs, before moving expenses, before anything. What he didn't tell you is that you likely qualify for a loan that requires zero down, charges no private mortgage insurance, and carries one of the most competitive interest rates available to any borrower anywhere. That loan is the VA home loan, and after 16 years of reviewing mortgage files, I'm still amazed at how many eligible borrowers either don't know it exists or don't understand what it actually offers.

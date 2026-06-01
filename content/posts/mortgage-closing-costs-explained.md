@@ -11,6 +11,17 @@ author: "David Carver"
 author_bio: "Former mortgage underwriter with 16 years at regional and national lenders. Now explains the mortgage process to home buyers."
 slug: "mortgage-closing-costs-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "Can closing costs be rolled into the loan?"
+    a: "Sometimes, but not always. FHA loans allow certain costs to be financed into the loan amount if the property appraises high enough. Conventional loans generally don't allow closing costs to be financed directly, though a lender credit can achieve a similar effect. Rolling costs into the loan means you'll pay interest on them over the life of the loan, which increases the total cost. It's a trade-off, not a freebie."
+  - q: "Are closing costs tax deductible?"
+    a: "Some are, some aren't, and the rules are specific. Mortgage interest and property taxes paid at closing may be deductible if you itemize. Loan origination fees (points) are sometimes deductible in the year paid if they meet IRS criteria, or must be amortized over the loan term. Title insurance, appraisal fees, and most other closing costs are generally not deductible. Consult a tax professional for guidance on your specific situation."
+  - q: "How much should I have in cash reserves beyond closing costs?"
+    a: "Most lenders look for two to six months of mortgage payments in reserves after closing, depending on the loan type and your financial profile. Beyond what lenders require, having three months of total housing costs available after you close is a reasonable personal goal. Unexpected repairs happen fast, especially in the first year of ownership."
+  - q: "What is a cash to close, and is it different from closing costs?"
+    a: "Yes, they're different. Cash to close is the total amount you need to bring to closing, and it includes your down payment plus closing costs minus any credits (like a seller concession or earnest money already paid). Closing costs are just one component of that total number. Always ask for the cash to close figure early so you're planning against the right target."
+  - q: "If I refinance, do I pay closing costs again?"
+    a: "Yes. Refinancing involves an entirely new loan, which means a new appraisal, new title work, new origination fees, and new prepaids. Refinance closing costs typically run 2% to 5% of the new loan amount, similar to a purchase. The break-even calculation is essential: divide your closing costs by your monthly savings to find out how many months it takes to recoup the expense. If you're not planning to stay long enough to hit that break-even point, a refinance may cost you money even at a lower rate."
 ---
 
 You've found the house. You've locked your rate. You've started packing boxes. Then the Closing Disclosure lands in your inbox and you see a number you weren't ready for: $9,400 in closing costs on top of your down payment. Nobody warned you it would be this much. I've watched this exact moment knock buyers sideways for sixteen years, and it's almost always preventable with a little preparation.

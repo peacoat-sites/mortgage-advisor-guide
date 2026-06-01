@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "mortgage-forbearance-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "Does forbearance mean my missed payments are forgiven?"
+    a: "No. Forbearance is a pause on the requirement to pay, not a cancellation of what you owe. Every dollar of paused principal and interest is still owed. In most cases, interest continues to accrue on your outstanding balance during the forbearance period as well. When forbearance ends, you'll work out a repayment arrangement with your servicer."
+  - q: "Can I sell my home while in forbearance?"
+    a: "Yes, you can sell your home while in forbearance. When the sale closes, the proceeds will pay off your full loan balance, which includes any missed payments and accrued interest. If you're considering selling anyway, forbearance can actually give you a useful buffer of time to list and close without foreclosure pressure."
+  - q: "Will forbearance affect my ability to get a new mortgage later?"
+    a: "It can. Most loan programs require a waiting period after a forbearance before you can qualify for a new mortgage. For conventional loans, many lenders want to see that you've exited forbearance and made a certain number of on-time payments, often three to twelve, before they'll qualify you for a new purchase or refinance. The specific requirements vary by loan type and lender. If you're planning to refinance or buy again in the near future, ask a mortgage professional about the specific seasoning requirements."
+  - q: "What if my forbearance period ends and I still can't afford my payments?"
+    a: "Contact your servicer before the forbearance period ends, not after. In many cases, extensions are available, or you may be able to transition to a loan modification or another loss mitigation option. The worst thing you can do is let the forbearance expire without communicating your situation. Once it expires without a follow-up plan, you're delinquent again."
+  - q: "Can a servicer refuse to grant forbearance?"
+    a: "For federally backed loans (FHA, VA, USDA, Fannie Mae, Freddie Mac), servicers are generally required to offer forbearance to borrowers who document a qualifying hardship. For conventional loans not backed by a federal agency, servicers have more discretion, though most have their own hardship programs. If you feel your servicer isn't offering options you may be entitled to, a HUD-approved housing counselor can help you understand your rights and escalate if necessary."
 ---
 
 You missed a mortgage payment last week. Maybe it was one payment, maybe it's been two. Your phone has started doing that thing where you recognize the number but you let it go to voicemail anyway. You're not irresponsible. Something happened, a job loss, a medical crisis, a divorce, a natural disaster, and the mortgage is the bill that feels biggest and most terrifying right now. If that's where you are, I want you to read this carefully, because the options available to you right now are better than you probably think, and the worst thing you can do is stay silent.

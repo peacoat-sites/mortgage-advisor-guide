@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "home-equity-loan-rates"
 affiliate_disclosure: true
+faqs:
+  - q: "How is a home equity loan rate different from a mortgage rate?"
+    a: "Your primary mortgage rate is typically lower because lenders view first-lien loans as less risky. If you default, the first mortgage gets paid before the second. A home equity loan sits in second position, so lenders charge more for that added risk. The premium varies but is commonly 0.5% to 2% above comparable first mortgage rates depending on market conditions and borrower profile."
+  - q: "Can I negotiate a home equity loan rate?"
+    a: "Yes, more than most people realize. Competing offers are your best leverage. If you bring a Loan Estimate from one lender to another, you create a concrete reference point. Lenders with existing relationships, like your current bank or a credit union you belong to, sometimes have more pricing flexibility than their published rates suggest. Autopay discounts and relationship discounts are often available but rarely volunteered without asking."
+  - q: "Does my home equity loan rate change after closing?"
+    a: "No. That's the core feature of a fixed-rate home equity loan. Your rate and payment are set at closing and don't change for the life of the loan. This distinguishes it from a HELOC, where the rate floats. Confirm your loan is fixed rate in the Loan Estimate and closing documents before signing."
+  - q: "What credit score do I need to qualify for a competitive rate?"
+    a: "Most lenders require a minimum score of 620 to 640 to approve a home equity loan, but you won't see competitive pricing until you're at 700 or above. The best rates typically go to borrowers at 760 or higher, with strong equity and low CLTV. If your score is below 700, it may be worth spending a few months improving it before applying. The rate difference on a five-figure loan over 10 years can be substantial."
+  - q: "Are home equity loan interest payments tax-deductible?"
+    a: "Sometimes, but not always. Under current tax law, interest on a home equity loan is deductible only if the loan proceeds are used to buy, build, or substantially improve the home securing the loan. Using the money for debt consolidation, a car, or college tuition doesn't qualify. Tax law changes, and your individual situation affects the calculation. Confirm the deductibility with a tax professional before factoring it into your decision."
 ---
 
 You've got $80,000 in home equity and a kitchen that looks like it hasn't been updated since the Clinton administration. A home equity loan sounds like the obvious move. But here's what most articles on this topic skip: the rate you see advertised and the rate you'll actually get can be worlds apart, and the gap between them can cost you thousands over the life of the loan. Before you call a lender, you need to understand what drives home equity loan rates, what makes them different from other borrowing options, and exactly what to watch for in the fine print.

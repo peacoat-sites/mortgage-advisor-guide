@@ -10,6 +10,17 @@ author: "Susan Park"
 author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "mortgage-rates-today-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "How often do mortgage rates change?"
+    a: "Rates can and do change every business day, and sometimes multiple times within a single day in volatile markets. Lenders reprice based on movements in the bond market, particularly the 10-year Treasury yield and MBS pricing. The rate you see Monday morning may not be the rate available Friday afternoon."
+  - q: "Does the Federal Reserve set mortgage rates?"
+    a: "No. The Fed sets the federal funds rate, which is an overnight lending rate between banks. It influences mortgage rates indirectly through its effect on inflation expectations and bond markets, but it doesn't control mortgage rates directly. A Fed rate cut doesn't automatically mean mortgage rates drop."
+  - q: "Will rates go down if I wait?"
+    a: "Nobody can reliably predict where rates will go, and anyone who tells you otherwise is guessing. Rate forecasts from major institutions are frequently wrong. The better question is whether the home makes financial sense at today's rate and today's price. Waiting for a lower rate while home prices rise can offset any savings entirely."
+  - q: "Can I negotiate my mortgage rate?"
+    a: "Yes, within limits. Lenders have some flexibility, especially if you bring a competing Loan Estimate from another lender. Discount points let you buy the rate down further. Your credit score, down payment size, and loan type all affect what's negotiable. Shopping multiple lenders is the most effective 'negotiation' most borrowers can do."
+  - q: "What's the difference between a rate lock and a float-down option?"
+    a: "A rate lock secures your interest rate for a specific period while your loan is processed. A float-down option, which some lenders offer for an additional fee, allows you to capture a lower rate if market rates drop during your lock period. Float-down provisions come with conditions, usually a minimum rate drop threshold and specific timing requirements, so read the terms carefully before paying for one."
 ---
 
 You checked the rate on your lender's website Monday morning. By Wednesday afternoon, it had moved. Not by much, maybe a quarter of a point, but enough to change your monthly payment by $80 and your total interest cost by nearly $30,000 over the life of a 30-year loan. That's not a rounding error. That's a car payment. Mortgage rates aren't static numbers sitting on a sign at a dealership. They move every single business day, sometimes multiple times a day, and most borrowers have no idea why.

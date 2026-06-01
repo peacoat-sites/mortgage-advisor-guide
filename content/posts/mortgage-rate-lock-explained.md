@@ -10,6 +10,17 @@ author: "Susan Park"
 author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "mortgage-rate-lock-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I switch lenders after I've locked my rate?"
+    a: "Yes, but understand what you're giving up. A rate lock is specific to one lender. If you walk away and go to a new lender, that lock is gone. You'll re-start the process, get a new rate (which could be higher or lower), and potentially delay your closing. If you're switching because you found meaningfully better terms, run the numbers carefully, including the time cost and any fees. Switching lenders seven days before closing is almost never worth it."
+  - q: "What happens if my closing is delayed by the seller, not me?"
+    a: "This comes up more than you'd think. The lock expiration doesn't care whose fault the delay is. If the seller's title issues push your closing two weeks past your lock date, you're still on the hook for extension fees unless your purchase contract specifically assigns that cost to the seller. Talk to your real estate attorney about who bears extension risk before you sign the purchase agreement."
+  - q: "Does locking my rate mean my closing costs are also locked?"
+    a: "No. The rate lock protects your interest rate and, in most cases, your points. Closing costs like title fees, appraisal fees, recording fees, and lender origination charges are covered by the Loan Estimate disclosure rules under TRID regulations, not by the rate lock itself. For a deeper look at what those costs actually include, the guide to mortgage closing costs covers every line item."
+  - q: "Is a rate lock a guarantee that I'll get the loan?"
+    a: "No, and this is a critical distinction. A rate lock means the lender will honor that rate if the loan closes and meets all the conditions of the approval. It does not mean the loan is approved or that it will close. If underwriting finds a problem, the lender can still decline the loan even with a locked rate. The lock is a pricing commitment, not an approval commitment."
+  - q: "Do rate locks work differently for new construction loans?"
+    a: "Yes, significantly. New construction timelines are notoriously unpredictable. Many builders have preferred lenders who offer extended lock programs, sometimes 90 days to a year, built specifically for their construction timelines. These extended locks typically cost more, and some programs require you to re-lock or pay a fee if construction runs long. Always read the lock agreement in full on a new construction deal. The terms are almost always more complicated than a standard purchase lock."
 ---
 
 You find your dream home, negotiate a great price, and lock in a 6.875% rate on a Tuesday. By Friday, rates jump to 7.25%. You just saved yourself roughly $180 a month on a $400,000 loan. That's not luck. That's a rate lock working exactly as it should. But I've also watched the opposite play out: borrowers who locked too early, paid extension fees they didn't budget for, and in a few cases, lost their locks entirely because they didn't understand the expiration rules. A rate lock is one of the most powerful tools in a mortgage transaction, and it's one of the least explained.

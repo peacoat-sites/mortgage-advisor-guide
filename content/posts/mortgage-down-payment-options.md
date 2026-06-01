@@ -10,6 +10,17 @@ author: "Susan Park"
 author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "mortgage-down-payment-options"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I use gift money for a down payment?"
+    a: "Yes, with conditions. Most loan programs allow gift funds from family members, and some allow gifts from employers or nonprofits. You'll need a gift letter from the donor stating the money is a gift, not a loan, and the lender will trace the funds through bank statements. On conventional loans, the rules around how much of the down payment can come from gifts depend on your loan-to-value ratio. On FHA loans, the entire down payment can be a gift as long as it's properly documented."
+  - q: "Does a bigger down payment always mean a better financial decision?"
+    a: "Not automatically. It depends on your opportunity cost, your market, and your cash flow needs. Putting 20% down to avoid PMI makes less sense if it means draining your emergency fund or passing up a tax-advantaged retirement contribution. Run the actual numbers for your situation, not just the general principle."
+  - q: "What is a 'piggyback loan' and is it a good idea?"
+    a: "A piggyback loan is a second mortgage taken out simultaneously with your first mortgage to avoid PMI. The most common structure is an 80/10/10: 80% on the first mortgage, 10% on a second mortgage (usually a home equity line of credit), and 10% as your cash down payment. This can make sense in specific scenarios, but the second mortgage carries its own interest rate, which is typically higher than the first, and it adds complexity to your loan structure. It's not a free lunch."
+  - q: "How do lenders verify where my down payment comes from?"
+    a: "They look at two to three months of bank statements and trace large deposits. This is called 'sourcing and seasoning.' If money appeared in your account recently from an unclear source, the lender will ask questions. Cash sitting under the mattress that you deposit right before applying is a problem. Money that's been in your account for at least 60 days is generally considered 'seasoned' and requires less documentation."
+  - q: "Can I put down more than 20% if I want to?"
+    a: "Absolutely, and some buyers choose to, especially if they want lower monthly payments, plan to stay long-term, or are buying in a high-cost market where the loan amount would otherwise be enormous. There's no cap on how much you can put down. Just make sure it doesn't compromise your liquid reserves or your other financial goals."
 ---
 
 Most people believe you need 20% down to buy a house. That single myth keeps more qualified buyers on the sidelines than almost anything else. I've sat across from borrowers with solid income, clean credit, and real savings who had talked themselves out of homeownership because they were chasing a number they didn't actually need. The reality is that today's mortgage market offers down payment options ranging from zero to 20% and beyond, each with its own set of tradeoffs, costs, and qualifying requirements. Understanding those differences isn't just useful. It's the difference between buying a home this year and waiting three more years for a savings target you may not need.
