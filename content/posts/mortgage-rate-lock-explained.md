@@ -3,7 +3,7 @@ title: "Mortgage Rate Lock Explained"
 date: 2026-05-22T09:58:52.140800+00:00
 draft: false
 description: "Lock in your mortgage rate and protect yourself from rate increases. Learn how rate locks work, their benefits, costs, and what to consider before locking."
-image: "https://images.pexels.com/photos/1560932/pexels-photo-1560932.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+image: "https://images.pexels.com/photos/8293714/pexels-photo-8293714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Rates"]
 tags: ["mortgage", "rate", "lock", "explained"]
 author: "Susan Park"

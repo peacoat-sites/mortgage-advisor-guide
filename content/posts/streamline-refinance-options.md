@@ -3,7 +3,7 @@ title: "Streamline Refinance Options"
 date: 2026-05-19T22:27:57.877009+00:00
 draft: false
 description: "Explore streamline refinance options to lower your mortgage rate with minimal paperwork. Learn eligibility requirements, benefits, and how to qualify for faster"
-image: "https://images.pexels.com/photos/12955837/pexels-photo-12955837.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8292895/pexels-photo-8292895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Refinancing"]
 tags: ["streamline", "refinance", "options"]
 author: "Claire Novak"
