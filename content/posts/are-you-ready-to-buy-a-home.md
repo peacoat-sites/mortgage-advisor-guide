@@ -16,3 +16,13 @@ This quick quiz walks you through seven honest questions about your timing, your
 However you scored, remember this is a self-reflection tool to help you think clearly, not a verdict. Readiness can shift quickly once you have a plan and the right people in your corner. Browse our beginner home-buying guides for your next step, and when you're ready to talk real numbers, loop in a licensed lender who can look at your full picture.
 
 ---
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+
