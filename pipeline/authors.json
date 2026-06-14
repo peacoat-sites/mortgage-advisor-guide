@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "jennifer-walsh",
+    "name": "Jennifer Walsh",
+    "title": "Mortgage Writer",
+    "specialty": "Home Loans & Mortgage Process",
+    "bio": "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+  },
+  {
+    "slug": "ethan-chen",
+    "name": "Ethan Chen",
+    "title": "Real Estate Researcher",
+    "specialty": "Home Buying Process & Market Analysis",
+    "bio": "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+  },
+  {
+    "slug": "maria-santos",
+    "name": "Maria Santos",
+    "title": "First-Time Buyer Coach",
+    "specialty": "First-Time Homebuyer Guidance & Programs",
+    "bio": "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+  },
+  {
+    "slug": "robert-kim",
+    "name": "Robert Kim",
+    "title": "Refinancing Expert",
+    "specialty": "Mortgage Refinancing & Rate Strategy",
+    "bio": "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+  },
+  {
+    "slug": "susan-taylor",
+    "name": "Susan Taylor",
+    "title": "Credit Writer",
+    "specialty": "Credit Scores & Mortgage Qualification",
+    "bio": "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+  }
+]
