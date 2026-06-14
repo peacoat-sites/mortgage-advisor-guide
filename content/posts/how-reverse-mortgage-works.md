@@ -6,8 +6,6 @@ description: "Discover how a reverse mortgage works, who qualifies, and how it c
 image: "https://images.pexels.com/photos/31424880/pexels-photo-31424880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["reverse", "mortgage", "works"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-reverse-mortgage-works"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally, no. Reverse mortgage proceeds are loan disbursements, not income, so they don't count toward Social Security's earnings limits or trigger Medicare surcharges. However, if you accumulate disbursements in a bank account and that balance pushes you over the asset limits for Medicaid or Supplemental Security Income (SSI), that's a different story. If you receive means-tested benefits, speak with a benefits counselor before taking a lump sum."
   - q: "Should I take the lump sum or the line of credit?"
     a: "For most borrowers who don't have an immediate large expense, the line of credit is the more flexible and often more financially advantageous option over time. The growth feature on the unused portion is genuinely useful. The lump sum locks you into a fixed rate and starts compounding immediately on the full amount. The right answer depends on your specific situation, but I've rarely seen a financial planner make a compelling case for the lump sum unless there's a specific, pressing need driving it."
+author: "Ethan Chen"
+author_slug: "ethan-chen"
+author_title: "Real Estate Researcher"
+author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+
 ---
 
 You're 72, your house is paid off, and your monthly Social Security check covers groceries but not much else. Your financial advisor mentions a reverse mortgage. Your son-in-law says it's a scam. Your neighbor says it saved her retirement. Nobody explains exactly how the money moves, who owns what, or what the fine print actually says. That's the problem with most reverse mortgage coverage: it either cheerleads the product or dismisses it, and neither serves the person trying to make an actual decision.

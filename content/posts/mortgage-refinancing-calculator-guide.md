@@ -6,8 +6,6 @@ description: "Discover how to use a mortgage refinancing calculator to compare r
 image: "https://images.pexels.com/photos/8293743/pexels-photo-8293743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Refinancing"]
 tags: ["mortgage", "refinancing", "calculator", "guide"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "mortgage-refinancing-calculator-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, but typically in a minor and temporary way. Applying for a refinance triggers a hard inquiry, which can reduce your score by a few points. If you're rate shopping with multiple lenders within a focused window (usually 14 to 45 days depending on the scoring model), those inquiries are typically treated as a single inquiry. The bigger credit impact is closing your old loan and opening a new one, which affects your account age mix. For most borrowers in stable credit shape, the impact is modest and recoverable within months."
   - q: "Can I use a refinancing calculator if I have an FHA or VA loan?"
     a: "Yes, but with important caveats. FHA and VA loans have streamline refinance programs with different cost structures than conventional refis. FHA loans require mortgage insurance premiums, and a refinance could change what you pay for that coverage. VA loans have a funding fee that needs to be included in your closing cost calculation. Make sure any calculator you use has fields for mortgage insurance and allows you to customize fee inputs, otherwise you'll get a distorted picture."
+author: "Maria Santos"
+author_slug: "maria-santos"
+author_title: "First-Time Buyer Coach"
+author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+
 ---
 
 You're sitting at the kitchen table, staring at a mailer that promises you could "save hundreds every month" by refinancing your mortgage. The number looks good. Your current rate feels high compared to what you're hearing from friends. So you hop online, plug some figures into the first refinancing calculator you find, and get a monthly savings number that makes you want to call a lender immediately. I've seen this exact moment go sideways more times than I can count, not because the calculator was wrong, but because the borrower didn't know which numbers to trust, which fields actually matter, and what the calculator quietly leaves out. A refinancing calculator is one of the most powerful tools a homeowner has. It's also one of the most misused. Let's fix that.

@@ -6,8 +6,6 @@ description: "Trying to choose between a HELOC and a home equity loan? Compare r
 image: "https://images.pexels.com/photos/8293781/pexels-photo-8293781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Home Equity"]
 tags: ["heloc", "home", "equity", "loan", "which"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "heloc-vs-home-equity-loan-which-should-i-choose"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Plan for 2-6 weeks, depending on the lender, how quickly you get documents together, and whether there are appraisal delays. Some lenders advertise faster timelines with automated valuations instead of full appraisals, but those aren't always available depending on your property and loan amount."
   - q: "Can I pay off a HELOC early without a penalty?"
     a: "Usually, but check your agreement. Some HELOCs have an early termination fee if you close the line within the first two to three years of opening it. This is particularly common when the lender waived closing costs upfront as an incentive. That fee can run several hundred to a few thousand dollars, so read the disclosure before assuming you can exit cleanly."
+author: "Susan Taylor"
+author_slug: "susan-taylor"
+author_title: "Credit Writer"
+author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+
 ---
 
 My second year underwriting mortgages, a borrower came in furious. She'd taken out a home equity loan eighteen months earlier to renovate her kitchen, and now she needed another $15,000 for a bathroom she hadn't planned on. She had the equity. She had the income. But she had to go through a whole new loan application, pay closing costs again, and wait six weeks. "Why didn't anyone tell me I had options?" she asked. I didn't have a great answer for her.

@@ -6,8 +6,6 @@ description: "Discover how a reverse mortgage works, who qualifies, and the pros
 image: "https://images.pexels.com/photos/7578882/pexels-photo-7578882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["reverse", "mortgage", "explained"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "reverse-mortgage-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is where the FHA mortgage insurance earns its premium. HECMs are non-recourse loans, which means you or your estate can never owe more than the home's appraised value at the time of sale. If your loan balance is $300,000 and the home sells for $240,000, FHA makes up the difference to the lender. Your heirs won't be on the hook for the shortfall."
   - q: "Is a reverse mortgage ever actually a good idea?"
     a: "I'll be honest here too: yes, sometimes. For a borrower who is house-rich and cash-poor, has no heirs who need to inherit the home, wants to age in place, and fully understands the costs and obligations involved, a reverse mortgage can provide genuine financial relief and stability. The HECM line of credit strategy, in particular, has attracted serious attention from financial planners as a legitimate retirement income tool, not just a product of last resort. The key is that it has to be the right product for the right situation, with eyes fully open."
+author: "Jennifer Walsh"
+author_slug: "jennifer-walsh"
+author_title: "Mortgage Writer"
+author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+
 ---
 
 Imagine you've paid off most of your mortgage over 30 years, you're 71 years old, and your home is worth $420,000. But your monthly Social Security check barely covers utilities and groceries, and your savings account is looking thin. A neighbor mentions a reverse mortgage and suddenly this product you've vaguely heard of on late-night TV commercials starts sounding like a lifeline. Before you call that 800 number, though, you need to understand what you're actually signing. Because a reverse mortgage is one of the most misunderstood financial products in the American lending landscape, and the gap between what borrowers expect and what actually happens can be enormous.

@@ -6,8 +6,6 @@ description: "Thinking about refinancing in 2026? Learn when it makes financial 
 image: "https://images.pexels.com/photos/37906250/pexels-photo-37906250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Refinancing"]
 tags: ["when", "does", "make", "sense", "refinance"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "when-does-it-make-sense-to-refinance-your-mortgage-in-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Usually yes, though some lenders qualify for appraisal waivers through automated valuation models (Fannie Mae's Collateral Underwriter, for example). Whether you get one depends on your equity level, loan type, and the lender's guidelines. If your neighborhood has seen value declines since you purchased, a required appraisal can come in lower than expected and derail the loan or change your pricing tier."
   - q: "Can I refinance if I've had a late payment in the past year?"
     a: "It depends on how recent and how severe. A single 30-day late from eight or nine months ago won't automatically disqualify you, but it will affect your credit score and possibly your rate tier. Most conventional programs get stricter with 60-day or 90-day lates, especially on the mortgage itself. FHA refinance programs can sometimes be more flexible, but they come with mortgage insurance that may offset the rate benefit."
+author: "Maria Santos"
+author_slug: "maria-santos"
+author_title: "First-Time Buyer Coach"
+author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+
 ---
 
 Most people refinance at exactly the wrong time, for exactly the wrong reason. I've watched borrowers lock in a "great deal" that cost them an extra $14,000 over the life of their loan because nobody bothered to explain the break-even math before they signed.

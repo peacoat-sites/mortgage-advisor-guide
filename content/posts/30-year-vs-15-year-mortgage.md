@@ -6,8 +6,6 @@ description: "Compare 30-year and 15-year mortgages to find the best fit for you
 image: "https://images.pexels.com/photos/8293750/pexels-photo-8293750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["year", "year", "mortgage"]
-author: "Susan Park"
-author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "30-year-vs-15-year-mortgage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Mortgage interest is generally deductible for borrowers who itemize. Because a 30-year mortgage generates significantly more interest, especially in the early years, the potential deduction is larger. However, the Tax Cuts and Jobs Act of 2017 raised the standard deduction substantially, meaning far fewer homeowners actually itemize now. For many buyers, the mortgage interest deduction provides less benefit than it once did. Consult a tax professional to understand your specific situation before using the deduction as a deciding factor in your loan term choice."
   - q: "Should I choose a 15-year mortgage if I'm planning to retire in 15 to 20 years?"
     a: "This is one of the strongest cases for a 15-year loan, and I've seen it transform people's retirement security. Entering retirement without a mortgage payment dramatically reduces your monthly income requirement, which means you need a smaller nest egg to sustain your lifestyle. That said, the answer still depends on whether the higher payment compromises your retirement savings contributions in the years leading up to retirement. If you have to choose between making a 15-year payment and fully funding your retirement accounts, talk to a financial planner before you decide. That tradeoff deser"
+author: "Ethan Chen"
+author_slug: "ethan-chen"
+author_title: "Real Estate Researcher"
+author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+
 ---
 
 Imagine you're sitting across from a loan officer and they slide two sheets of paper across the desk. Same loan amount, same interest rate, two different terms. The monthly payment on the 30-year looks almost manageable. The 15-year payment makes you wince a little. Most people instinctively reach for the 30-year sheet. I've watched it happen hundreds of times. But that reflexive choice, made in about four seconds, will shape your finances for the next one to three decades. It deserves more than four seconds.

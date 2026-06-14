@@ -6,8 +6,6 @@ description: "Lower your interest rate by paying mortgage points upfront. Learn 
 image: "https://images.pexels.com/photos/7641859/pexels-photo-7641859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["mortgage", "points", "explained"]
-author: "Susan Park"
-author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "mortgage-points-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Paying or not paying points has no direct effect on your credit score. The mortgage itself will appear on your credit report and affect your score through on-time payments, balance owed, and account age. But the decision to pay points at closing has no credit impact."
   - q: "Is paying points worth it in a high-rate environment?"
     a: "It depends entirely on your time horizon and break-even calculation. In a high-rate environment, buyers sometimes pay points hoping to refinance when rates drop, but if they refinance, they lose the benefit of the points. The counter-argument is that paying points now gives you a manageable payment today, and if you never refinance, you've protected yourself long-term. There's no universal right answer. Run the math for your specific loan, not anyone else's."
+author: "Maria Santos"
+author_slug: "maria-santos"
+author_title: "First-Time Buyer Coach"
+author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+
 ---
 
 You're sitting across from a loan officer, the stack of closing documents is three inches thick, and somewhere near the top of the loan estimate is a line that says "Discount Points: 1.000 ($4,200)." The loan officer mentions it briefly, says it'll lower your rate, and moves on. If you didn't stop them right there and ask exactly what that means for your specific loan, you may have just agreed to pay thousands of dollars without fully understanding what you were buying. I've seen that happen more times than I can count.

@@ -6,8 +6,6 @@ description: "Explore mortgage loan modification options to lower your monthly p
 image: "https://images.pexels.com/photos/27960363/pexels-photo-27960363.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Hardship Options"]
 tags: ["mortgage", "loan", "modification", "options"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "mortgage-loan-modification-options"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You don't legally need one, and many borrowers successfully navigate modifications on their own or with a HUD-approved counselor. An attorney makes sense if you're also navigating foreclosure proceedings simultaneously, if you believe your servicer is violating federal servicing rules, or if your loan situation is unusually complex. Free legal aid may also be available through your state's bar association if affordability is a concern."
   - q: "What happens if I can't sustain even the modified payment?"
     a: "It depends on whether you had a trial modification made permanent or not. If the modification was permanent and you default again, the servicer may pursue foreclosure, and re-modification is possible but not guaranteed. Some investor guidelines allow only one modification in the life of a loan. This is why it's critical to be realistic about what payment you can truly sustain before agreeing to a modification offer. Accepting a payment that's still too high just delays the problem."
+author: "Ethan Chen"
+author_slug: "ethan-chen"
+author_title: "Real Estate Researcher"
+author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+
 ---
 
 You got the letter on a Tuesday. Maybe it was a job loss, a medical crisis, a divorce that split the household income in half. Whatever brought you here, you're now staring at a mortgage payment you can't make, and you're terrified about what happens next. I've sat across from borrowers in exactly that position more times than I can count. The fear is real. But what most people don't realize is that lenders have far more tools to help you than they ever voluntarily advertise. Loan modification isn't a last-ditch desperation move. It's a formal process with rules, timelines, and real outcomes, and understanding it before you call your servicer can make the difference between keeping your home and losing it.

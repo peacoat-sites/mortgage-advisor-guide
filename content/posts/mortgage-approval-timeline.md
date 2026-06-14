@@ -6,8 +6,6 @@ description: "Get approved for your mortgage faster. Learn the typical timeline 
 image: "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Getting Started"]
 tags: ["mortgage", "approval", "timeline"]
-author: "David Carver"
-author_bio: "Former mortgage underwriter with 16 years at regional and national lenders. Now explains the mortgage process to home buyers."
 slug: "mortgage-approval-timeline"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Significantly. Conventional loans typically move the fastest through the approval process. FHA loans involve HUD-specific appraisal standards and additional overlays that can add several days. VA loans require a Certificate of Eligibility and a VA-approved appraisal, which can extend timelines in some markets. Jumbo loans, given their larger loan amounts and more intensive documentation requirements, often take longer and can require two formal appraisals. For the specifics on jumbo requirements, jumbo loan requirements is a good place to start."
   - q: "Is a 30-day mortgage closing realistic?"
     a: "It's achievable but not guaranteed. Hitting a 30-day close requires a clean file, a responsive borrower, a timely appraisal, and no major surprises in the title search or underwriting. In competitive markets, buyers sometimes promise 21-day or even 15-day closes to win offers. That's a significant risk to take on unless you've verified with your lender that they can genuinely deliver. Most experienced loan officers will tell you 30 to 45 days is a reliable target for a standard purchase."
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 You submitted your mortgage application on a Monday. By Thursday, you're refreshing your email every twenty minutes wondering if no news is good news. By the following Wednesday, you're convinced something is wrong. Sound familiar? The mortgage approval timeline is one of the most anxiety-inducing parts of buying a home, mostly because nobody explains it upfront. Loan officers quote you a closing date, hand you a checklist, and then the process disappears into a black box. What I want to do here is open that box.

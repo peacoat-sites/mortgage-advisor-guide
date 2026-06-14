@@ -6,8 +6,6 @@ description: "Comparing FHA vs conventional loans for first time buyers? Discove
 image: "https://images.pexels.com/photos/31974125/pexels-photo-31974125.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["conventional", "loan", "which", "better", "first"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "fha-vs-conventional-loan-which-is-better-for-first-time-buyers"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Technically 620, but practically speaking, you'll get significantly better pricing at 680 and above. The difference in rate and PMI cost between a 640 score and a 720 score can be meaningful over the life of a loan."
   - q: "Is FHA harder to get approved for than conventional?"
     a: "In some ways, FHA is actually more forgiving. It allows higher debt-to-income ratios and lower credit scores. However, the property condition requirements mean the home you're buying has to pass a stricter appraisal. So it's not harder, just different, and the friction shows up in different places depending on your situation."
+author: "Jennifer Walsh"
+author_slug: "jennifer-walsh"
+author_title: "Mortgage Writer"
+author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+
 ---
 
 Most first-time buyers come into this conversation thinking the answer is obvious. FHA loans are for people with shaky credit, conventional loans are for people who have it together. That framing is wrong, and it costs people real money.

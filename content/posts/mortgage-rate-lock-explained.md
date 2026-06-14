@@ -6,8 +6,6 @@ description: "Lock in your mortgage rate and protect yourself from rate increase
 image: "https://images.pexels.com/photos/8293714/pexels-photo-8293714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Rates"]
 tags: ["mortgage", "rate", "lock", "explained"]
-author: "Susan Park"
-author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "mortgage-rate-lock-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No, and this is a critical distinction. A rate lock means the lender will honor that rate if the loan closes and meets all the conditions of the approval. It does not mean the loan is approved or that it will close. If underwriting finds a problem, the lender can still decline the loan even with a locked rate. The lock is a pricing commitment, not an approval commitment."
   - q: "Do rate locks work differently for new construction loans?"
     a: "Yes, significantly. New construction timelines are notoriously unpredictable. Many builders have preferred lenders who offer extended lock programs, sometimes 90 days to a year, built specifically for their construction timelines. These extended locks typically cost more, and some programs require you to re-lock or pay a fee if construction runs long. Always read the lock agreement in full on a new construction deal. The terms are almost always more complicated than a standard purchase lock."
+author: "Jennifer Walsh"
+author_slug: "jennifer-walsh"
+author_title: "Mortgage Writer"
+author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+
 ---
 
 You find your dream home, negotiate a great price, and lock in a 6.875% rate on a Tuesday. By Friday, rates jump to 7.25%. You just saved yourself roughly $180 a month on a $400,000 loan. That's not luck. That's a rate lock working exactly as it should. But I've also watched the opposite play out: borrowers who locked too early, paid extension fees they didn't budget for, and in a few cases, lost their locks entirely because they didn't understand the expiration rules. A rate lock is one of the most powerful tools in a mortgage transaction, and it's one of the least explained.

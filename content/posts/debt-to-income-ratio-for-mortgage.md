@@ -6,8 +6,6 @@ description: "Debt to income ratio is a key metric lenders use to determine mort
 image: "https://images.pexels.com/photos/7821914/pexels-photo-7821914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Qualification"]
 tags: ["debt", "income", "ratio", "mortgage"]
-author: "Susan Park"
-author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "debt-to-income-ratio-for-mortgage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This depends on whether you're in a community property state. In states like California, Arizona, Texas, and a handful of others, community property laws may require lenders to count a non-borrowing spouse's debts in the DTI calculation even if they're not on the loan. This surprises a lot of couples who assumed they could simply leave the higher-debt spouse off the application."
   - q: "How does a rate change affect DTI?"
     a: "Directly and significantly. A higher interest rate means a larger principal and interest payment, which raises your front-end DTI and your back-end DTI simultaneously. If you're at 43% DTI when rates are at 6.5% and rates climb to 7.25%, your DTI might jump to 46 or 47% without you changing anything. This is why getting pre-approved at one rate environment and then waiting months to buy can create approval problems you weren't expecting. Understanding how rates are set and what moves them is covered in our explanation of how mortgage rates are determined today."
+author: "Maria Santos"
+author_slug: "maria-santos"
+author_title: "First-Time Buyer Coach"
+author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+
 ---
 
 You submitted your mortgage application feeling confident. Good credit score, steady job, money in the bank. Then the loan officer calls and says you've been denied. The reason? Your debt-to-income ratio is too high. It's a number most buyers never think about until it stops them cold, and it derails more mortgage applications than bad credit does. In my experience reviewing thousands of files, DTI is the silent deal-killer that catches even financially responsible borrowers off guard.

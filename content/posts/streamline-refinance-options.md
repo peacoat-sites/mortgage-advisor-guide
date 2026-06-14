@@ -6,8 +6,6 @@ description: "Explore streamline refinance options to lower your mortgage rate w
 image: "https://images.pexels.com/photos/8292895/pexels-photo-8292895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Refinancing"]
 tags: ["streamline", "refinance", "options"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "streamline-refinance-options"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For FHA, VA, and USDA streamline refinances, the appraisal is generally waived, which means your current home value isn't a factor in qualifying. This is one of the primary advantages of streamline programs for borrowers in flat or declining markets who couldn't qualify for a conventional refinance due to insufficient equity."
   - q: "How long does a streamline refinance take to close?"
     a: "Faster than a standard refinance, but not instant. Most streamline refinances close in 20 to 30 days, compared to 45 to 60 days for a full conventional refinance. The reduced documentation requirements remove a major source of delays, but title work, lender capacity, and state recording requirements still take time. Don't let any lender promise you a two-week close without a good explanation for how they'll get there."
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 You already have the loan. You've been paying it for years. Your credit score has improved, rates have dropped, or both. The logical next step is a refinance, but the moment you start researching, you hit a wall of paperwork requirements, income verification demands, and appraisal fees that make the whole thing feel like applying for a mortgage all over again. Here's what most coverage doesn't tell you: depending on your loan type, you may qualify for a streamline refinance that skips most of that friction entirely. Not all of it, but most.

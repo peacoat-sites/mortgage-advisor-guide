@@ -7,8 +7,6 @@ description: "Learn what mortgage closing costs are, how much to expect, and whi
 image: "https://images.pexels.com/photos/8292839/pexels-photo-8292839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["mortgage", "closing", "costs", "explained"]
-author: "David Carver"
-author_bio: "Former mortgage underwriter with 16 years at regional and national lenders. Now explains the mortgage process to home buyers."
 slug: "mortgage-closing-costs-explained"
 affiliate_disclosure: true
 faqs:
@@ -22,6 +20,11 @@ faqs:
     a: "Yes, they're different. Cash to close is the total amount you need to bring to closing, and it includes your down payment plus closing costs minus any credits (like a seller concession or earnest money already paid). Closing costs are just one component of that total number. Always ask for the cash to close figure early so you're planning against the right target."
   - q: "If I refinance, do I pay closing costs again?"
     a: "Yes. Refinancing involves an entirely new loan, which means a new appraisal, new title work, new origination fees, and new prepaids. Refinance closing costs typically run 2% to 5% of the new loan amount, similar to a purchase. The break-even calculation is essential: divide your closing costs by your monthly savings to find out how many months it takes to recoup the expense. If you're not planning to stay long enough to hit that break-even point, a refinance may cost you money even at a lower rate."
+author: "Susan Taylor"
+author_slug: "susan-taylor"
+author_title: "Credit Writer"
+author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+
 ---
 
 You've found the house. You've locked your rate. You've started packing boxes. Then the Closing Disclosure lands in your inbox and you see a number you weren't ready for: $9,400 in closing costs on top of your down payment. Nobody warned you it would be this much. I've watched this exact moment knock buyers sideways for sixteen years, and it's almost always preventable with a little preparation.

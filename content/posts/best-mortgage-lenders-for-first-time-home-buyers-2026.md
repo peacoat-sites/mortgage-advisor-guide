@@ -6,8 +6,6 @@ description: "Discover the best mortgage lenders for first time home buyers in 2
 image: "https://images.pexels.com/photos/12955837/pexels-photo-12955837.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping"]
 tags: ["best", "mortgage", "lenders", "first", "time"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "best-mortgage-lenders-for-first-time-home-buyers-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Neither is universally better. Local lenders and community banks often have deeper knowledge of state and local assistance programs, stronger relationships with local appraisers and title companies, and more flexibility in underwriting for buyers with unusual financial situations. National lenders and online lenders often offer faster processing, more competitive pricing through scale, and a smoother digital experience. My honest advice: get at least one quote from a local lender or credit union and at least one from a larger lender or broker. Let the Loan Estimates do the talking."
   - q: "What if I have student loan debt? Will it disqualify me?"
     a: "Student loans don't automatically disqualify you, but they affect your debt-to-income (DTI) ratio, which lenders use to determine how much mortgage you can carry. DTI is calculated by dividing your total monthly debt payments (including the proposed mortgage) by your gross monthly income. Conventional loans typically allow a maximum DTI of 45 to 50%. FHA loans can go up to 57% in some cases. What matters is how your servicer reports your monthly payment. If your loans are in deferment or on an income-driven plan, different loan programs calculate the payment differently. Ask your lender specif"
+author: "Susan Taylor"
+author_slug: "susan-taylor"
+author_title: "Credit Writer"
+author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+
 ---
 
 You've found the house. The offer got accepted. And now your loan officer is rattling off terms like "LTV ratio," "PMI," "points," and "DTI" like you've been in the mortgage business for twenty years. Meanwhile, you're nodding along and quietly panicking, wondering if you're about to sign the most expensive document of your life without really understanding it. I've seen this exact scenario play out hundreds of times across my career, and the single biggest mistake I watched first-time buyers make wasn't choosing the wrong neighborhood or overpaying by ten thousand dollars. It was walking into the lender selection process completely unprepared, then settling for the first pre-approval letter they received because they didn't know what "better" even looked like.

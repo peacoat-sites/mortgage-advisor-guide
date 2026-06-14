@@ -6,8 +6,6 @@ description: "Learn how to get a mortgage as a first time buyer. Discover deposi
 image: "https://images.pexels.com/photos/7841821/pexels-photo-7841821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["mortgage", "first", "time", "buyer"]
-author: "Susan Park"
-author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "how-to-get-a-mortgage-first-time-buyer"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, but there are rules. Most loan programs allow gift funds from a family member, and some extend this to close friends or employers. The gift must be documented with a signed gift letter stating the money is not a loan and doesn't require repayment. The donor may also be asked to provide bank statements showing the source of funds. Large, undocumented deposits to your account close to closing will raise underwriting flags regardless of the source."
   - q: "What happens if my financial situation changes after pre-approval?"
     a: "Tell your lender immediately. Don't wait for them to discover it. Losing a job, taking on new debt, changing employers, or having a large unexplained deposit can all affect your loan. Lenders typically pull credit again just before closing and verify employment within days of closing. If your situation has changed and you haven't disclosed it, you risk losing the loan at the worst possible moment, which can mean losing your earnest money and potentially being liable for other contract damages. Transparency early beats crisis late."
+author: "Susan Taylor"
+author_slug: "susan-taylor"
+author_title: "Credit Writer"
+author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+
 ---
 
 Most first-time buyers walk into a lender's office thinking the mortgage process starts with finding a house. It doesn't. By the time you've fallen in love with a property, made an offer, and started negotiating, the financial decisions that actually determine what you can afford and what you'll pay have already been made, or should have been. I've watched borrowers lose houses, overpay by tens of thousands in interest, or get stuck in loan products they didn't fully understand, all because they started the process too late or in the wrong order.

@@ -6,8 +6,6 @@ description: "Explore non-QM mortgage options for self-employed borrowers, inves
 image: ""
 categories: ["Loan Types"]
 tags: ["non-QM", "mortgage", "options"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "non-qm-mortgage-options"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research here is genuinely mixed because the non-QM market is fragmented and pricing changes constantly. What I can say is that spreads above conventional rates have historically ranged from about 1% to more than 3%, depending on the product, borrower profile, and lender. Get current quotes from multiple brokers rather than relying on any published rate."
   - q: "Is my credit score less important with a non-QM loan?"
     a: "Not exactly. Credit score requirements vary by product, but most non-QM programs want at least a 620 to 640 minimum, and better scores still get better pricing. What's different is that a recent credit event that would disqualify you entirely from conventional financing might be acceptable in non-QM, particularly if you have compensating factors like significant reserves or a large down payment."
+author: "Ethan Chen"
+author_slug: "ethan-chen"
+author_title: "Real Estate Researcher"
+author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+
 ---
 
 Most borrowers assume that if a conventional lender turns them down, the story is over. It isn't. There's an entire category of mortgage products that exists specifically for people who don't fit inside the tidy box that Fannie Mae and Freddie Mac built, and it's bigger than most people realize.

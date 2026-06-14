@@ -6,8 +6,6 @@ description: "Explore mortgage down payment options including conventional, FHA,
 image: "https://images.pexels.com/photos/6863252/pexels-photo-6863252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["mortgage", "down", "payment", "options"]
-author: "Susan Park"
-author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "mortgage-down-payment-options"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They look at two to three months of bank statements and trace large deposits. This is called 'sourcing and seasoning.' If money appeared in your account recently from an unclear source, the lender will ask questions. Cash sitting under the mattress that you deposit right before applying is a problem. Money that's been in your account for at least 60 days is generally considered 'seasoned' and requires less documentation."
   - q: "Can I put down more than 20% if I want to?"
     a: "Absolutely, and some buyers choose to, especially if they want lower monthly payments, plan to stay long-term, or are buying in a high-cost market where the loan amount would otherwise be enormous. There's no cap on how much you can put down. Just make sure it doesn't compromise your liquid reserves or your other financial goals."
+author: "Jennifer Walsh"
+author_slug: "jennifer-walsh"
+author_title: "Mortgage Writer"
+author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+
 ---
 
 Most people believe you need 20% down to buy a house. That single myth keeps more qualified buyers on the sidelines than almost anything else. I've sat across from borrowers with solid income, clean credit, and real savings who had talked themselves out of homeownership because they were chasing a number they didn't actually need. The reality is that today's mortgage market offers down payment options ranging from zero to 20% and beyond, each with its own set of tradeoffs, costs, and qualifying requirements. Understanding those differences isn't just useful. It's the difference between buying a home this year and waiting three more years for a savings target you may not need.

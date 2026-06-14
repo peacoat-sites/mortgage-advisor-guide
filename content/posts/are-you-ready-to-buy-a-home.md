@@ -5,6 +5,11 @@ description: "Wondering if you're ready to buy a home? Take this quick 7-questio
 slug: "are-you-ready-to-buy-a-home"
 date: 2026-05-27T10:00:00+00:00
 tags: ["home buying", "first-time buyer", "mortgage readiness", "homeownership", "quiz"]
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 Buying a home is one of the biggest moves most people ever make, and "Am I ready?" rarely has a simple yes-or-no answer. It's less about hitting one magic number and more about how your habits, plans, and life stage all line up at the same time.

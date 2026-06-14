@@ -6,8 +6,6 @@ description: "Learn about conventional loan requirements including credit scores
 image: "https://images.pexels.com/photos/7821490/pexels-photo-7821490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["conventional", "loan", "requirements"]
-author: "Susan Park"
-author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "conventional-loan-requirements"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You have a few options: negotiate the price down to the appraised value, pay the difference between the appraised value and purchase price in cash out of your own pocket, challenge the appraisal with a formal reconsideration of value (providing supporting comparable sales), or walk away if your contract has an appraisal contingency. The lender will only lend based on the lower of the purchase price or appraised value. This is non-negotiable."
   - q: "Can I use a conventional loan to buy an investment property?"
     a: "Yes. Conventional loans can be used for primary residences, second homes, and investment properties. The requirements tighten considerably for non-primary use. Investment properties typically require at least 15% to 25% down, a higher minimum credit score, and the underwriter will scrutinize your overall real estate portfolio and reserve requirements more closely. Expect higher rates for investment property loans compared to the same loan on a primary residence."
+author: "Susan Taylor"
+author_slug: "susan-taylor"
+author_title: "Credit Writer"
+author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+
 ---
 
 You walk into a lender's office, pre-approval letter in hand, convinced the hard part is over. Then the underwriter pulls your file and finds a collections account you forgot about, a debt-to-income ratio that's two points too high, and a down payment that came from your uncle's Venmo transfer with zero documentation. Suddenly the "easy" conventional loan feels anything but. I've watched that exact scenario play out hundreds of times, and in almost every case, the borrower had no idea these issues mattered until it was too late to fix them cleanly.

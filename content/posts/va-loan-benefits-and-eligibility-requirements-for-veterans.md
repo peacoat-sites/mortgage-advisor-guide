@@ -6,8 +6,6 @@ description: "Discover VA loan benefits including no down payment, competitive r
 image: "https://images.pexels.com/photos/4968548/pexels-photo-4968548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["loan", "benefits", "eligibility", "requirements", "veterans"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "va-loan-benefits-and-eligibility-requirements-for-veterans"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You can sell anytime. If you've paid off the loan, your entitlement is restored (you'll need to apply for that restoration). If someone assumes your VA loan, be careful: your entitlement stays tied up until the loan is paid off unless the assumptor is also a qualifying veteran who agrees to substitute their entitlement."
   - q: "Is a VA loan only for single-family homes?"
     a: "No. VA loans can be used for condos (the condo development must be VA-approved), manufactured homes, and new construction, in addition to standard single-family homes. The VA-approved condo list is a real constraint though. Check the VA's condo lookup tool before you fall in love with a specific unit."
+author: "Ethan Chen"
+author_slug: "ethan-chen"
+author_title: "Real Estate Researcher"
+author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+
 ---
 
 Most veterans I've worked with had no idea how good their VA loan benefit actually is until they sat across from me at the underwriting table and I started walking them through the numbers. By that point, some of them had already spent months shopping conventional loans, worrying about down payments they didn't have, or paying for PMI quotes they'd never needed to pay in the first place. That frustration is completely avoidable, and that's why I want to lay this out clearly.

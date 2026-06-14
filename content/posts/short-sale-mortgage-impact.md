@@ -6,10 +6,13 @@ description: "Discover how a short sale affects your mortgage, credit score, and
 image: "https://images.pexels.com/photos/7578900/pexels-photo-7578900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Hardship Options"]
 tags: ["short", "sale", "mortgage", "impact"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "short-sale-mortgage-impact"
 affiliate_disclosure: true
+author: "Ethan Chen"
+author_slug: "ethan-chen"
+author_title: "Real Estate Researcher"
+author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+
 ---
 
 You already know the short sale saved you. What you might be wondering now is how badly it's going to cost you on the other side.

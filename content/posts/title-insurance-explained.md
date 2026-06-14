@@ -6,8 +6,6 @@ description: "Learn what title insurance is, how it protects homebuyers and lend
 image: "https://images.pexels.com/photos/7734574/pexels-photo-7734574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Closing"]
 tags: ["title", "insurance", "explained"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "title-insurance-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Boundary disputes can be covered, particularly if the issue stems from an error in the legal description of the property in the deed or a survey error that existed before closing. Enhanced policies often provide broader coverage for encroachment issues. This is exactly the kind of scenario worth asking about before you purchase your policy."
   - q: "Where can I get unbiased guidance if I'm unsure what coverage I need?"
     a: "HUD-approved housing counselors can help you understand your options without trying to sell you anything. They're a genuinely useful resource, especially for first-time buyers who are processing a lot of new information at once. A real estate attorney in your state is also a strong option if the property history is complicated."
+author: "Susan Taylor"
+author_slug: "susan-taylor"
+author_title: "Credit Writer"
+author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+
 ---
 
 If you've ever sat at a closing table and watched a stack of documents slide across to you, you know the feeling: pages blur together, numbers swim, and somewhere in the middle of it all someone mentions "title insurance" like it's an obvious line item you've already thought through. Most people haven't. They nod, sign, and move on. Then, years later, some of them get a letter they never expected, from a creditor or an heir or a municipality, claiming some legal right to the property they thought they owned outright. That's the moment title insurance either saves them or doesn't.

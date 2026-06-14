@@ -6,8 +6,6 @@ description: "Get your home loan application approved faster with our complete c
 image: "https://images.pexels.com/photos/7821513/pexels-photo-7821513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["home", "loan", "application", "checklist"]
-author: "David Carver"
-author_bio: "Former mortgage underwriter with 16 years at regional and national lenders. Now explains the mortgage process to home buyers."
 slug: "home-loan-application-checklist"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Cryptocurrency is not directly accepted as a source of funds for most conventional or government-backed loans. However, if you liquidate crypto into cash and let it season in a traditional bank account for 60 to 90 days, it becomes traceable as an asset. Investment accounts can typically be used, but lenders may apply a discount (often around 30 percent) to the balance to account for market volatility and early withdrawal penalties."
   - q: "How long does it take to process a mortgage application once everything is submitted?"
     a: "With a complete, clean file, underwriting can take five to ten business days. Most loans close within 30 to 45 days of the application date. However, incomplete documentation is the single most common cause of delays. Missing one document or needing a clarification can reset parts of the process. Staying responsive to your loan officer's requests and having your documents organized from day one is the most effective way to hit your target closing date."
+author: "Maria Santos"
+author_slug: "maria-santos"
+author_title: "First-Time Buyer Coach"
+author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+
 ---
 
 You're sitting across from a loan officer, folder in hand, feeling prepared. Then they ask for your past two years of W-2s, your most recent 30 days of pay stubs, statements for every bank account you own, and proof of any gift funds you're using toward the down payment. You hand over three of the five items and watch their expression shift. That moment, where you're suddenly scrambling through your phone and email looking for documents you didn't know you needed, is exactly what this guide is designed to prevent.

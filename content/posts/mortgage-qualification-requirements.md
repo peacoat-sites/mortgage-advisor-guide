@@ -6,8 +6,6 @@ description: "Learn what it takes to qualify for a mortgage. Explore credit scor
 image: "https://images.pexels.com/photos/7579192/pexels-photo-7579192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["mortgage", "qualification", "requirements"]
-author: "Tom Whitfield"
-author_bio: "Mortgage broker turned consumer advocate. Helps borrowers compare loan products and avoid costly mistakes."
 slug: "mortgage-qualification-requirements"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They absolutely can. Student loans count toward your back-end DTI whether you're in repayment or in deferment. For deferred loans, lenders often use 1% of the outstanding balance as the assumed monthly payment. On a $100,000 student loan balance, that's $1,000 per month added to your DTI calculation, even if you aren't currently making payments."
   - q: "Is it possible to qualify with no down payment?"
     a: "Yes, through VA loans (for eligible veterans and active-duty service members) and USDA loans (for properties in eligible rural and suburban areas). Some state and local housing finance agencies also offer down payment assistance programs that can effectively get you to zero out of pocket. These programs are worth researching before assuming you need to wait years to save a full down payment."
+author: "Susan Taylor"
+author_slug: "susan-taylor"
+author_title: "Credit Writer"
+author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+
 ---
 
 You fill out a mortgage application feeling reasonably confident. Good job, money in the bank, no major debt. Then the loan officer calls back and tells you that you don't qualify. No explanation that actually makes sense. Just a polite version of "no." This happens to thousands of people every year, and in most cases it's completely preventable. The problem isn't that borrowers are bad financial risks. The problem is that almost nobody explains what lenders are actually looking for before you apply.

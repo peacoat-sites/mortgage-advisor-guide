@@ -6,8 +6,6 @@ description: "Learn how HELOC repayment works, including draw and repayment peri
 image: "https://images.pexels.com/photos/28053222/pexels-photo-28053222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Home Equity"]
 tags: ["HELOC", "repayment", "explained"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "heloc-repayment-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It's typically a fully amortizing payment: the remaining balance at the start of repayment is divided across the repayment term at the current interest rate, calculated to pay off the balance entirely by the end of the term. If your rate is variable, the payment recalculates as the rate changes."
   - q: "Can I renew or extend my HELOC before repayment starts?"
     a: "Some lenders allow a renewal or extension, but it's not guaranteed and usually requires a new application, updated appraisal, and credit review. Don't plan your finances around an extension you haven't been approved for yet."
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 A HELOC looks simple on paper. You borrow against your home equity, pay interest while you draw, then pay it back. What loan officers rarely explain clearly is that the repayment phase can hit your budget like a wall, and a surprising number of borrowers don't see it coming until they're already in it.

@@ -6,8 +6,6 @@ description: "Learn what PMI is, why lenders require it, how much it costs, and 
 image: "https://images.pexels.com/photos/7736029/pexels-photo-7736029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["explained", "mortgage"]
-author: "Tom Whitfield"
-author_bio: "Mortgage broker turned consumer advocate. Helps borrowers compare loan products and avoid costly mistakes."
 slug: "pmi-explained-mortgage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "When you refinance, the original loan is paid off and a new loan is originated. If your new loan is at 80% LTV or below, you won't have PMI. If you refinance into another loan above 80% LTV, you'll have PMI again on the new loan, potentially at a different rate."
   - q: "How do I formally request PMI cancellation?"
     a: "Send a written request to your loan servicer (the company you send your payment to, which may not be your original lender). Include your loan number, a statement that you're requesting cancellation under the Homeowners Protection Act, and evidence that your balance has reached the 80% threshold. Keep a copy. Follow up in writing if you don't receive confirmation within 30 days. PMI is a cost of entry for many buyers, and there's nothing inherently wrong with using it to purchase a home before you've saved 20%. What is wrong is paying it longer than you have to, or paying it without understandi"
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 You're sitting at the closing table, flipping through a stack of documents, and you spot a line item you don't recognize: "PMI premium, $187/month." Nobody mentioned this during your pre-approval call. Your loan officer brushes past it like it's nothing. But over the next seven years? That's more than $15,000 leaving your pocket for a product that protects the lender, not you. That's the reality of private mortgage insurance, and it catches buyers off guard every single day.

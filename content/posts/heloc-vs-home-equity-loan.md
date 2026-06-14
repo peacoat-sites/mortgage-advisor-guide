@@ -6,8 +6,6 @@ description: "Compare HELOC vs home equity loan to find the best way to tap your
 image: "https://images.pexels.com/photos/27641056/pexels-photo-27641056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Home Equity"]
 tags: ["HELOC", "home", "equity", "loan"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "heloc-vs-home-equity-loan"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If your home's value falls significantly, you could find yourself in a position where you owe more than the home is worth on a combined basis. This doesn't immediately change your payments, but it can affect your ability to refinance, sell, or borrow further. It's a real risk that the frothy equity markets of recent years have caused some borrowers to underweight."
   - q: "Is a cash-out refinance ever better than either option?"
     a: "Sometimes. A cash-out refinance replaces your first mortgage with a new, larger one and gives you the difference in cash. If refinance rates are close to your current rate, it can be cleaner. But if you locked in a 3% mortgage and today's rates are significantly higher, a cash-out refi means your entire mortgage balance reprices upward. In that case, a HELOC or home equity loan preserves your existing first mortgage rate. It's a calculation worth running."
+author: "Jennifer Walsh"
+author_slug: "jennifer-walsh"
+author_title: "Mortgage Writer"
+author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+
 ---
 
 You've got $80,000 in home equity and a major expense coming up. Maybe it's a kitchen remodel, a kid heading to college, or high-interest credit card debt you want to consolidate. You talk to your loan officer, and they mention two options almost in the same breath: a HELOC or a home equity loan. They make it sound interchangeable. It isn't. The difference between these two products can cost you thousands of dollars or, in some cases, save you thousands, depending entirely on how your situation actually unfolds. After 16 years of watching borrowers sign documents they didn't fully understand, I want to give you the real breakdown.

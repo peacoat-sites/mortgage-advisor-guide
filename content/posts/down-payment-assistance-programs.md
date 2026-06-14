@@ -6,8 +6,6 @@ description: "Learn how down payment assistance programs can help you buy a home
 image: "https://images.pexels.com/photos/5900233/pexels-photo-5900233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["down", "payment", "assistance", "programs"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "down-payment-assistance-programs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If your assistance was structured as a forgivable loan with a five or ten-year forgiveness period and you sell before that period ends, you'll typically be required to repay a prorated portion of the assistance from your sale proceeds. The specific terms vary by program. Read your second mortgage agreement carefully before you sign, and factor this into your plans if you think there's any chance you'll move within the first several years."
   - q: "Are down payment assistance programs taxable?"
     a: "Generally, grant-based assistance that you don't repay may have tax implications, though the specifics depend on the program structure and how it's characterized. Forgivable loans are treated differently than outright grants in some cases. This is a question worth putting directly to a tax professional, not just your loan officer, before you close."
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 You saved $8,000 and thought you were finally close. Then you ran the actual numbers and realized that a 20% down payment on a median-priced home in your area looks more like $60,000 or $70,000. That gap can feel crushing. But here's what a lot of buyers don't know: down payment assistance programs exist in nearly every state, and many buyers who qualify never apply simply because they didn't know to look. In my 16 years of underwriting, I watched that happen constantly. Qualified borrowers leaving real money on the table because no one told them it was there.

@@ -6,8 +6,6 @@ description: "Explore the latest 30-year fixed mortgage rate trends and expert f
 image: "https://images.pexels.com/photos/28914932/pexels-photo-28914932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Rates"]
 tags: ["current", "year", "fixed", "mortgage", "rates"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "current-30-year-fixed-mortgage-rates-forecast-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you're closing within 60 days, locking is generally the lower-risk move. Floating only makes sense if you have strong reason to believe rates are falling soon and you're comfortable with the possibility they move against you. Most buyers aren't in a position to absorb a 0.25% to 0.5% upward move."
   - q: "What credit score do I need to get the best mortgage rate in 2026?"
     a: "Conventional lenders typically reserve their best pricing tiers for borrowers at 760 and above. You can qualify with a lower score, but you'll pay for it in rate, points, or both. Getting to 760 or higher before you apply is one of the highest-return moves a borrower can make."
+author: "Ethan Chen"
+author_slug: "ethan-chen"
+author_title: "Real Estate Researcher"
+author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+
 ---
 
 Nobody knows exactly where mortgage rates are going in 2026. Not me, not the Fed, not the economists at Goldman Sachs who get paid very well to be wrong on a regular basis. What I *can* do is walk you through what the forecasts actually say, why they disagree with each other, and — more practically — how to think about the timing question if you're trying to decide whether to buy, wait, or refinance in the next 12 to 18 months.

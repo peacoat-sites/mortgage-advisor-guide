@@ -6,8 +6,6 @@ description: "Discover how self-employed borrowers can secure a mortgage with ti
 image: "https://images.pexels.com/photos/32045959/pexels-photo-32045959.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Qualification"]
 tags: ["mortgage", "when", "self", "employed"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-get-a-mortgage-when-self-employed"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not if you qualify conventionally. Your rate is determined by your credit score, loan-to-value ratio, loan type, and market conditions, not your employment type. You'll only pay a rate premium if you need a Non-QM product because you can't qualify through standard guidelines."
   - q: "What if one of my two years of tax returns shows a loss?"
     a: "A loss year is serious and can hurt your application significantly. Lenders typically average the two years, so a loss on year one can offset strong income in year two. Some lenders will use only the lower year rather than the average. Talk to a broker or lender before assuming a loss year disqualifies you entirely, because guidelines vary and there are sometimes compensating factors."
+author: "Jennifer Walsh"
+author_slug: "jennifer-walsh"
+author_title: "Mortgage Writer"
+author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+
 ---
 
 The tax return is the enemy of the self-employed borrower. I say that after sixteen years of watching otherwise strong candidates get rejected, delayed, or strong-armed into bad loan terms because their Schedule C made them look broke on paper even when they had $15,000 a month hitting their business checking account.

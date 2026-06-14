@@ -6,8 +6,6 @@ description: "Learn how to get preapproved for a mortgage with our step by step 
 image: "https://images.pexels.com/photos/34023907/pexels-photo-34023907.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["step", "step", "guide", "getting", "preapproved"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "step-by-step-guide-to-getting-preapproved-for-a-mortgage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Prequalification is a quick estimate based on unverified information you provide. Preapproval requires documentation, a credit pull, and a formal review. In practical terms, a prequalification tells you roughly what you might qualify for; a preapproval is a conditional commitment. If you're making offers on houses, prequalification won't cut it."
   - q: "What can disqualify me after preapproval?"
     a: "Plenty. A new credit account or large purchase that changes your DTI. A job change, especially from salaried to self-employed. A large unexplained deposit in your bank account. A low appraisal on the specific property. Or updated documents that show income lower than originally presented. Preapproval is conditional, and the conditions can change if your circumstances do. Keep your financial life stable from application through closing."
+author: "Maria Santos"
+author_slug: "maria-santos"
+author_title: "First-Time Buyer Coach"
+author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+
 ---
 
 Most preapproval guides tell you to "gather your documents and contact a lender." That's about as useful as telling someone to "buy low, sell high." What they skip is the sequence, the friction points, and the three or four places where borrowers quietly torpedo their own applications before they've even found a house.

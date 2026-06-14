@@ -6,8 +6,6 @@ description: "Learn what mortgage forbearance is, how it works, who qualifies, a
 image: "https://images.pexels.com/photos/34811748/pexels-photo-34811748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Hardship Options"]
 tags: ["mortgage", "forbearance", "explained"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "mortgage-forbearance-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Contact your servicer before the forbearance period ends, not after. In many cases, extensions are available, or you may be able to transition to a loan modification or another loss mitigation option. The worst thing you can do is let the forbearance expire without communicating your situation. Once it expires without a follow-up plan, you're delinquent again."
   - q: "Can a servicer refuse to grant forbearance?"
     a: "For federally backed loans (FHA, VA, USDA, Fannie Mae, Freddie Mac), servicers are generally required to offer forbearance to borrowers who document a qualifying hardship. For conventional loans not backed by a federal agency, servicers have more discretion, though most have their own hardship programs. If you feel your servicer isn't offering options you may be entitled to, a HUD-approved housing counselor can help you understand your rights and escalate if necessary."
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 You missed a mortgage payment last week. Maybe it was one payment, maybe it's been two. Your phone has started doing that thing where you recognize the number but you let it go to voicemail anyway. You're not irresponsible. Something happened, a job loss, a medical crisis, a divorce, a natural disaster, and the mortgage is the bill that feels biggest and most terrifying right now. If that's where you are, I want you to read this carefully, because the options available to you right now are better than you probably think, and the worst thing you can do is stay silent.

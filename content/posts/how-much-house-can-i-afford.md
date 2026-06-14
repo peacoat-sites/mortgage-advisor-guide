@@ -6,8 +6,6 @@ description: "Find out how much house you can afford based on your income, debt,
 image: "https://images.pexels.com/photos/7578935/pexels-photo-7578935.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["much", "house", "afford"]
-author: "Tom Whitfield"
-author_bio: "Mortgage broker turned consumer advocate. Helps borrowers compare loan products and avoid costly mistakes."
 slug: "how-much-house-can-i-afford"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Leave room. Your income might fluctuate, your expenses will grow, and something in that house will break. The buyers who feel most comfortable over a five to ten year horizon are almost never the ones who maxed out their pre-approval. Buying 15% to 20% below your maximum qualification gives you breathing room for raises, additional savings, and surprises. Homes should build wealth. They shouldn't create chronic financial stress."
   - q: "Can I use bonuses or side income to qualify for a larger loan?"
     a: "Lenders can use bonus or self-employment income if it's documented and consistent over a two-year history. A single large bonus won't typically count. Variable income that's been consistent and appears on two years of tax returns can be averaged and included. Just be careful about qualifying based on income you aren't certain will continue. Lenders verify history. They can't verify the future. Only you know whether that bonus is truly reliable or whether it was a one-time event."
+author: "Jennifer Walsh"
+author_slug: "jennifer-walsh"
+author_title: "Mortgage Writer"
+author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+
 ---
 
 Most buyers walk into a lender's office knowing exactly one number: the pre-approval amount. They take it as gospel. I've watched clients get pre-approved for $550,000 and immediately start touring homes at that ceiling, only to realize three months later that the monthly payment was quietly eating their financial life. A pre-approval tells you what a lender is willing to risk. It tells you almost nothing about what you can actually afford.

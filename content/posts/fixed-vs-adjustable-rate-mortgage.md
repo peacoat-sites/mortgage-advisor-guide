@@ -6,8 +6,11 @@ slug: "fixed-vs-adjustable-rate-mortgage"
 description: "The choice between a fixed and adjustable rate mortgage depends on how long you plan to stay in the home. Here's how to decide."
 categories: ["Loan Types"]
 tags: ["fixed rate mortgage", "adjustable rate mortgage", "ARM", "mortgage rates"]
-author: "David Carver"
-author_bio: "Former mortgage underwriter with 16 years at regional and national lenders. Now explains the mortgage process to home buyers."
+author: "Maria Santos"
+author_slug: "maria-santos"
+author_title: "First-Time Buyer Coach"
+author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+
 ---
 
 When you're shopping for a mortgage, the rate type choice -- fixed or adjustable -- has more impact on your long-term costs than almost anything else. But it's not complicated once you understand what you're actually choosing between.

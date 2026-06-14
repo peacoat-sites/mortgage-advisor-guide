@@ -6,8 +6,6 @@ description: "Learn how property tax escrow works with your mortgage, why lender
 image: "https://images.pexels.com/photos/34023965/pexels-photo-34023965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["property", "escrow", "mortgage"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "property-tax-escrow-mortgage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In most states, no. Federal law does not require lenders to pay interest on escrow funds, and most don't. A small number of states, including California and New York, have laws requiring interest to be paid on escrow balances, but the rate is typically minimal. If you're in one of those states, check your loan agreement to confirm whether it applies to your situation."
   - q: "What should I do if I think my escrow analysis is wrong?"
     a: "Request an escrow review in writing from your servicer. Include your actual tax bill and insurance declarations as supporting documentation. Servicers make errors, particularly during periods of rising home values when assessed values are catching up to market values unevenly. You have the right to contest the calculation. If you're not getting a clear response, the CFPB has a complaint process that tends to get servicer attention quickly."
+author: "Susan Taylor"
+author_slug: "susan-taylor"
+author_title: "Credit Writer"
+author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+
 ---
 
 You got your first mortgage statement in the mail, scanned down to the payment breakdown, and stopped cold. The number was higher than what you were quoted at closing. Not by a little, either. There's a line item called "escrow" that's eating up a few hundred dollars every month, and nobody explained what it actually is or whether you can get out of it. I've seen this exact moment of confusion play out hundreds of times across my career. The good news is it's not a mistake on the statement. The complicated news is that escrow is one of those things lenders love to gloss over because it makes the total payment feel bigger during sales conversations.

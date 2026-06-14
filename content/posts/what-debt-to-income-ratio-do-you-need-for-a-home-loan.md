@@ -6,8 +6,6 @@ description: "Find out what debt to income ratio you need to qualify for a home 
 image: "https://images.pexels.com/photos/5942520/pexels-photo-5942520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Qualification"]
 tags: ["what", "debt", "income", "ratio", "need"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "what-debt-to-income-ratio-do-you-need-for-a-home-loan"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. There's no floor on DTI. A lower DTI is always better from a qualification standpoint. Some borrowers assume having almost no debt is somehow suspicious. It isn't."
   - q: "Where can I learn more about the overall home buying process, not just DTI?"
     a: "Freddie Mac's home buying resources at myhome.freddiemac.com are genuinely solid and unbiased. For borrowers who want to do a deeper dive into the financial mechanics of mortgages, books like The Mortgage Encyclopedia by Jack Guttentag give you the technical foundation without the sales pitch. (This site may earn a commission on book purchases through affiliate links.)"
+author: "Susan Taylor"
+author_slug: "susan-taylor"
+author_title: "Credit Writer"
+author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+
 ---
 
 Most people walk into a lender's office thinking their credit score is the make-or-break number. I used to hear this assumption constantly. The borrower with a 760 score who can't understand why they're getting pushed back. What they didn't realize is that a lender spent maybe 30 seconds on that credit score before turning to the number that actually tells the real story: debt-to-income ratio. I've seen borrowers with near-perfect credit get denied, and borrowers with middling scores get approved, all because of DTI. If you're preparing to apply for a home loan and you haven't done a hard look at this number yet, you're doing it backwards.

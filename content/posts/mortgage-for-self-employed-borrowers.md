@@ -6,8 +6,6 @@ description: "Get approved for a mortgage as a self-employed borrower. Learn abo
 image: "https://images.pexels.com/photos/33305255/pexels-photo-33305255.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Qualification"]
 tags: ["mortgage", "self-employed", "borrowers"]
-author: "Susan Park"
-author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "mortgage-for-self-employed-borrowers"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Business debt that appears on your personal credit report is counted against your debt-to-income ratio. Business debt that is solely in your business name (with no personal guarantee reported to credit bureaus) typically is not. However, if you have an S-corp or LLC and personally guaranteed a business loan, expect it to show up in your DTI calculation. This is a common surprise that changes borrowers' qualifying amounts significantly."
   - q: "Should I choose a fixed or adjustable rate as a self-employed borrower?"
     a: "This is less about your employment type and more about your financial situation and timeline. Self-employed income can be variable, which makes many people lean toward the stability of a fixed rate. But if you have a strong cash flow, a realistic plan to pay down or refinance, and you're buying in a rate environment where adjustable rates offer meaningful savings, an ARM might make sense. Read through the comparison of fixed vs. adjustable rate mortgages before you decide. There's no universal right answer."
+author: "Maria Santos"
+author_slug: "maria-santos"
+author_title: "First-Time Buyer Coach"
+author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+
 ---
 
 You run your own business, your accountant is brilliant at minimizing your taxable income, and you just got turned down for a mortgage. Sound familiar? This is the exact trap that catches self-employed borrowers off guard every single time. The same tax strategy that saves you thousands in April becomes the thing that kills your loan application in June. After 16 years underwriting loans, I can tell you that self-employed borrowers are not riskier than W-2 employees. They just need to understand a completely different set of rules before they walk into a lender's office.

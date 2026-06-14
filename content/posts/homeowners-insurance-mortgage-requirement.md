@@ -6,8 +6,6 @@ description: "Discover why lenders require homeowners insurance as a mortgage co
 image: "https://images.pexels.com/photos/7768204/pexels-photo-7768204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["homeowners", "insurance", "mortgage", "requirement"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "homeowners-insurance-mortgage-requirement"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You have a short window (typically 30 to 45 days per your policy's cancellation notice) to find a replacement policy. Notify your lender immediately. Don't wait until you have a new policy in hand. Lenders can move quickly toward force-placed insurance once they receive a cancellation notice, and you don't want to be scrambling on day 29. If you're in a high-risk area and the private market is dropping you, look into state-run FAIR Plan programs, which exist specifically for this situation."
   - q: "Can I get a lower deductible to satisfy my lender?"
     a: "Yes, if your lender's requirement and your budget allow. But going lower than the lender's maximum deductible isn't required, and a higher deductible generally lowers your premium. Just make sure your deductible stays within the lender's maximum threshold (often 5% of dwelling coverage for wind/hail, sometimes stricter for standard perils). Some borrowers choose a high-deductible policy to reduce premiums and self-insure the gap. That's a defensible strategy, but pair it with an emergency fund that can actually cover the deductible."
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 You close on your dream home in three days. The lender calls to confirm your homeowners insurance is in place. You give them the policy number, feeling prepared. Then they come back with a problem: your dwelling coverage limit is $180,000 but your loan balance is $340,000. The policy you bought doesn't meet their requirements, and closing is now in jeopardy. I've watched this scene play out more times than I'd like to admit. It's entirely avoidable once you understand what lenders actually require and why.

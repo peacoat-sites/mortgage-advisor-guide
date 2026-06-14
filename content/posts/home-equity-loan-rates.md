@@ -6,8 +6,6 @@ description: "Explore current home equity loan rates, compare lenders, and learn
 image: "https://images.pexels.com/photos/10149296/pexels-photo-10149296.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Home Equity"]
 tags: ["home", "equity", "loan", "rates"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "home-equity-loan-rates"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most lenders require a minimum score of 620 to 640 to approve a home equity loan, but you won't see competitive pricing until you're at 700 or above. The best rates typically go to borrowers at 760 or higher, with strong equity and low CLTV. If your score is below 700, it may be worth spending a few months improving it before applying. The rate difference on a five-figure loan over 10 years can be substantial."
   - q: "Are home equity loan interest payments tax-deductible?"
     a: "Sometimes, but not always. Under current tax law, interest on a home equity loan is deductible only if the loan proceeds are used to buy, build, or substantially improve the home securing the loan. Using the money for debt consolidation, a car, or college tuition doesn't qualify. Tax law changes, and your individual situation affects the calculation. Confirm the deductibility with a tax professional before factoring it into your decision."
+author: "Ethan Chen"
+author_slug: "ethan-chen"
+author_title: "Real Estate Researcher"
+author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+
 ---
 
 You've got $80,000 in home equity and a kitchen that looks like it hasn't been updated since the Clinton administration. A home equity loan sounds like the obvious move. But here's what most articles on this topic skip: the rate you see advertised and the rate you'll actually get can be worlds apart, and the gap between them can cost you thousands over the life of the loan. Before you call a lender, you need to understand what drives home equity loan rates, what makes them different from other borrowing options, and exactly what to watch for in the fine print.

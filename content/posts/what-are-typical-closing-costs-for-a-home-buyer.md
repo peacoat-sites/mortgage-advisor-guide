@@ -6,8 +6,6 @@ description: "Learn what typical closing costs home buyers can expect, including
 image: "https://images.pexels.com/photos/30704827/pexels-photo-30704827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Closing"]
 tags: ["what", "typical", "closing", "costs", "home"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "what-are-typical-closing-costs-for-a-home-buyer"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. The CFPB's loan estimate explainer and several lender websites provide closing cost calculators. These give you a reasonable ballpark, but don't treat any estimate as final until you have an actual Loan Estimate (which lenders are required to issue within three business days of a complete application). That document gives you the numbers you can actually hold them to. If you want to go deeper, this home-buying workbook can help you map out the full picture (note: this site may earn a commission on purchases made through that link)."
   - q: "Do closing costs vary a lot by state?"
     a: "Significantly. A CoreLogic/Bankrate analysis from 2021 found average closing costs ranging from under $2,000 in some Midwestern states to over $6,000 in New York, not counting taxes. When you factor in transfer taxes, the gap widens further. Pennsylvania, Maryland, New York, Delaware, and Washington DC are consistently among the most expensive states for buyers in terms of total closing costs. If you're relocating from a low-cost state to a high-cost one, this can catch you completely off guard."
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 Nobody tells you the real number until you're three days from closing.

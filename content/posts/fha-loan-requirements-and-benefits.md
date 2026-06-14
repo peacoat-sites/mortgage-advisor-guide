@@ -6,8 +6,6 @@ description: "Discover FHA loan requirements, credit score minimums, down paymen
 image: "https://images.pexels.com/photos/5849569/pexels-photo-5849569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["loan", "requirements", "benefits"]
-author: "David Carver"
-author_bio: "Former mortgage underwriter with 16 years at regional and national lenders. Now explains the mortgage process to home buyers."
 slug: "fha-loan-requirements-and-benefits"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and for many borrowers this is actually part of the strategy. Once you've built enough equity (typically 20% or more), you can refinance into a conventional loan and eliminate the ongoing MIP. How long that takes depends on your home's appreciation and how much of the principal you've paid down. Run the numbers on a break-even timeline before assuming the refi will definitely make sense."
   - q: "Are FHA interest rates lower than conventional rates?"
     a: "Not necessarily. In my experience, the rate difference between FHA and conventional loans is often small, sometimes as little as 0.125% to 0.25%. The bigger cost difference comes from the mortgage insurance structure. A borrower who qualifies for both should compare the total monthly payment and total interest paid over their expected ownership period, not just the stated interest rate."
+author: "Susan Taylor"
+author_slug: "susan-taylor"
+author_title: "Credit Writer"
+author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+
 ---
 
 You saved up $12,000, your credit score sits at 620, and the conventional loan officer just told you to come back when you have 20% down. Sound familiar? That scenario plays out in loan offices across the country every week, and it's exactly the situation FHA loans were designed to solve. But here's what most people miss: FHA loans aren't just a consolation prize for buyers who can't qualify for conventional financing. For the right borrower, they're a genuinely strategic choice. The key is understanding what you're actually getting, including the parts your loan officer might not volunteer.

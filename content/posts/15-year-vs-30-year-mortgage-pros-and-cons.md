@@ -6,8 +6,6 @@ description: "Comparing 15 vs 30 year mortgages? Discover the key pros and cons 
 image: "https://images.pexels.com/photos/30840676/pexels-photo-30840676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["year", "year", "mortgage", "pros", "cons"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "15-year-vs-30-year-mortgage-pros-and-cons"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The same thing that happens on a 30-year: after a period of delinquency your credit takes serious damage, and eventually the lender can initiate foreclosure. There's no special protection or grace period built into the loan type. This is exactly why payment affordability in a bad year, not just a normal year, should factor into your decision."
   - q: "Is a 20-year mortgage a reasonable middle ground?"
     a: "It exists, and some lenders offer it, but it's much less common and you may not get the same rate competitiveness you'd see on a 15 or 30. For some borrowers it genuinely is a good fit, but you'll want to comparison shop carefully because the product isn't as standardized."
+author: "Jennifer Walsh"
+author_slug: "jennifer-walsh"
+author_title: "Mortgage Writer"
+author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+
 ---
 
 Most people treat this decision like a math problem. They pull up a mortgage calculator, see that the 15-year saves them $80,000 in interest, and start mentally patting themselves on the back for being so financially disciplined. What they miss is that the 15-year mortgage is also one of the fastest ways to wreck your financial flexibility — and I've watched it happen more times than I'd like to count.

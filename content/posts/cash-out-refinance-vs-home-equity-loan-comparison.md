@@ -6,8 +6,6 @@ description: "Compare cash out refinance vs home equity loan to find the best wa
 image: "https://images.pexels.com/photos/29726512/pexels-photo-29726512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Refinancing"]
 tags: ["cash", "refinance", "home", "equity", "loan"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "cash-out-refinance-vs-home-equity-loan-comparison"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Both liens get paid off at closing from the sale proceeds. The first mortgage gets paid first, then the home equity loan. As long as you have enough equity to cover both balances plus selling costs, there's no problem."
   - q: "Does a cash-out refinance hurt your credit score?"
     a: "It typically causes a small, temporary dip, the same way any new mortgage application does. You'll see hard inquiries during the application process, and the new account will lower your average account age. Most borrowers see scores recover within a few months if everything else stays stable."
+author: "Maria Santos"
+author_slug: "maria-santos"
+author_title: "First-Time Buyer Coach"
+author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+
 ---
 
 Most homeowners assume these two products are basically the same thing with different names. They're not. And choosing the wrong one cost a borrower I worked with in 2021 nearly $14,000 in unnecessary interest over five years. The difference matters, and I'll be honest: the mortgage industry doesn't always make it easy to see why.

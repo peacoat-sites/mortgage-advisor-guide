@@ -6,8 +6,6 @@ description: "Learn how to refinance your mortgage step by step. Discover when t
 image: "https://images.pexels.com/photos/8293764/pexels-photo-8293764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Refinancing"]
 tags: ["refinance", "mortgage"]
-author: "Alicia Rivera"
-author_bio: "Real estate finance educator specializing in first-time homebuyer programs and down payment assistance."
 slug: "how-to-refinance-mortgage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You'll typically need your two most recent years of federal tax returns and W-2s, your two most recent pay stubs, two to three months of bank and investment account statements, your current mortgage statement, and proof of homeowner's insurance. Self-employed borrowers may also need profit and loss statements and business bank records."
   - q: "Is a no-closing-cost refinance ever a good deal?"
     a: "It can be, particularly if you plan to sell or refinance again within a few years. Rolling costs into the rate or loan balance in exchange for not paying out of pocket limits your upfront risk when your time horizon is short. But if you'll stay in the home for 10 or more years, paying closing costs upfront and securing a lower rate will almost always cost you less overall."
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 Imagine you're three years into a 30-year mortgage you took out when rates were near historic highs. Your neighbor just mentioned she refinanced and cut her monthly payment by several hundred dollars. You start wondering if you've been leaving money on the table. Maybe you have been. Or maybe refinancing right now would actually cost you more than you'd ever save. That's the part most people don't figure out until after they've signed the papers.

@@ -6,8 +6,6 @@ description: "Struggling to get a mortgage with student loans? Learn how lenders
 image: "https://images.pexels.com/photos/8293638/pexels-photo-8293638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Qualification"]
 tags: ["mortgage", "with", "student", "loans"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "mortgage-with-student-loans"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Absolutely. As covered above, the repayment plan determines which payment figure lenders use in your DTI calculation. An income-driven plan with a documented, active monthly payment is generally treated more favorably than a $0 payment or a deferred account. Make sure your repayment status is clearly documented because underwriters won't guess in your favor."
   - q: "Can I get a mortgage with a high student loan balance but low monthly payments?"
     a: "Yes, and this is exactly the scenario where IDR plans can help. A $150,000 loan balance is less of an obstacle if your documented monthly payment is $200 than if it's imputed at $1,500. High balance with low documented payment is workable. High balance with unclear repayment status is the scenario that creates the most underwriting headaches."
+author: "Jennifer Walsh"
+author_slug: "jennifer-walsh"
+author_title: "Mortgage Writer"
+author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+
 ---
 
 You sat down with a loan officer last spring, excited about finally buying a house, and walked out confused and deflated. Your income looked fine. Your credit score was decent. But those student loans kept coming up. The loan officer mentioned something about your "debt-to-income ratio" being too high, threw out a few numbers, and suddenly the house you'd been picturing felt a lot further away. If that sounds familiar, you're not alone. I've sat across the table from hundreds of borrowers in exactly that spot, and I can tell you: the situation is almost never as hopeless as it feels in that moment. But you do need to understand what's actually happening under the hood.

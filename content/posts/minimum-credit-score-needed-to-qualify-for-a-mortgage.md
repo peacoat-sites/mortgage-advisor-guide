@@ -6,8 +6,6 @@ description: "Discover the minimum credit score needed to qualify for a mortgage
 image: "https://images.pexels.com/photos/8482871/pexels-photo-8482871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Qualification"]
 tags: ["minimum", "credit", "score", "needed", "qualify"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "minimum-credit-score-needed-to-qualify-for-a-mortgage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you apply jointly, most lenders use the lower of the middle scores from each borrower's three credit reports. One spouse's lower score can pull the qualifying score down and affect your rate, or in some cases make approval harder. Sometimes it makes sense for only the higher-score borrower to be on the mortgage application, though that person then has to qualify on their income alone."
   - q: "How long does it take to improve a credit score before applying for a mortgage?"
     a: "It genuinely depends on what's dragging your score down. If it's high utilization, you can see meaningful improvement in 30-60 days after paying balances down. If it's a history of late payments or collections, expect a longer runway, typically 6-12 months of consistent on-time payments before you see significant movement. A credit counselor or HUD-approved housing counselor can give you a specific plan based on your actual report."
+author: "Maria Santos"
+author_slug: "maria-santos"
+author_title: "First-Time Buyer Coach"
+author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+
 ---
 
 Your credit score is not a verdict on you as a person. I've had to remind myself to say that out loud in underwriting reviews, because the number on the screen can feel deeply personal when it determines whether someone gets approved for a home loan. If you're here because you pulled your score and felt your stomach drop a little, you're in exactly the right place.

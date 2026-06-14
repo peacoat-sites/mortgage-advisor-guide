@@ -6,8 +6,6 @@ description: "Learn how cash-out refinancing works, when it makes sense, and its
 image: "https://images.pexels.com/photos/30139495/pexels-photo-30139495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Refinancing"]
 tags: ["cash-out", "refinance", "explained"]
-author: "Susan Park"
-author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "cash-out-refinance-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Only if the funds are used to buy, build, or substantially improve your primary or secondary residence. If you pull $60,000 out to renovate your kitchen, the interest on that portion may be deductible. If you use it to pay off car loans or take a vacation, it's generally not. Tax law is specific and your situation is unique, so consult a tax professional before assuming any deduction applies."
   - q: "How long does a cash-out refinance take to close?"
     a: "Typically 30 to 45 days from application to closing, though some lenders move faster and some take longer. Appraisal scheduling, title work, and underwriting volume are the biggest variables. Rushed timelines sometimes mean less thorough review, so don't let urgency push you into accepting terms you haven't fully evaluated."
+author: "Ethan Chen"
+author_slug: "ethan-chen"
+author_title: "Real Estate Researcher"
+author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+
 ---
 
 You've been paying your mortgage for eight years. Your home is worth $120,000 more than you owe. And your kitchen still has the laminate countertops and fluorescent lighting from 1994. A cash-out refinance sounds like the obvious answer, and your loan officer is enthusiastic. But before you sign anything, you need to understand exactly what you're trading away, because this product has real costs that often get buried under the excitement of a big check.

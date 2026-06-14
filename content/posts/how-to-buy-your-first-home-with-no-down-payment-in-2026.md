@@ -6,8 +6,6 @@ description: "Learn how to buy your first home with no down payment in 2026. Exp
 image: "https://images.pexels.com/photos/31425035/pexels-photo-31425035.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["your", "first", "home", "with", "down"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-buy-your-first-home-with-no-down-payment-in-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "VA loans allow purchases of up to four units if you occupy one as your primary residence — which is one of the more powerful features of the program. USDA is single-family only. FHA allows two-to-four units with 3.5% down (not zero), so combined with a DPA program covering that 3.5%, it's technically possible. The underwriting on multi-unit purchases is more complex regardless of program."
   - q: "How long does the process take compared to a conventional purchase?"
     a: "USDA loans add a processing step because they require approval from the USDA itself, not just the lender. That can add two to four weeks to your closing timeline — sometimes more if the USDA office is backed up. VA and FHA with DPA programs run closer to a standard 30-45 day close, though DPA programs sometimes have their own funding timelines. If you're in a competitive market, understand that sellers know USDA closings take longer, and it can affect your offer's appeal."
+author: "Maria Santos"
+author_slug: "maria-santos"
+author_title: "First-Time Buyer Coach"
+author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+
 ---
 
 Zero down sounds like a trick. It isn't — but it does come with trade-offs that most articles either bury in paragraph fourteen or skip entirely. Let's fix that.

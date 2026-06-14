@@ -6,8 +6,6 @@ description: "Learn how to calculate your home equity by subtracting your mortga
 image: "https://images.pexels.com/photos/8292772/pexels-photo-8292772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Home Equity"]
 tags: ["calculate", "much", "home", "equity", "have"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-calculate-how-much-home-equity-you-have"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Home value is the total estimated worth of the property. Home equity is only the portion of that value you actually own, meaning what's left after subtracting all debt secured by the home. A $500,000 home with a $400,000 mortgage has $100,000 in equity, not $500,000."
   - q: "Will my lender use the same value I calculated?"
     a: "Probably not exactly. When you apply for a loan, your lender orders an independent appraisal, and that number controls the transaction. If the appraisal comes in lower than your estimate, your borrowable equity shrinks accordingly. It's one of the most common sources of frustration in home equity borrowing, and it's why knowing your number in advance matters."
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 You probably already know you have equity in your home. What you might not know is exactly how much, or whether the number you have in your head is accurate. That gap matters more than most people realize, especially if you're thinking about refinancing, taking out a home equity loan, or just trying to get a clear picture of your net worth.

@@ -6,8 +6,6 @@ description: "Learn what a mortgage escrow account is, how it works, and why len
 image: "https://images.pexels.com/photos/32045967/pexels-photo-32045967.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["mortgage", "escrow", "account", "explained"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "mortgage-escrow-account-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Several factors affect escrow amounts: your specific insurance coverage and policy type, the exact assessed value of your property versus theirs, when each property was last reassessed, and whether either of you has any tax exemptions like a homestead exemption. Even two nearly identical houses on the same street can have different tax and insurance profiles. If you think your taxes are too high, you can appeal your property assessment through your county assessor's office."
   - q: "What is an escrow impound account, and is it different?"
     a: "These are the same thing. 'Impound account' is simply the term used more commonly in western states like California, while 'escrow account' is the term used in most of the country. Both refer to the same mechanism: a servicer-managed account that collects funds for taxes and insurance as part of your monthly mortgage payment."
+author: "Ethan Chen"
+author_slug: "ethan-chen"
+author_title: "Real Estate Researcher"
+author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+
 ---
 
 You close on your home, you're handed a stack of papers thicker than a phone book, and somewhere buried in there is a section about an escrow account that your loan officer breezes past in about forty-five seconds. A year later, your mortgage payment jumps by $180 a month and you have no idea why. Nobody warned you this could happen. In my experience, escrow confusion is one of the top reasons borrowers feel blindsided after closing, and it's almost entirely preventable with a little upfront understanding.

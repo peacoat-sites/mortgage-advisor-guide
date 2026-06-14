@@ -6,8 +6,6 @@ description: "Learn how to qualify for a home loan with bad credit. Explore tips
 image: "https://images.pexels.com/photos/8293720/pexels-photo-8293720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Credit"]
 tags: ["qualify", "home", "loan", "with", "credit"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-qualify-for-a-home-loan-with-bad-credit"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, in several ways. A larger down payment lowers your loan-to-value ratio, which reduces lender risk. It can also function as a compensating factor that some underwriters weigh favorably when credit is marginal. Reaching 10% down specifically matters for FHA applicants with scores between 500 and 579, since it's required at that score range. And a larger down payment reduces your monthly mortgage insurance cost on FHA loans."
   - q: "Should I wait to buy, or apply now with my current credit?"
     a: "This is genuinely a personal decision that depends on your local housing market, your financial stability, and how close you are to a score threshold that would meaningfully improve your terms. In some markets, waiting 12 months while improving your credit could mean paying significantly more for the same house. In others, the opposite might be true. Run the numbers for your specific situation, talk to a HUD-approved counselor, and don't let either a lender or a fear of waiting make that decision for you. The truth is, people qualify for mortgages every single day with credit histories that co"
+author: "Maria Santos"
+author_slug: "maria-santos"
+author_title: "First-Time Buyer Coach"
+author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+
 ---
 
 Most people assume that a credit score below 620 is basically a closed door. You apply, you get declined, you wait years to try again. I believed that too, early in my career. Then I spent sixteen years watching people with scores in the 500s close on homes while borrowers with 680s got turned away. The score is one piece. The full picture is a lot more complicated, and a lot more hopeful, than most loan officers will take the time to explain.

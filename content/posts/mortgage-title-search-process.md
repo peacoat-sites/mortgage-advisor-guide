@@ -6,8 +6,6 @@ description: "Learn how the mortgage title search process works, why it matters 
 image: "https://images.pexels.com/photos/5849584/pexels-photo-5849584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Closing"]
 tags: ["mortgage", "title", "search", "process"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "mortgage-title-search-process"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The closing doesn't automatically fall apart. Many title defects are resolvable: a lien can be paid off, a clerical error can be corrected with a new filing, a missing release can be obtained. The title company coordinates this process. If the defect is serious and can't be cleared, you typically have the right to cancel the contract under a standard title contingency."
   - q: "Can I do my own title search?"
     a: "Technically, public records are public. You could search them yourself. Practically, a self-conducted title search won't satisfy a lender, won't produce insurable title, and requires knowing exactly what to look for across multiple record systems. This is not a DIY project with a margin for error. Use a licensed title company or real estate attorney."
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 You're three weeks from closing, the movers are booked, and your loan officer calls to say the title search turned up a lien from a contractor who worked on the house six years ago. The seller swears they never hired anyone by that name. Suddenly your closing date is a memory and you're learning, the hard way, what a title search actually does. I've seen this exact scenario play out more times than I can count, and almost every time, the buyer had no idea what a title search was until it became their problem.

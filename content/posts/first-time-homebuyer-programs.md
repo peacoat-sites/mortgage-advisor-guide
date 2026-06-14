@@ -6,8 +6,6 @@ description: "First-time homebuyer programs offer down payment assistance, low-i
 image: "https://images.pexels.com/photos/1560932/pexels-photo-1560932.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Getting Started"]
 tags: ["first-time", "homebuyer", "programs"]
-author: "Tom Whitfield"
-author_bio: "Mortgage broker turned consumer advocate. Helps borrowers compare loan products and avoid costly mistakes."
 slug: "first-time-homebuyer-programs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Longer than a standard purchase, generally. The additional approval layers required by state agencies and DPA providers typically add one to three weeks to the process. In competitive markets where sellers want quick closings, this can put buyers using assistance at a disadvantage. Talk to your lender early about realistic timelines, and review the mortgage approval timeline guide to understand where delays typically occur."
   - q: "Can I combine a first-time buyer program with seller concessions?"
     a: "Sometimes. It depends on the loan type and how the program structures the assistance. FHA and conventional loans have limits on how much sellers can contribute toward closing costs based on your down payment percentage. Stacking seller concessions on top of DPA requires careful coordination to stay within those limits and avoid issues at the closing table. Your lender needs to map this out before you make an offer."
+author: "Ethan Chen"
+author_slug: "ethan-chen"
+author_title: "Real Estate Researcher"
+author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+
 ---
 
 You saved up for three years, kept your credit clean, and finally feel ready to buy a home. Then you sit down with a loan officer who rattles off a list of programs you've never heard of, hands you a stack of pamphlets, and sends you home more confused than when you walked in. That scene plays out every single day, and it costs buyers real money. First-time homebuyer programs are among the most underused tools in residential lending. Some offer thousands of dollars in down payment assistance. Others knock a meaningful amount off your interest rate. But you have to know what exists, what you actually qualify for, and what strings come attached before you can use them wisely.

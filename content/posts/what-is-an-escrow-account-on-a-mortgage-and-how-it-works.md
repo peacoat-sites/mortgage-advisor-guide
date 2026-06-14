@@ -6,8 +6,6 @@ description: "Learn what an escrow account is on a mortgage, how it works, what 
 image: "https://images.pexels.com/photos/27505120/pexels-photo-27505120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Payments"]
 tags: ["what", "escrow", "account", "mortgage", "works"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "what-is-an-escrow-account-on-a-mortgage-and-how-it-works"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A shortage happens when your account balance fell below the required minimum, usually because taxes or insurance cost more than the servicer projected. Your servicer will give you the option to pay the shortage as a lump sum or spread it across 12 additional monthly payments. Paying the lump sum is usually cheaper over time."
   - q: "Is my escrow account earning interest?"
     a: "In most states and on most loans, no. Your servicer holds the funds but is generally not required to pay you interest on the balance. A handful of states, including California and New York, have laws requiring interest to be paid on escrow accounts, but the rates are typically minimal."
+author: "Jennifer Walsh"
+author_slug: "jennifer-walsh"
+author_title: "Mortgage Writer"
+author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+
 ---
 
 Most homebuyers sign their closing documents, see the line item for "escrow account," and nod like they understand it. They don't. And honestly, neither did I when I started in underwriting. I had to sit with a processor named Renée who drew it on a whiteboard in about 90 seconds and suddenly the whole thing clicked.

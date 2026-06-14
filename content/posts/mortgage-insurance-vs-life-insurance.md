@@ -6,8 +6,6 @@ description: "Confused about mortgage insurance vs life insurance? Discover the 
 image: "https://images.pexels.com/photos/5849574/pexels-photo-5849574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["mortgage", "insurance", "life", "insurance"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "mortgage-insurance-vs-life-insurance"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A common starting point is to include your full outstanding mortgage balance in your total coverage calculation, but most financial planners suggest thinking bigger. Factor in income replacement for your dependents, outstanding debts, childcare costs, and education expenses. The mortgage is one piece of a larger protection puzzle, not the whole picture."
   - q: "Does having term life insurance replace the need for MPI?"
     a: "In most cases for healthy borrowers, a well-structured term life policy provides broader, more flexible, and often more cost-effective protection than MPI. But 'in most cases' isn't 'in every case.' Your health, insurability, and personal financial situation matter. Talk to an independent insurance advisor, not someone who only sells one type of product, before making that call."
+author: "Jennifer Walsh"
+author_slug: "jennifer-walsh"
+author_title: "Mortgage Writer"
+author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+
 ---
 
 You're sitting across from a loan officer, paperwork spread out, and they slide over a form for "mortgage protection insurance." It feels like a formality. It feels like protection. Most people sign it without a second thought, and I'll be honest, that's exactly what the lender is counting on. What I found when I went deep on this topic surprised me: for many borrowers, mortgage insurance and life insurance solve overlapping problems, but in ways that are so fundamentally different, choosing the wrong one can cost your family tens of thousands of dollars in real value.

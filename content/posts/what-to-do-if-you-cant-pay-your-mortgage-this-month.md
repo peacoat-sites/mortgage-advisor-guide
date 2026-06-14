@@ -6,8 +6,6 @@ description: "Struggling to pay your mortgage this month? Discover urgent steps 
 image: "https://images.pexels.com/photos/29521542/pexels-photo-29521542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Hardship Options"]
 tags: ["what", "cant", "your", "mortgage", "this"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "what-to-do-if-you-cant-pay-your-mortgage-this-month"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This depends on your loan type and the specific forbearance agreement. For federally backed loans, lump-sum repayment at the end of forbearance is generally not required. You should have options to repay through a repayment plan, modification, or deferral. But you have to ask what the post-forbearance options are before you agree to anything, and get it in writing."
   - q: "What if I've already missed several payments and haven't contacted my servicer?"
     a: "Call today. Seriously. Even if you're three or four months behind, you're likely still within the window where loss mitigation options exist. The servicer cannot begin the formal foreclosure sale until a loss mitigation application submitted on time has been evaluated. A HUD-approved housing counselor can help you determine exactly where you stand and what's still available to you."
+author: "Ethan Chen"
+author_slug: "ethan-chen"
+author_title: "Real Estate Researcher"
+author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+
 ---
 
 The call I dreaded most in my underwriting years wasn't from a loan officer or an auditor. It was the one that started, "I don't know what to do. I can't make this payment." I took a lot of those calls. And the single biggest mistake I watched borrowers make, over and over, was waiting too long to act because they were embarrassed or convinced things would work themselves out.

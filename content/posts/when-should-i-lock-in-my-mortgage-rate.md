@@ -6,8 +6,6 @@ description: "Lock in your mortgage rate when rates are rising, your closing dat
 image: "https://images.pexels.com/photos/27641070/pexels-photo-27641070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Rates"]
 tags: ["when", "should", "lock", "mortgage", "rate"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "when-should-i-lock-in-my-mortgage-rate"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not necessarily. Longer locks cost more, either through a slightly higher rate or explicit fees. If your closing timeline is reliable and your file is clean, a shorter lock period saves money. A longer lock is worth the cost when your timeline is uncertain, you're buying new construction, or your file has complexities that might slow underwriting."
   - q: "Should I lock before I find a house?"
     a: "Generally, no. Some lenders offer pre-lock programs, but without a purchase price and closing date, a lock doesn't have much meaning. Focus on getting pre-approved, knowing your loan program, and understanding the rate environment. Lock once you have a signed contract and a real closing date to anchor the decision."
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 Most borrowers ask the wrong question. They spend hours watching rate trackers and refreshing mortgage news sites, waiting for the perfect moment to lock, as if they're trying to time the stock market. The real question isn't "when will rates be lowest?" It's "when do I need certainty, and what does certainty cost me?"

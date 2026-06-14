@@ -6,8 +6,6 @@ description: "Learn how mortgage points work, how much they cost, and whether bu
 image: "https://images.pexels.com/photos/7578975/pexels-photo-7578975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["mortgage", "points", "work", "they", "worth"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-do-mortgage-points-work-and-are-they-worth-buying"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No, and this confusion trips people up all the time. Origination points (or origination fees) are what the lender charges for processing and making the loan. You pay them regardless of what rate you get. Discount points are optional and specifically purchase a rate reduction. Both appear on your Loan Estimate, sometimes on the same line, which is why you should ask your lender to break them apart explicitly."
   - q: "Is buying points worth it in a high interest rate environment?"
     a: "It depends entirely on your breakeven timeline and your refinance expectations. In a high-rate environment where many buyers expect rates to fall within a few years, buying points carries more risk because a refinance would wipe out the benefit before you've recovered the cost. That doesn't make it automatically wrong, but it does mean you should stress-test the decision against a scenario where you refinance in 24 to 36 months. If the answer still works, go for it."
+author: "Susan Taylor"
+author_slug: "susan-taylor"
+author_title: "Credit Writer"
+author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+
 ---
 
 You're probably sitting with a loan estimate right now, staring at a line item that says something like "Discount Points: 1.000 ($3,200)" and wondering whether that's a gift or a trap. Maybe your loan officer mentioned you could "buy the rate down" and made it sound like an obvious win. Here's what I tell people in that moment: slow down. It's not a scam, but it's not always the deal it looks like either.

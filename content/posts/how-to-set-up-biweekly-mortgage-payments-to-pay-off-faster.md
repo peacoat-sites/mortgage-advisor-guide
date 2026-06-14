@@ -6,8 +6,6 @@ description: "Learn how to set up biweekly mortgage payments, save thousands in 
 image: "https://images.pexels.com/photos/7937317/pexels-photo-7937317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Payments"]
 tags: ["biweekly", "mortgage", "payments", "faster"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-set-up-biweekly-mortgage-payments-to-pay-off-faster"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Honestly, probably not on a pure math basis. At 3%, your money is likely working harder in an index fund or paying off higher-rate debt. The biweekly strategy delivers its biggest punch at 6%, 7%, 8% and above. At sub-4% rates, you might get more value from investing the difference. Run both scenarios with your actual numbers before committing."
   - q: "What's the difference between biweekly payments and just making one extra payment per year?"
     a: "Mathematically, over the long run, they're nearly identical in total impact. The biweekly method applies money slightly earlier throughout the year, which does compound a bit more favorably, but the difference between the two approaches is small. If your servicer makes biweekly setup complicated or fee-heavy, just make one lump extra principal payment in January. Same destination, easier road."
+author: "Susan Taylor"
+author_slug: "susan-taylor"
+author_title: "Credit Writer"
+author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+
 ---
 
 Sixteen extra mortgage payments over thirty years. That's what a true biweekly setup actually delivers, and it's the number that makes this strategy worth your time — or worth walking away from if your lender is selling you a fee-based program that does the same math.

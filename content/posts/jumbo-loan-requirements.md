@@ -6,8 +6,6 @@ description: "Jumbo loan requirements vary by lender but typically include stron
 image: "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Loan Types"]
 tags: ["jumbo", "loan", "requirements"]
-author: "Tom Whitfield"
-author_bio: "Mortgage broker turned consumer advocate. Helps borrowers compare loan products and avoid costly mistakes."
 slug: "jumbo-loan-requirements"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some lenders allow gift funds, but with more restrictions than on conforming loans. Many jumbo programs require that at least part of the down payment, often 10% to 20% of the purchase price, comes from the borrower's own funds. Gift funds must be fully documented with a signed gift letter, evidence of the donor's ability to give, and a clear transfer trail from the donor's account to yours. Undocumented transfers are one of the fastest ways to create problems in a jumbo file."
   - q: "What happens to jumbo loan requirements when rates rise sharply?"
     a: "Lenders tighten standards. This is consistent and predictable behavior. When rates rise quickly, home values often soften, and lenders become more conservative about high-balance loans where collateral risk is elevated. Reserve requirements increase, acceptable DTI ratios tighten, and some lenders temporarily exit the jumbo market entirely. Borrowers who were marginal qualifiers in a low-rate environment often find they no longer qualify when rates move materially. This is a key reason to qualify conservatively and not push your loan amount to the absolute maximum you can technically support."
+author: "Jennifer Walsh"
+author_slug: "jennifer-walsh"
+author_title: "Mortgage Writer"
+author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+
 ---
 
 You find a house you love. The price is $1.4 million. You have excellent credit, a substantial down payment, and a stable high income. You walk into the bank expecting smooth sailing. Then the loan officer explains that you're in "jumbo territory," and suddenly the conversation shifts. More documentation. Higher reserves. Stricter debt ratios. A different approval process entirely. A lot of borrowers are caught completely off guard by this, and it costs them time, deals, and sometimes the house itself.

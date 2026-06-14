@@ -6,8 +6,6 @@ description: "Discover what credit score you need for mortgage approval. Learn m
 image: "https://images.pexels.com/photos/7821472/pexels-photo-7821472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Qualification"]
 tags: ["credit", "score", "mortgage", "approval"]
-author: "Susan Park"
-author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "credit-score-for-mortgage-approval"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A pre-approval involves a hard inquiry, which can reduce your score by a few points, typically in the range of 2 to 5 points. Multiple mortgage inquiries within a 14 to 45 day window (depending on the scoring model) are usually treated as a single inquiry, so shopping multiple lenders in a short period won't compound the damage."
   - q: "Should I pay off all my debt before applying for a mortgage?"
     a: "Not necessarily all of it. Installment debt like car loans or student loans affects your DTI more than your score in most cases. Revolving debt (credit cards) affects both. The priority is typically to get card balances below 30% of limits, stay current on everything, and make sure your DTI lands in an acceptable range. Completely zeroing out accounts before applying can sometimes hurt your credit mix and age metrics. Ask a qualified loan officer or financial advisor to look at your specific situation before making large payoffs."
+author: "Jennifer Walsh"
+author_slug: "jennifer-walsh"
+author_title: "Mortgage Writer"
+author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+
 ---
 
 Your credit score is a three-digit number that can mean the difference between a 6.5% mortgage rate and a 7.8% rate on a $350,000 loan. Run those numbers and you're looking at a gap of roughly $300 per month, or tens of thousands of dollars over the life of the loan. I've watched borrowers walk away from closing tables confused about why their rate was higher than what they'd seen advertised, and almost every time, the answer traces back to a credit score they hadn't checked in years.

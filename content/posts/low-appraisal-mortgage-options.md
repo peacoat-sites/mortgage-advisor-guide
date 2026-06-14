@@ -6,8 +6,6 @@ description: "Discover your options when a home appraisal comes in low. Learn ho
 image: ""
 categories: ["Getting Started"]
 tags: ["appraisal", "mortgage", "options"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "low-appraisal-mortgage-options"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. The lender's loan amount is capped at a percentage of the appraised value, not the purchase price. You can't borrow your way over the gap. The cash to cover it has to come from you."
   - q: "How common are low appraisals, and is this worth worrying about?"
     a: "More common than most buyers expect. Studies from CoreLogic have shown that in certain price ranges and markets, appraisal shortfalls can affect 10-15% of transactions, though that number shifts significantly with market conditions. It's worth understanding your options before you make an offer, not after the appraisal report lands in your inbox."
+author: "Ethan Chen"
+author_slug: "ethan-chen"
+author_title: "Real Estate Researcher"
+author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+
 ---
 
 A low appraisal doesn't kill a deal. It just changes the math in ways most buyers aren't prepared for — and that panic is exactly what sellers and listing agents count on.

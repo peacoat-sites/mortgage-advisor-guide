@@ -6,8 +6,6 @@ description: "Wondering if mortgage interest is tax deductible in 2026? Learn th
 image: "https://images.pexels.com/photos/29998475/pexels-photo-29998475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["mortgage", "interest", "payments", "deductible", "2026"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "are-mortgage-interest-payments-tax-deductible-in-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Add up your mortgage interest, state and local taxes (capped at $10,000 or $40,000 depending on your income under the new legislation), and any charitable contributions. If that total exceeds the standard deduction for your filing status (roughly $15,000 for single, $30,000 for married filing jointly in 2026), itemizing saves you money. If it doesn't, take the standard deduction."
   - q: "What happens if my mortgage balance is over $750,000?"
     a: "You can only deduct the interest proportional to the $750,000 limit. If your outstanding balance is $1,000,000, you can deduct 75% of the interest paid that year. IRS Publication 936 includes the exact worksheet for calculating this proration, and your lender's Form 1098 provides the principal balance figure you'll need."
+author: "Maria Santos"
+author_slug: "maria-santos"
+author_title: "First-Time Buyer Coach"
+author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+
 ---
 
 The mortgage interest deduction has survived more "this is definitely its last year" predictions than I can count. Here we are in 2026, and it's still alive, still useful for a specific slice of homeowners, and still wildly misunderstood by almost everyone who thinks they're getting it.

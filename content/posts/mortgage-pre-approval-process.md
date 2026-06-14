@@ -6,8 +6,6 @@ description: "Get pre-approved for a mortgage with confidence. Learn step-by-ste
 image: "https://images.pexels.com/photos/7821495/pexels-photo-7821495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["mortgage", "pre-approval", "process"]
-author: "Susan Park"
-author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "mortgage-pre-approval-process"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You can, but it requires more documentation and more patience. Lenders will typically average your net income from the past two years of tax returns, not your gross receipts. If your business write-offs significantly reduce your taxable income, your qualifying income may be lower than you expect. Working with a loan officer who has specific experience with self-employed borrowers is worth the effort."
   - q: "Will pre-approval guarantee I get the loan?"
     a: "No. Pre-approval is a conditional commitment, not a contract to lend. The final loan is still subject to a satisfactory appraisal of the property, a clear title search, final underwriting review, and your financial situation remaining stable through closing. Any significant change to your income, debts, or credit profile between pre-approval and closing can affect the outcome. Always consult with a qualified mortgage professional about your specific situation."
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 You found the perfect house on a Tuesday. By Thursday, you lost it to another buyer who came in with a pre-approval letter. No contingencies, no hesitation, just a clean offer backed by paperwork that told the seller exactly what they needed to know. I've watched this scene play out dozens of times over the years, and the buyers who walk away empty-handed almost always say the same thing: "I didn't think I needed to do that part yet." Getting pre-approved isn't a formality you handle after you find the house. It's the work you do so you're ready when the house finds you.

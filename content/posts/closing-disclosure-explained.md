@@ -6,8 +6,6 @@ description: "A closing disclosure explains the final loan terms and costs befor
 image: "https://images.pexels.com/photos/7841406/pexels-photo-7841406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Closing"]
 tags: ["closing", "disclosure", "explained"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "closing-disclosure-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "That's a compliance issue, and you have leverage. Your lender is required by law to provide it within that timeframe. If closing is imminent and you don't have it, contact your real estate agent and ask them to contact the lender directly. You can also delay closing until the three-day window is satisfied. This may cause scheduling headaches, but signing documents you haven't had time to review is a much bigger problem."
   - q: "Do I need a lawyer to review my Closing Disclosure?"
     a: "You're not legally required to have one, but in some states, real estate attorneys are customary and sometimes mandatory participants in closings. If you're confused by anything on the CD, or if you're dealing with a complex transaction, consulting a real estate attorney before closing is money well spent. A good HUD-approved housing counselor is another option, often free or low-cost, and they're trained specifically to help borrowers understand these documents."
+author: "Robert Kim"
+author_slug: "robert-kim"
+author_title: "Refinancing Expert"
+author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+
 ---
 
 Most people spend more time reading the menu at a new restaurant than they spend reading their Closing Disclosure. I've watched borrowers sign a stack of documents at the closing table, Closing Disclosure included, without really understanding what they agreed to. And I get it: by that point you're exhausted, excited, and trusting that somebody caught the details. But here's what I wish more borrowers knew before that moment arrived: the Closing Disclosure is the single most important document in your entire mortgage transaction, and you legally have three business days to review it before anyone can ask you to sign anything. That window exists for a reason. Use it.

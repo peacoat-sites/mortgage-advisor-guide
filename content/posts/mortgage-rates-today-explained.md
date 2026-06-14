@@ -6,8 +6,6 @@ description: "Discover how mortgage rates work today, what drives them up or dow
 image: "https://images.pexels.com/photos/6120252/pexels-photo-6120252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Rates"]
 tags: ["mortgage", "rates", "today", "explained"]
-author: "Susan Park"
-author_bio: "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."
 slug: "mortgage-rates-today-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, within limits. Lenders have some flexibility, especially if you bring a competing Loan Estimate from another lender. Discount points let you buy the rate down further. Your credit score, down payment size, and loan type all affect what's negotiable. Shopping multiple lenders is the most effective 'negotiation' most borrowers can do."
   - q: "What's the difference between a rate lock and a float-down option?"
     a: "A rate lock secures your interest rate for a specific period while your loan is processed. A float-down option, which some lenders offer for an additional fee, allows you to capture a lower rate if market rates drop during your lock period. Float-down provisions come with conditions, usually a minimum rate drop threshold and specific timing requirements, so read the terms carefully before paying for one."
+author: "Ethan Chen"
+author_slug: "ethan-chen"
+author_title: "Real Estate Researcher"
+author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+
 ---
 
 You checked the rate on your lender's website Monday morning. By Wednesday afternoon, it had moved. Not by much, maybe a quarter of a point, but enough to change your monthly payment by $80 and your total interest cost by nearly $30,000 over the life of a 30-year loan. That's not a rounding error. That's a car payment. Mortgage rates aren't static numbers sitting on a sign at a dealership. They move every single business day, sometimes multiple times a day, and most borrowers have no idea why.
