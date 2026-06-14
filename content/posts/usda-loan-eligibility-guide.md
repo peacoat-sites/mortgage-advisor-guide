@@ -1,5 +1,5 @@
 ---
-title: "Usda Loan Eligibility Guide"
+title: "USDA Loan Eligibility Guide"
 date: 2026-05-26T09:18:43.059199+00:00
 draft: false
 description: "Learn if you qualify for a USDA loan with our complete eligibility guide covering income limits, property requirements, credit scores, and how to apply today."
