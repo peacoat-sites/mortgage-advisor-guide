@@ -1,0 +1,48 @@
+{{/* Mortgage payment calculator (client-side). Usage: {{< mortgage-calculator >}} */}}
+<div class="mtg-calc" style="margin:28px 0;border:1px solid var(--border,#e7e5e4);border-radius:14px;overflow:hidden">
+  <div style="padding:16px 20px;background:var(--surface2,#f5f2ec);font-weight:700;font-size:1.05rem">Mortgage Payment Calculator</div>
+  <div style="padding:20px">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px">
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Home price ($)
+        <input id="mc-price" type="number" value="400000" min="0" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Down payment ($)
+        <input id="mc-down" type="number" value="80000" min="0" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Interest rate (%)
+        <input id="mc-rate" type="number" step="0.01" value="6.5" min="0" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Loan term
+        <select id="mc-term" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b);background:#fff">
+          <option value="30">30 years</option><option value="20">20 years</option><option value="15">15 years</option><option value="10">10 years</option></select></label>
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Property tax (yearly $)
+        <input id="mc-tax" type="number" value="4800" min="0" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Home insurance (yearly $)
+        <input id="mc-ins" type="number" value="1800" min="0" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">HOA (monthly $)
+        <input id="mc-hoa" type="number" value="0" min="0" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
+    </div>
+    <div style="margin-top:20px;background:var(--surface2,#f5f2ec);border-radius:12px;padding:18px 20px;text-align:center">
+      <div style="font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted,#6b7280)">Estimated monthly payment</div>
+      <div id="mc-total" style="font-size:2.4rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.1;margin:4px 0 8px">$0</div>
+      <div id="mc-breakdown" style="font-size:13px;color:var(--muted,#6b7280);line-height:1.6"></div>
+    </div>
+  </div>
+</div>
+<script>
+(function(){
+  var ids=['mc-price','mc-down','mc-rate','mc-term','mc-tax','mc-ins','mc-hoa'];
+  function v(id){var e=document.getElementById(id);return e?(parseFloat(e.value)||0):0;}
+  function fmt(n){return '$'+Math.round(n).toLocaleString();}
+  function calc(){
+    var price=v('mc-price'),down=v('mc-down'),rate=v('mc-rate'),term=v('mc-term'),
+        tax=v('mc-tax'),ins=v('mc-ins'),hoa=v('mc-hoa');
+    var P=Math.max(0,price-down),r=rate/100/12,n=term*12,pi;
+    if(r>0){pi=P*r*Math.pow(1+r,n)/(Math.pow(1+r,n)-1);}else{pi=n>0?P/n:0;}
+    if(!isFinite(pi)||pi<0){pi=0;}
+    var mtax=tax/12,mins=ins/12,total=pi+mtax+mins+hoa;
+    var t=document.getElementById('mc-total');if(t)t.textContent=fmt(total);
+    var b=document.getElementById('mc-breakdown');
+    if(b)b.innerHTML='Principal &amp; interest: <b style="color:var(--text,#1e293b)">'+fmt(pi)+'</b> &middot; Taxes: <b style="color:var(--text,#1e293b)">'+fmt(mtax)+'</b> &middot; Insurance: <b style="color:var(--text,#1e293b)">'+fmt(mins)+'</b>'+(hoa>0?' &middot; HOA: <b style="color:var(--text,#1e293b)">'+fmt(hoa)+'</b>':'');
+  }
+  ids.forEach(function(id){var el=document.getElementById(id);if(el){el.addEventListener('input',calc);el.addEventListener('change',calc);}});
+  calc();
+})();
+</script>
