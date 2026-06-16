@@ -3,7 +3,7 @@ title: "Mortgage Pre-Approval Process"
 date: 2026-05-22T23:05:21.756734+00:00
 draft: false
 description: "Get pre-approved for a mortgage with confidence. Learn step-by-step how the pre-approval process works, what lenders look for, and how to strengthen your applic"
-image: "https://images.pexels.com/photos/7821495/pexels-photo-7821495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5816288/pexels-photo-5816288.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["mortgage", "pre-approval", "process"]
 slug: "mortgage-pre-approval-process"
@@ -149,7 +149,7 @@ The pre-approval process isn't the exciting part of buying a home. Finding the h
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai) via Pexels*
 
 ---
 

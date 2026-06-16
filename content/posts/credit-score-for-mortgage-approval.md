@@ -3,7 +3,7 @@ title: "Credit Score For Mortgage Approval"
 date: 2026-05-27T21:48:16.017760+00:00
 draft: false
 description: "Discover what credit score you need for mortgage approval. Learn minimum requirements, how lenders evaluate credit, and tips to improve your score before applyi"
-image: "https://images.pexels.com/photos/7821472/pexels-photo-7821472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6289024/pexels-photo-6289024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Qualification"]
 tags: ["credit", "score", "mortgage", "approval"]
 slug: "credit-score-for-mortgage-approval"
@@ -136,7 +136,7 @@ Your credit score is one piece of a larger puzzle, but it's the piece that most 
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
 
 ---
 

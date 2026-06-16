@@ -3,7 +3,7 @@ title: "USDA Loan Eligibility Guide"
 date: 2026-05-26T09:18:43.059199+00:00
 draft: false
 description: "Learn if you qualify for a USDA loan with our complete eligibility guide covering income limits, property requirements, credit scores, and how to apply today."
-image: "https://images.pexels.com/photos/13387079/pexels-photo-13387079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7821935/pexels-photo-7821935.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["USDA", "loan", "eligibility", "guide"]
 slug: "usda-loan-eligibility-guide"
@@ -143,7 +143,7 @@ The USDA loan won't work for everyone. If you're buying in a dense urban area, y
 - **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

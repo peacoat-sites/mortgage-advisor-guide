@@ -3,7 +3,7 @@ title: "Mortgage For Self-Employed Borrowers"
 date: 2026-05-19T02:53:08.294316+00:00
 draft: false
 description: "Get approved for a mortgage as a self-employed borrower. Learn about income documentation, credit requirements, and lender options to secure your home loan."
-image: "https://images.pexels.com/photos/33305255/pexels-photo-33305255.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7111544/pexels-photo-7111544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Qualification"]
 tags: ["mortgage", "self-employed", "borrowers"]
 slug: "mortgage-for-self-employed-borrowers"
@@ -156,7 +156,7 @@ Getting a mortgage as a self-employed borrower is absolutely achievable. Million
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Tara Winstead](https://www.pexels.com/@tara-winstead) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Step By Step Guide To Getting Preapproved For A Mortgage"
 date: 2026-06-09T17:48:18.988682+00:00
 draft: false
 description: "Learn how to get preapproved for a mortgage with our step by step guide. Discover what lenders look for, documents needed, and tips to boost your approval odds."
-image: "https://images.pexels.com/photos/34023907/pexels-photo-34023907.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/29899813/pexels-photo-29899813.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["step", "step", "guide", "getting", "preapproved"]
 slug: "step-by-step-guide-to-getting-preapproved-for-a-mortgage"

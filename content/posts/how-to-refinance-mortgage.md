@@ -3,7 +3,7 @@ title: "How To Refinance Mortgage"
 date: 2026-05-22T07:56:42.075594+00:00
 draft: false
 description: "Learn how to refinance your mortgage step by step. Discover when to refinance, how to compare lenders, and ways to lower your rate and save money long term."
-image: "https://images.pexels.com/photos/8293764/pexels-photo-8293764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8962686/pexels-photo-8962686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Refinancing"]
 tags: ["refinance", "mortgage"]
 slug: "how-to-refinance-mortgage"
@@ -158,7 +158,7 @@ Take your time with this decision. Run the numbers more than once, shop more tha
 - **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
 
 
-*Photo: [Atlantic Ambience](https://www.pexels.com/@freestockpro) via Pexels*
+*Photo: [Ivan S](https://www.pexels.com/@ivan-s) via Pexels*
 
 ---
 

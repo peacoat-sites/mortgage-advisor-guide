@@ -3,7 +3,7 @@ title: "Mortgage With Student Loans"
 date: 2026-05-26T00:41:44.089787+00:00
 draft: false
 description: "Struggling to get a mortgage with student loans? Learn how lenders assess your debt, tips to boost approval odds, and how to buy a home despite student debt."
-image: "https://images.pexels.com/photos/8293638/pexels-photo-8293638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8292840/pexels-photo-8292840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Qualification"]
 tags: ["mortgage", "with", "student", "loans"]
 slug: "mortgage-with-student-loans"

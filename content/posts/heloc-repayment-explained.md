@@ -3,7 +3,7 @@ title: "Heloc Repayment Explained"
 date: 2026-06-13T17:04:28.998762+00:00
 draft: false
 description: "Learn how HELOC repayment works, including draw and repayment periods, monthly payment calculations, and tips to manage your home equity line of credit effectiv"
-image: "https://images.pexels.com/photos/28053222/pexels-photo-28053222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4792483/pexels-photo-4792483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Home Equity"]
 tags: ["HELOC", "repayment", "explained"]
 slug: "heloc-repayment-explained"
@@ -98,7 +98,7 @@ For a detailed walkthrough of how to read and compare loan products before you s
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Anete Lusina](https://www.pexels.com/@anete-lusina) via Pexels*
 
 ---
 

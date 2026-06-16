@@ -3,7 +3,7 @@ title: "Low Appraisal Mortgage Options"
 date: 2026-06-14T17:04:08.963447+00:00
 draft: false
 description: "Discover your options when a home appraisal comes in low. Learn how to renegotiate, appeal, or secure alternative mortgage solutions to keep your purchase on tr"
-image: "https://images.pexels.com/photos/11348119/pexels-photo-11348119.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8293664/pexels-photo-8293664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["appraisal", "mortgage", "options"]
 slug: "low-appraisal-mortgage-options"

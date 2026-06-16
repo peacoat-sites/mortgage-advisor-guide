@@ -3,7 +3,7 @@ title: "How To Buy Your First Home With No Down Payment In 2026"
 date: 2026-06-05T12:21:08.579824+00:00
 draft: false
 description: "Learn how to buy your first home with no down payment in 2026. Explore top loan programs, grants, and tips to help first-time buyers achieve homeownership faste"
-image: "https://images.pexels.com/photos/31425035/pexels-photo-31425035.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8730048/pexels-photo-8730048.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["your", "first", "home", "with", "down"]
 slug: "how-to-buy-your-first-home-with-no-down-payment-in-2026"
@@ -104,7 +104,7 @@ The buyers I've seen do well with zero-down programs have stable employment, man
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
 ---
 

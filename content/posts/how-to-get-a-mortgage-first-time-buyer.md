@@ -3,7 +3,7 @@ title: "How To Get A Mortgage First Time Buyer"
 date: 2026-05-28T19:56:07.176395+00:00
 draft: false
 description: "Learn how to get a mortgage as a first time buyer. Discover deposit requirements, eligibility tips, and step-by-step guidance to help you secure your first home"
-image: "https://images.pexels.com/photos/7841821/pexels-photo-7841821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8301235/pexels-photo-8301235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["mortgage", "first", "time", "buyer"]
 slug: "how-to-get-a-mortgage-first-time-buyer"
@@ -145,7 +145,7 @@ The mortgage process rewards preparation more than any other factor. You don't n
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
 
 
-*Photo: [Atlantic Ambience](https://www.pexels.com/@freestockpro) via Pexels*
+*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
 

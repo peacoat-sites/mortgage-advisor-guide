@@ -1,6 +1,6 @@
 ---
 title: "Mortgage Closing Costs Explained"
-image: "https://images.pexels.com/photos/8292839/pexels-photo-8292839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7545333/pexels-photo-7545333.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-05-22T21:07:46.663300+00:00
 draft: false
 description: "Learn what mortgage closing costs are, how much to expect, and which fees are negotiable. Get prepared before you close on your new home and avoid costly surpri"
@@ -130,7 +130,7 @@ Closing costs aren't an afterthought. They're a real and significant part of the
 - **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
 ---
 

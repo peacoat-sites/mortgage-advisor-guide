@@ -3,7 +3,7 @@ title: "How Reverse Mortgage Works"
 date: 2026-05-19T03:42:18.965806+00:00
 draft: false
 description: "Discover how a reverse mortgage works, who qualifies, and how it converts home equity into tax-free income. Learn the costs, risks, and benefits before deciding"
-image: "https://images.pexels.com/photos/31424880/pexels-photo-31424880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8292884/pexels-photo-8292884.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["reverse", "mortgage", "works"]
 slug: "how-reverse-mortgage-works"
@@ -127,7 +127,7 @@ A reverse mortgage can be a legitimate retirement planning tool, or it can be th
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

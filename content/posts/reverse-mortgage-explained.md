@@ -3,7 +3,7 @@ title: "Reverse Mortgage Explained"
 date: 2026-05-18T16:11:55.301744+00:00
 draft: false
 description: "Discover how a reverse mortgage works, who qualifies, and the pros and cons. Learn if tapping your home equity in retirement is the right financial move for you"
-image: "https://images.pexels.com/photos/7578882/pexels-photo-7578882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8470803/pexels-photo-8470803.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["reverse", "mortgage", "explained"]
 slug: "reverse-mortgage-explained"
@@ -124,7 +124,7 @@ There's nothing inherently predatory about a reverse mortgage, but there's a lot
 - **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Thirdman](https://www.pexels.com/@thirdman) via Pexels*
 
 ---
 

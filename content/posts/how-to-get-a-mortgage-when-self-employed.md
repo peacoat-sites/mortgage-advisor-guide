@@ -3,7 +3,7 @@ title: "How To Get A Mortgage When Self Employed"
 date: 2026-06-12T17:55:02.373708+00:00
 draft: false
 description: "Discover how self-employed borrowers can secure a mortgage with tips on proving income, improving credit, choosing lenders, and gathering the right documentatio"
-image: "https://images.pexels.com/photos/32045959/pexels-photo-32045959.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5712081/pexels-photo-5712081.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Qualification"]
 tags: ["mortgage", "when", "self", "employed"]
 slug: "how-to-get-a-mortgage-when-self-employed"
@@ -106,7 +106,7 @@ For the borrower who wants to do deeper prep work, a resource like *The Self-Emp
 - **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Arina Krasnikova](https://www.pexels.com/@arina-krasnikova) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Cash-Out Refinance Explained"
 date: 2026-05-20T18:29:08.049940+00:00
 draft: false
 description: "Learn how cash-out refinancing works, when it makes sense, and its pros and cons. Refinance your mortgage to access home equity and get cash today."
-image: "https://images.pexels.com/photos/30139495/pexels-photo-30139495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7680324/pexels-photo-7680324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Refinancing"]
 tags: ["cash-out", "refinance", "explained"]
 slug: "cash-out-refinance-explained"
@@ -113,7 +113,7 @@ A cash-out refinance can be a genuinely smart financial move, or it can quietly 
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
 

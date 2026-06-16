@@ -3,7 +3,7 @@ title: "Options To Avoid Foreclosure When Behind On Payments"
 date: 2026-06-03T14:07:18.342284+00:00
 draft: false
 description: "Learn your options to avoid foreclosure when behind on payments. Explore loan modifications, repayment plans, refinancing, and more to save your home today."
-image: "https://images.pexels.com/photos/10397930/pexels-photo-10397930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11723944/pexels-photo-11723944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Hardship Options"]
 tags: ["options", "avoid", "foreclosure", "when", "behind"]
 slug: "options-to-avoid-foreclosure-when-behind-on-payments"
@@ -102,7 +102,7 @@ If you want to go in better prepared, Erik Whitman's *Foreclosure Prevention Wor
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Kris Møklebust](https://www.pexels.com/@moklebust) via Pexels*
 
 ---
 

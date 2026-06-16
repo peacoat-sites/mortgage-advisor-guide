@@ -3,7 +3,7 @@ title: "Down Payment Assistance Programs"
 date: 2026-05-22T10:47:30.306981+00:00
 draft: false
 description: "Learn how down payment assistance programs can help you buy a home with grants, loans, and subsidies. Find programs near you and qualify for homeownership today"
-image: "https://images.pexels.com/photos/5900233/pexels-photo-5900233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3943730/pexels-photo-3943730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["down", "payment", "assistance", "programs"]
 slug: "down-payment-assistance-programs"
@@ -135,7 +135,7 @@ The path to homeownership doesn't always look the way you expected. Saving a ful
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
 ---
 

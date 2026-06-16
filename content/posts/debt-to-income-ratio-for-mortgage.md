@@ -3,7 +3,7 @@ title: "Debt To Income Ratio For Mortgage"
 date: 2026-05-21T21:28:12.496377+00:00
 draft: false
 description: "Debt to income ratio is a key metric lenders use to determine mortgage eligibility. Learn how it's calculated and how to improve yours for better loan approval "
-image: "https://images.pexels.com/photos/7821914/pexels-photo-7821914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5466806/pexels-photo-5466806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Qualification"]
 tags: ["debt", "income", "ratio", "mortgage"]
 slug: "debt-to-income-ratio-for-mortgage"
@@ -129,7 +129,7 @@ DTI is one of those numbers that feels abstract until the moment it matters, and
 - **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
 
 
-*Photo: [Atlantic Ambience](https://www.pexels.com/@freestockpro) via Pexels*
+*Photo: [olia danilevich](https://www.pexels.com/@olia-danilevich) via Pexels*
 
 ---
 

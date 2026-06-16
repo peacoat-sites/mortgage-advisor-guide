@@ -3,7 +3,7 @@ title: "Home Loan Application Checklist"
 date: 2026-05-29T01:59:43.809239+00:00
 draft: false
 description: "Get your home loan application approved faster with our complete checklist. Learn what documents and information lenders require before you apply."
-image: "https://images.pexels.com/photos/7821513/pexels-photo-7821513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7979428/pexels-photo-7979428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["home", "loan", "application", "checklist"]
 slug: "home-loan-application-checklist"
@@ -165,7 +165,7 @@ A mortgage application rewards preparation more than almost any other financial 
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Mortgage Recast Explained"
 date: 2026-06-15T19:37:41.035300+00:00
 draft: false
 description: "Learn how a mortgage recast lowers your monthly payment by re-amortizing your loan after a lump sum payment, without refinancing or changing your rate."
-image: "https://images.pexels.com/photos/7578879/pexels-photo-7578879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11348120/pexels-photo-11348120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Payments"]
 tags: ["mortgage", "recast", "explained"]
 author: "Jennifer Walsh"
@@ -85,7 +85,7 @@ The most common reaction I get when I explain recasting to someone who's never h
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Picas Joe](https://www.pexels.com/@picasjoe) via Pexels*
 
 ---
 

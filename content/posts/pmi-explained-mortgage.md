@@ -3,7 +3,7 @@ title: "Pmi Explained Mortgage"
 date: 2026-05-29T18:32:25.042407+00:00
 draft: false
 description: "Learn what PMI is, why lenders require it, how much it costs, and when you can cancel it to stop paying private mortgage insurance on your home loan."
-image: "https://images.pexels.com/photos/7736029/pexels-photo-7736029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32641816/pexels-photo-32641816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["explained", "mortgage"]
 slug: "pmi-explained-mortgage"
@@ -112,7 +112,7 @@ If you want to take a deeper look at how all these options compare before talkin
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [DΛVΞ GΛRCIΛ](https://www.pexels.com/@davegarcia) via Pexels*
 
 ---
 

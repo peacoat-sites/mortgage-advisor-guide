@@ -3,7 +3,7 @@ title: "Homeowners Insurance Mortgage Requirement"
 date: 2026-05-29T04:19:04.596931+00:00
 draft: false
 description: "Discover why lenders require homeowners insurance as a mortgage condition, what coverage you need, and how to meet this requirement to protect your home and loa"
-image: "https://images.pexels.com/photos/7768204/pexels-photo-7768204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7579046/pexels-photo-7579046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["homeowners", "insurance", "mortgage", "requirement"]
 slug: "homeowners-insurance-mortgage-requirement"

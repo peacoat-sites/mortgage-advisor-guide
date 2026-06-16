@@ -3,7 +3,7 @@ title: "Mortgage Qualification Requirements"
 date: 2026-05-21T06:58:14.304670+00:00
 draft: false
 description: "Learn what it takes to qualify for a mortgage. Explore credit score minimums, debt-to-income ratios, down payment options, and income verification requirements."
-image: "https://images.pexels.com/photos/7579192/pexels-photo-7579192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8850713/pexels-photo-8850713.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["mortgage", "qualification", "requirements"]
 slug: "mortgage-qualification-requirements"
@@ -151,7 +151,7 @@ Getting a mortgage isn't about impressing a loan officer. It's about presenting 
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Tara Winstead](https://www.pexels.com/@tara-winstead) via Pexels*
 
 ---
 

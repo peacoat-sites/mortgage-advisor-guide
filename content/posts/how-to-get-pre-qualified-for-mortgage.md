@@ -3,7 +3,7 @@ title: "How To Get Pre-Qualified For Mortgage"
 date: 2026-05-25T15:48:01.080846+00:00
 draft: false
 description: "Get pre-qualified for a mortgage in simple steps. Learn requirements, documents needed, and how pre-qualification affects your home buying power today."
-image: "https://images.pexels.com/photos/8292888/pexels-photo-8292888.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9870227/pexels-photo-9870227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["pre-qualified", "mortgage"]
 slug: "how-to-get-pre-qualified-for-mortgage"
@@ -118,7 +118,7 @@ Pre-qualification won't win you a house by itself, but walking into a serious ho
 - **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
 
 ---
 

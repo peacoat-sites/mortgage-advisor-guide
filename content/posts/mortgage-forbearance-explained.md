@@ -3,7 +3,7 @@ title: "Mortgage Forbearance Explained"
 date: 2026-05-21T15:21:55.352714+00:00
 draft: false
 description: "Learn what mortgage forbearance is, how it works, who qualifies, and what happens when it ends. Protect your home and credit during financial hardship."
-image: "https://images.pexels.com/photos/34811748/pexels-photo-34811748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/23224993/pexels-photo-23224993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Hardship Options"]
 tags: ["mortgage", "forbearance", "explained"]
 slug: "mortgage-forbearance-explained"
@@ -131,7 +131,7 @@ The most important thing I can leave you with is this: the phone call you're avo
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
 ---
 

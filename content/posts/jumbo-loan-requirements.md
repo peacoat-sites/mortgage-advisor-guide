@@ -3,7 +3,7 @@ title: "Jumbo Loan Requirements"
 date: 2026-05-29T08:16:52.541877+00:00
 draft: false
 description: "Jumbo loan requirements vary by lender but typically include strong credit scores, significant down payments, and detailed financial documentation for approval."
-image: "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+image: "https://images.pexels.com/photos/7876001/pexels-photo-7876001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["jumbo", "loan", "requirements"]
 slug: "jumbo-loan-requirements"

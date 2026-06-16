@@ -3,7 +3,7 @@ title: "Mortgage Loan Modification Options"
 date: 2026-05-18T23:56:09.365714+00:00
 draft: false
 description: "Explore mortgage loan modification options to lower your monthly payments, reduce interest rates, and avoid foreclosure. Find the right solution to keep your ho"
-image: "https://images.pexels.com/photos/27960363/pexels-photo-27960363.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7841424/pexels-photo-7841424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Hardship Options"]
 tags: ["mortgage", "loan", "modification", "options"]
 slug: "mortgage-loan-modification-options"
@@ -148,7 +148,7 @@ You don't have to navigate this alone, and you shouldn't have to figure it out b
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Mortgage Escrow Account Explained"
 date: 2026-05-29T20:01:57.921959+00:00
 draft: false
 description: "Learn what a mortgage escrow account is, how it works, and why lenders require it. Discover how escrow manages your property taxes and insurance payments."
-image: "https://images.pexels.com/photos/32045967/pexels-photo-32045967.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7821476/pexels-photo-7821476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["mortgage", "escrow", "account", "explained"]
 slug: "mortgage-escrow-account-explained"
@@ -108,7 +108,7 @@ Escrow isn't complicated once you see the full picture, but the full picture is 
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

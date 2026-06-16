@@ -3,7 +3,7 @@ title: "First-Time Homebuyer Programs"
 date: 2026-05-20T07:59:28.319437+00:00
 draft: false
 description: "First-time homebuyer programs offer down payment assistance, low-interest loans, and tax credits to help new buyers afford their first home affordably."
-image: "https://images.pexels.com/photos/1560932/pexels-photo-1560932.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+image: "https://images.pexels.com/photos/7489099/pexels-photo-7489099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["first-time", "homebuyer", "programs"]
 slug: "first-time-homebuyer-programs"

@@ -3,7 +3,7 @@ title: "Best Mortgage Lenders For First Time Home Buyers 2026"
 date: 2026-06-02T12:54:08.807772+00:00
 draft: false
 description: "Discover the best mortgage lenders for first time home buyers in 2026. Compare rates, loan options, and lender benefits to find your perfect home loan today."
-image: "https://images.pexels.com/photos/12955837/pexels-photo-12955837.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8292854/pexels-photo-8292854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping"]
 tags: ["best", "mortgage", "lenders", "first", "time"]
 slug: "best-mortgage-lenders-for-first-time-home-buyers-2026"
@@ -134,7 +134,7 @@ The mortgage process was designed by and for people who do it every day. You do 
 - **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
 
 
-*Photo: [Atlantic Ambience](https://www.pexels.com/@freestockpro) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

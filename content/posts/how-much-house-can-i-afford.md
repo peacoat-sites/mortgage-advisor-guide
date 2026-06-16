@@ -3,7 +3,7 @@ title: "How Much House Can I Afford"
 date: 2026-05-28T11:32:14.298334+00:00
 draft: false
 description: "Find out how much house you can afford based on your income, debt, and down payment. Use our tips and tools to set a realistic homebuying budget today."
-image: "https://images.pexels.com/photos/7578935/pexels-photo-7578935.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15409440/pexels-photo-15409440.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["much", "house", "afford"]
 slug: "how-much-house-can-i-afford"
@@ -149,7 +149,7 @@ Take your time with this math before you fall in love with a house. The right ho
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007) via Pexels*
 
 ---
 

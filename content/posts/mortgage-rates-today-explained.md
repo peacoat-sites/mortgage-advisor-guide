@@ -3,7 +3,7 @@ title: "Mortgage Rates Today Explained"
 date: 2026-05-28T10:49:48.293673+00:00
 draft: false
 description: "Discover how mortgage rates work today, what drives them up or down, and how to secure the best rate for your home loan. Updated insights for smart borrowers."
-image: "https://images.pexels.com/photos/6120252/pexels-photo-6120252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8293636/pexels-photo-8293636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Rates"]
 tags: ["mortgage", "rates", "today", "explained"]
 slug: "mortgage-rates-today-explained"
@@ -130,7 +130,7 @@ The mortgage market rewards borrowers who take the time to understand it, and it
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

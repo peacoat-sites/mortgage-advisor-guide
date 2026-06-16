@@ -3,7 +3,7 @@ title: "Mortgage Down Payment Options"
 date: 2026-05-21T02:04:16.273662+00:00
 draft: false
 description: "Explore mortgage down payment options including conventional, FHA, VA, and USDA loans. Learn how much you need and find programs to help you buy your home soone"
-image: "https://images.pexels.com/photos/6863252/pexels-photo-6863252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7680623/pexels-photo-7680623.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["mortgage", "down", "payment", "options"]
 slug: "mortgage-down-payment-options"
@@ -140,7 +140,7 @@ The down payment decision touches your monthly cash flow, your long-term equity,
 - **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
 

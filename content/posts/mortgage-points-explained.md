@@ -3,7 +3,7 @@ title: "Mortgage Points Explained"
 date: 2026-05-26T07:25:53.768236+00:00
 draft: false
 description: "Lower your interest rate by paying mortgage points upfront. Learn how points work, calculate savings, and decide if they're right for your home loan."
-image: "https://images.pexels.com/photos/7641859/pexels-photo-7641859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6963924/pexels-photo-6963924.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["mortgage", "points", "explained"]
 slug: "mortgage-points-explained"
@@ -159,7 +159,7 @@ The honest truth about points is that loan officers have a financial incentive t
 - **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
 
 
-*Photo: [Alena Darmel](https://www.pexels.com/@a-darmel) via Pexels*
+*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
 

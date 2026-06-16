@@ -3,7 +3,7 @@ title: "FHA Vs Conventional Loan Which Is Better For First Time Buyers"
 date: 2026-06-05T12:23:26.717894+00:00
 draft: false
 description: "Comparing FHA vs conventional loans for first time buyers? Discover key differences in down payments, credit scores, and costs to find your best mortgage option"
-image: "https://images.pexels.com/photos/31974125/pexels-photo-31974125.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Loan Types"]
 tags: ["conventional", "loan", "which", "better", "first"]
 slug: "fha-vs-conventional-loan-which-is-better-for-first-time-buyers"
@@ -116,7 +116,7 @@ The right answer really does depend on your specific numbers. A 660 credit score
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
 
 ---
 

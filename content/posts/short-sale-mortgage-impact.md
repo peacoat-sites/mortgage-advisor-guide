@@ -3,7 +3,7 @@ title: "Short Sale Mortgage Impact"
 date: 2026-06-13T17:06:31.967227+00:00
 draft: false
 description: "Discover how a short sale affects your mortgage, credit score, and future home buying ability, plus tips to recover and qualify for a new loan sooner."
-image: "https://images.pexels.com/photos/7578900/pexels-photo-7578900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7578894/pexels-photo-7578894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Hardship Options"]
 tags: ["short", "sale", "mortgage", "impact"]
 slug: "short-sale-mortgage-impact"
