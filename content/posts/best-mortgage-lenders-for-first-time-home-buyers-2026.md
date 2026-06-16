@@ -120,27 +120,6 @@ Not every lender with a polished website and good Trustpilot reviews is the righ
 
 ---
 
-## Frequently Asked Questions
-
-### How does my credit score affect which lenders I should approach?
-
-Your credit score determines which loan products you're eligible for and significantly impacts your interest rate. Generally speaking, a score above 740 gives you access to the best conventional loan rates. Between 670 and 739, you're still in solid territory for conventional products. Below 620, FHA becomes the more practical path for most buyers, and you'll want to look specifically at lenders with experience in FHA underwriting. What most people don't realize is that lenders add their own overlays on top of program minimums. An FHA loan technically allows a 580 score, but many lenders set their own floor at 620 or higher. Always ask a lender directly: "What is your minimum credit score for this specific loan type?"
-
-### Should I get pre-qualified or pre-approved, and does it matter which lender I use for that?
-
-Pre-qualification is a soft estimate based on self-reported information. Pre-approval involves a hard credit pull and documented income and asset verification. In competitive markets, sellers increasingly expect a pre-approval, not a pre-qualification. Here's what matters: your pre-approval from one lender doesn't obligate you to use that lender at closing. You can get pre-approved, then continue shopping, and choose a different lender before you lock your rate. Some buyers use their first pre-approval simply to understand what they qualify for, then shop lenders more deliberately once they're under contract.
-
-### What's the difference between a rate and an APR, and which one should I focus on?
-
-The interest rate is the cost of borrowing the principal, expressed as a percentage. The APR (annual percentage rate) is the rate plus most fees associated with the loan, also expressed as a percentage. Because it captures more of the true cost, the APR is typically the better number to use when comparing two loans with the same term. The caveat: APR is most meaningful when comparing loans you plan to hold for their full term. If you plan to sell or refinance within five to seven years, the actual upfront costs matter more than the long-run APR spread.
-
-### Is it better to use a local lender or a large national lender?
-
-Neither is universally better. Local lenders and community banks often have deeper knowledge of state and local assistance programs, stronger relationships with local appraisers and title companies, and more flexibility in underwriting for buyers with unusual financial situations. National lenders and online lenders often offer faster processing, more competitive pricing through scale, and a smoother digital experience. My honest advice: get at least one quote from a local lender or credit union and at least one from a larger lender or broker. Let the Loan Estimates do the talking.
-
-### What if I have student loan debt? Will it disqualify me?
-
-Student loans don't automatically disqualify you, but they affect your debt-to-income (DTI) ratio, which lenders use to determine how much mortgage you can carry. DTI is calculated by dividing your total monthly debt payments (including the proposed mortgage) by your gross monthly income. Conventional loans typically allow a maximum DTI of 45 to 50%. FHA loans can go up to 57% in some cases. What matters is how your servicer reports your monthly payment. If your loans are in deferment or on an income-driven plan, different loan programs calculate the payment differently. Ask your lender specifically how they're counting your student loan payment in your DTI, because the answer varies between FHA, conventional, and VA guidelines, and it can make a meaningful difference in what you qualify for.
 
 ---
 

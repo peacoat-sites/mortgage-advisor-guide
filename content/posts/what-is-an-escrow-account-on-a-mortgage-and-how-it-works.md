@@ -90,27 +90,6 @@ If you want to really understand the full financial picture of what you're getti
 
 ---
 
-## FAQ
-
-### Why did my mortgage payment go up if my interest rate didn't change?
-
-Almost certainly an escrow adjustment. When your property taxes or homeowner's insurance premium increases, your servicer recalculates the required escrow contribution and raises your total monthly payment to cover it. The principal and interest portion stays the same; the escrow portion went up.
-
-### Can I pay my property taxes and insurance myself instead of through escrow?
-
-Sometimes. Conventional loan borrowers with at least 20% equity often have this option, though some servicers charge a small fee or rate adjustment to allow it. FHA, VA, and USDA loans typically require escrow accounts regardless of your down payment size.
-
-### What happens to my escrow account if I sell my house?
-
-When the sale closes, your escrow account balance is refunded to you, usually within 30 days of the payoff. This often comes as a check in the mail after closing. It's not instantaneous, so don't count on it to fund your moving expenses.
-
-### What is an escrow shortage and how do I fix it?
-
-A shortage happens when your account balance fell below the required minimum, usually because taxes or insurance cost more than the servicer projected. Your servicer will give you the option to pay the shortage as a lump sum or spread it across 12 additional monthly payments. Paying the lump sum is usually cheaper over time.
-
-### Is my escrow account earning interest?
-
-In most states and on most loans, no. Your servicer holds the funds but is generally not required to pay you interest on the balance. A handful of states, including California and New York, have laws requiring interest to be paid on escrow accounts, but the rates are typically minimal.
 
 ## Helpful Resources
 

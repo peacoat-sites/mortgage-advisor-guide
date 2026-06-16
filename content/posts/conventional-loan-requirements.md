@@ -130,27 +130,6 @@ For borrowers who want to go deeper on the financial side, a well-reviewed home-
 
 ---
 
-## Frequently Asked Questions
-
-### Can I get a conventional loan with a bankruptcy or foreclosure in my history?
-
-Yes, but there are mandatory waiting periods. For a Chapter 7 bankruptcy, Fannie Mae requires four years from the discharge date. Chapter 13 requires two years from discharge or four years from dismissal. A prior foreclosure typically requires seven years from the completion date. Short sales and deed-in-lieu situations generally carry a four-year waiting period. These clocks don't start until the event is legally finalized, not when you stopped making payments.
-
-### Does being self-employed make it harder to get a conventional loan?
-
-It creates more documentation requirements, but it doesn't disqualify you. Lenders use a two-year average of your net income as reported on your tax returns. The problem is that self-employed borrowers often maximize deductions, which lowers their taxable income and therefore the income a lender can use to qualify them. I've seen borrowers with strong gross revenue get declined because their write-offs made their qualifying income too low. Work with your accountant to understand your qualifying income before you start house hunting.
-
-### Are there income limits for conventional loans?
-
-Standard Fannie Mae and Freddie Mac conventional loans have no income limits. The exception is HomeReady and Home Possible, which cap borrower income at 80% of area median income for the property's location. If your income exceeds that threshold, you'd move to a standard 5% down conventional product instead. That's still a solid option for most buyers.
-
-### What happens if the home appraises below the purchase price?
-
-You have a few options: negotiate the price down to the appraised value, pay the difference between the appraised value and purchase price in cash out of your own pocket, challenge the appraisal with a formal reconsideration of value (providing supporting comparable sales), or walk away if your contract has an appraisal contingency. The lender will only lend based on the lower of the purchase price or appraised value. This is non-negotiable.
-
-### Can I use a conventional loan to buy an investment property?
-
-Yes. Conventional loans can be used for primary residences, second homes, and investment properties. The requirements tighten considerably for non-primary use. Investment properties typically require at least 15% to 25% down, a higher minimum credit score, and the underwriter will scrutinize your overall real estate portfolio and reserve requirements more closely. Expect higher rates for investment property loans compared to the same loan on a primary residence.
 
 ---
 

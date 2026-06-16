@@ -102,27 +102,6 @@ For borrowers who want to build real fluency with this decision before sitting d
 
 ---
 
-## FAQ
-
-### Can I switch from an FHA loan to a conventional loan later?
-
-Yes. This is called a conventional refinance, and it's actually one of the most common reasons people refinance. If your credit improves and you've built enough equity, refinancing out of FHA into a conventional loan eliminates the lifetime MIP. Just make sure the math works after factoring in closing costs, which typically run 2% to 5% of the new loan amount.
-
-### Does FHA always have a lower interest rate than conventional?
-
-Not always, though it often does for borrowers with lower credit scores. For borrowers with scores above 700 and stable income, conventional rates are frequently competitive with or better than FHA rates. Always get both quotes on the same day, since rates move daily.
-
-### Can I use an FHA loan to buy a fixer-upper?
-
-There's actually an FHA product designed for exactly this called the 203(k) loan, which bundles the purchase price and renovation costs into one mortgage. It has its own requirements and a more involved process, but it's a legitimate option. Conventional alternatives include Fannie Mae's HomeStyle renovation loan.
-
-### What credit score do I actually need to get approved for a conventional loan?
-
-Technically 620, but practically speaking, you'll get significantly better pricing at 680 and above. The difference in rate and PMI cost between a 640 score and a 720 score can be meaningful over the life of a loan.
-
-### Is FHA harder to get approved for than conventional?
-
-In some ways, FHA is actually more forgiving. It allows higher debt-to-income ratios and lower credit scores. However, the property condition requirements mean the home you're buying has to pass a stricter appraisal. So it's not harder, just different, and the friction shows up in different places depending on your situation.
 
 ---
 

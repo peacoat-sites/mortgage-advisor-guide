@@ -99,27 +99,6 @@ For those still weighing what loan structure fits their longer-term financial pi
 
 ---
 
-## Frequently Asked Questions
-
-### How much can I actually take out in a cash-out refinance?
-
-The amount depends on your home's appraised value, your current loan balance, and the LTV limit your loan program sets. Most conventional loans cap you at 80% LTV. So if your home appraises at $400,000, the most you can borrow is $320,000. If you owe $220,000, the maximum cash you could receive (before closing costs) is approximately $100,000. VA loans may allow higher LTV, but eligibility requirements apply.
-
-### Will a cash-out refinance hurt my credit?
-
-It can cause a short-term dip. Applying triggers a hard inquiry, and taking on a new, larger loan increases your overall debt load. Over time, though, a consistently paid mortgage is a positive credit factor. If you use the cash to pay off revolving credit card debt, you may actually see your score improve once those balances drop.
-
-### What can I use cash-out refinance funds for?
-
-There are no restrictions on how you use the funds. Home improvements, debt consolidation, education, emergency reserves, investment accounts, or anything else. That said, just because you can doesn't always mean you should. Using home equity for discretionary spending that doesn't improve your financial position is a risk many borrowers underestimate.
-
-### Is the interest on a cash-out refinance tax deductible?
-
-Only if the funds are used to buy, build, or substantially improve your primary or secondary residence. If you pull $60,000 out to renovate your kitchen, the interest on that portion may be deductible. If you use it to pay off car loans or take a vacation, it's generally not. Tax law is specific and your situation is unique, so consult a tax professional before assuming any deduction applies.
-
-### How long does a cash-out refinance take to close?
-
-Typically 30 to 45 days from application to closing, though some lenders move faster and some take longer. Appraisal scheduling, title work, and underwriting volume are the biggest variables. Rushed timelines sometimes mean less thorough review, so don't let urgency push you into accepting terms you haven't fully evaluated.
 
 ---
 

@@ -144,27 +144,6 @@ Freddie Mac's homebuyer resources offer helpful tools for understanding how loan
 
 ---
 
-## Frequently Asked Questions
-
-### How long does a refinance take?
-
-Most refinances close in 30 to 60 days from application, though it can run longer if there are appraisal delays, document issues, or a backlog at the lender. During high-volume periods (typically when rates drop sharply and applications spike), timelines can stretch. Ask your lender for a realistic timeline upfront and factor it into any rate lock decision.
-
-### Can I refinance if I have less than 20% equity?
-
-Yes, in many cases. FHA, VA, and USDA loans have their own streamline refinance options that don't always require an appraisal or 20% equity. Conventional loans can also be refinanced with less than 20% equity, though PMI will likely apply. Your loan type matters a lot here.
-
-### Will refinancing hurt my credit score?
-
-It will cause a small, temporary dip. When you apply for a new mortgage, the lender does a hard credit inquiry, which typically reduces your score by a few points for up to 12 months. If you're shopping multiple lenders within a short window (14 to 45 days depending on the scoring model), most credit bureaus treat those inquiries as a single event to minimize the impact.
-
-### What documents do I need to refinance?
-
-You'll typically need your two most recent years of federal tax returns and W-2s, your two most recent pay stubs, two to three months of bank and investment account statements, your current mortgage statement, and proof of homeowner's insurance. Self-employed borrowers may also need profit and loss statements and business bank records.
-
-### Is a no-closing-cost refinance ever a good deal?
-
-It can be, particularly if you plan to sell or refinance again within a few years. Rolling costs into the rate or loan balance in exchange for not paying out of pocket limits your upfront risk when your time horizon is short. But if you'll stay in the home for 10 or more years, paying closing costs upfront and securing a lower rate will almost always cost you less overall.
 
 ---
 

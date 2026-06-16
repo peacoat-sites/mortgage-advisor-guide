@@ -110,27 +110,6 @@ The research here is genuinely mixed on how much this affects borrower decisions
 
 ---
 
-## Frequently Asked Questions
-
-### Can I have both a HELOC and a home equity loan at the same time?
-
-Technically yes, though combined, both loans plus your first mortgage must stay within your lender's combined loan-to-value limits. Having both simultaneously is uncommon and may complicate your debt picture. Most borrowers choose one or the other based on their specific need.
-
-### What credit score do I need to qualify?
-
-Most lenders want a minimum score in the 620 to 680 range, though better rates go to borrowers above 740. The research on approval thresholds varies by lender, and some credit unions and community banks have more flexibility. Your debt-to-income ratio matters just as much as your score.
-
-### Can I convert a HELOC to a fixed rate?
-
-Some lenders allow you to lock a portion of your HELOC balance into a fixed rate, essentially creating a fixed-rate sub-account. Not all HELOCs offer this feature. Ask specifically before you commit. If rate predictability matters to you, a product that doesn't offer a lock option may not be right for you.
-
-### What happens if my home value drops after I take out the loan?
-
-If your home's value falls significantly, you could find yourself in a position where you owe more than the home is worth on a combined basis. This doesn't immediately change your payments, but it can affect your ability to refinance, sell, or borrow further. It's a real risk that the frothy equity markets of recent years have caused some borrowers to underweight.
-
-### Is a cash-out refinance ever better than either option?
-
-Sometimes. A cash-out refinance replaces your first mortgage with a new, larger one and gives you the difference in cash. If refinance rates are close to your current rate, it can be cleaner. But if you locked in a 3% mortgage and today's rates are significantly higher, a cash-out refi means your entire mortgage balance reprices upward. In that case, a HELOC or home equity loan preserves your existing first mortgage rate. It's a calculation worth running.
 
 ---
 

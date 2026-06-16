@@ -102,27 +102,6 @@ If you're doing your own financial planning, a resource like a home equity or mo
 
 ---
 
-## Frequently Asked Questions
-
-### How often should I recalculate my home equity?
-
-Once a year is reasonable for most homeowners, or any time you're considering a major financial move involving your home. Property values shift, balances drop, and checking in annually keeps your net worth picture accurate.
-
-### Does my equity include improvements I've made to the home?
-
-Potentially, yes, but only to the extent those improvements have increased your home's market value. A $30,000 kitchen renovation doesn't automatically add $30,000 in equity. Some improvements return more than they cost, others don't. An appraiser factors in the condition and upgrades of your home when valuing it.
-
-### Can I have negative equity?
-
-Yes. If you owe more than your home is currently worth, you have negative equity, sometimes called being "underwater" or "upside down." This is more common early in a loan when the down payment was small, or after a market downturn. It limits your options significantly.
-
-### What's the difference between home equity and home value?
-
-Home value is the total estimated worth of the property. Home equity is only the portion of that value you actually own, meaning what's left after subtracting all debt secured by the home. A $500,000 home with a $400,000 mortgage has $100,000 in equity, not $500,000.
-
-### Will my lender use the same value I calculated?
-
-Probably not exactly. When you apply for a loan, your lender orders an independent appraisal, and that number controls the transaction. If the appraisal comes in lower than your estimate, your borrowable equity shrinks accordingly. It's one of the most common sources of frustration in home equity borrowing, and it's why knowing your number in advance matters.
 
 ## Helpful Resources
 

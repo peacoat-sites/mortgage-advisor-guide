@@ -102,29 +102,6 @@ PMI isn't inevitable. If you hate the idea of paying for coverage that doesn't b
 
 If you want to take a deeper look at how all these options compare before talking to a lender, a resource like a [home buying financial planning workbook](https://www.amazon.com/s?k=home+buying+financial+planning+workbook&tag=escapethenorm-20) can help you organize the numbers before your first lender conversation. (This site may earn a commission on qualifying purchases.)
 
-## Frequently Asked Questions About PMI
-
-### Is PMI tax deductible?
-
-It has been at various points, depending on Congressional action, but the deduction has not been permanently established in the tax code and its availability has changed year to year. Don't plan your finances around this deduction being available. Talk to a tax professional about your specific situation.
-
-### Does PMI ever go away on an FHA loan?
-
-Not always. For FHA loans originated after June 2013 with less than 10% down, mortgage insurance premium (MIP) lasts for the life of the loan. If you put down 10% or more on an FHA loan, MIP cancels at 11 years. This is one of the most important distinctions between FHA and conventional loans and it's frequently misunderstood.
-
-### Can I negotiate a lower PMI rate?
-
-Not directly with the PMI provider. But because different lenders use different PMI companies, shopping multiple lenders is effectively how you find a better rate. You can also work to improve your credit score before applying, since that's one of the main drivers of your PMI rate.
-
-### What happens to PMI if I refinance?
-
-When you refinance, the original loan is paid off and a new loan is originated. If your new loan is at 80% LTV or below, you won't have PMI. If you refinance into another loan above 80% LTV, you'll have PMI again on the new loan, potentially at a different rate.
-
-### How do I formally request PMI cancellation?
-
-Send a written request to your loan servicer (the company you send your payment to, which may not be your original lender). Include your loan number, a statement that you're requesting cancellation under the Homeowners Protection Act, and evidence that your balance has reached the 80% threshold. Keep a copy. Follow up in writing if you don't receive confirmation within 30 days.
-
-PMI is a cost of entry for many buyers, and there's nothing inherently wrong with using it to purchase a home before you've saved 20%. What is wrong is paying it longer than you have to, or paying it without understanding exactly what you agreed to. Know your cancellation rights before you sign. Know the type of PMI you're getting. And if your loan officer can't explain all four structures and the federal law that governs cancellation, find one who can. You're about to sign a document with a 30-year commitment. Fifteen minutes of hard questions is a reasonable thing to ask for.
 
 ## Helpful Resources
 

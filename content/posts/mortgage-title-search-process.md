@@ -102,27 +102,6 @@ If you want to go deeper on closing costs before you get to that stage, a [home-
 
 ---
 
-## Frequently Asked Questions
-
-### How long does a title search take?
-
-For a straightforward residential property with a clean history, expect one to three weeks. Properties with complex ownership histories, multiple prior owners, estate sales, or incomplete public records can take longer. If you're buying a foreclosure or a property that's been vacant for years, build extra time into your timeline.
-
-### Can a title search miss something?
-
-Yes. A title search is only as good as the public records it can access. Forged documents, off-record claims, survey disputes, and certain types of fraud can slip through even a thorough search. That's a core reason owner's title insurance exists: it covers defects that weren't discovered before closing, not just ones that were.
-
-### Do I need a title search if I'm paying cash?
-
-No lender means no lender requirement, but that doesn't mean the risk disappears. A cash buyer who skips the title search and title insurance is taking on significant exposure. You'd be buying a property with no independent verification of ownership and no protection if a problem surfaces later. I'd never recommend skipping it regardless of how you're financing.
-
-### What happens if the title search finds a problem?
-
-The closing doesn't automatically fall apart. Many title defects are resolvable: a lien can be paid off, a clerical error can be corrected with a new filing, a missing release can be obtained. The title company coordinates this process. If the defect is serious and can't be cleared, you typically have the right to cancel the contract under a standard title contingency.
-
-### Can I do my own title search?
-
-Technically, public records are public. You could search them yourself. Practically, a self-conducted title search won't satisfy a lender, won't produce insurable title, and requires knowing exactly what to look for across multiple record systems. This is not a DIY project with a margin for error. Use a licensed title company or real estate attorney.
 
 ---
 

@@ -90,27 +90,6 @@ If you want to do more homework on your own, a solid home-buying guide or financ
 
 ---
 
-## FAQ
-
-### Is mortgage protection insurance the same as PMI?
-
-No, and this confusion is extremely common. PMI (private mortgage insurance) protects the lender if you default on a conventional loan with less than 20% down. Mortgage protection insurance (MPI) is a life insurance product that pays off your mortgage if you die. Different products, different purposes, and neither one directly benefits your family the way a standard life insurance policy does.
-
-### Can I cancel mortgage protection insurance?
-
-This depends on the policy terms, but most MPI policies can be cancelled. However, unlike PMI on a conventional loan (which you can request removal of once you reach 20% equity under federal law), MPI cancellation rules vary by insurer. Read the fine print before you sign up, not after.
-
-### Does term life insurance cover my mortgage if I lose my job?
-
-No. Term life insurance pays out only upon death. If job loss or disability is a concern, look into separate disability insurance or a mortgage payment protection product designed specifically for involuntary unemployment scenarios. Those are different products with their own cost-benefit considerations.
-
-### How much life insurance do I need to cover my mortgage?
-
-A common starting point is to include your full outstanding mortgage balance in your total coverage calculation, but most financial planners suggest thinking bigger. Factor in income replacement for your dependents, outstanding debts, childcare costs, and education expenses. The mortgage is one piece of a larger protection puzzle, not the whole picture.
-
-### Does having term life insurance replace the need for MPI?
-
-In most cases for healthy borrowers, a well-structured term life policy provides broader, more flexible, and often more cost-effective protection than MPI. But "in most cases" isn't "in every case." Your health, insurability, and personal financial situation matter. Talk to an independent insurance advisor, not someone who only sells one type of product, before making that call.
 
 ---
 

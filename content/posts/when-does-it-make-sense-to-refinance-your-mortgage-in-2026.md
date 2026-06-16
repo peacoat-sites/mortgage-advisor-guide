@@ -96,27 +96,6 @@ There's a real argument for refinancing now if it works on its merits, rather th
 
 ---
 
-## FAQ
-
-### How much lower does my rate need to be for refinancing to make sense?
-
-There's no universal rule, but the old "you need at least a 1% drop" guidance is oversimplified. What actually matters is your break-even calculation: divide your total closing costs by your monthly savings and see how long it takes to recoup them. Even a 0.75% rate reduction can pencil out well on a large balance if you plan to stay in the home long-term.
-
-### Should I refinance if I only have 10 or 12 years left on my mortgage?
-
-Probably not, in most cases. You're far into your amortization schedule, meaning most of your payment is already going toward principal rather than interest. Resetting to a new 30-year loan might lower your monthly payment while dramatically increasing total interest paid. A 15-year refinance might make more sense if you qualify, but run the full numbers before committing.
-
-### What's the difference between a rate-and-term refinance and a cash-out refinance?
-
-A rate-and-term refi just changes your interest rate, your loan term, or both, without increasing your balance. A cash-out refinance lets you borrow against your equity, replacing your current loan with a larger one and pocketing the difference. Cash-out loans typically carry slightly higher rates and stricter LTV requirements, and they reset your equity position.
-
-### Do I need a new appraisal to refinance?
-
-Usually yes, though some lenders qualify for appraisal waivers through automated valuation models (Fannie Mae's Collateral Underwriter, for example). Whether you get one depends on your equity level, loan type, and the lender's guidelines. If your neighborhood has seen value declines since you purchased, a required appraisal can come in lower than expected and derail the loan or change your pricing tier.
-
-### Can I refinance if I've had a late payment in the past year?
-
-It depends on how recent and how severe. A single 30-day late from eight or nine months ago won't automatically disqualify you, but it will affect your credit score and possibly your rate tier. Most conventional programs get stricter with 60-day or 90-day lates, especially on the mortgage itself. FHA refinance programs can sometimes be more flexible, but they come with mortgage insurance that may offset the rate benefit.
 
 ## Helpful Resources
 

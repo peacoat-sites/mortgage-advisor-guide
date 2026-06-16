@@ -104,27 +104,6 @@ If you're comparing loan products and wondering how your lock strategy should di
 
 ---
 
-## Frequently Asked Questions
-
-### Can I switch lenders after I've locked my rate?
-
-Yes, but understand what you're giving up. A rate lock is specific to one lender. If you walk away and go to a new lender, that lock is gone. You'll re-start the process, get a new rate (which could be higher or lower), and potentially delay your closing. If you're switching because you found meaningfully better terms, run the numbers carefully, including the time cost and any fees. Switching lenders seven days before closing is almost never worth it.
-
-### What happens if my closing is delayed by the seller, not me?
-
-This comes up more than you'd think. The lock expiration doesn't care whose fault the delay is. If the seller's title issues push your closing two weeks past your lock date, you're still on the hook for extension fees unless your purchase contract specifically assigns that cost to the seller. Talk to your real estate attorney about who bears extension risk before you sign the purchase agreement.
-
-### Does locking my rate mean my closing costs are also locked?
-
-No. The rate lock protects your interest rate and, in most cases, your points. Closing costs like title fees, appraisal fees, recording fees, and lender origination charges are covered by the Loan Estimate disclosure rules under TRID regulations, not by the rate lock itself. For a deeper look at what those costs actually include, the [guide to mortgage closing costs](/mortgage-closing-costs-explained/) covers every line item.
-
-### Is a rate lock a guarantee that I'll get the loan?
-
-No, and this is a critical distinction. A rate lock means the lender will honor that rate if the loan closes and meets all the conditions of the approval. It does not mean the loan is approved or that it will close. If underwriting finds a problem, the lender can still decline the loan even with a locked rate. The lock is a pricing commitment, not an approval commitment.
-
-### Do rate locks work differently for new construction loans?
-
-Yes, significantly. New construction timelines are notoriously unpredictable. Many builders have preferred lenders who offer extended lock programs, sometimes 90 days to a year, built specifically for their construction timelines. These extended locks typically cost more, and some programs require you to re-lock or pay a fee if construction runs long. Always read the lock agreement in full on a new construction deal. The terms are almost always more complicated than a standard purchase lock.
 
 ---
 

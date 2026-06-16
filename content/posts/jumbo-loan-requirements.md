@@ -109,27 +109,6 @@ The choice between a fixed-rate and adjustable-rate structure also matters more 
 
 ---
 
-## Frequently Asked Questions
-
-### Can I get a jumbo loan with less than 20% down?
-
-Yes, but it's less common and typically comes with tradeoffs. Some lenders offer jumbo financing at 10% or even 5% down, but you'll often see higher rates, stricter reserve requirements, or limits on cash-out options later. Private mortgage insurance on jumbo loans is available from some carriers but not universally. If you're considering a smaller down payment on a high-balance loan, be specific with lenders about what products they actually have in the market right now, not what they theoretically offer.
-
-### Do jumbo loans take longer to close than conventional loans?
-
-They often do. The manual underwriting process, combined with the volume of documentation required, typically adds time. Plan for 45 to 60 days in most cases. On competitive purchase transactions where sellers want a 30-day close, this can be a disadvantage. Some lenders who specialize in jumbo products have streamlined their processes and can close faster, but get that commitment in writing, not as a verbal estimate.
-
-### Are there jumbo loan options for first-time buyers?
-
-There's no rule against it, but it's unusual. Jumbo qualification requirements, especially the reserve requirements and down payment expectations, are difficult for buyers who haven't built up substantial assets. First-time buyers who are high earners early in their career often run into reserve shortfalls even with good income and credit. If you're in this position, it may be worth spending time with one of the [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) to map out your options before committing to a purchase price that puts you in jumbo territory.
-
-### Can I use gift funds for a jumbo loan down payment?
-
-Some lenders allow gift funds, but with more restrictions than on conforming loans. Many jumbo programs require that at least part of the down payment, often 10% to 20% of the purchase price, comes from the borrower's own funds. Gift funds must be fully documented with a signed gift letter, evidence of the donor's ability to give, and a clear transfer trail from the donor's account to yours. Undocumented transfers are one of the fastest ways to create problems in a jumbo file.
-
-### What happens to jumbo loan requirements when rates rise sharply?
-
-Lenders tighten standards. This is consistent and predictable behavior. When rates rise quickly, home values often soften, and lenders become more conservative about high-balance loans where collateral risk is elevated. Reserve requirements increase, acceptable DTI ratios tighten, and some lenders temporarily exit the jumbo market entirely. Borrowers who were marginal qualifiers in a low-rate environment often find they no longer qualify when rates move materially. This is a key reason to qualify conservatively and not push your loan amount to the absolute maximum you can technically support.
 
 ---
 

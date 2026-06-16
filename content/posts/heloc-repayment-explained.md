@@ -88,27 +88,6 @@ For a detailed walkthrough of how to read and compare loan products before you s
 
 ---
 
-## FAQ
-
-### What happens if I can't afford the HELOC repayment payment?
-
-Contact your lender before you miss a payment. Some lenders offer repayment modifications, including extended terms, and your options narrow significantly once you're delinquent. Because a HELOC is secured by your home, default carries the same foreclosure risk as a first mortgage.
-
-### Can I pay off my HELOC early during the draw period?
-
-Yes, and it's one of the smartest ways to reduce repayment shock. Extra principal payments during the draw period reduce the balance the repayment schedule is built on. There's typically no prepayment penalty on a HELOC during the draw period, but check your loan documents to confirm.
-
-### Is HELOC interest still tax-deductible?
-
-Only if you used the funds to buy, build, or substantially improve the home securing the loan. Personal expenses funded by a HELOC, including debt consolidation, no longer qualify for the deduction under the current tax rules in place since the 2017 Tax Cuts and Jobs Act. Consult a tax professional for your specific situation.
-
-### How is the repayment period payment calculated?
-
-It's typically a fully amortizing payment: the remaining balance at the start of repayment is divided across the repayment term at the current interest rate, calculated to pay off the balance entirely by the end of the term. If your rate is variable, the payment recalculates as the rate changes.
-
-### Can I renew or extend my HELOC before repayment starts?
-
-Some lenders allow a renewal or extension, but it's not guaranteed and usually requires a new application, updated appraisal, and credit review. Don't plan your finances around an extension you haven't been approved for yet.
 
 ## Helpful Resources
 

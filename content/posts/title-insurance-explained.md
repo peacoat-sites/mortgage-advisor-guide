@@ -108,27 +108,6 @@ Here's a practical approach to evaluating your options:
 
 ---
 
-## FAQ
-
-### Is owner's title insurance required?
-
-In most states, no. Lender's title insurance is required if you're financing the purchase, but owner's coverage is optional. That said, "optional" doesn't mean "unnecessary." Whether to buy it is a risk calculation worth making consciously, not something to decline just because it's not mandatory.
-
-### Can I skip it if the seller just bought the property recently?
-
-A recent purchase doesn't guarantee a clean title chain going back decades. Errors, liens, and fraud can exist far back in the history and still affect your ownership today. Recent transactions may also be more susceptible to deed fraud specifically because less time has passed for problems to surface naturally.
-
-### What if a title problem shows up after I close?
-
-If you have owner's title insurance and the issue falls within your policy's coverage, you notify the insurer and they handle the legal defense and, if necessary, the financial loss. If you don't have coverage, that cost lands entirely on you. Legal fees alone in a property dispute can run into the tens of thousands of dollars.
-
-### Does title insurance cover me if my neighbor claims part of my yard?
-
-Boundary disputes can be covered, particularly if the issue stems from an error in the legal description of the property in the deed or a survey error that existed before closing. Enhanced policies often provide broader coverage for encroachment issues. This is exactly the kind of scenario worth asking about before you purchase your policy.
-
-### Where can I get unbiased guidance if I'm unsure what coverage I need?
-
-[HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can help you understand your options without trying to sell you anything. They're a genuinely useful resource, especially for first-time buyers who are processing a lot of new information at once. A real estate attorney in your state is also a strong option if the property history is complicated.
 
 ---
 

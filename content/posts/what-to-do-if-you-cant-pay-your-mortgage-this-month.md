@@ -100,27 +100,6 @@ Respond to every piece of mail from your servicer. Even the ones that look like 
 
 ---
 
-## FAQ
-
-### Will my credit score be ruined if I miss one mortgage payment?
-
-One missed payment reported as 30 days late will hurt your credit score, sometimes significantly depending on your starting score and credit history. But a single delinquency is recoverable over 12 to 24 months of clean payment history. What causes more lasting damage is multiple missed payments, a formal foreclosure, or a deed-in-lieu, all of which stay on your report for seven years.
-
-### Can my servicer start foreclosure after just one missed payment?
-
-In most states, no. Federal rules generally prohibit servicers from beginning the formal foreclosure process until a borrower is more than 120 days delinquent. That's a meaningful runway. Use it to apply for loss mitigation rather than hoping the problem resolves itself.
-
-### Do I have to prove my hardship to get forbearance?
-
-For loans backed by Fannie Mae, Freddie Mac, FHA, VA, or USDA, servicers have generally been required to offer forbearance based on a borrower's self-attestation of hardship, meaning you tell them you're experiencing a financial hardship and they accept it without requiring extensive documentation upfront. Private or portfolio loans may have stricter requirements. Ask your servicer specifically what documentation they need.
-
-### If I take a forbearance, will I owe a giant lump sum when it ends?
-
-This depends on your loan type and the specific forbearance agreement. For federally backed loans, lump-sum repayment at the end of forbearance is generally not required. You should have options to repay through a repayment plan, modification, or deferral. But you have to ask what the post-forbearance options are before you agree to anything, and get it in writing.
-
-### What if I've already missed several payments and haven't contacted my servicer?
-
-Call today. Seriously. Even if you're three or four months behind, you're likely still within the window where loss mitigation options exist. The servicer cannot begin the formal foreclosure sale until a loss mitigation application submitted on time has been evaluated. A HUD-approved housing counselor can help you determine exactly where you stand and what's still available to you.
 
 ---
 

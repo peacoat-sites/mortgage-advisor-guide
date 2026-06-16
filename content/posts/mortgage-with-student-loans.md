@@ -105,27 +105,6 @@ Guidelines change, and lenders sometimes overlay their own requirements on top o
 
 ---
 
-## Frequently Asked Questions
-
-### Can I get a mortgage if my student loans are in deferment?
-
-Yes, but deferment doesn't make your student loans disappear from a lender's perspective. Most programs will impute a monthly payment, often 0.5% to 1% of your outstanding balance, even if you're not currently paying anything. VA loans offer the most favorable treatment here, potentially excluding deferred loans from the DTI calculation if the deferment extends well beyond your closing date. Your best move is to get full documentation of your deferment terms and have a lender run your scenario against multiple loan programs.
-
-### Does student loan forgiveness affect my mortgage application?
-
-Not in a straightforward way while you're applying. If forgiveness is pending but not finalized, lenders will still count the balance and the payment in your DTI. Once forgiveness is actually granted and the balance is zeroed out, obviously those payments no longer affect you. If you're actively pursuing PSLF or another forgiveness program, make sure you're not doing anything during the mortgage process (like refinancing to private loans) that would jeopardize your eligibility.
-
-### Should I pay off my student loans before buying a house?
-
-This is a personal finance decision, not a one-size-fits-all answer. Paying down student loan balances can help your DTI and may improve your credit profile, but the cash you use to pay down loans is cash you're not using for a down payment. In many markets, a larger down payment has a more immediate impact on your purchasing power and your monthly payment than eliminating the same dollar amount of student debt. Run both scenarios with a financial planner before committing to either path.
-
-### Does my student loan repayment plan matter when lenders review my file?
-
-Absolutely. As covered above, the repayment plan determines which payment figure lenders use in your DTI calculation. An income-driven plan with a documented, active monthly payment is generally treated more favorably than a $0 payment or a deferred account. Make sure your repayment status is clearly documented because underwriters won't guess in your favor.
-
-### Can I get a mortgage with a high student loan balance but low monthly payments?
-
-Yes, and this is exactly the scenario where IDR plans can help. A $150,000 loan balance is less of an obstacle if your documented monthly payment is $200 than if it's imputed at $1,500. High balance with low documented payment is workable. High balance with unclear repayment status is the scenario that creates the most underwriting headaches.
 
 ---
 

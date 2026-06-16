@@ -92,27 +92,6 @@ The point: a borrower with a 780 score, 25% down, and a loan at 75% of the confo
 
 ---
 
-## FAQ
-
-### Will 30-year mortgage rates drop below 6% in 2026?
-
-Most major forecasters don't expect 30-year rates to drop below 6% in 2026 under baseline economic conditions. A sharper-than-expected recession or rapid disinflation could push them lower, but that scenario isn't widely predicted. Plan around the 6% to 6.8% range and treat anything lower as a welcome surprise.
-
-### Is 2026 a good time to buy a house?
-
-That depends far more on your personal finances, job stability, and local market than on the rate environment. If you can comfortably afford the payment at current rates and plan to stay in the home for at least five to seven years, waiting for a better rate often costs more than it saves.
-
-### How do Federal Reserve rate cuts affect my mortgage rate in 2026?
-
-Not as directly as most people expect. Fed rate cuts affect short-term borrowing costs. Your 30-year mortgage rate tracks the 10-year Treasury yield, which responds to inflation expectations and long-term growth outlooks. The Fed can cut rates while mortgage rates stay flat or even rise, as happened in late 2024.
-
-### Should I lock in a mortgage rate now or float into 2026?
-
-If you're closing within 60 days, locking is generally the lower-risk move. Floating only makes sense if you have strong reason to believe rates are falling soon and you're comfortable with the possibility they move against you. Most buyers aren't in a position to absorb a 0.25% to 0.5% upward move.
-
-### What credit score do I need to get the best mortgage rate in 2026?
-
-Conventional lenders typically reserve their best pricing tiers for borrowers at 760 and above. You can qualify with a lower score, but you'll pay for it in rate, points, or both. Getting to 760 or higher before you apply is one of the highest-return moves a borrower can make.
 
 ---
 

@@ -102,29 +102,6 @@ None of this means don't do it. What surprised me early in my career was how man
 
 Get an amortization calculator and model out what that higher rate actually costs you per month and over time. A mortgage calculator can make this concrete fast. [Here's a search for mortgage calculators and home-buying guides](https://www.amazon.com/s?k=mortgage+calculator+home+buying+guide&tag=247d32-20) if you want a physical reference you can write in. (Commission disclosure applies.)
 
-## FAQ
-
-### What is the minimum credit score needed to buy a house?
-
-There's no single answer. FHA loans technically allow scores as low as 500, but you'll need 10% down at that level. Most conventional loans want at least 620 to 640. VA loans don't set an official minimum, though lenders typically do. USDA loans generally want 640 or above. Your specific options depend on which loan type you pursue and which lender you work with, since lender overlays vary significantly.
-
-### Can I get a mortgage with a 500 credit score?
-
-Technically yes, through the FHA program, with a 10% down payment. In practice, you'll need to find a lender who will actually approve at that score, since many set their own minimums above the FHA floor. Some non-QM lenders will go to 500 as well, but at higher rates and fees. The Federal Housing Finance Agency's [oversight data and reports](https://www.fhfa.gov/) show how credit risk is priced across different mortgage products, which helps explain why rates rise as scores fall.
-
-### How long does it take to improve credit enough to qualify?
-
-It depends on what's dragging your score down. High utilization can be fixed in 60 to 90 days by paying down balances. Late payments and collections take longer to age off. A Chapter 7 bankruptcy requires a two-year wait for FHA eligibility after discharge. Someone who just needs to reduce utilization and pay on time for 12 months might be in a very different position 12 to 18 months from now than someone rebuilding from a foreclosure.
-
-### Will a larger down payment help me qualify with bad credit?
-
-Yes, in several ways. A larger down payment lowers your loan-to-value ratio, which reduces lender risk. It can also function as a compensating factor that some underwriters weigh favorably when credit is marginal. Reaching 10% down specifically matters for FHA applicants with scores between 500 and 579, since it's required at that score range. And a larger down payment reduces your monthly mortgage insurance cost on FHA loans.
-
-### Should I wait to buy, or apply now with my current credit?
-
-This is genuinely a personal decision that depends on your local housing market, your financial stability, and how close you are to a score threshold that would meaningfully improve your terms. In some markets, waiting 12 months while improving your credit could mean paying significantly more for the same house. In others, the opposite might be true. Run the numbers for your specific situation, talk to a HUD-approved counselor, and don't let either a lender or a fear of waiting make that decision for you.
-
-The truth is, people qualify for mortgages every single day with credit histories that conventional wisdom says should disqualify them. The path is narrower and sometimes more expensive. But it exists. The borrowers who find it are the ones who understand the system well enough to work it, rather than waiting for the system to tell them they're ready.
 
 ## Helpful Resources
 

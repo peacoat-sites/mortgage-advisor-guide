@@ -94,27 +94,6 @@ And points. Loan officers will sometimes offer rate buydowns on 15-year loans th
 
 ---
 
-## Frequently Asked Questions
-
-### Can I pay off a 30-year mortgage early without penalties?
-
-Most conventional 30-year mortgages today have no prepayment penalty, so you can make additional principal payments at any time. Just make sure any extra payment is specifically applied to principal, not future interest, and confirm your servicer's process for doing this.
-
-### Is the interest rate on a 15-year mortgage always lower?
-
-Almost always, yes, though the gap varies. Lenders price 15-year loans at lower rates because the shorter repayment window reduces their exposure to interest rate risk and default over time. But "lower" doesn't mean dramatically lower in every rate environment, so check the actual spread with your specific lender.
-
-### Does a 15-year mortgage affect how much house I can buy?
-
-Yes, significantly. Because the monthly payment on a 15-year is substantially higher, your debt-to-income ratio limits the loan amount you'll qualify for. Some buyers who qualify for a $450,000 loan on a 30-year product can only qualify for $300,000 or less on a 15-year. That's a real constraint in competitive housing markets.
-
-### What happens if I can't make a payment on a 15-year mortgage?
-
-The same thing that happens on a 30-year: after a period of delinquency your credit takes serious damage, and eventually the lender can initiate foreclosure. There's no special protection or grace period built into the loan type. This is exactly why payment affordability in a bad year, not just a normal year, should factor into your decision.
-
-### Is a 20-year mortgage a reasonable middle ground?
-
-It exists, and some lenders offer it, but it's much less common and you may not get the same rate competitiveness you'd see on a 15 or 30. For some borrowers it genuinely is a good fit, but you'll want to comparison shop carefully because the product isn't as standardized.
 
 ---
 

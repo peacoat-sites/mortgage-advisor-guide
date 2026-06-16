@@ -92,27 +92,6 @@ If you want to go in better prepared, Erik Whitman's *Foreclosure Prevention Wor
 
 ---
 
-## Frequently Asked Questions
-
-### How many payments can I miss before foreclosure actually starts?
-
-Most lenders won't initiate formal foreclosure proceedings until you're at least 120 days delinquent, which is the federal minimum timeline under CFPB rules for most loans. That said, "not yet in foreclosure" and "safe" are not the same thing. The earlier you engage, the more options stay open.
-
-### Will a loan modification hurt my credit score?
-
-Yes, typically. The missed payments leading up to the modification will have already done damage, and the modification itself may be noted on your credit report. However, a modification that keeps you in the home and current going forward generally causes far less long-term credit damage than a completed foreclosure.
-
-### Can I get a loan modification if I'm not yet behind on payments?
-
-Some servicers offer what's called a "non-delinquent modification" for borrowers facing imminent hardship. This is harder to get than it sounds, and not all servicers participate. If you can see the problem coming before you miss a payment, call immediately. That's genuinely the best time to start the conversation.
-
-### What's the difference between a forbearance and a deferral?
-
-Forbearance pauses or reduces your payments for a defined period. A deferral typically moves the missed payments to the end of your loan as a non-interest-bearing balance due at payoff. Deferral is often the resolution offered after a forbearance period ends, if your financial situation has stabilized. They work in sequence, not as alternatives to each other.
-
-### If I do a short sale, will I owe taxes on the forgiven debt?
-
-Possibly. Forgiven debt is generally treated as income by the IRS, which means it can trigger a tax bill. The Mortgage Forgiveness Debt Relief Act has been extended multiple times and may provide an exclusion for debt forgiven on a primary residence, but the rules have a history of expiring and being renewed, so you need to confirm current status with a tax professional before you close a short sale.
 
 ## Helpful Resources
 

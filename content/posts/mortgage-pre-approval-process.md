@@ -135,27 +135,6 @@ The [Freddie Mac home buyer resource center](https://myhome.freddiemac.com/) has
 
 ---
 
-## Frequently Asked Questions
-
-### Does getting pre-approved hurt my credit score?
-
-Yes, but minimally and temporarily. A hard inquiry from a mortgage application typically lowers your score by about five points or fewer. More importantly, if you apply with multiple lenders within a 14 to 45-day window (the exact window depends on which scoring model is used), all those inquiries are generally counted as one. The benefit of rate shopping far outweighs the minor score impact.
-
-### How long does pre-approval take?
-
-With all your documents ready and a responsive lender, you can have a pre-approval letter in one to three business days. If your file is complex, such as self-employment, multiple income streams, or recent credit issues, plan for five to seven business days. Don't wait until you're already in love with a house to start this process.
-
-### How long is a pre-approval letter valid?
-
-Most lenders issue pre-approval letters that are valid for 60 to 90 days. After that, your credit will need to be re-pulled and your income re-verified. If your home search is taking longer than expected, ask your lender about renewal. It's a routine process as long as your financial situation hasn't changed significantly.
-
-### Can I get pre-approved if I'm self-employed?
-
-You can, but it requires more documentation and more patience. Lenders will typically average your net income from the past two years of tax returns, not your gross receipts. If your business write-offs significantly reduce your taxable income, your qualifying income may be lower than you expect. Working with a loan officer who has specific experience with self-employed borrowers is worth the effort.
-
-### Will pre-approval guarantee I get the loan?
-
-No. Pre-approval is a conditional commitment, not a contract to lend. The final loan is still subject to a satisfactory appraisal of the property, a clear title search, final underwriting review, and your financial situation remaining stable through closing. Any significant change to your income, debts, or credit profile between pre-approval and closing can affect the outcome. Always consult with a qualified mortgage professional about your specific situation.
 
 ---
 

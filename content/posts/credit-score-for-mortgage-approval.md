@@ -122,27 +122,6 @@ A few misconceptions come up constantly, and they're worth addressing directly.
 
 ---
 
-## Frequently Asked Questions
-
-### What's the minimum credit score needed to buy a house?
-
-It depends on the loan type. For conventional loans, the floor is generally 620. FHA loans allow as low as 500 with a 10% down payment, or 580 with 3.5% down, though many lenders set their own minimums higher. VA loans have no official minimum but most lenders want 580 to 620. Qualifying at the minimum doesn't mean you'll get favorable terms.
-
-### Can I get a mortgage with no credit history?
-
-Possibly, through a process called non-traditional credit underwriting. Lenders look at 12 to 24 months of on-time rent payments, utility bills, and similar payment records to establish creditworthiness. FHA and some conventional programs allow this, but you'll need thorough documentation and it may limit your lender options.
-
-### How long does it take to improve a credit score for a mortgage?
-
-It varies. Paying down high credit card balances can produce visible improvement within one to two billing cycles. Recovering from a recent missed payment takes longer, typically six to twelve months of consistent on-time payments before the impact softens enough to matter. A collection or bankruptcy takes years to fade.
-
-### Does getting pre-approved hurt my credit score?
-
-A pre-approval involves a hard inquiry, which can reduce your score by a few points, typically in the range of 2 to 5 points. Multiple mortgage inquiries within a 14 to 45 day window (depending on the scoring model) are usually treated as a single inquiry, so shopping multiple lenders in a short period won't compound the damage.
-
-### Should I pay off all my debt before applying for a mortgage?
-
-Not necessarily all of it. Installment debt like car loans or student loans affects your DTI more than your score in most cases. Revolving debt (credit cards) affects both. The priority is typically to get card balances below 30% of limits, stay current on everything, and make sure your DTI lands in an acceptable range. Completely zeroing out accounts before applying can sometimes hurt your credit mix and age metrics. Ask a qualified loan officer or financial advisor to look at your specific situation before making large payoffs.
 
 ---
 

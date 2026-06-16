@@ -113,27 +113,6 @@ If you're unsure how to position your file or you want someone to walk through y
 
 ---
 
-## FAQ
-
-### Does student loan debt count against my DTI even if it's in deferment?
-
-Yes, and this catches people constantly. If your student loans are deferred, most conventional lenders will count either 1% of the outstanding balance per month or the fully amortized payment, whichever appears on your credit report. FHA follows a similar rule. A $60,000 student loan balance in deferment could add $600 per month to your DTI calculation even though you're not writing a check for it. Check current guidelines with your lender because these rules have shifted a few times in recent years.
-
-### Can a co-borrower's income help my DTI?
-
-Yes, and this is one of the most practical tools available. Adding a co-borrower brings their income into the calculation, which lowers DTI. But their debts come along too, which can cut the other way. Run the math both ways before adding a co-borrower, because sometimes their obligations offset the income benefit.
-
-### What if I'm self-employed? How do lenders calculate my income for DTI?
-
-Self-employed borrowers typically have their income calculated using the net income from Schedule C (sole proprietors) or their share of business income from Schedule K-1, averaged over two years of tax returns. Depreciation is often added back. The catch is that many self-employed borrowers aggressively reduce taxable income, which also reduces qualifying income for DTI purposes. Some lenders offer bank statement programs that use 12-24 months of deposits instead, but rates are generally higher on those products.
-
-### Is there a minimum DTI that lenders require?
-
-No. There's no floor on DTI. A lower DTI is always better from a qualification standpoint. Some borrowers assume having almost no debt is somehow suspicious. It isn't.
-
-### Where can I learn more about the overall home buying process, not just DTI?
-
-[Freddie Mac's home buying resources at myhome.freddiemac.com](https://myhome.freddiemac.com/) are genuinely solid and unbiased. For borrowers who want to do a deeper dive into the financial mechanics of mortgages, books like *The Mortgage Encyclopedia* by Jack Guttentag give you the technical foundation without the sales pitch. (This site may earn a commission on book purchases through affiliate links.)
 
 ---
 

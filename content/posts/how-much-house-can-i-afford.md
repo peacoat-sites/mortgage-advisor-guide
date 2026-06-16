@@ -135,27 +135,6 @@ The lender's job is to underwrite the loan. Your job is to underwrite your life.
 
 ---
 
-## Frequently Asked Questions
-
-### Is the 28/36 rule still relevant?
-
-The 28/36 rule is a guideline suggesting you spend no more than 28% of gross income on housing and no more than 36% on total debt. It's dated but still directionally useful as a sanity check. Modern lending programs allow higher ratios, which means qualifying for a loan has gotten easier, not that the underlying math of affordability has changed. If your housing costs are pushing past 28% of gross, scrutinize the rest of your budget hard before signing anything.
-
-### How much should I have saved before buying a home?
-
-At minimum: enough to cover your down payment, closing costs (typically 2% to 5% of the purchase price), and a post-closing reserve of three to six months of living expenses. Closing costs catch a lot of first-time buyers off guard. A $350,000 purchase can easily come with $7,000 to $17,500 in closing costs on top of the down payment. Plan for that number explicitly.
-
-### Does my student loan debt hurt my ability to afford a home?
-
-Yes, in two ways. Student loan payments count against your back-end DTI, which reduces the loan amount you can qualify for. And if student loan payments are consuming a significant portion of your take-home pay, your real-world affordability is constrained regardless of what the DTI calculation shows. Income-driven repayment plans complicate this further, as lenders calculate your DTI using a specific formula for IBR payments that may differ from your actual payment.
-
-### Should I buy at the top of my budget or leave room?
-
-Leave room. Your income might fluctuate, your expenses will grow, and something in that house will break. The buyers who feel most comfortable over a five to ten year horizon are almost never the ones who maxed out their pre-approval. Buying 15% to 20% below your maximum qualification gives you breathing room for raises, additional savings, and surprises. Homes should build wealth. They shouldn't create chronic financial stress.
-
-### Can I use bonuses or side income to qualify for a larger loan?
-
-Lenders can use bonus or self-employment income if it's documented and consistent over a two-year history. A single large bonus won't typically count. Variable income that's been consistent and appears on two years of tax returns can be averaged and included. Just be careful about qualifying based on income you aren't certain will continue. Lenders verify history. They can't verify the future. Only you know whether that bonus is truly reliable or whether it was a one-time event.
 
 ---
 

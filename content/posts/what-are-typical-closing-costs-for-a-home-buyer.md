@@ -92,27 +92,6 @@ None of this makes these loans bad choices. The VA loan in particular is one of 
 
 ---
 
-## FAQ
-
-### Can closing costs be rolled into my mortgage?
-
-Sometimes, but not always. With most conventional loans, you can't simply roll closing costs into the loan unless you're refinancing. One workaround is negotiating a higher interest rate in exchange for lender credits, which offset your closing costs out of pocket. This is called a "no-closing-cost" loan and it's a legitimate option, just understand you're paying those costs over time through a higher rate rather than avoiding them.
-
-### Who pays closing costs, the buyer or the seller?
-
-Both parties typically pay costs at closing, but they're usually different costs. Sellers commonly pay their real estate agent's commission and any transfer taxes assigned to them by local custom. Buyers pay the mortgage-related fees, title insurance, and prepaids. Sellers can also agree to pay some of the buyer's closing costs as a concession, which must be disclosed to and approved by the lender.
-
-### Are closing costs due upfront or at the closing table?
-
-Most closing costs are paid at the closing table, either by wire transfer or cashier's check. A few items get paid earlier: the appraisal fee is typically collected within days of your application, and a home inspection is usually paid the day of the inspection. Plan for the bulk of it to be due at closing.
-
-### Is there a way to estimate closing costs before I get a Loan Estimate?
-
-Yes. The CFPB's loan estimate explainer and several lender websites provide closing cost calculators. These give you a reasonable ballpark, but don't treat any estimate as final until you have an actual Loan Estimate (which lenders are required to issue within three business days of a complete application). That document gives you the numbers you can actually hold them to. If you want to go deeper, [this home-buying workbook](https://www.amazon.com/s?k=home+buying+workbook&tag=your-tag) can help you map out the full picture (note: this site may earn a commission on purchases made through that link).
-
-### Do closing costs vary a lot by state?
-
-Significantly. A CoreLogic/Bankrate analysis from 2021 found average closing costs ranging from under $2,000 in some Midwestern states to over $6,000 in New York, not counting taxes. When you factor in transfer taxes, the gap widens further. Pennsylvania, Maryland, New York, Delaware, and Washington DC are consistently among the most expensive states for buyers in terms of total closing costs. If you're relocating from a low-cost state to a high-cost one, this can catch you completely off guard.
 
 ---
 

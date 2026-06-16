@@ -108,29 +108,6 @@ Your local real estate market matters too. If you're in a fast-appreciating mark
 
 Your age at payoff matters. Taking out a 30-year mortgage at 50 means carrying housing debt into your 80s. A 15-year at 50 means paying it off at 65, potentially right at retirement. The calculus shifts significantly.
 
-## FAQ
-
-### Can I pay off a 30-year mortgage early by making extra principal payments?
-
-Yes, and this is a popular middle-ground strategy. If you take a 30-year mortgage but make one extra principal payment per year, you can typically reduce the effective payoff timeline by several years. Some borrowers add a fixed dollar amount to every monthly payment, targeting their amortization schedule directly. The key is making sure your lender applies extra payments to principal and not to future interest. Always specify this in writing or through your loan servicer's payment portal. One caution: some loans carry prepayment penalties, though these are rare on standard conventional loans. Check your note before you start.
-
-### Is the interest rate difference between 15-year and 30-year mortgages always significant?
-
-Not always. The spread fluctuates with market conditions. In some rate environments, the gap is minimal, which weakens the financial argument for the 15-year on the rate side alone. In other periods, the spread is wide enough to make the 15-year even more compelling. Always get a quote for both on the same day and compare the actual numbers rather than assuming the spread is large enough to matter.
-
-### Does the mortgage term affect how much house I qualify for?
-
-Yes, meaningfully. Lenders qualify you based on your debt-to-income ratio, and a higher required monthly payment reduces your purchasing power. If you're stretching to buy at the top of your budget, a 15-year payment may disqualify you for the loan amount you need. Some buyers take a 30-year loan to qualify, with the intent to refinance to a 15-year once their income grows. That can work, but refinancing carries closing costs, typically 2% to 5% of the loan amount, so build that into your planning.
-
-### What happens to my tax deduction depending on which term I choose?
-
-Mortgage interest is generally deductible for borrowers who itemize. Because a 30-year mortgage generates significantly more interest, especially in the early years, the potential deduction is larger. However, the Tax Cuts and Jobs Act of 2017 raised the standard deduction substantially, meaning far fewer homeowners actually itemize now. For many buyers, the mortgage interest deduction provides less benefit than it once did. Consult a tax professional to understand your specific situation before using the deduction as a deciding factor in your loan term choice.
-
-### Should I choose a 15-year mortgage if I'm planning to retire in 15 to 20 years?
-
-This is one of the strongest cases for a 15-year loan, and I've seen it transform people's retirement security. Entering retirement without a mortgage payment dramatically reduces your monthly income requirement, which means you need a smaller nest egg to sustain your lifestyle. That said, the answer still depends on whether the higher payment compromises your retirement savings contributions in the years leading up to retirement. If you have to choose between making a 15-year payment and fully funding your retirement accounts, talk to a financial planner before you decide. That tradeoff deserves careful analysis.
-
-The choice between a 30-year and 15-year mortgage isn't really about which term is better in the abstract. It's about which term is better for your income, your obligations, your risk tolerance, and your life plan. Get the quotes, run the numbers, stress-test the payment, and if the decision still isn't clear, spend a few hours with a fee-only financial planner before you sign. The loan officer across the desk wants to close your loan. A fee-only planner wants to protect your long-term financial health. Both perspectives are useful. Make sure you're getting both before you decide.
 
 ## Helpful Resources
 

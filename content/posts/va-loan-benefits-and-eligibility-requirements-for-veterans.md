@@ -92,27 +92,6 @@ If you want to do thorough prep work before meeting with a lender, a home-buying
 
 ---
 
-## FAQ
-
-### Can I use my VA loan benefit more than once?
-
-Yes. The VA loan benefit isn't a one-time deal. As long as you've paid off a previous VA loan and sold the property (or in some cases, even if you still own it), you can restore your entitlement and use the benefit again. You can even have two VA loans simultaneously under certain circumstances, though the math on entitlement gets more complicated.
-
-### Does a VA loan take longer to close than a conventional loan?
-
-It can, mostly because of the VA appraisal process, which tends to take a bit longer than a standard conventional appraisal. An experienced lender who regularly does VA loans will have this dialed in. Avoid lenders who only do a handful of VA loans a year.
-
-### Can I use a VA loan to buy a multi-family property?
-
-Yes, up to four units, as long as you occupy one of the units as your primary residence. This is a genuinely powerful wealth-building angle that most people overlook.
-
-### What happens to my VA loan if I want to sell the house?
-
-You can sell anytime. If you've paid off the loan, your entitlement is restored (you'll need to apply for that restoration). If someone assumes your VA loan, be careful: your entitlement stays tied up until the loan is paid off unless the assumptor is also a qualifying veteran who agrees to substitute their entitlement.
-
-### Is a VA loan only for single-family homes?
-
-No. VA loans can be used for condos (the condo development must be VA-approved), manufactured homes, and new construction, in addition to standard single-family homes. The VA-approved condo list is a real constraint though. Check the VA's condo lookup tool before you fall in love with a specific unit.
 
 ---
 

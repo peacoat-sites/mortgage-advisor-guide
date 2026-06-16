@@ -98,27 +98,6 @@ If you want to dig into the full amortization math or read more about accelerate
 
 ---
 
-## FAQ
-
-### Will biweekly payments actually show up on my credit report differently?
-
-No. Your credit report reflects whether you're current on your loan, not whether you're paying biweekly or monthly. Making extra payments won't change your reported payment history, but it will reduce your outstanding balance, which can slightly improve your credit utilization picture over time.
-
-### What if my mortgage servicer transfers my loan to a different company — do I have to start over?
-
-Yes, and this is a real pain point. When your loan is transferred, your payment instructions don't automatically carry over. The moment you get a notice of servicing transfer, contact the new servicer and ask about their extra-principal payment process before making your first payment. Don't assume your old setup transferred.
-
-### Can I do biweekly payments on an FHA or VA loan?
-
-Generally yes, but call your servicer and confirm. FHA and VA loans have specific terms, and while prepayment is typically allowed on both, you want to confirm that partial biweekly payments are accepted and applied correctly. The mechanics are the same as a conventional loan, but the servicer's system needs to handle it properly.
-
-### Is the extra payment worth it if I have a low interest rate, like 3%?
-
-Honestly, probably not on a pure math basis. At 3%, your money is likely working harder in an index fund or paying off higher-rate debt. The biweekly strategy delivers its biggest punch at 6%, 7%, 8% and above. At sub-4% rates, you might get more value from investing the difference. Run both scenarios with your actual numbers before committing.
-
-### What's the difference between biweekly payments and just making one extra payment per year?
-
-Mathematically, over the long run, they're nearly identical in total impact. The biweekly method applies money slightly earlier throughout the year, which does compound a bit more favorably, but the difference between the two approaches is small. If your servicer makes biweekly setup complicated or fee-heavy, just make one lump extra principal payment in January. Same destination, easier road.
 
 ## Helpful Resources
 

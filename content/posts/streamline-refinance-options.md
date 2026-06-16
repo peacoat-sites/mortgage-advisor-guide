@@ -105,27 +105,6 @@ Here's a practical way to evaluate whether a streamline refinance makes sense fo
 
 ---
 
-## Frequently Asked Questions
-
-### Can I get cash out with a streamline refinance?
-
-No. All three major streamline programs are rate-and-term refinances only. If you need to access equity, you'll need a cash-out refinance, which requires full documentation, an appraisal, and standard underwriting. The streamline programs are specifically designed for borrowers whose goal is a lower rate or payment, not equity extraction.
-
-### Does a streamline refinance hurt my credit score?
-
-It can create a small, temporary dip. The lender will perform a credit inquiry, and a new loan will lower the average age of your accounts. In my experience, the impact is usually minor and recovers within a few months. A non-credit-qualifying FHA streamline skips the full credit pull, which further limits the effect, but individual results vary.
-
-### Can I switch lenders for a streamline refinance?
-
-Yes, for all three programs. You're not required to use your current servicer. In fact, shopping multiple lenders is highly advisable. Lenders have some flexibility in the rates they offer even within streamline programs, and the difference between a competitive and an uncompetitive offer can easily exceed $5,000 over the life of the loan.
-
-### What if my home's value has dropped since I bought it?
-
-For FHA, VA, and USDA streamline refinances, the appraisal is generally waived, which means your current home value isn't a factor in qualifying. This is one of the primary advantages of streamline programs for borrowers in flat or declining markets who couldn't qualify for a conventional refinance due to insufficient equity.
-
-### How long does a streamline refinance take to close?
-
-Faster than a standard refinance, but not instant. Most streamline refinances close in 20 to 30 days, compared to 45 to 60 days for a full conventional refinance. The reduced documentation requirements remove a major source of delays, but title work, lender capacity, and state recording requirements still take time. Don't let any lender promise you a two-week close without a good explanation for how they'll get there.
 
 ---
 

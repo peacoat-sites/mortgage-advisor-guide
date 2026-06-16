@@ -76,27 +76,6 @@ Documentation matters more in non-QM underwriting than most borrowers expect. Le
 
 If you want to go deeper on the mechanics before you start shopping loans, a guide like [*The Mortgage Encyclopedia* by Jack Guttentag](https://www.amazon.com/Mortgage-Encyclopedia-Authoritative-Unconventional-Financing/dp/0071739084?tag=yourtag-20) covers loan product variations in useful detail. (That's an affiliate link, and the site may earn a small commission.)
 
-## FAQ
-
-### Are non-QM loans the same as subprime loans?
-
-No, though the confusion is understandable. Subprime loans pre-2008 were characterized by predatory terms, inflated appraisals, and virtually no underwriting. Non-QM loans still require a documented ability to repay; they just use different documentation than a conventional lender requires. The regulatory framework is different, and the borrower profiles are too.
-
-### Can I refinance a non-QM loan into a conventional loan later?
-
-Often yes, and for many borrowers that's the explicit plan. If you're self-employed and your situation stabilizes, or if your waiting period after a credit event expires, you may well qualify for conventional financing down the road. Just model the prepayment penalty into that calculation before assuming the savings will be there.
-
-### Do non-QM loans require mortgage insurance?
-
-Generally no. Most non-QM products don't use private mortgage insurance the way conventional loans do below 20% down. Instead, that risk is priced into the interest rate. The monthly payment might look similar, but the structure is different, and there's no PMI to cancel once you hit 20% equity.
-
-### How much do non-QM interest rates vary right now?
-
-The research here is genuinely mixed because the non-QM market is fragmented and pricing changes constantly. What I can say is that spreads above conventional rates have historically ranged from about 1% to more than 3%, depending on the product, borrower profile, and lender. Get current quotes from multiple brokers rather than relying on any published rate.
-
-### Is my credit score less important with a non-QM loan?
-
-Not exactly. Credit score requirements vary by product, but most non-QM programs want at least a 620 to 640 minimum, and better scores still get better pricing. What's different is that a recent credit event that would disqualify you entirely from conventional financing might be acceptable in non-QM, particularly if you have compensating factors like significant reserves or a large down payment.
 
 ## Helpful Resources
 

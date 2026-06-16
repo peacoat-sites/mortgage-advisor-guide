@@ -102,27 +102,6 @@ And get quotes from multiple lenders on each product before you decide. Sometime
 
 ---
 
-## Frequently Asked Questions
-
-### Can I do a cash-out refinance if I already have a home equity loan?
-
-Yes, but the home equity lender usually has to agree to remain in second position (called a "subordination agreement") or the second lien has to be paid off at closing. Getting subordination isn't always guaranteed, and it adds a step and potential delay to the process.
-
-### How much equity do I need to qualify for either product?
-
-Most lenders want you to keep at least 20% equity after the transaction, meaning your combined loan-to-value ratio shouldn't exceed 80%. Some lenders go up to 85% or even 90%, but pricing gets worse and private mortgage insurance may factor in on the refi side.
-
-### Is a home equity loan harder to get than a cash-out refi?
-
-Not necessarily harder, but different. Home equity lenders are often stricter about combined LTV and may look at your existing mortgage payment history closely. Your credit score, income verification, and debt-to-income ratio are evaluated on both products. The research here is mixed on which is "easier," since it varies considerably by lender.
-
-### What happens to my home equity loan if I sell my house?
-
-Both liens get paid off at closing from the sale proceeds. The first mortgage gets paid first, then the home equity loan. As long as you have enough equity to cover both balances plus selling costs, there's no problem.
-
-### Does a cash-out refinance hurt your credit score?
-
-It typically causes a small, temporary dip, the same way any new mortgage application does. You'll see hard inquiries during the application process, and the new account will lower your average account age. Most borrowers see scores recover within a few months if everything else stays stable.
 
 ## Helpful Resources
 

@@ -151,27 +151,6 @@ If you want a resource to work through alongside this, [Freddie Mac's home buyer
 
 ---
 
-## Frequently Asked Questions
-
-### How far back do lenders look at bank statements?
-
-Most lenders want two to three months of statements. However, if there's a large or unusual deposit in those statements, the underwriter may ask you to explain it regardless of when it occurred. For self-employed borrowers or those with irregular income, some lenders will request 12 to 24 months of bank statements as the primary income verification method under bank statement loan programs.
-
-### Do I need to provide documents for every bank account I own?
-
-Yes. Lenders require disclosure of all assets. Omitting an account isn't just a practical problem, it can raise red flags during underwriting if a deposit source or transfer doesn't match up. List every account and provide statements for all of them.
-
-### What if I've had a bankruptcy or foreclosure?
-
-You can still qualify for a mortgage after a bankruptcy or foreclosure, but waiting periods apply. A Chapter 7 bankruptcy typically requires a two to four year waiting period depending on the loan type. A foreclosure is generally three to seven years. You'll need to show re-established credit and document the circumstances surrounding the event. Some lenders will ask for a written explanation letter.
-
-### Can I use cryptocurrency or investment account funds for my down payment?
-
-Cryptocurrency is not directly accepted as a source of funds for most conventional or government-backed loans. However, if you liquidate crypto into cash and let it season in a traditional bank account for 60 to 90 days, it becomes traceable as an asset. Investment accounts can typically be used, but lenders may apply a discount (often around 30 percent) to the balance to account for market volatility and early withdrawal penalties.
-
-### How long does it take to process a mortgage application once everything is submitted?
-
-With a complete, clean file, underwriting can take five to ten business days. Most loans close within 30 to 45 days of the application date. However, incomplete documentation is the single most common cause of delays. Missing one document or needing a clarification can reset parts of the process. Staying responsive to your loan officer's requests and having your documents organized from day one is the most effective way to hit your target closing date.
 
 ---
 

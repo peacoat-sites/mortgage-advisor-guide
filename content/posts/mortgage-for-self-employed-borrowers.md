@@ -142,27 +142,6 @@ These ranges are illustrative. Actual rates depend on your credit score, lender,
 
 ---
 
-## Frequently Asked Questions
-
-### Can I qualify for a mortgage with only one year of self-employment?
-
-Sometimes. Fannie Mae and Freddie Mac both have provisions that allow for one year of self-employment if the borrower previously worked in the same field as a W-2 employee and can document the transition. The bar is higher: you'll typically need excellent credit, a strong down payment, and a lender willing to manually underwrite the file. Most automated underwriting systems will flag one-year self-employment and require additional review.
-
-### Do lenders count rental income if I'm self-employed?
-
-Yes, but with conditions. Rental income from investment properties is typically averaged over two years using Schedule E on your tax return, after deducting depreciation and expenses. If you have a new rental with less than two years of history, many lenders will only count 75% of the market rent (verified by an appraiser), and some won't count it at all. It adds a layer of complexity on top of your business income analysis.
-
-### Will a large down payment help me qualify if my documented income is low?
-
-A larger down payment reduces your loan amount, which lowers the monthly payment you need to qualify for. It doesn't change how lenders calculate your income, but it can make the numbers work when a smaller loan is involved. It also strengthens your overall application by reducing lender risk. That said, if your documented income simply doesn't support the payment, no down payment size will override the income calculation for conventional or FHA loans. Bank statement loans may have more flexibility here.
-
-### How does business debt affect my mortgage qualification?
-
-Business debt that appears on your personal credit report is counted against your debt-to-income ratio. Business debt that is solely in your business name (with no personal guarantee reported to credit bureaus) typically is not. However, if you have an S-corp or LLC and personally guaranteed a business loan, expect it to show up in your DTI calculation. This is a common surprise that changes borrowers' qualifying amounts significantly.
-
-### Should I choose a fixed or adjustable rate as a self-employed borrower?
-
-This is less about your employment type and more about your financial situation and timeline. Self-employed income can be variable, which makes many people lean toward the stability of a fixed rate. But if you have a strong cash flow, a realistic plan to pay down or refinance, and you're buying in a rate environment where adjustable rates offer meaningful savings, an ARM might make sense. Read through the [comparison of fixed vs. adjustable rate mortgages](/fixed-vs-adjustable-rate-mortgage/) before you decide. There's no universal right answer.
 
 ---
 

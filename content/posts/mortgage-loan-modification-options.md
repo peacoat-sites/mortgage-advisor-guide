@@ -134,27 +134,6 @@ If you want a deeper guide to working through housing crises and financial press
 
 ---
 
-## Frequently Asked Questions
-
-### Will applying for a loan modification hurt my credit score?
-
-The modification itself is typically reported to credit bureaus as "modified," which does have a negative mark. But here's the more honest answer: if you're already delinquent by the time you apply, the delinquencies themselves have likely already damaged your credit significantly. The modification is usually far less harmful than the alternative. Staying in ongoing default while avoiding modification does far more credit damage over time.
-
-### Can I be denied a loan modification and still stop foreclosure?
-
-Yes. If you're denied a modification, you should immediately ask your servicer for the reason in writing and whether you qualify for other loss mitigation options like a repayment plan or short sale. You can also appeal a denial within a specified time window under CFPB rules. Don't assume one denial is the end of the road.
-
-### How long does the modification process take?
-
-Plan for 30 to 90 days from a complete application submission to a decision, though some cases run longer. Government-backed loan programs have more defined timelines. Portfolio lenders can vary widely. During this time, keep paying what you can, keep documenting, and stay in contact with your servicer.
-
-### Do I need a lawyer or can I do this myself?
-
-You don't legally need one, and many borrowers successfully navigate modifications on their own or with a HUD-approved counselor. An attorney makes sense if you're also navigating foreclosure proceedings simultaneously, if you believe your servicer is violating federal servicing rules, or if your loan situation is unusually complex. Free legal aid may also be available through your state's bar association if affordability is a concern.
-
-### What happens if I can't sustain even the modified payment?
-
-It depends on whether you had a trial modification made permanent or not. If the modification was permanent and you default again, the servicer may pursue foreclosure, and re-modification is possible but not guaranteed. Some investor guidelines allow only one modification in the life of a loan. This is why it's critical to be realistic about what payment you can truly sustain before agreeing to a modification offer. Accepting a payment that's still too high just delays the problem.
 
 ---
 

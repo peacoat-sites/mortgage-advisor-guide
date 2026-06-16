@@ -137,27 +137,6 @@ Even borrowers who look strong on paper can get tripped up by things they didn't
 
 ---
 
-## Frequently Asked Questions
-
-### Does getting pre-approved hurt my credit score?
-
-A mortgage pre-approval does require a hard credit inquiry, which can temporarily lower your score by a few points. However, credit scoring models treat multiple mortgage inquiries within a short window (typically 14 to 45 days, depending on the scoring model) as a single inquiry. Shopping multiple lenders within that window won't compound the damage. You're actively encouraged to do this.
-
-### Can I qualify for a mortgage while self-employed?
-
-Yes, but documentation requirements are stricter. You'll need two years of personal and business tax returns, a current profit and loss statement, and potentially business bank statements. The key challenge is that lenders use your net taxable income, not your gross revenue, which often surprises self-employed borrowers who've legitimately reduced their tax bill through deductions.
-
-### How long do I need to wait after a bankruptcy or foreclosure?
-
-It depends on the loan type and the type of bankruptcy. For conventional loans, a Chapter 7 bankruptcy requires a four-year waiting period from discharge. A foreclosure is also four years. FHA is more forgiving at two to three years. VA loans typically require two years after Chapter 7. The waiting periods can feel long, but the time can be used intentionally to rebuild credit and save a down payment.
-
-### Can student loans affect my mortgage qualification?
-
-They absolutely can. Student loans count toward your back-end DTI whether you're in repayment or in deferment. For deferred loans, lenders often use 1% of the outstanding balance as the assumed monthly payment. On a $100,000 student loan balance, that's $1,000 per month added to your DTI calculation, even if you aren't currently making payments.
-
-### Is it possible to qualify with no down payment?
-
-Yes, through VA loans (for eligible veterans and active-duty service members) and USDA loans (for properties in eligible rural and suburban areas). Some state and local housing finance agencies also offer down payment assistance programs that can effectively get you to zero out of pocket. These programs are worth researching before assuming you need to wait years to save a full down payment.
 
 ---
 

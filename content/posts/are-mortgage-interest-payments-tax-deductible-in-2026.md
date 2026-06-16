@@ -88,27 +88,6 @@ One thing I'll say plainly: if you have a complex situation, a large loan, a HEL
 
 ---
 
-## FAQ
-
-### Is mortgage interest still tax deductible in 2026?
-
-Yes. The mortgage interest deduction remains intact for 2026. You can deduct interest on up to $750,000 in qualifying mortgage debt (or $1 million if your loan originated before December 15, 2017), but you must itemize deductions instead of taking the standard deduction for it to benefit you.
-
-### Did the TCJA expiration change the mortgage interest deduction in 2026?
-
-No. Legislation passed in 2025 made the key TCJA provisions permanent, meaning the $750,000 debt cap, the higher standard deduction, and the $10,000 SALT cap all continue into 2026. The reversion to the old $1 million cap and lower standard deduction amounts did not occur.
-
-### Can I deduct interest on a home equity loan or HELOC in 2026?
-
-Only if you used the funds to buy, build, or substantially improve the home that secures the loan. Using home equity proceeds for debt consolidation, vacations, or vehicle purchases does not qualify for the deduction under current law.
-
-### How do I know if it's worth itemizing instead of taking the standard deduction?
-
-Add up your mortgage interest, state and local taxes (capped at $10,000 or $40,000 depending on your income under the new legislation), and any charitable contributions. If that total exceeds the standard deduction for your filing status (roughly $15,000 for single, $30,000 for married filing jointly in 2026), itemizing saves you money. If it doesn't, take the standard deduction.
-
-### What happens if my mortgage balance is over $750,000?
-
-You can only deduct the interest proportional to the $750,000 limit. If your outstanding balance is $1,000,000, you can deduct 75% of the interest paid that year. IRS Publication 936 includes the exact worksheet for calculating this proration, and your lender's Form 1098 provides the principal balance figure you'll need.
 
 ---
 

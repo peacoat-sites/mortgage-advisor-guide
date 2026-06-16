@@ -94,27 +94,6 @@ The buyers I've seen do well with zero-down programs have stable employment, man
 
 ---
 
-## FAQ
-
-### Can I use gift money with a zero-down loan?
-
-Yes, most zero-down programs allow gift funds for closing costs and in some cases for the funding fee or upfront MIP. VA loans and FHA loans both permit gifts from family members, though the lender will require a gift letter and may need documentation of the transfer. USDA is more restrictive — check program guidelines specific to the lender.
-
-### Do zero-down loans have higher interest rates?
-
-VA loans generally don't carry a rate penalty relative to conventional loans with 20% down — sometimes they're actually lower. USDA rates are typically competitive. FHA rates are usually slightly higher than conventional, and the mortgage insurance adds to the effective cost. Credit union zero-down products vary; some price the rate slightly higher in lieu of PMI. Always get at least three loan estimates and compare the APR, not just the rate.
-
-### What if I find a home I love but it doesn't meet USDA property eligibility?
-
-Then you'll need a different loan program for that property. USDA eligibility is tied to the property's location, not just your personal eligibility. It's a hard boundary. Run the address through the USDA eligibility map before you get emotionally attached.
-
-### Can I buy a multi-unit property with a zero-down loan?
-
-VA loans allow purchases of up to four units if you occupy one as your primary residence — which is one of the more powerful features of the program. USDA is single-family only. FHA allows two-to-four units with 3.5% down (not zero), so combined with a DPA program covering that 3.5%, it's technically possible. The underwriting on multi-unit purchases is more complex regardless of program.
-
-### How long does the process take compared to a conventional purchase?
-
-USDA loans add a processing step because they require approval from the USDA itself, not just the lender. That can add two to four weeks to your closing timeline — sometimes more if the USDA office is backed up. VA and FHA with DPA programs run closer to a standard 30-45 day close, though DPA programs sometimes have their own funding timelines. If you're in a competitive market, understand that sellers know USDA closings take longer, and it can affect your offer's appeal.
 
 ## Helpful Resources
 

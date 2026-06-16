@@ -113,27 +113,6 @@ The required waiting period between counseling and signing the loan application 
 
 ---
 
-## Frequently Asked Questions
-
-### Does the bank own my home after I take a reverse mortgage?
-
-No. You retain title to your home throughout the life of the loan, just as you do with a regular mortgage. The lender places a lien on the property, which gives them the right to be repaid when the home is sold or the loan otherwise comes due. You own it; they have a claim against it. The distinction matters legally and practically.
-
-### What happens if I outlive the loan or the lender goes out of business?
-
-On a HECM, neither scenario ends your right to stay in the home. The FHA insurance guarantees that your tenure payments or line of credit continues even if you live to 105 or your original lender shuts down and the loan is transferred to a new servicer. This is the primary reason most financial planners prefer HECMs to proprietary reverse mortgages.
-
-### Can I lose my home with a reverse mortgage?
-
-Yes, and it happens more than people realize. The most common reason is failure to pay property taxes or homeowner's insurance. Neglecting basic maintenance to the point where the property condition violates loan terms is another. Leaving the home for an extended period, such as a long nursing home stay, can also trigger a due-and-payable notice. The loan documents spell these out clearly. Read them.
-
-### Will a reverse mortgage affect my Medicare or Social Security?
-
-Generally, no. Reverse mortgage proceeds are loan disbursements, not income, so they don't count toward Social Security's earnings limits or trigger Medicare surcharges. However, if you accumulate disbursements in a bank account and that balance pushes you over the asset limits for Medicaid or Supplemental Security Income (SSI), that's a different story. If you receive means-tested benefits, speak with a benefits counselor before taking a lump sum.
-
-### Should I take the lump sum or the line of credit?
-
-For most borrowers who don't have an immediate large expense, the line of credit is the more flexible and often more financially advantageous option over time. The growth feature on the unused portion is genuinely useful. The lump sum locks you into a fixed rate and starts compounding immediately on the full amount. The right answer depends on your specific situation, but I've rarely seen a financial planner make a compelling case for the lump sum unless there's a specific, pressing need driving it.
 
 ---
 

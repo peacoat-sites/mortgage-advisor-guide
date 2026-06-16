@@ -101,29 +101,6 @@ When you take cash out, you're borrowing against your equity. Your loan balance 
 
 For a cash-out refi, you should calculate the effective interest rate on the cash you're receiving. You're taking on a larger mortgage balance and potentially a higher rate across the entire balance, not just on the new money. Compare that cost against alternatives like a home equity line of credit, a personal loan, or simply not pulling the equity at all. Sometimes a cash-out refi makes sense. Often a HELOC is cheaper and more flexible. The break-even framework alone won't answer that question.
 
-## FAQ
-
-### How do I find my current loan's remaining interest quickly?
-
-Pull up an online amortization calculator, enter your original loan amount, original interest rate, original loan term, and your start date. It will show you the remaining interest across every future payment. Alternatively, call your servicer and ask for a payoff quote and a remaining amortization schedule. This is a standard request and they're required to provide it.
-
-### Should I include my prepayment penalty in the break-even calculation?
-
-Yes, always. If your current mortgage has a prepayment penalty clause, that fee adds directly to the cost of refinancing. Include it in your total closing cost figure in Step 1. Some older loans and certain loan products still carry these, so check your current note before you assume you're penalty-free.
-
-### What if my lender rolls the closing costs into the new loan?
-
-Then your effective closing cost is the present value of those costs plus the interest you'll pay on them over the life of the loan. Rolling in $5,000 at 7% over 30 years costs you significantly more than $5,000. Your monthly savings will also be smaller because your loan balance is higher. The break-even still works the same way mathematically, but the timeline is longer than it appears.
-
-### Does my credit score affect the break-even calculation?
-
-Indirectly, yes. Your credit score affects the rate you qualify for, which affects both the closing costs (lenders sometimes charge more for lower scores) and the monthly savings you can achieve. If your score has improved significantly since your original mortgage, refinancing may produce a larger rate improvement than someone whose score has stayed flat. If your score has dropped, you may not qualify for a rate that produces a positive break-even at all.
-
-### Is there a faster way to just get a rough number?
-
-There is, with caveats. Take your total closing costs and divide by the monthly payment difference. That gives you a quick estimate in seconds. It's imprecise because it ignores amortization dynamics, but if the number comes out to 84 months and you're planning to stay five years, you don't need more precision to know the answer is no. If the number comes out to 18 months and you're planning to stay ten years, you probably need to go deeper to confirm the deal is as good as it looks.
-
-Refinancing can be one of the smartest financial moves you make as a homeowner, or it can be an expensive mistake dressed up as a good deal. The difference usually isn't the rate. It's whether you actually ran the math. If you want a structured way to approach these calculations, a good [home equity and mortgage workbook](https://www.amazon.com/s?k=home+equity+mortgage+workbook&tag=thehomebuying-20) can help you organize your numbers before you talk to any lender (this site may earn a commission). And if you're not sure how your specific loan terms interact with a refinance, talking to a HUD-approved housing counselor is free and genuinely useful. What I'd tell you to avoid is making a six-figure financial decision based on a loan officer's enthusiasm. Run the break-even. Know your number. Then decide.
 
 ## Helpful Resources
 

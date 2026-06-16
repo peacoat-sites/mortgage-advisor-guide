@@ -94,27 +94,6 @@ In a relatively stable rate environment, floating short-term (a week or two whil
 
 ---
 
-## Frequently Asked Questions
-
-### Can I unlock my rate if rates drop after I lock?
-
-In most cases, no. Once you lock, you're committed to that rate unless your lender offers a float-down option (which you'd have paid for at lock time) or your loan program changes significantly. Some lenders will renegotiate informally in large drops, but don't count on it. Get any flexibility spelled out in the lock agreement before you sign.
-
-### What happens if my lock expires before closing?
-
-You either pay an extension fee or you lose your rate and float back to whatever the market is doing that day. Extension fees vary by lender but commonly run 0.125% to 0.25% per week. If your closing is delayed by an underwriting condition or a title issue, your lender may waive the extension fee if the delay was their fault. "May" is the operative word. Ask about this policy before you lock.
-
-### Does locking in a rate affect my loan approval?
-
-No. A rate lock is separate from underwriting approval. You can lock a rate and still be denied if your financial profile doesn't hold up through the underwriting process. Locking doesn't mean you're approved; it means your rate is held while the approval process continues.
-
-### Is a longer lock period always better?
-
-Not necessarily. Longer locks cost more, either through a slightly higher rate or explicit fees. If your closing timeline is reliable and your file is clean, a shorter lock period saves money. A longer lock is worth the cost when your timeline is uncertain, you're buying new construction, or your file has complexities that might slow underwriting.
-
-### Should I lock before I find a house?
-
-Generally, no. Some lenders offer pre-lock programs, but without a purchase price and closing date, a lock doesn't have much meaning. Focus on getting pre-approved, knowing your loan program, and understanding the rate environment. Lock once you have a signed contract and a real closing date to anchor the decision.
 
 ---
 

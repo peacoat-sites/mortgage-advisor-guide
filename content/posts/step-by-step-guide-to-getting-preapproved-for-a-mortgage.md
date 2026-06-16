@@ -100,27 +100,6 @@ For borrowers who want to go deeper on the mechanics of mortgage qualification b
 
 ---
 
-## FAQ
-
-### How long does mortgage preapproval take?
-
-For a straightforward W-2 file with clean credit and documented assets, some lenders can issue a preapproval within 24 to 48 hours of receiving your complete documents. Self-employed borrowers or those with complex income often wait three to five business days. The variable is almost always how fast you can supply complete documentation, not how fast the lender processes it.
-
-### Does getting preapproved hurt your credit score?
-
-A hard inquiry typically drops your score by a few points, usually in the range of two to five. More practically: multiple mortgage inquiries within a 45-day window are treated as one inquiry under FICO's deduplication rules, so shopping multiple lenders doesn't stack inquiries. The hit is real but minor and temporary.
-
-### Can I get preapproved before finding a house?
-
-Yes, and you should. A preapproval letter tells you your real purchase range before you fall in love with something you can't actually buy. It also makes your offer more credible. In competitive markets, sellers and their agents routinely filter out offers without preapproval letters attached.
-
-### What's the difference between prequalification and preapproval?
-
-Prequalification is a quick estimate based on unverified information you provide. Preapproval requires documentation, a credit pull, and a formal review. In practical terms, a prequalification tells you roughly what you might qualify for; a preapproval is a conditional commitment. If you're making offers on houses, prequalification won't cut it.
-
-### What can disqualify me after preapproval?
-
-Plenty. A new credit account or large purchase that changes your DTI. A job change, especially from salaried to self-employed. A large unexplained deposit in your bank account. A low appraisal on the specific property. Or updated documents that show income lower than originally presented. Preapproval is conditional, and the conditions can change if your circumstances do. Keep your financial life stable from application through closing.
 
 ## Helpful Resources
 

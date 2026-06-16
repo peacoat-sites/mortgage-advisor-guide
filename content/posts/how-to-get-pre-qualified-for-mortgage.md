@@ -104,27 +104,6 @@ I've watched borrowers undercut themselves in the same predictable ways. These a
 
 If you're uncertain whether your situation is complex enough to need professional guidance, [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can review your financial profile and help you understand which loan options make the most sense before you approach any lender.
 
-## Frequently Asked Questions
-
-### Does getting pre-qualified hurt my credit score?
-
-Usually not. Most lenders perform a soft credit inquiry at the pre-qualification stage, which doesn't affect your score. A hard inquiry, the kind that does have a small impact, typically happens during pre-approval. Always ask which type of pull a lender will run before giving them your Social Security number.
-
-### How long does a pre-qualification letter stay valid?
-
-Most pre-qualification letters are valid for 60 to 90 days. After that, the lender may want to re-run the process, particularly if interest rates have shifted or your financial situation has changed. Don't get pre-qualified months before you're ready to actively shop.
-
-### Can I get pre-qualified if I'm self-employed?
-
-Yes, but expect more questions and a more involved conversation. Lenders will typically want to know how long you've been self-employed and what your net income has looked like over the past two years. At the pre-qual stage it's still just a conversation, but self-employed borrowers often face more scrutiny later in the underwriting process, so setting realistic expectations early matters.
-
-### What's the minimum credit score needed to get pre-qualified?
-
-It varies by lender and loan type. Conventional loans generally require a 620 minimum, though you'll get better pricing with a 740 or above. FHA loans allow scores down to 580 with a 3.5 percent down payment, and some lenders will go as low as 500 with a larger down payment. Pre-qualification is still worth attempting even if your score needs work, because it tells you exactly how far you have to go.
-
-### Should I get pre-qualified before finding a real estate agent?
-
-It's a smart order of operations. Knowing your approximate price range helps your agent understand what to show you and signals to them that you're a serious buyer. Some buyer's agents won't invest serious time with clients who haven't at least started the lending conversation. Getting pre-qualified first, even informally, shows you've done your homework.
 
 ---
 

@@ -91,27 +91,6 @@ If you want a physical reference to work through alongside your documents, a hom
 
 ---
 
-## Frequently Asked Questions
-
-### What happens if I find an error on my Closing Disclosure?
-
-Contact your loan officer immediately, in writing. Errors do happen, ranging from a misspelled name (which is minor but still needs correcting) to a fee that shouldn't be there. Your lender must correct material errors, and in some cases, providing a corrected CD resets the three-day waiting period. Don't let anyone tell you a fee discrepancy is "just a rounding issue" without verifying that for yourself.
-
-### Can my closing costs increase significantly from my Loan Estimate to my Closing Disclosure?
-
-For some fees, yes. For lender fees and fees for services you couldn't shop for, the law limits increases to zero percent and 10 percent, respectively. But fees for third-party services you chose yourself, such as a home inspector you hired independently, can change without limit. The research here is mixed on how often surprise increases happen in practice, but I've seen it enough times that I always tell borrowers to budget a cushion above their Loan Estimate.
-
-### Is the Closing Disclosure the same as a closing statement?
-
-Not exactly. The Closing Disclosure is a federally standardized form required by the Consumer Financial Protection Bureau. A "closing statement" is a more general term that may refer to the CD itself or to additional settlement documents prepared by the title company or closing attorney. In most residential transactions today, the CD functions as the primary closing statement.
-
-### What if I don't receive my Closing Disclosure three days before closing?
-
-That's a compliance issue, and you have leverage. Your lender is required by law to provide it within that timeframe. If closing is imminent and you don't have it, contact your real estate agent and ask them to contact the lender directly. You can also delay closing until the three-day window is satisfied. This may cause scheduling headaches, but signing documents you haven't had time to review is a much bigger problem.
-
-### Do I need a lawyer to review my Closing Disclosure?
-
-You're not legally required to have one, but in some states, real estate attorneys are customary and sometimes mandatory participants in closings. If you're confused by anything on the CD, or if you're dealing with a complex transaction, consulting a real estate attorney before closing is money well spent. A good HUD-approved housing counselor is another option, often free or low-cost, and they're trained specifically to help borrowers understand these documents.
 
 ---
 

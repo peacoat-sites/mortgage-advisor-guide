@@ -112,27 +112,6 @@ The honest take is that for most first-time buyers or anyone with a tight monthl
 
 ---
 
-## Frequently Asked Questions
-
-### Why did my mortgage payment increase if my interest rate didn't change?
-
-Your interest rate only affects the principal and interest portion of your payment. If your escrow payment increased, it's because your property taxes or homeowner's insurance premiums went up, or your annual escrow analysis revealed a shortage. Check your escrow analysis statement, which your servicer is required to send you. It will break down exactly what changed and why.
-
-### What happens to my escrow balance if I sell the house or refinance?
-
-If you sell, your escrow balance is typically refunded to you at closing after all outstanding obligations are settled. The timeline varies but is usually within 30 days of loan payoff. If you refinance with a new lender, the old escrow account is closed and refunded, and a new escrow account is established with the new loan, which is why you'll often see escrow prepayments as a closing cost on a refinance.
-
-### Can I use my escrow account to pay supplemental property taxes?
-
-Usually not automatically. Supplemental tax bills, which are common after a home is purchased and reassessed at the sale price, are often not anticipated in your initial escrow setup. You may receive a supplemental bill directly from your county that your servicer didn't plan for. Read any tax mail that comes to your address, even if you think escrow "handles all of that." It doesn't always catch every bill.
-
-### Is the money in my escrow account earning interest?
-
-In most states, no. Federal law does not require lenders to pay interest on escrow funds, and most don't. A small number of states, including California and New York, have laws requiring interest to be paid on escrow balances, but the rate is typically minimal. If you're in one of those states, check your loan agreement to confirm whether it applies to your situation.
-
-### What should I do if I think my escrow analysis is wrong?
-
-Request an escrow review in writing from your servicer. Include your actual tax bill and insurance declarations as supporting documentation. Servicers make errors, particularly during periods of rising home values when assessed values are catching up to market values unevenly. You have the right to contest the calculation. If you're not getting a clear response, the CFPB has a complaint process that tends to get servicer attention quickly.
 
 ---
 
