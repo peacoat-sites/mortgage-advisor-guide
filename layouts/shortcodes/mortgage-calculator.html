@@ -1,48 +1,124 @@
-{{/* Mortgage payment calculator (client-side). Usage: {{< mortgage-calculator >}} */}}
-<div class="mtg-calc" style="margin:28px 0;border:1px solid var(--border,#e7e5e4);border-radius:14px;overflow:hidden">
-  <div style="padding:16px 20px;background:var(--surface2,#f5f2ec);font-weight:700;font-size:1.05rem">Mortgage Payment Calculator</div>
-  <div style="padding:20px">
-    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px">
-      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Home price ($)
-        <input id="mc-price" type="number" value="400000" min="0" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
-      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Down payment ($)
-        <input id="mc-down" type="number" value="80000" min="0" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
-      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Interest rate (%)
-        <input id="mc-rate" type="number" step="0.01" value="6.5" min="0" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
-      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Loan term
-        <select id="mc-term" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b);background:#fff">
-          <option value="30">30 years</option><option value="20">20 years</option><option value="15">15 years</option><option value="10">10 years</option></select></label>
-      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Property tax (yearly $)
-        <input id="mc-tax" type="number" value="4800" min="0" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
-      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Home insurance (yearly $)
-        <input id="mc-ins" type="number" value="1800" min="0" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
-      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">HOA (monthly $)
-        <input id="mc-hoa" type="number" value="0" min="0" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
+{{/* Mortgage payoff calculator — amortization + extra-payment simulator + balance chart + schedule.
+     Self-contained (no deps). Usage: {{< mortgage-calculator >}} */}}
+<div class="amort-calc">
+  <div class="ac-head">Mortgage Payoff Calculator</div>
+  <div class="ac-body">
+    <div class="ac-grid">
+      <label>Loan amount ($)<input id="ac-amt" type="number" value="350000" min="0" step="1000" inputmode="numeric"></label>
+      <label>Interest rate (%)<input id="ac-rate" type="number" value="6.5" min="0" max="25" step="0.01" inputmode="decimal"></label>
+      <label>Loan term (years)<select id="ac-term"><option>30</option><option>20</option><option>15</option><option>10</option></select></label>
+      <label>Extra monthly payment ($)<input id="ac-extra" type="number" value="0" min="0" step="25" inputmode="numeric"></label>
     </div>
-    <div style="margin-top:20px;background:var(--surface2,#f5f2ec);border-radius:12px;padding:18px 20px;text-align:center">
-      <div style="font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted,#6b7280)">Estimated monthly payment</div>
-      <div id="mc-total" style="font-size:2.4rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.1;margin:4px 0 8px">$0</div>
-      <div id="mc-breakdown" style="font-size:13px;color:var(--muted,#6b7280);line-height:1.6"></div>
+    <div class="ac-results">
+      <div class="ac-rc"><span class="ac-rl">Monthly payment</span><span id="ac-pay" class="ac-rv">$0</span><span class="ac-rs">principal &amp; interest</span></div>
+      <div class="ac-rc"><span class="ac-rl">Total interest</span><span id="ac-int" class="ac-rv">$0</span><span id="ac-payoff" class="ac-rs">&nbsp;</span></div>
+      <div class="ac-rc"><span class="ac-rl">Total of payments</span><span id="ac-tot" class="ac-rv">$0</span><span class="ac-rs">principal + interest</span></div>
     </div>
+    <div id="ac-savings" class="ac-savings" hidden></div>
+    <div class="ac-chart-wrap">
+      <div class="ac-chart-title">Loan balance over time</div>
+      <svg id="ac-chart" viewBox="0 0 600 220" preserveAspectRatio="none" role="img" aria-label="Loan balance over time"></svg>
+      <div class="ac-legend"><span class="ac-lg ac-lg1">With extra payments</span><span class="ac-lg ac-lg2">Standard schedule</span></div>
+    </div>
+    <button id="ac-toggle" class="ac-toggle" type="button" aria-expanded="false">Show amortization schedule ▾</button>
+    <div id="ac-sched" class="ac-sched" hidden></div>
+    <p class="ac-note">Estimates principal &amp; interest only; your actual payment also includes property tax, homeowners insurance, and any PMI/HOA. For planning, not a loan offer.</p>
   </div>
 </div>
+<style>
+.amort-calc{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.amort-calc .ac-head{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem}
+.amort-calc .ac-body{padding:20px}
+.amort-calc .ac-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px}
+.amort-calc label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)}
+.amort-calc input,.amort-calc select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.amort-calc input:focus,.amort-calc select:focus{outline:none;border-color:var(--accent,#c2410c);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 20%,transparent)}
+.amort-calc .ac-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.amort-calc .ac-rc{background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center}
+.amort-calc .ac-rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)}
+.amort-calc .ac-rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0}
+.amort-calc .ac-rs{display:block;font-size:11.5px;color:var(--muted,#6b6860)}
+.amort-calc .ac-savings{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);font-size:.95rem;line-height:1.5}
+.amort-calc .ac-savings b{color:var(--accent,#c2410c)}
+.amort-calc .ac-chart-wrap{margin-top:22px}
+.amort-calc .ac-chart-title{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860);margin-bottom:8px}
+.amort-calc #ac-chart{width:100%;height:auto;display:block;background:var(--surface2,#f5f2ec);border-radius:10px}
+.amort-calc .ac-legend{display:flex;gap:18px;margin-top:8px;font-size:12px;color:var(--muted,#6b6860)}
+.amort-calc .ac-lg{display:inline-flex;align-items:center;gap:6px}
+.amort-calc .ac-lg::before{content:"";width:14px;height:3px;border-radius:2px}
+.amort-calc .ac-lg1::before{background:var(--accent,#c2410c)}
+.amort-calc .ac-lg2::before{background:#9aa0a6}
+.amort-calc .ac-toggle{margin-top:18px;background:none;border:1px solid var(--border-strong,rgba(0,0,0,.14));border-radius:8px;padding:9px 16px;font-size:14px;font-weight:600;color:var(--text,#1a1a18);cursor:pointer}
+.amort-calc .ac-toggle:hover{border-color:var(--accent,#c2410c)}
+.amort-calc .ac-sched{margin-top:14px;max-height:340px;overflow:auto;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:10px}
+.amort-calc table{width:100%;border-collapse:collapse;font-size:13.5px}
+.amort-calc th,.amort-calc td{padding:8px 12px;text-align:right;border-bottom:1px solid var(--border,rgba(0,0,0,.07))}
+.amort-calc th:first-child,.amort-calc td:first-child{text-align:left}
+.amort-calc thead th{position:sticky;top:0;background:var(--surface2,#f5f2ec);font-weight:700}
+.amort-calc .ac-note{margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94)}
+@media(max-width:560px){.amort-calc .ac-rv{font-size:1.4rem}}
+</style>
 <script>
 (function(){
-  var ids=['mc-price','mc-down','mc-rate','mc-term','mc-tax','mc-ins','mc-hoa'];
-  function v(id){var e=document.getElementById(id);return e?(parseFloat(e.value)||0):0;}
-  function fmt(n){return '$'+Math.round(n).toLocaleString();}
-  function calc(){
-    var price=v('mc-price'),down=v('mc-down'),rate=v('mc-rate'),term=v('mc-term'),
-        tax=v('mc-tax'),ins=v('mc-ins'),hoa=v('mc-hoa');
-    var P=Math.max(0,price-down),r=rate/100/12,n=term*12,pi;
-    if(r>0){pi=P*r*Math.pow(1+r,n)/(Math.pow(1+r,n)-1);}else{pi=n>0?P/n:0;}
-    if(!isFinite(pi)||pi<0){pi=0;}
-    var mtax=tax/12,mins=ins/12,total=pi+mtax+mins+hoa;
-    var t=document.getElementById('mc-total');if(t)t.textContent=fmt(total);
-    var b=document.getElementById('mc-breakdown');
-    if(b)b.innerHTML='Principal &amp; interest: <b style="color:var(--text,#1e293b)">'+fmt(pi)+'</b> &middot; Taxes: <b style="color:var(--text,#1e293b)">'+fmt(mtax)+'</b> &middot; Insurance: <b style="color:var(--text,#1e293b)">'+fmt(mins)+'</b>'+(hoa>0?' &middot; HOA: <b style="color:var(--text,#1e293b)">'+fmt(hoa)+'</b>':'');
+  var $=function(id){return document.getElementById(id);};
+  var amt=$('ac-amt'),rate=$('ac-rate'),term=$('ac-term'),extra=$('ac-extra');
+  var fmt=function(n){return '$'+Math.round(n).toLocaleString();};
+  function amortize(P,r,n,ex){
+    var m = r>0 ? P*r/(1-Math.pow(1+r,-n)) : P/n;
+    var bal=P,interest=0,months=0,series=[P],pay=m+ex,maxIter=n*2+12;
+    while(bal>0.5 && months<maxIter){
+      var i=bal*r; var pr=pay-i;
+      if(pr<=0){months=Infinity;break;}
+      if(pr>bal)pr=bal;
+      bal-=pr; interest+=i; months++;
+      series.push(Math.max(bal,0));
+    }
+    return {payment:m,interest:interest,months:months,series:series};
   }
-  ids.forEach(function(id){var el=document.getElementById(id);if(el){el.addEventListener('input',calc);el.addEventListener('change',calc);}});
+  function fmtTime(mo){var y=Math.floor(mo/12),m=mo%12;return (y?y+' yr':'')+(y&&m?' ':'')+(m?m+' mo':'')||'0 mo';}
+  function payoffDate(mo){var d=new Date();d.setMonth(d.getMonth()+mo);return d.toLocaleDateString(undefined,{month:'short',year:'numeric'});}
+  function chart(base,xtra,n){
+    var svg=$('ac-chart'),W=600,H=220,pad=4;
+    function path(s){var max=s[0]||1,L=n;var pts=[];for(var i=0;i<s.length;i++){var x=pad+(i/L)*(W-2*pad);var y=pad+(1-s[i]/max)*(H-2*pad);pts.push(x.toFixed(1)+','+y.toFixed(1));}return pts.join(' ');}
+    var g='<line x1="4" y1="'+(H-4)+'" x2="'+(W-4)+'" y2="'+(H-4)+'" stroke="#d0d0cc" stroke-width="1"/>';
+    g+='<polyline fill="none" stroke="#9aa0a6" stroke-width="2" stroke-dasharray="5 4" points="'+path(base)+'"/>';
+    g+='<polyline fill="none" stroke="var(--accent,#c2410c)" stroke-width="2.5" points="'+path(xtra)+'"/>';
+    svg.innerHTML=g;
+  }
+  function calc(){
+    var P=parseFloat(amt.value)||0, r=(parseFloat(rate.value)||0)/100/12, n=(parseInt(term.value)||30)*12, ex=parseFloat(extra.value)||0;
+    if(P<=0){return;}
+    var base=amortize(P,r,n,0), xt=amortize(P,r,n,ex);
+    $('ac-pay').textContent=fmt(base.payment);
+    $('ac-int').textContent=fmt(xt.interest);
+    $('ac-tot').textContent=fmt(P+xt.interest);
+    $('ac-payoff').textContent='paid off '+payoffDate(xt.months)+' · '+fmtTime(xt.months);
+    var sv=$('ac-savings');
+    if(ex>0 && isFinite(xt.months)){
+      var iSaved=base.interest-xt.interest, mSaved=base.months-xt.months;
+      sv.hidden=false;
+      sv.innerHTML='Adding <b>'+fmt(ex)+'/mo</b> pays your loan off <b>'+fmtTime(mSaved)+' early</b> and saves <b>'+fmt(iSaved)+'</b> in interest.';
+    } else { sv.hidden=true; }
+    chart(base.series, xt.series, n);
+    renderSched(P,r,n,ex,base.payment);
+  }
+  function renderSched(P,r,n,ex,m){
+    var bal=P,pay=m+ex,rows='',yPr=0,yInt=0,yr=1,maxIter=n*2+12,mo=0;
+    while(bal>0.5 && mo<maxIter){
+      var i=bal*r,pr=pay-i; if(pr<=0)break; if(pr>bal)pr=bal;
+      bal-=pr; yPr+=pr; yInt+=i; mo++;
+      if(mo%12===0||bal<=0.5){
+        rows+='<tr><td>'+yr+'</td><td>'+fmt(yPr)+'</td><td>'+fmt(yInt)+'</td><td>'+fmt(Math.max(bal,0))+'</td></tr>';
+        yPr=0;yInt=0;yr++;
+      }
+    }
+    $('ac-sched').innerHTML='<table><thead><tr><th>Year</th><th>Principal</th><th>Interest</th><th>Balance</th></tr></thead><tbody>'+rows+'</tbody></table>';
+  }
+  $('ac-toggle').addEventListener('click',function(){
+    var s=$('ac-sched'),on=s.hidden; s.hidden=!on; this.setAttribute('aria-expanded',on);
+    this.textContent=(on?'Hide':'Show')+' amortization schedule '+(on?'▴':'▾');
+  });
+  [amt,rate,term,extra].forEach(function(el){el.addEventListener('input',calc);el.addEventListener('change',calc);});
   calc();
 })();
 </script>
