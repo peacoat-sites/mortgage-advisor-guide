@@ -30,6 +30,16 @@ Nobody knows exactly where mortgage rates are going in 2026. Not me, not the Fed
 
 That's the real question you're sitting with, isn't it? Not the number itself, but what you should *do* with it.
 
+
+<div class="value-module">
+  <div class="vm-head">Rate Scenario Monthly Payment Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">Here's how different 2026 rate scenarios translate to actual monthly costs on common loan amounts, helping you quantify what the forecast spread means for your budget.</p>
+    <table><caption>Monthly Principal & Interest by Rate Scenario (30-Year Fixed)</caption><thead><tr><th>Loan Amount</th><th>6.0% Rate</th><th>6.4% Rate</th><th>6.8% Rate</th><th>Monthly Spread (Low to High)</th><th>30-Year Cost Difference</th></tr></thead><tbody><tr><td>$300,000</td><td>$1,799</td><td>$1,877</td><td>$1,956</td><td>$157</td><td>$56,520</td></tr><tr><td>$400,000</td><td>$2,398</td><td>$2,503</td><td>$2,608</td><td>$210</td><td>$75,600</td></tr><tr><td>$500,000</td><td>$2,998</td><td>$3,128</td><td>$3,260</td><td>$262</td><td>$94,320</td></tr><tr><td>$650,000</td><td>$3,897</td><td>$4,067</td><td>$4,238</td><td>$341</td><td>$122,760</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What the Forecasts Are Actually Saying
 
 As of mid-2025, most major housing economists are projecting 30-year fixed rates somewhere in the 6.0% to 6.8% range for 2026. The Mortgage Bankers Association has floated figures closer to the lower end of that band. Fannie Mae's economic team has been slightly more pessimistic, holding to a view that rates stay stubbornly above 6.5% through much of the year. Freddie Mac, whose weekly Primary Mortgage Market Survey remains one of the most-watched benchmarks in the industry, has been consistent in signaling that meaningful relief — meaning rates with a 5 in front — is unlikely without a significant economic slowdown.

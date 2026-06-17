@@ -30,6 +30,16 @@ A HELOC looks simple on paper. You borrow against your home equity, pay interest
 
 Let me fix that.
 
+
+<div class="value-module">
+  <div class="vm-head">HELOC Payment Shock Calculator</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this worked example to estimate your own payment jump when the draw period ends.</p>
+    <table><caption>Payment Transition: Draw Period → Repayment Period</caption><thead><tr><th>Balance at End of Draw Period</th><th>Interest-Only Payment (Draw Period)</th><th>Fully Amortized Payment (15-Year Repayment)</th><th>Fully Amortized Payment (20-Year Repayment)</th><th>Monthly Increase (20-Year)</th></tr></thead><tbody><tr><td>$50,000</td><td>$354</td><td>$492</td><td>$434</td><td>+$80</td></tr><tr><td>$80,000</td><td>$567</td><td>$787</td><td>$695</td><td>+$128</td></tr><tr><td>$120,000</td><td>$850</td><td>$1,181</td><td>$1,042</td><td>+$192</td></tr><tr><td>$150,000</td><td>$1,063</td><td>$1,476</td><td>$1,303</td><td>+$240</td></tr><tr><td>$200,000</td><td>$1,417</td><td>$1,968</td><td>$1,737</td><td>+$320</td></tr></tbody><tfoot><tr><td colspan="5"><strong>Assumptions:</strong> 8.5% APR (illustrative; your rate will vary). Interest-only = (Balance × Rate) ÷ 12. Amortized payments use standard loan formula. Shorter repayment terms increase payments further—a 10-year repayment on $120,000 at 8.5% would be approximately $1,486/month (+$636).</td></tr></tfoot></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## How a HELOC Actually Works (The Part That Matters)
 
 A home equity line of credit runs in two phases. The draw period, typically 10 years, is when you can borrow up to your credit limit. During this window, most lenders only require interest payments on what you've pulled. Your minimum payment on a $40,000 balance at 8.5% might be around $283 a month. Manageable. Almost comfortable.

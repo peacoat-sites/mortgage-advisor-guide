@@ -32,6 +32,16 @@ I'll be honest: I spent years as an underwriter quietly rooting for borrowers wh
 
 That's not an argument for one loan over the other. It's an argument for understanding both with real specificity before you sign anything.
 
+
+<div class="value-module">
+  <div class="vm-head">Monthly Payment & Total Cost Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">These side-by-side numbers show exactly how the payment gap and interest savings scale across typical loan amounts at representative rates.</p>
+    <table><caption>15-Year vs 30-Year Mortgage: Payment and Interest Comparison</caption><thead><tr><th>Loan Amount</th><th>15-Year Payment (6.0%)</th><th>30-Year Payment (6.75%)</th><th>Monthly Difference</th><th>Total Interest (15-Yr)</th><th>Total Interest (30-Yr)</th><th>Interest Savings</th></tr></thead><tbody><tr><td>$250,000</td><td>$2,109</td><td>$1,622</td><td>$487 higher</td><td>$129,620</td><td>$333,920</td><td>$204,300</td></tr><tr><td>$400,000</td><td>$3,375</td><td>$2,595</td><td>$780 higher</td><td>$207,500</td><td>$534,200</td><td>$326,700</td></tr><tr><td>$550,000</td><td>$4,641</td><td>$3,568</td><td>$1,073 higher</td><td>$285,380</td><td>$734,480</td><td>$449,100</td></tr><tr><td>$700,000</td><td>$5,906</td><td>$4,541</td><td>$1,365 higher</td><td>$363,080</td><td>$934,760</td><td>$571,680</td></tr></tbody><tfoot><tr><td colspan="7">Rates shown are illustrative (0.75% spread typical). Actual rates vary by lender, credit profile, and market conditions. Excludes taxes, insurance, and PMI.</td></tr></tfoot></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Core Tradeoff Is Not What You Think
 
 Everyone knows the headline numbers. A 15-year mortgage carries a lower interest rate (typically somewhere between 0.5 and 0.75 percentage points lower than a 30-year, though that spread moves around), and you pay dramatically less total interest over the life of the loan. On a $400,000 mortgage, the difference in total interest paid can easily clear $150,000 or more, depending on the rate environment you're borrowing in. That number is real. It's not a trick.

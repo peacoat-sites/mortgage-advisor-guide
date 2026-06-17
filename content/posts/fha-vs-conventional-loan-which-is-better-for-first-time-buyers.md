@@ -32,6 +32,16 @@ After sixteen years reviewing loan files, I've watched borrowers choose the wron
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">FHA vs Conventional: 5-Year Cost Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">This worked example shows how total costs diverge over time for two identical borrowers with different loan choices.</p>
+    <table><caption><strong>Scenario:</strong> $350,000 home, $17,500 down (5%), 680 credit score, 6.5% rate (illustrative)</caption><thead><tr><th>Cost Category</th><th>FHA Loan</th><th>Conventional Loan</th></tr></thead><tbody><tr><td>Loan amount</td><td>$332,500</td><td>$332,500</td></tr><tr><td>Upfront mortgage insurance</td><td>$5,819 (1.75% financed into loan)</td><td>$0</td></tr><tr><td>Monthly mortgage insurance</td><td>$152/mo (0.55% MIP)</td><td>$183/mo (estimated PMI at 0.66%)</td></tr><tr><td>MI duration</td><td>Life of loan (30 years)</td><td>Until 78% LTV (~8 years auto-cancel)</td></tr><tr><td><strong>Total MI paid: Years 1–5</strong></td><td><strong>$14,939</strong> ($5,819 upfront + $9,120)</td><td><strong>$10,980</strong></td></tr><tr><td><strong>Total MI paid: Years 1–10</strong></td><td><strong>$24,059</strong></td><td><strong>$17,568</strong> (cancels ~year 8)</td></tr><tr><td><strong>Total MI paid: Life of loan</strong></td><td><strong>$60,539</strong></td><td><strong>$17,568</strong></td></tr><tr><td>Break-even point</td><td colspan="2">Conventional costs less if you keep the home 4+ years without refinancing</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What You're Actually Choosing Between
 
 Here's the short version: FHA loans are backed by the Federal Housing Administration, which means the government promises to repay the lender if you default. Conventional loans are backed by nothing except your own creditworthiness, though most are sold to Freddie Mac or Fannie Mae after closing. That insurance backstop is why FHA can offer more generous credit and down payment terms. The government takes on the risk. But you pay for that insurance, every single month, for a very long time.

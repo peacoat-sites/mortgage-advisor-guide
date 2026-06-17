@@ -32,6 +32,16 @@ Let me tell you what most coverage skips: the deduction doesn't help you unless 
 
 That's the part your loan officer glossed over at closing.
 
+
+<div class="value-module">
+  <div class="vm-head">Itemizing Break-Even Calculator</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this worksheet to determine whether your mortgage interest actually triggers any tax benefit in 2026.</p>
+    <table><caption>Will You Clear the Standard Deduction Threshold?</caption><thead><tr><th>Line Item</th><th>Your Amount</th><th>Example (MFJ, $450K loan at 6.5%)</th></tr></thead><tbody><tr><td>A. Annual mortgage interest paid</td><td>$________</td><td>$28,500</td></tr><tr><td>B. State/local taxes (SALT, capped at $10,000)</td><td>$________</td><td>$10,000</td></tr><tr><td>C. Charitable contributions</td><td>$________</td><td>$3,200</td></tr><tr><td>D. Medical expenses exceeding 7.5% of AGI</td><td>$________</td><td>$0</td></tr><tr><td>E. Other itemized deductions</td><td>$________</td><td>$0</td></tr><tr><td><strong>F. Total itemized (A+B+C+D+E)</strong></td><td>$________</td><td><strong>$41,700</strong></td></tr><tr><td>G. 2026 Standard deduction for your filing status</td><td>$________</td><td>$30,000 (MFJ est.)</td></tr><tr><td><strong>H. Benefit from itemizing (F minus G)</strong></td><td>$________</td><td><strong>$11,700</strong></td></tr><tr><td><strong>I. Actual tax savings (H × your marginal rate)</strong></td><td>$________</td><td><strong>$2,574</strong> (at 22%)</td></tr></tbody></table><ul><li><strong>If Line H is zero or negative:</strong> The mortgage interest deduction provides you no tax benefit—take the standard deduction instead.</li><li><strong>Key insight:</strong> Only the amount <em>above</em> the standard deduction saves you money. In the example, $41,700 in deductions yields just $2,574 in actual tax reduction—not $6,270 (22% of $28,500).</li><li><strong>2026 standard deduction estimates:</strong> Single ~$15,000 | MFJ ~$30,000 | Head of Household ~$22,500</li></ul>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## How the Deduction Actually Works in 2026
 
 The mortgage interest deduction lets you subtract the interest you paid on a qualifying home loan from your taxable income. Not from your tax bill, your taxable income. That distinction matters enormously. If you're in the 22% federal bracket and you deduct $20,000 in mortgage interest, you save $4,400 in federal taxes, not $20,000. Borrowers confuse these constantly.

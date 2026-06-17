@@ -30,6 +30,16 @@ You saved up for three years, kept your credit clean, and finally feel ready to 
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Down Payment Assistance: Program Type Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">These five common assistance structures work very differently—understanding the trade-offs helps you evaluate which fits your timeline and financial situation.</p>
+    <table><thead><tr><th>Program Type</th><th>How It Works</th><th>Typical Amount</th><th>Repayment Requirement</th><th>Best For</th><th>Watch Out For</th></tr></thead><tbody><tr><td>Forgivable Second Mortgage</td><td>Silent loan forgiven after you stay in home a set period (often 5–10 years)</td><td>$5,000–$20,000 or 3–5% of price</td><td>None if you meet residency requirement; full or prorated repayment if you sell/refinance early</td><td>Buyers planning to stay put long-term</td><td>Selling at year 4 of a 5-year term means repaying the full amount</td></tr><tr><td>Deferred-Payment Second Mortgage</td><td>0% interest loan due when you sell, refinance, or pay off first mortgage</td><td>$10,000–$25,000</td><td>Full principal due at sale or refinance</td><td>Buyers who need maximum cash now but expect equity growth</td><td>Reduces net proceeds when you eventually sell</td></tr><tr><td>Repayable Second Mortgage</td><td>Low-interest loan with monthly payments alongside your primary mortgage</td><td>Up to 5% of purchase price</td><td>Monthly payments over 10–15 years</td><td>Buyers comfortable with slightly higher total monthly payment</td><td>Adds $50–$150/month to housing costs; must qualify for combined payment</td></tr><tr><td>Outright Grant</td><td>Cash gift with no repayment obligation</td><td>$2,500–$10,000</td><td>None</td><td>Lower-income buyers meeting strict eligibility thresholds</td><td>Often limited funds; may require homebuyer education course</td></tr><tr><td>Matched Savings (IDA) Program</td><td>You save into special account; program matches your deposits (often 2:1 or 3:1)</td><td>$3,000–$9,000 total after match</td><td>None</td><td>Buyers with 1–2 years to save who qualify for income-based programs</td><td>Requires 6–24 months of consistent deposits before funds release</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What "First-Time Homebuyer" Actually Means (It's Not What You Think)
 
 Here's the thing that surprises almost everyone: you don't have to be buying your first home to qualify as a first-time homebuyer under most program definitions.

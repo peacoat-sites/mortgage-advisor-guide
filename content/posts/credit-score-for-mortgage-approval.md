@@ -30,6 +30,16 @@ Your credit score is a three-digit number that can mean the difference between a
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Monthly Payment Impact by Credit Score</div>
+  <div class="vm-body">
+    <p class="vm-intro">This table shows how credit score tiers affect your actual monthly principal and interest payment on a $350,000 conventional 30-year fixed mortgage, using illustrative rates typical of LLPA pricing differences.</p>
+    <table><thead><tr><th>Credit Score Range</th><th>Illustrative Rate</th><th>Monthly P&I</th><th>Extra Cost vs. 760+</th><th>30-Year Interest Paid</th></tr></thead><tbody><tr><td>760+</td><td>6.50%</td><td>$2,212</td><td>—</td><td>$446,320</td></tr><tr><td>740–759</td><td>6.75%</td><td>$2,270</td><td>+$58/mo</td><td>$467,200</td></tr><tr><td>720–739</td><td>6.875%</td><td>$2,299</td><td>+$87/mo</td><td>$477,640</td></tr><tr><td>700–719</td><td>7.00%</td><td>$2,329</td><td>+$117/mo</td><td>$488,440</td></tr><tr><td>680–699</td><td>7.25%</td><td>$2,388</td><td>+$176/mo</td><td>$509,680</td></tr><tr><td>660–679</td><td>7.50%</td><td>$2,447</td><td>+$235/mo</td><td>$530,920</td></tr><tr><td>620–659</td><td>7.875%</td><td>$2,538</td><td>+$326/mo</td><td>$563,680</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Credit Score Do You Actually Need to Get a Mortgage?
 
 The short answer is: it depends on the loan type. There's no single universal cutoff. Different loan programs have different floors, and lenders can layer their own requirements on top of those minimums. Here's how it breaks down.

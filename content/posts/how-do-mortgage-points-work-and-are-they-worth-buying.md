@@ -30,6 +30,16 @@ You're probably sitting with a loan estimate right now, staring at a line item t
 
 Let me walk you through exactly how this works, because the math is simple once you see it laid out, and the decision is almost always more personal than financial.
 
+
+<div class="value-module">
+  <div class="vm-head">Breakeven Analysis: Worked Example</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this realistic scenario to see exactly how the breakeven math works before running your own numbers.</p>
+    <table><caption>Mortgage Points Breakeven Example: $320,000 Loan, 30-Year Fixed</caption><thead><tr><th>Scenario</th><th>No Points</th><th>1 Point Purchased</th></tr></thead><tbody><tr><td>Loan Amount</td><td>$320,000</td><td>$320,000</td></tr><tr><td>Interest Rate</td><td>7.00%</td><td>6.75%</td></tr><tr><td>Upfront Point Cost</td><td>$0</td><td>$3,200</td></tr><tr><td>Monthly Principal & Interest</td><td>$2,129</td><td>$2,076</td></tr><tr><td>Monthly Savings</td><td>—</td><td>$53</td></tr><tr><td>Breakeven Calculation</td><td>—</td><td>$3,200 ÷ $53 = 60 months</td></tr><tr><td><strong>Breakeven Point</strong></td><td>—</td><td><strong>5 years</strong></td></tr></tbody></table><ul><li><strong>Stay 7+ years:</strong> Points likely worth it — you save $53/month beyond breakeven</li><li><strong>Stay 3–5 years:</strong> Borderline — run exact numbers with your actual rate reduction</li><li><strong>Stay under 3 years:</strong> Points rarely make sense — you won't recoup the upfront cost</li><li><strong>Planning to refinance soon?</strong> Treat it like an early sale — breakeven resets</li><li><strong>Key variable:</strong> Confirm your lender's actual rate reduction per point (ranges from 0.125% to 0.375%)</li></ul>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What a Mortgage Point Actually Is
 
 One point equals 1% of your loan amount. On a $320,000 mortgage, one point costs $3,200. You pay that at closing, in cash, in exchange for a lower interest rate on your loan. Most lenders offer a reduction somewhere in the range of 0.20% to 0.25% per point, though that spread can vary. Don't let anyone tell you there's a universal rate drop per point. There isn't. It depends on the lender, the loan product, the day's pricing, and sometimes frankly what margin the lender is working with.

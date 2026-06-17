@@ -34,6 +34,16 @@ So let's fix that.
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">HELOC vs Home Equity Loan Decision Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this matrix to match your borrowing situation to the product that fits best—each row covers a common scenario with the typical better choice and why.</p>
+    <table><thead><tr><th>Your Situation</th><th>Better Choice</th><th>Why It Wins</th><th>Watch Out For</th></tr></thead><tbody><tr><td>One-time project with known cost (e.g., $40K roof replacement)</td><td>Home Equity Loan</td><td>Fixed rate locks payment; no temptation to overborrow</td><td>If project runs over budget, you'd need separate financing</td></tr><tr><td>Ongoing or phased expenses (e.g., multi-year renovation, tuition bills)</td><td>HELOC</td><td>Draw only what you need, when you need it; pay interest only on amount used</td><td>Variable rate can increase payments 20–40% if rates rise 2 points</td></tr><tr><td>Emergency fund backup (hope to never use it)</td><td>HELOC</td><td>No interest cost if you never draw; available if needed</td><td>Annual fees ($25–75 typical); some lenders require minimum initial draw</td></tr><tr><td>Debt consolidation of fixed balances</td><td>Home Equity Loan</td><td>Predictable payoff date; fixed payment aids budgeting</td><td>Extending repayment timeline can increase total interest paid</td></tr><tr><td>You struggle with credit discipline</td><td>Home Equity Loan</td><td>No revolving access removes temptation to re-borrow</td><td>You're pledging your home—missed payments risk foreclosure either way</td></tr><tr><td>Rates are high now but expected to drop</td><td>HELOC</td><td>Variable rate will float down with market</td><td>Rate forecasts are unreliable; budget for current rate persisting</td></tr><tr><td>You want lowest possible rate today and rates are low</td><td>Home Equity Loan</td><td>Locks in today's rate for full term</td><td>If you pay off early, you've already paid closing costs (often $2K–5K)</td></tr><tr><td>Need funds quickly (under 3 weeks)</td><td>HELOC</td><td>Often faster approval and funding (2–4 weeks typical vs 3–6 weeks)</td><td>Speed varies by lender; some HELOCs still take 4+ weeks</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What You're Actually Choosing Between
 
 Both products do the same thing at a high level: they let you borrow against the equity you've built in your home. Your home secures the debt. If you stop paying, the lender can foreclose. That part is identical, and it's the part borrowers sometimes forget when these products get compared to personal loans or credit cards.

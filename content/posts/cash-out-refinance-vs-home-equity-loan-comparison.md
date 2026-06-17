@@ -30,6 +30,16 @@ Most homeowners assume these two products are basically the same thing with diff
 
 Let me lay out what I actually learned from being on the underwriting side of both products for sixteen years, because there are things your loan officer probably won't bring up unless you ask directly.
 
+
+<div class="value-module">
+  <div class="vm-head">5-Year Cost Comparison: Real Numbers</div>
+  <div class="vm-body">
+    <p class="vm-intro">This worked example shows how a lower rate doesn't always mean lower total cost—closing costs and loan structure can flip the math.</p>
+    <table><caption>Scenario: $80,000 cash needed, $320,000 existing mortgage at 4.5%, 25 years remaining, home value $500,000</caption><thead><tr><th>Factor</th><th>Cash-Out Refinance</th><th>Home Equity Loan</th></tr></thead><tbody><tr><td>New loan amount</td><td>$400,000 (replaces existing)</td><td>$80,000 (second lien)</td></tr><tr><td>Interest rate (illustrative)</td><td>6.5%</td><td>8.25%</td></tr><tr><td>Loan term</td><td>30 years</td><td>15 years</td></tr><tr><td>Monthly payment</td><td>$2,528 (single payment)</td><td>$1,621 (original) + $775 = $2,396</td></tr><tr><td>Closing costs</td><td>$9,600 (2.4% of $400K)</td><td>$850</td></tr><tr><td>Interest paid in first 5 years</td><td>$122,840</td><td>$73,920 (original) + $28,100 (HELOAN) = $102,020</td></tr><tr><td>Total 5-year cost (payments + closing)</td><td>$161,280</td><td>$144,410</td></tr><tr><td>Net difference</td><td colspan="2"><strong>Home equity loan saves $16,870 over 5 years in this scenario</strong></td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Basic Mechanics (And Where They Already Diverge)
 
 A cash-out refinance replaces your existing mortgage entirely. You're not adding a second loan. You're taking your current balance, adding the cash you want to pull out, and writing one brand-new mortgage for the combined amount. That new loan pays off your old one at closing.

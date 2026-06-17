@@ -29,6 +29,16 @@ Most borrowers have never heard of a high-balance conforming loan until the mome
 
 Let me fix that.
 
+
+<div class="value-module">
+  <div class="vm-head">High-Balance vs Standard Loan Cost Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">Here's how the rate premium on high-balance conforming loans translates to actual monthly and lifetime costs across typical loan amounts.</p>
+    <table><caption>Cost Impact of High-Balance Rate Premium (30-Year Fixed, Illustrative)</caption><thead><tr><th>Loan Amount</th><th>Standard Rate</th><th>High-Balance Rate (+0.20%)</th><th>Monthly Payment Difference</th><th>Total Interest Difference (30 yr)</th></tr></thead><tbody><tr><td>$850,000</td><td>6.50%</td><td>6.70%</td><td>+$114</td><td>+$41,040</td></tr><tr><td>$950,000</td><td>6.50%</td><td>6.70%</td><td>+$127</td><td>+$45,720</td></tr><tr><td>$1,100,000</td><td>6.50%</td><td>6.70%</td><td>+$147</td><td>+$52,920</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What a High-Balance Conforming Loan Actually Is
 
 Here's the setup: Fannie Mae and Freddie Mac buy mortgages from lenders, which is what keeps the mortgage market liquid. But they won't buy just any loan. They set limits on the size of loans they'll purchase, and those limits vary by county based on local home prices. The standard conforming limit in 2026 is $806,500 for a single-family home in most of the country. In high-cost areas, that ceiling goes higher, sometimes significantly higher, up to $1,209,750 in the most expensive markets like San Francisco, Manhattan, and coastal Hawaii.

@@ -30,6 +30,16 @@ You saved $8,000 and thought you were finally close. Then you ran the actual num
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">DPA Program Types: Quick Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">Different assistance structures have distinct repayment terms, eligibility hurdles, and long-term costs—here's how they stack up.</p>
+    <table><thead><tr><th>Program Type</th><th>Typical Amount</th><th>Repayment Terms</th><th>DTI Impact</th><th>Best For</th><th>Watch Out For</th></tr></thead><tbody><tr><td>Outright Grant</td><td>$5,000–$15,000 or 3–5% of price</td><td>None—fully forgiven at closing</td><td>None</td><td>Buyers who meet strict income caps</td><td>Limited availability; often first-come, first-served funding</td></tr><tr><td>Forgivable Second Mortgage</td><td>3–5% of loan amount</td><td>Forgiven after 5–10 years of occupancy</td><td>Usually none (no monthly payment)</td><td>Buyers planning to stay long-term</td><td>Sell or refi early = full or prorated repayment due</td></tr><tr><td>Deferred Second Mortgage</td><td>Up to 5% of loan amount</td><td>Due when you sell, refi, or pay off first mortgage</td><td>Minimal (no monthly payment, but balance owed)</td><td>Buyers who need flexibility but can repay later</td><td>Balloon payment at sale can reduce net proceeds</td></tr><tr><td>Repayable Second Mortgage</td><td>Varies widely</td><td>Monthly payments, often at below-market rates</td><td>Increases DTI by payment amount</td><td>Buyers with income room who want lower total interest</td><td>Can push DTI over approval thresholds</td></tr><tr><td>Matched Savings (IDA)</td><td>$2,000–$8,000 typical match</td><td>None—you keep matched funds</td><td>None</td><td>Buyers with 12–24 months to save</td><td>Requires consistent deposits; early withdrawal forfeits match</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Down Payment Assistance Actually Is (And What It Isn't)
 
 You might be wondering whether this is some kind of loan you'll eventually have to repay. The answer is: it depends on the program, and the distinctions matter enormously.

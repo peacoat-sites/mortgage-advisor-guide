@@ -32,6 +32,16 @@ Buying a home without a down payment in 2026 is genuinely possible for a meaning
 
 Here's what the cheerful "no money down!" articles don't tell you: skipping the down payment almost always costs you more over time. Higher monthly payments, mandatory insurance, sometimes a higher interest rate. That's not a reason to avoid these programs — for many buyers it's still the right call — but you should know exactly what you're trading.
 
+
+<div class="value-module">
+  <div class="vm-head">Zero-Down True Cost Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">Here's what skipping the down payment actually costs you on a $350,000 home purchase, using illustrative 2026 rate assumptions.</p>
+    <table><caption>Total Cost Comparison: Zero Down vs. 5% Down on $350,000 Home</caption><thead><tr><th>Cost Factor</th><th>VA Loan (0% Down)</th><th>USDA Loan (0% Down)</th><th>Conventional (5% Down)</th></tr></thead><tbody><tr><td>Loan Amount</td><td>$350,000</td><td>$350,000</td><td>$332,500</td></tr><tr><td>Upfront Fee (rolled in)</td><td>$7,525 (2.15% funding fee)</td><td>$3,500 (1% guarantee fee)</td><td>$0</td></tr><tr><td>Monthly Principal + Interest*</td><td>$2,280</td><td>$2,254</td><td>$2,120</td></tr><tr><td>Monthly Insurance/Fee</td><td>$0 (no PMI)</td><td>$102 (0.35% annual)</td><td>$140 (PMI until 20% equity)</td></tr><tr><td>Total Monthly Payment</td><td>$2,280</td><td>$2,356</td><td>$2,260</td></tr><tr><td>Cash Needed at Closing**</td><td>$8,000–$12,000</td><td>$8,000–$12,000</td><td>$25,500–$29,500</td></tr><tr><td>Break-Even vs. Waiting to Save 5%</td><td>Worth it if home prices rise >2%/year</td><td>Worth it if rent exceeds mortgage gap</td><td>Baseline comparison</td></tr></tbody><tfoot><tr><td colspan="4">*Illustrative rates: VA 6.25%, USDA 6.5%, Conventional 6.5% (30-year fixed). Actual rates vary by credit, lender, and market conditions. **Includes estimated closing costs of $8,000–$12,000; conventional adds $17,500 down payment.</td></tr></tfoot></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Programs That Actually Work in 2026
 
 Four main paths get you to the closing table without a down payment. They're not equal.

@@ -32,6 +32,16 @@ A mortgage application isn't complicated. It's just thorough. Lenders are requir
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Document Readiness Checklist With Thresholds</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to confirm each item meets lender-acceptance standards before your application appointment.</p>
+    <table><thead><tr><th>Document</th><th>Typical Requirement</th><th>Readiness Threshold</th></tr></thead><tbody><tr><td>Government-issued ID</td><td>Valid photo ID (driver's license or passport)</td><td>Not expired; name matches all other documents exactly</td></tr><tr><td>W-2 forms</td><td>Most recent 2 years</td><td>All pages present; employer name/EIN legible</td></tr><tr><td>Pay stubs</td><td>Most recent 30 consecutive days</td><td>Year-to-date earnings visible; no gaps in pay periods</td></tr><tr><td>Federal tax returns</td><td>Most recent 2 years (all schedules)</td><td>Signed or IRS transcript; self-employed need Schedule C/K-1</td></tr><tr><td>Bank statements</td><td>Most recent 2–3 months, all accounts</td><td>Every page included (even blank); account number and name visible</td></tr><tr><td>Investment/retirement statements</td><td>Most recent quarterly statement</td><td>Vesting schedule noted if using for reserves</td></tr><tr><td>Gift funds letter</td><td>Required if using gifted down-payment money</td><td>Donor's name, relationship, amount, and statement that no repayment is expected</td></tr><tr><td>Large-deposit explanations</td><td>Any non-payroll deposit typically over $1,000–$2,000</td><td>Paper trail showing source (sale receipt, transfer confirmation, etc.)</td></tr><tr><td>Rent payment history</td><td>12 months of canceled checks or bank debits</td><td>Required mainly if no traditional credit history</td></tr><tr><td>Employment verification</td><td>Contact info for HR or written offer letter</td><td>If job change within 2 years, bring offer letter with salary and start date</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Lenders Ask for So Much Documentation
 
 Before you resent the paperwork, understand what's driving it. Since the Dodd-Frank Act tightened lending standards after the 2008 housing crisis, lenders are legally required to verify a borrower's ability to repay. This is called the Ability-to-Repay rule, and it puts the burden of proof on you.
