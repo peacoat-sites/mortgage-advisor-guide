@@ -121,6 +121,12 @@ The Closing Disclosure isn't bureaucratic paperwork. It's the final record of ev
 
 ---
 
+## Sources & References
+
+- [CFPB — Closing Disclosure explainer](https://www.consumerfinance.gov/owning-a-home/closing-disclosure/) — Explains CD sections, 3-day review rule, and borrower rights
+- [CFPB — Loan Estimate explainer](https://www.consumerfinance.gov/owning-a-home/loan-estimate/) — Details LE fields for comparison against Closing Disclosure
+- [CFPB — TRID tolerance rules](https://www.consumerfinance.gov/rules-policy/regulations/1026/19/) — Regulation Z tolerance thresholds for fee changes
+
 ---
 
 ## Recommended Resources

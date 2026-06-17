@@ -105,6 +105,11 @@ There's a real argument for refinancing now if it works on its merits, rather th
 - **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — When to Refinance Your Mortgage](https://www.consumerfinance.gov/owning-a-home/) — explains refinance costs, break-even calculations, closing costs
+- [Federal Reserve — Mortgage Rates Data](https://www.federalreserve.gov/releases/h15/) — official historical interest rate data referenced in article
+- [HUD — Refinancing Tips](https://www.hud.gov/topics/buying_a_home) — government guidance on mortgage refinancing decisions
 
 *Photo: [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich) via Pexels*
 

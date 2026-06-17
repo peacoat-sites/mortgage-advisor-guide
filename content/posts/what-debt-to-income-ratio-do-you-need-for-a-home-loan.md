@@ -126,6 +126,11 @@ The honest truth about DTI is that it's more flexible than most people expect an
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 - **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Debt-to-income ratio](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/) — Explains DTI calculation and lender requirements
+- [Fannie Mae — Selling Guide](https://selling-guide.fanniemae.com/) — Documents conventional loan DTI limits and guidelines
+- [HUD — FHA Loan Requirements](https://www.hud.gov/buying/loans) — Covers FHA DTI thresholds and qualifying factors
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

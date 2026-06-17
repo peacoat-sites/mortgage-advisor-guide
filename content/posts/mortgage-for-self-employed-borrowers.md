@@ -155,6 +155,11 @@ Getting a mortgage as a self-employed borrower is absolutely achievable. Million
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Ability to Repay and Qualified Mortgage Rule](https://www.consumerfinance.gov/rules-policy/regulations/1026/43/) — Federal mortgage underwriting requirements for income verification
+- [Fannie Mae — Selling Guide](https://selling-guide.fanniemae.com/) — Official guidelines for self-employed borrower documentation
+- [IRS — Self-Employed Individuals Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center) — Defines self-employment and tax reporting requirements
 
 *Photo: [Tara Winstead](https://www.pexels.com/@tara-winstead) via Pexels*
 

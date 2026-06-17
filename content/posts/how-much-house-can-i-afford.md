@@ -148,6 +148,11 @@ Take your time with this math before you fall in love with a house. The right ho
 - **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Debt-to-income ratio](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/) — Explains DTI ratios and typical lender thresholds
+- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — Official guidance on home affordability and mortgage readiness
+- [CFPB — Mortgage key terms](https://www.consumerfinance.gov/owning-a-home/loan-options/) — Explains loan qualification factors and mortgage basics
 
 *Photo: [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007) via Pexels*
 

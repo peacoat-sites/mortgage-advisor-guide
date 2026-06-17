@@ -107,6 +107,10 @@ Escrow isn't complicated once you see the full picture, but the full picture is 
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — What is an escrow account](https://www.consumerfinance.gov/ask-cfpb/what-is-an-escrow-or-impound-account-en-140/) — Explains escrow purpose, how payments work, lender requirements
+- [CFPB — Escrow account analysis rules](https://www.consumerfinance.gov/rules-policy/regulations/1024/17/) — Federal regulation on escrow payment adjustments
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

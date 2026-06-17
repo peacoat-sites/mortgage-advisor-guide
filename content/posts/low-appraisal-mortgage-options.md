@@ -92,6 +92,11 @@ For buyers who want to go deeper on the financial mechanics before they're sitti
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
+## Sources & References
+
+- [CFPB — What is a home appraisal?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-appraisal-en-167/) — Explains how appraisals affect mortgage lending decisions
+- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — Federal guidance on home purchase process and financing
+
 ---
 
 ## Recommended Resources

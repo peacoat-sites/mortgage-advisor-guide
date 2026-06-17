@@ -158,6 +158,11 @@ The honest truth about points is that loan officers have a financial incentive t
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 - **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Buying a House](https://www.consumerfinance.gov/owning-a-home/) — Explains loan estimates, closing costs, and mortgage points
+- [CFPB — What Are Discount Points](https://www.consumerfinance.gov/ask-cfpb/what-are-discount-points-and-lender-credits-en-136/) — Defines discount points and how they reduce interest rates
+- [IRS — Mortgage Interest Deduction](https://www.irs.gov/publications/p936) — Covers tax deductibility rules for mortgage points
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

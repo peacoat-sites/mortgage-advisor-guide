@@ -111,6 +111,11 @@ Tax law has a way of rewarding people who actually read the fine print rather th
 - **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Publication 936 Home Mortgage Interest Deduction](https://www.irs.gov/publications/p936) — Official rules for deducting mortgage interest
+- [IRS — Standard Deduction amounts](https://www.irs.gov/taxtopics/tc551) — Confirms standard deduction thresholds by filing status
+- [IRS — SALT deduction limit](https://www.irs.gov/taxtopics/tc503) — Documents the $10,000 state/local tax cap
 
 *Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*
 

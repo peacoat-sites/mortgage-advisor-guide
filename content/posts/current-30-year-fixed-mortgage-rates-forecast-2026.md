@@ -115,6 +115,11 @@ Rates will do what rates do. What you can actually control is your credit profil
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Freddie Mac — Primary Mortgage Market Survey](https://www.freddiemac.com/pmms) — official weekly mortgage rate data and trends
+- [Federal Reserve — Monetary Policy](https://www.federalreserve.gov/monetarypolicy.htm) — Fed policy decisions affecting mortgage rates
+- [Consumer Financial Protection Bureau — Mortgages](https://www.consumerfinance.gov/consumer-tools/mortgages/) — authoritative mortgage guidance for consumers
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 

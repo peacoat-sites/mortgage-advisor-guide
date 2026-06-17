@@ -136,6 +136,11 @@ A home equity loan can be a genuinely useful financial tool when the rate is fai
 
 ---
 
+## Sources & References
+
+- [CFPB — What is a home equity loan?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-equity-loan-en-106/) — Explains home equity loan structure, risks, and key terms
+- [Federal Reserve — Consumer Credit](https://www.federalreserve.gov/consumers.htm) — Fed consumer resources on borrowing and interest rates
+
 ---
 
 ## Recommended Resources

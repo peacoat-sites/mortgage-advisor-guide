@@ -90,6 +90,12 @@ If you want to go deeper on the mechanics before you start shopping loans, a gui
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
+## Sources & References
+
+- [CFPB — Ability-to-Repay and Qualified Mortgage Rule](https://www.consumerfinance.gov/rules-policy/regulations/1026/43/) — Defines QM rule requirements that non-QM loans don't meet
+- [CFPB — What is a Qualified Mortgage?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-qualified-mortgage-en-1789/) — Explains QM standards and lender protections
+- [Fannie Mae — Selling Guide eligibility overview](https://singlefamily.fanniemae.com/originating-underwriting) — Describes GSE loan purchase requirements
+
 ---
 
 ## Recommended Resources

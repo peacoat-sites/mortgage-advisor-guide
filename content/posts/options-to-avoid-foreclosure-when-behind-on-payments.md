@@ -101,6 +101,10 @@ If you want to go in better prepared, Erik Whitman's *Foreclosure Prevention Wor
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 
+## Sources & References
+
+- [HUD — Avoid Foreclosure](https://www.hud.gov/topics/avoiding_foreclosure) — Official HUD guidance on foreclosure prevention options
+- [CFPB — What to do if you can't pay your mortgage](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-homeowners/) — Steps for contacting servicers and loss mitigation options
 
 *Photo: [Kris Møklebust](https://www.pexels.com/@moklebust) via Pexels*
 

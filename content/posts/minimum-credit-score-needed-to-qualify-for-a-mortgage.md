@@ -97,6 +97,11 @@ You don't need a perfect score to buy a home. You need enough clarity about wher
 - **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 
+## Sources & References
+
+- [HUD — FHA Single Family Housing Credit Score Requirements](https://www.hud.gov/program_offices/housing/sfh/fharesourcectr) — FHA minimum credit score tiers and down payment requirements
+- [CFPB — What is a credit score?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-score-en-315/) — Explains credit scores and their role in mortgage lending
+- [Fannie Mae — HomeReady Mortgage](https://www.fanniemae.com/homeready) — Conventional loan program eligibility and credit requirements
 
 *Photo: [Jonathan Borba](https://www.pexels.com/@jonathanborba) via Pexels*
 

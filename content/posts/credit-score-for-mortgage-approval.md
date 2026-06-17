@@ -145,6 +145,10 @@ Your credit score is one piece of a larger puzzle, but it's the piece that most 
 - **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — What is a credit score?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-score-en-315/) — Explains credit scores and their role in loan decisions
+- [CFPB — How to get and keep a good credit score](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/) — Federal guidance on credit reports and mortgage readiness
 
 *Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
 

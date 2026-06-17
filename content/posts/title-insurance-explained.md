@@ -130,6 +130,12 @@ Title insurance isn't the most exciting part of buying a home. But it's one of t
 
 ---
 
+## Sources & References
+
+- [CFPB — What is title insurance](https://www.consumerfinance.gov/ask-cfpb/what-is-title-insurance-en-164/) — Explains lender's vs owner's policies and what title insurance covers
+- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — Federal guidance on closing costs including title insurance
+- [ALTA — Homeowner Resources](https://www.alta.org/homebuyer/) — Industry association explains title defects and policy types
+
 ---
 
 ## Recommended Resources

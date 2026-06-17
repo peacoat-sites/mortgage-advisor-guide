@@ -125,6 +125,12 @@ The frustrating truth is that student loans and mortgages are both complicated s
 
 ---
 
+## Sources & References
+
+- [CFPB — Debt-to-income ratio guide](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/) — Explains DTI calculation and typical lender thresholds
+- [Fannie Mae — Selling Guide](https://selling-guide.fanniemae.com/) — Official source for conventional loan DTI and student loan payment rules
+- [Federal Student Aid — Income-Driven Repayment](https://studentaid.gov/manage-loans/repayment/plans/income-driven) — Explains IDR plans and $0 payment scenarios
+
 ---
 
 ## Recommended Resources

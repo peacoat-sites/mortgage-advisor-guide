@@ -130,6 +130,12 @@ Underwriting is not the enemy. It's the process that protects both the lender an
 
 ---
 
+## Sources & References
+
+- [CFPB — Mortgage closing process](https://www.consumerfinance.gov/owning-a-home/process/close/) — Explains underwriting steps and borrower guidance during closing
+- [Fannie Mae — Selling Guide overview](https://selling-guide.fanniemae.com/) — Official underwriting standards for conforming loans
+- [HUD — FHA loan requirements](https://www.hud.gov/buying/loans) — Government guidelines for FHA mortgage underwriting criteria
+
 ---
 
 ## Recommended Resources

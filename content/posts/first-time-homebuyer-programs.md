@@ -150,6 +150,12 @@ First-time buyer programs are real money, but they're not automatic. The buyers 
 
 ---
 
+## Sources & References
+
+- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — Federal overview of homebuyer assistance programs and resources
+- [CFPB — Buying a House](https://www.consumerfinance.gov/owning-a-home/) — Explains loan options and homebuyer assistance programs
+- [USA.gov — Housing Help](https://www.usa.gov/housing-help) — Directory of federal and state homebuyer assistance resources
+
 ---
 
 ## Recommended Resources

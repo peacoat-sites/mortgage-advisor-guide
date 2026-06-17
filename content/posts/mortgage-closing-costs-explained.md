@@ -129,6 +129,11 @@ Closing costs aren't an afterthought. They're a real and significant part of the
 - **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
 - **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Closing Disclosure Explainer](https://www.consumerfinance.gov/owning-a-home/closing-disclosure/) — Explains Closing Disclosure form and closing cost components
+- [CFPB — Loan Estimate Explainer](https://www.consumerfinance.gov/owning-a-home/loan-estimate/) — Covers lender fees vs third-party costs breakdown
+- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — Official guidance on home purchase costs and process
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 

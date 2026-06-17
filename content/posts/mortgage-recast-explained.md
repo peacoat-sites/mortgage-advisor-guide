@@ -84,6 +84,11 @@ The most common reaction I get when I explain recasting to someone who's never h
 - **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Mortgage key terms](https://www.consumerfinance.gov/consumer-tools/mortgages/) — Explains mortgage concepts including principal, amortization, lender practices
+- [Fannie Mae — Servicing guide](https://servicing-guide.fanniemae.com/) — Official guidelines on recast eligibility for conforming loans
+- [CFPB — What is amortization](https://www.consumerfinance.gov/ask-cfpb/what-is-amortization-and-how-could-it-affect-my-auto-loan-en-917/) — Explains how amortization and payment recalculation work
 
 *Photo: [Picas Joe](https://www.pexels.com/@picasjoe) via Pexels*
 

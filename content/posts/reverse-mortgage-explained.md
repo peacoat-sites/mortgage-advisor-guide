@@ -123,6 +123,11 @@ There's nothing inherently predatory about a reverse mortgage, but there's a lot
 - **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
 - **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [HUD — Home Equity Conversion Mortgages for Seniors](https://www.hud.gov/program_offices/housing/sfh/hecm/hecmhome) — Official HECM program requirements and FHA insurance details
+- [CFPB — Reverse Mortgages](https://www.consumerfinance.gov/consumer-tools/reverse-mortgages/) — Consumer guidance on reverse mortgage types and risks
+- [FTC — Reverse Mortgages](https://consumer.ftc.gov/articles/reverse-mortgages) — Federal consumer protection information on reverse mortgages
 
 *Photo: [Thirdman](https://www.pexels.com/@thirdman) via Pexels*
 

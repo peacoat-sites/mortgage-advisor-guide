@@ -144,6 +144,10 @@ The mortgage process rewards preparation more than any other factor. You don't n
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Buying a House](https://www.consumerfinance.gov/owning-a-home/) — Covers mortgage process steps and lender requirements
+- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — Official first-time buyer guidance and FHA loan info
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

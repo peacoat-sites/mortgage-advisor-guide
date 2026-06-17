@@ -151,6 +151,11 @@ FHA loans won't be the right fit for everyone, but for buyers with limited savin
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
 
+## Sources & References
+
+- [HUD — FHA Loans Overview](https://www.hud.gov/buying/loans) — Official FHA program info, requirements, and how FHA insurance works
+- [CFPB — Mortgages Key Terms](https://www.consumerfinance.gov/consumer-tools/mortgages/) — Explains FHA loans, down payments, and mortgage insurance basics
+- [HUD — Let FHA Loans Help You](https://www.hud.gov/program_offices/housing/fhahistory) — FHA program history since 1934 and mission background
 
 *Photo: [Andrea Piacquadio](https://www.pexels.com/@olly) via Pexels*
 

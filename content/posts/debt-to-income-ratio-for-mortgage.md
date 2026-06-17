@@ -128,6 +128,11 @@ DTI is one of those numbers that feels abstract until the moment it matters, and
 - **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
 - **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Debt-to-income ratio](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/) — Defines DTI and explains how lenders use it
+- [Fannie Mae — Selling Guide](https://selling-guide.fanniemae.com/) — Documents conventional loan DTI limits and requirements
+- [HUD — FHA Loan Requirements](https://www.hud.gov/buying/loans) — Covers FHA mortgage qualification criteria including DTI
 
 *Photo: [olia danilevich](https://www.pexels.com/@olia-danilevich) via Pexels*
 

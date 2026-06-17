@@ -150,6 +150,10 @@ If you're a veteran and you haven't seriously evaluated the VA loan, talk to som
 - **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 
+## Sources & References
+
+- [VA — Home Loans Overview](https://www.va.gov/housing-assistance/home-loans/) — Official VA source on loan eligibility, benefits, and no-down-payment feature
+- [VA — Eligibility Requirements](https://www.va.gov/housing-assistance/home-loans/eligibility/) — Confirms service requirements like four years active duty
 
 *Photo: [Thirdman](https://www.pexels.com/@thirdman) via Pexels*
 

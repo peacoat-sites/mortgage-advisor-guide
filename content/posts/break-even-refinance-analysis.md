@@ -110,6 +110,10 @@ For a cash-out refi, you should calculate the effective interest rate on the cas
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Loan Estimate Explainer](https://www.consumerfinance.gov/owning-a-home/) — explains closing cost fee categories on loan estimates
+- [Federal Reserve — Mortgage Refinancing Guide](https://www.federalreserve.gov/pubs/refinancings/) — explains refinance costs and break-even calculations
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

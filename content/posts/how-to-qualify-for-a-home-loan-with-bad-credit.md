@@ -118,6 +118,11 @@ Get an amortization calculator and model out what that higher rate actually cost
 
 ---
 
+## Sources & References
+
+- [HUD — FHA Loan Requirements](https://www.hud.gov/buying/loans) — Official FHA loan eligibility and credit score minimums
+- [CFPB — Mortgages Key Terms](https://www.consumerfinance.gov/consumer-tools/mortgages/) — Explains DTI, underwriting factors beyond credit scores
+
 ---
 
 ## Recommended Resources

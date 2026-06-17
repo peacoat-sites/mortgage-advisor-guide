@@ -135,6 +135,10 @@ Neither product is inherently better. Both use your home as collateral, and that
 - **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
 - **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — What is a home equity loan?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-equity-loan-en-106/) — Explains home equity loan basics, fixed rates, lump sum structure
+- [CFPB — What is a HELOC?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-equity-line-of-credit-heloc-en-107/) — Covers HELOC draw periods, variable rates, flexibility features
 
 *Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*
 

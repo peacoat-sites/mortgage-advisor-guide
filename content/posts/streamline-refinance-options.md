@@ -118,6 +118,10 @@ Streamline refinances exist because the federal government recognized that makin
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 
+## Sources & References
+
+- [HUD — FHA Streamline Refinance](https://www.hud.gov/program_offices/housing/sfh/ins/streamline) — Official FHA streamline refinance program requirements and eligibility
+- [VA — Interest Rate Reduction Refinance Loan](https://www.va.gov/housing-assistance/home-loans/loan-types/interest-rate-reduction-loan/) — Official VA IRRRL program details and borrower requirements
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

@@ -148,6 +148,11 @@ The pre-approval process isn't the exciting part of buying a home. Finding the h
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Mortgage shopping guide](https://www.consumerfinance.gov/owning-a-home/) — Explains pre-approval process and mortgage steps
+- [HUD — Buying a home resources](https://www.hud.gov/topics/buying_a_home) — Federal guidance on home purchase preparation
+- [CFPB — What is loan estimate](https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/) — Explains lender documentation requirements
 
 *Photo: [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai) via Pexels*
 

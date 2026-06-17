@@ -103,6 +103,11 @@ If you're buying in a high-cost market and your loan amount is anywhere near the
 - **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
 - **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
 
+## Sources & References
+
+- [FHFA — Conforming Loan Limit Values](https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limit.aspx) — Official 2024-2025 conforming and high-balance loan limits by county
+- [Fannie Mae — Loan Limits](https://singlefamily.fanniemae.com/originating-underwriting/loan-limits) — Explains high-balance loan eligibility and pricing adjustments
+- [CFPB — What is a conforming loan?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-conforming-loan-en-1791/) — Consumer-facing explanation of conforming loan basics
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

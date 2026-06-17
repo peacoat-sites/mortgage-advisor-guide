@@ -113,6 +113,10 @@ The buyers I've seen do well with zero-down programs have stable employment, man
 - **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 
+## Sources & References
+
+- [VA — VA Home Loan Program Overview](https://www.va.gov/housing-assistance/home-loans/) — Confirms VA loan zero-down eligibility and funding fee structure
+- [CFPB — Buying a House](https://www.consumerfinance.gov/owning-a-home/) — Neutral guidance on mortgage costs and PMI trade-offs
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

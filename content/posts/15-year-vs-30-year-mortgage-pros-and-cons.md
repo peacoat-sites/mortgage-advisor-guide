@@ -117,6 +117,10 @@ The honest answer to "which is better" is that the 15-year wins the interest cos
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
 - **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Mortgage Key Terms](https://www.consumerfinance.gov/owning-a-home/loan-options/) — explains mortgage term options and payment structure differences
+- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — federal guidance on mortgage decisions and homebuyer considerations
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

@@ -157,6 +157,11 @@ Take your time with this decision. Run the numbers more than once, shop more tha
 - **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
 - **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — What is refinancing?](https://www.consumerfinance.gov/owning-a-home/loan-options/) — Explains refinance types and how the process works
+- [HUD — Refinancing your mortgage](https://www.hud.gov/topics/buying_a_home) — Government guidance on refinancing considerations and costs
+- [CFPB — Closing costs](https://www.consumerfinance.gov/ask-cfpb/what-are-closing-costs-en-1845/) — Details typical closing costs for mortgage transactions
 
 *Photo: [Ivan S](https://www.pexels.com/@ivan-s) via Pexels*
 

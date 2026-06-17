@@ -107,6 +107,10 @@ If you want to dig into the full amortization math or read more about accelerate
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 - **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Freddie Mac — My Home](https://myhome.freddiemac.com/) — Homebuyer tools for mortgage planning and calculations
+- [CFPB — Understand loan options](https://www.consumerfinance.gov/owning-a-home/loan-options/) — Official guidance on mortgage terms and payment structures
 
 *Photo: [Bich Tran](https://www.pexels.com/@thngocbich) via Pexels*
 

@@ -139,6 +139,11 @@ The down payment decision touches your monthly cash flow, your long-term equity,
 - **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
 - **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — Overview of FHA, down payment basics, and homebuying resources
+- [VA — Home Loans](https://www.va.gov/housing-assistance/home-loans/) — Supports VA loan zero-down eligibility and no PMI requirement
+- [CFPB — Buying a House](https://www.consumerfinance.gov/owning-a-home/) — Neutral guidance on down payments, PMI, and loan types
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

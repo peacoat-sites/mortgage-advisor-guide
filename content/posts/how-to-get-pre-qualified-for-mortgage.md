@@ -117,6 +117,11 @@ Pre-qualification won't win you a house by itself, but walking into a serious ho
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 - **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Get ready to shop for a mortgage](https://www.consumerfinance.gov/owning-a-home/process/prepare/) — Explains pre-qualification vs pre-approval and mortgage preparation steps
+- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — Official guide to homebuying process including lender qualification
+- [Freddie Mac — Steps to Buying a Home](https://myhome.freddiemac.com/buying) — Explains pre-qualification as first step in mortgage process
 
 *Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
 

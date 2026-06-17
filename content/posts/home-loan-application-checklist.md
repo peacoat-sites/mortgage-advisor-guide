@@ -174,6 +174,10 @@ A mortgage application rewards preparation more than almost any other financial 
 - **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Checklist for mortgage documents](https://www.consumerfinance.gov/owning-a-home/) — Supports standard mortgage documentation requirements
+- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — Supports lender verification process overview
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

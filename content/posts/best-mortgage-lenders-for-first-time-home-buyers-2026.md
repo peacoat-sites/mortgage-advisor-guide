@@ -133,6 +133,11 @@ The mortgage process was designed by and for people who do it every day. You do 
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 - **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Buying a House](https://www.consumerfinance.gov/owning-a-home/) — Federal guide to mortgage shopping and lender comparison
+- [HUD — First-Time Homebuyer Resources](https://www.hud.gov/topics/buying_a_home) — Official info on FHA loans and down payment assistance
+- [Fannie Mae — HomeReady Program](https://www.fanniemae.com/homeready) — Details on low-down-payment conventional loan options
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

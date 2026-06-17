@@ -104,6 +104,12 @@ Yes. The waiting periods apply regardless of what you're purchasing, and for sec
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
+## Sources & References
+
+- [CFPB — What is a short sale?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-short-sale-en-287/) — Explains short sale basics and credit reporting implications
+- [HUD — Buying a Home After Foreclosure](https://www.hud.gov/topics/buying_a_home) — FHA waiting period requirements after mortgage default
+- [Fannie Mae — Selling Guide](https://selling-guide.fanniemae.com/) — Documents conventional loan waiting periods after short sale
+
 ---
 
 ## Recommended Resources

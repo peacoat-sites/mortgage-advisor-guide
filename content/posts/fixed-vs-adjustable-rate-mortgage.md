@@ -61,6 +61,11 @@ There's no universally right answer. Run the numbers for your specific situation
 
 ---
 
+## Sources & References
+
+- [CFPB — Mortgage Key Terms](https://www.consumerfinance.gov/owning-a-home/loan-options/) — Explains fixed vs ARM loan options and how ARMs work
+- [Freddie Mac — Mortgage Rates](https://www.freddiemac.com/pmms) — Primary source for current fixed and ARM rate data
+
 ---
 
 ## Recommended Resources

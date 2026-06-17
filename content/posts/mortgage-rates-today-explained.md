@@ -129,6 +129,11 @@ The mortgage market rewards borrowers who take the time to understand it, and it
 - **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — What is the difference between a mortgage interest rate and an APR?](https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-mortgage-interest-rate-and-an-apr-en-135/) — Explains interest rate vs APR distinction for mortgages
+- [Freddie Mac — Primary Mortgage Market Survey](https://www.freddiemac.com/pmms) — Shows how mortgage rates move weekly based on market conditions
+- [CFPB — Explore interest rates](https://www.consumerfinance.gov/owning-a-home/explore-rates/) — Demonstrates how credit score and down payment affect rates
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

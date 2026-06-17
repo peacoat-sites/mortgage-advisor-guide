@@ -130,6 +130,11 @@ The most important thing I can leave you with is this: the phone call you're avo
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Mortgage forbearance overview](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-homeowners/) — Explains forbearance options and homeowner rights
+- [HUD — Avoiding foreclosure resources](https://www.hud.gov/topics/avoiding_foreclosure) — Federal guidance on hardship options for homeowners
+- [Fannie Mae — Forbearance and relief options](https://www.fanniemae.com/here-help-homeowners) — Details forbearance terms for conventional loans
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

@@ -143,6 +143,11 @@ The conventional loan market rewards preparation. Borrowers who take three to si
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Fannie Mae — Selling Guide](https://selling-guide.fanniemae.com/) — Official underwriting standards for conforming conventional loans
+- [Freddie Mac — Single-Family Guide](https://guide.freddiemac.com/) — Freddie Mac eligibility and documentation requirements
+- [CFPB — Mortgages Key Terms](https://www.consumerfinance.gov/consumer-tools/mortgages/) — Consumer-facing explanation of mortgage types and requirements
 
 *Photo: [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai) via Pexels*
 

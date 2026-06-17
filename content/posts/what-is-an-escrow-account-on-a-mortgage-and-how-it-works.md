@@ -99,6 +99,10 @@ If you want to really understand the full financial picture of what you're getti
 - **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — What is an escrow or impound account?](https://www.consumerfinance.gov/ask-cfpb/what-is-an-escrow-or-impound-account-en-140/) — Explains escrow account basics and lender requirements
+- [CFPB — What is RESPA?](https://www.consumerfinance.gov/ask-cfpb/what-is-respa-en-176/) — Federal escrow account regulations for mortgages
 
 *Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
 

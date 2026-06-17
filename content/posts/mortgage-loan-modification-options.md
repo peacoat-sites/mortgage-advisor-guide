@@ -147,6 +147,11 @@ You don't have to navigate this alone, and you shouldn't have to figure it out b
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Mortgage modification options](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-homeowners/) — Explains modification vs forbearance and homeowner assistance options
+- [HUD — Avoiding foreclosure](https://www.hud.gov/topics/avoiding_foreclosure) — Federal guidance on loss mitigation and contacting servicers
+- [Fannie Mae — Mortgage help for homeowners](https://www.fanniemae.com/here-help-homeowners) — Details loan modification types for conforming mortgages
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

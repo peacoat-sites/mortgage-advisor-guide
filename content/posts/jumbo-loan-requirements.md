@@ -131,6 +131,12 @@ Jumbo loans aren't impossible. Millions of borrowers close them every year, and 
 
 ---
 
+## Sources & References
+
+- [FHFA — Conforming Loan Limit Values](https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limit.aspx) — Official 2024 conforming loan limits by county
+- [CFPB — What is a jumbo loan?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-jumbo-loan-en-1791/) — Explains jumbo vs conforming loan distinctions
+- [Fannie Mae — Loan Limits](https://singlefamily.fanniemae.com/originating-underwriting/loan-limits) — Confirms baseline and high-cost area limits
+
 ---
 
 ## Recommended Resources

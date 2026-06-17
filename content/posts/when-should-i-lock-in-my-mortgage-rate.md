@@ -107,6 +107,10 @@ You can't time mortgage rates with any consistency. Nobody can, not reliably, no
 - **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Rate lock agreements](https://www.consumerfinance.gov/ask-cfpb/what-is-a-rate-lock-en-143/) — Explains rate locks, expiration, and extension costs
+- [Freddie Mac — Primary mortgage market survey](https://www.freddiemac.com/pmms) — Authoritative source on mortgage rate trends and data
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

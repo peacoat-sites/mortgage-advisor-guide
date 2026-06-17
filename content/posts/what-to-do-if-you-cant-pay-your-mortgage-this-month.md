@@ -113,6 +113,10 @@ The situation doesn't have to become a foreclosure. That's not optimism, it's ju
 - **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Mortgage help for struggling homeowners](https://www.consumerfinance.gov/housing/) — Explains servicer options, loss mitigation, and borrower rights
+- [HUD — Housing counseling resources](https://www.hud.gov/counseling) — Free HUD-approved counseling and foreclosure prevention help
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 

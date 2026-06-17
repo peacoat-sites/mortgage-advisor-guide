@@ -140,6 +140,11 @@ The mortgage process can feel like it was designed by someone who wanted to make
 
 ---
 
+## Sources & References
+
+- [CFPB — Ability-to-Repay and Qualified Mortgage Rule](https://www.consumerfinance.gov/rules-policy/regulations/1026/43/) — explains ATR legal requirements from Dodd-Frank
+- [CFPB — Debt-to-income ratio explained](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/) — defines DTI and typical thresholds for mortgages
+
 ---
 
 ## Recommended Resources

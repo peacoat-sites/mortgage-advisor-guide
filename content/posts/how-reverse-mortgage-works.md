@@ -126,6 +126,11 @@ A reverse mortgage can be a legitimate retirement planning tool, or it can be th
 - **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 
+## Sources & References
+
+- [HUD — Home Equity Conversion Mortgages for Seniors](https://www.hud.gov/program_offices/housing/sfh/hecm/hecmhome) — Official FHA HECM program requirements and rules
+- [CFPB — Reverse Mortgages](https://www.consumerfinance.gov/consumer-tools/reverse-mortgages/) — Consumer guidance on how reverse mortgages work
+- [FTC — Reverse Mortgages](https://consumer.ftc.gov/articles/reverse-mortgages) — Federal consumer protection info on reverse mortgage risks
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

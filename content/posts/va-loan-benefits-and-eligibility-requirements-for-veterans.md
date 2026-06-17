@@ -105,6 +105,10 @@ If you're a veteran and you haven't looked seriously at this benefit, start with
 - **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
 - **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
 
+## Sources & References
+
+- [VA — VA Home Loans Overview](https://www.va.gov/housing-assistance/home-loans/) — Official VA eligibility requirements and loan benefit details
+- [VA — Certificate of Eligibility](https://www.va.gov/housing-assistance/home-loans/eligibility/) — Supports service length requirements by era
 
 *Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
 

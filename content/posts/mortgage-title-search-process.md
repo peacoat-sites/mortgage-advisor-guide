@@ -122,6 +122,12 @@ A title search feels like a background process you're not involved in, and most 
 
 ---
 
+## Sources & References
+
+- [CFPB — What is a title search?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-title-search-en-183/) — Explains title search purpose and what it uncovers
+- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — Federal guidance on home buying process including title
+- [American Land Title Association — Homebuyer Resources](https://www.alta.org/homebuyer/) — Industry standards for title insurance and searches
+
 ---
 
 ## Recommended Resources

@@ -122,6 +122,11 @@ The insurance conversation is one most buyers put off until a week before closin
 
 ---
 
+## Sources & References
+
+- [CFPB — What is homeowners insurance?](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-why-do-i-need-it-en-162/) — Explains lender insurance requirements and mortgage basics
+- [III — Homeowners insurance basics](https://www.iii.org/article/what-covered-standard-homeowners-policy) — Covers dwelling coverage and policy requirements
+
 ---
 
 ## Recommended Resources

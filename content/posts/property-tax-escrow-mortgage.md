@@ -132,6 +132,11 @@ Escrow feels like bureaucratic friction until you understand what it's actually 
 
 ---
 
+## Sources & References
+
+- [CFPB — What is an escrow or impound account?](https://www.consumerfinance.gov/ask-cfpb/what-is-an-escrow-or-impound-account-en-140/) — Explains escrow accounts, purpose, and lender requirements
+- [IRS — Publication 530: Tax Information for Homeowners](https://www.irs.gov/publications/p530) — Official guidance on property tax deductions for homeowners
+
 ---
 
 ## Recommended Resources

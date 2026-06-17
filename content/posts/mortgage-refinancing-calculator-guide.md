@@ -123,6 +123,10 @@ The best refinancing decision you'll ever make starts with accurate inputs, real
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 - **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
 
+## Sources & References
+
+- [HUD — Refinancing Your Mortgage](https://www.hud.gov/topics/buying_a_home) — Federal guidance on mortgage costs and homeowner decisions
+- [CFPB — Closing Costs Explainer](https://www.consumerfinance.gov/ask-cfpb/what-are-closing-costs-en-1845/) — Explains typical closing costs borrowers should expect
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

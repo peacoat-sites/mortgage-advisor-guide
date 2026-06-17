@@ -125,6 +125,11 @@ The right answer really does depend on your specific numbers. A 660 credit score
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 
+## Sources & References
+
+- [HUD — FHA Mortgage Insurance Premiums](https://www.hud.gov/program_offices/housing/fhahistory) — supports FHA MIP rates and duration rules
+- [CFPB — What is private mortgage insurance](https://www.consumerfinance.gov/ask-cfpb/what-is-private-mortgage-insurance-en-122/) — explains PMI costs and cancellation rules
+- [Fannie Mae — HomeReady mortgage](https://singlefamily.fanniemae.com/originating-underwriting/mortgage-products/homeready-mortgage) — supports conventional low-down-payment options
 
 *Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
 

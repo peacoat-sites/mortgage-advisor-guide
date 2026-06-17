@@ -111,6 +111,10 @@ If you're doing your own financial planning, a resource like a home equity or mo
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 
+## Sources & References
+
+- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — official guidance on home valuation and mortgage basics
+- [Investopedia — Home Equity](https://www.investopedia.com/terms/h/home_equity.asp) — defines home equity calculation formula
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

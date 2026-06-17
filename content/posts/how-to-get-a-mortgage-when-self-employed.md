@@ -105,6 +105,11 @@ For the borrower who wants to do deeper prep work, a resource like *The Self-Emp
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 - **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Fannie Mae — Self-Employment Income Guidelines](https://selling-guide.fanniemae.com/) — Details official self-employed income documentation requirements
+- [CFPB — What is a debt-to-income ratio?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/) — Explains how lenders calculate qualifying income
+- [IRS — Self-Employment Tax Overview](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes) — Covers Schedule C and self-employment reporting
 
 *Photo: [Arina Krasnikova](https://www.pexels.com/@arina-krasnikova) via Pexels*
 

@@ -109,6 +109,11 @@ For borrowers who want to go deeper on the mechanics of mortgage qualification b
 - **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
 - **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — What is a mortgage loan estimate?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/) — Explains official mortgage disclosure documents borrowers receive
+- [AnnualCreditReport.com — Free Credit Reports](https://www.annualcreditreport.com/) — Official source for free tri-bureau credit reports
+- [CFPB — How to dispute credit report errors](https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/) — Official guidance on disputing credit report inaccuracies
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 

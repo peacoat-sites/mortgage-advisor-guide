@@ -117,6 +117,11 @@ Points aren't magic, and they're not a trap. They're just a transaction with a c
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 - **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — What are discount points and lender credits?](https://www.consumerfinance.gov/ask-cfpb/what-are-discount-points-and-lender-credits-en-136/) — Explains discount points, how they work, and cost considerations
+- [IRS — Publication 936: Home Mortgage Interest Deduction](https://www.irs.gov/publications/p936) — Covers tax deductibility rules for mortgage points
+- [HUD — Buying a Home: Shopping for Your Home Loan](https://www.hud.gov/topics/buying_a_home) — Federal guidance on understanding loan estimates and costs
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 

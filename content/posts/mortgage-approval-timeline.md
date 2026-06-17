@@ -139,6 +139,12 @@ The timeline between application and closing can feel impossibly long when you'r
 
 ---
 
+## Sources & References
+
+- [CFPB — Mortgage closing process](https://www.consumerfinance.gov/owning-a-home/process/close/) — explains mortgage approval stages and closing timeline steps
+- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — overview of mortgage process and what to expect from lenders
+- [CFPB — What is a mortgage loan originator?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-mortgage-loan-originator-en-1955/) — explains lender roles in approval process
+
 ---
 
 ## Recommended Resources

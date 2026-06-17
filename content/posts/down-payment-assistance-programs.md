@@ -144,6 +144,10 @@ The path to homeownership doesn't always look the way you expected. Saving a ful
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Down Payment Assistance Overview](https://www.consumerfinance.gov/owning-a-home/) — explains DPA options and homebuying costs
+- [USA.gov — Help Buying a Home](https://www.usa.gov/buying-home) — federal resource on assistance programs for homebuyers
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

@@ -150,6 +150,10 @@ Getting a mortgage isn't about impressing a loan officer. It's about presenting 
 - **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
 - **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — Mortgage key terms](https://www.consumerfinance.gov/owning-a-home/loan-options/) — Explains loan types, credit requirements, DTI basics
+- [HUD — FHA loan requirements](https://www.hud.gov/buying/loans) — Official FHA credit score and down payment minimums
 
 *Photo: [Tara Winstead](https://www.pexels.com/@tara-winstead) via Pexels*
 
