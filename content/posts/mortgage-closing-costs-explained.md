@@ -98,7 +98,7 @@ You have more levers than you probably realize.
 
 **Ask about no-closing-cost loans carefully.** These loans either roll the costs into the loan balance or offset them with a higher rate. The costs don't disappear. They just move. Read the terms and do the math before deciding this is a good deal.
 
-If you want to go deeper on the mechanics of loan shopping, a well-reviewed resource like a [home-buying guide or mortgage workbook on Amazon](https://www.amazon.com/s?k=home+buying+guide+mortgage&tag=mhf0d-20) can walk you through the comparison process with worksheets. *(Note: this site may earn a commission on purchases.)*
+If you want to go deeper on the mechanics of loan shopping, a well-reviewed resource like a [home-buying guide or mortgage workbook on Amazon](https://www.amazon.com/s?k=home+buying+guide+mortgage&tag=contentportfo-20) can walk you through the comparison process with worksheets. *(Note: this site may earn a commission on purchases.)*
 
 ## What Happens Between Your Loan Estimate and Your Closing Disclosure
 

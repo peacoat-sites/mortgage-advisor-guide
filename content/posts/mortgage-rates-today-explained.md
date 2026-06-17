@@ -110,7 +110,7 @@ A rate lock is a lender's commitment to hold your rate for a set period, usually
 
 I want to be honest about something. The rate headlines you see online are often based on ideal borrower profiles, typically 20% down, 780+ credit score, primary residence, conforming loan amount. Your rate may be different. That's not a criticism. It's just the reality of how mortgage pricing works.
 
-To get a sense of what different rates actually mean for your budget, playing with a mortgage calculator is genuinely useful. You can find solid home-buying financial planning resources, including mortgage calculators and home-buying guides, [on Amazon](https://www.amazon.com/s?k=mortgage+calculator+home+buying+guide&tag=yourtag-20) (note: this site may earn a commission from qualifying purchases). Running scenarios at different rate levels before you talk to a lender gives you real negotiating context.
+To get a sense of what different rates actually mean for your budget, playing with a mortgage calculator is genuinely useful. You can find solid home-buying financial planning resources, including mortgage calculators and home-buying guides, [on Amazon](https://www.amazon.com/s?k=mortgage+calculator+home+buying+guide&tag=contentportfo-20) (note: this site may earn a commission from qualifying purchases). Running scenarios at different rate levels before you talk to a lender gives you real negotiating context.
 
 A quarter-point difference on a $400,000 loan sounds small. Over 30 years, it's roughly $20,000 in additional interest. A half-point difference is closer to $40,000. These aren't abstract numbers. They represent real trade-offs between what you pay for the loan and what you could have done with that money otherwise.
 

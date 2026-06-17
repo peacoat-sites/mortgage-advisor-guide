@@ -88,7 +88,7 @@ Don't just apply and hope. Work the variables first.
 
 **Step 7: Shop multiple lenders.** I cannot stress this enough. Lender overlays mean that different lenders will have different minimums for the same loan program. Getting declined at one lender does not mean the answer is no. It means you haven't found the right lender yet. Multiple mortgage inquiries within a 45-day window are typically treated as a single inquiry for scoring purposes under most FICO models.
 
-If you want to go deeper on preparing your finances, a good financial planning workbook can help you systematically track your debt payoff, savings, and credit repair progress. [This type of resource on Amazon](https://www.amazon.com/s?k=home+buying+financial+planning+workbook&tag=247d32-20) can be a practical companion for this process. (The site may earn a commission on purchases.)
+If you want to go deeper on preparing your finances, a good financial planning workbook can help you systematically track your debt payoff, savings, and credit repair progress. [This type of resource on Amazon](https://www.amazon.com/s?k=home+buying+financial+planning+workbook&tag=contentportfo-20) can be a practical companion for this process. (The site may earn a commission on purchases.)
 
 ## What to Expect: The Honest Version
 
@@ -100,7 +100,7 @@ Higher interest rates are also likely if your score is below 640. The FHFA's loa
 
 None of this means don't do it. What surprised me early in my career was how many clients used a more expensive loan to get into a home, built equity, cleaned up their credit, and refinanced into much better terms within three to four years. The house appreciated, the credit improved, and the strategy worked. But it requires a plan, not just a prayer.
 
-Get an amortization calculator and model out what that higher rate actually costs you per month and over time. A mortgage calculator can make this concrete fast. [Here's a search for mortgage calculators and home-buying guides](https://www.amazon.com/s?k=mortgage+calculator+home+buying+guide&tag=247d32-20) if you want a physical reference you can write in. (Commission disclosure applies.)
+Get an amortization calculator and model out what that higher rate actually costs you per month and over time. A mortgage calculator can make this concrete fast. [Here's a search for mortgage calculators and home-buying guides](https://www.amazon.com/s?k=mortgage+calculator+home+buying+guide&tag=contentportfo-20) if you want a physical reference you can write in. (Commission disclosure applies.)
 
 
 ## Helpful Resources

@@ -88,7 +88,7 @@ Free, legitimate help exists. [HUD-approved housing counselors](https://www.hud.
 
 If you're further along in the process, or if your servicer has already filed a notice of default, a HUD-approved counselor can still help, but you may also want to consult a foreclosure defense attorney, particularly one who works on a sliding scale or through legal aid. Some procedural mistakes by servicers during the foreclosure process can actually give you leverage, but you need someone who knows what to look for.
 
-If you want to go in better prepared, Erik Whitman's *Foreclosure Prevention Workbook* and books like *The Foreclosure Survival Guide* by attorney Amy Loftsgordon (available on [Amazon](https://www.amazon.com/s?k=foreclosure+survival+guide&tag=yourtag-20)) give solid overviews of the legal process and borrower rights, written for a non-attorney audience. (Disclosure: this site may earn a commission from Amazon purchases.)
+If you want to go in better prepared, Erik Whitman's *Foreclosure Prevention Workbook* and books like *The Foreclosure Survival Guide* by attorney Amy Loftsgordon (available on [Amazon](https://www.amazon.com/s?k=foreclosure+survival+guide&tag=contentportfo-20)) give solid overviews of the legal process and borrower rights, written for a non-attorney audience. (Disclosure: this site may earn a commission from Amazon purchases.)
 
 ---
 

@@ -94,7 +94,7 @@ If you're a freelancer with uneven income, or you just prefer the psychological 
 
 ---
 
-If you want to dig into the full amortization math or read more about accelerated payment strategies, *Mortgage Free!* by Rob Roy (available on [Amazon](https://www.amazon.com/s?k=mortgage+payoff+strategy+book&tag=your-affiliate-tag)) is unconventional but has some genuinely interesting approaches to early payoff beyond just biweekly payments. (The site may earn a commission on purchases made through that link.)
+If you want to dig into the full amortization math or read more about accelerated payment strategies, *Mortgage Free!* by Rob Roy (available on [Amazon](https://www.amazon.com/s?k=mortgage+payoff+strategy+book&tag=contentportfo-20)) is unconventional but has some genuinely interesting approaches to early payoff beyond just biweekly payments. (The site may earn a commission on purchases made through that link.)
 
 ---
 

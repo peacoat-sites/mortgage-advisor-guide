@@ -100,7 +100,7 @@ Before you call a lender, do this work yourself. It takes maybe an hour and it c
 
 **Step 5: Model the total cost over time.** A lower initial rate on a HELOC doesn't mean it's cheaper. Calculate total interest paid over the expected life of the loan under different rate scenarios. The math sometimes surprises people.
 
-If you want a structured framework for this kind of financial analysis, a resource like a [home buying and financing workbook](https://www.amazon.com/s?k=home+buying+financial+workbook&tag=yourtag-20) can help you organize your thinking before you ever talk to a lender. (Note: this site may earn a commission on purchases.)
+If you want a structured framework for this kind of financial analysis, a resource like a [home buying and financing workbook](https://www.amazon.com/s?k=home+buying+financial+workbook&tag=contentportfo-20) can help you organize your thinking before you ever talk to a lender. (Note: this site may earn a commission on purchases.)
 
 ## Tax Deductibility: The Fine Print That Matters
 

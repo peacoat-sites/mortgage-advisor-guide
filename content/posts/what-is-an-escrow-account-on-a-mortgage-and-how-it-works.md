@@ -86,7 +86,7 @@ If you suspect an error and can't get it resolved directly, a [HUD-approved hous
 
 Keep your property tax statements and insurance renewal documents in one place. Compare them against what your servicer is actually paying. It takes 20 minutes a year and it has caught mistakes for borrowers I've known.
 
-If you want to really understand the full financial picture of what you're getting into before closing, a workbook like [Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/Noloss-Essential-Guide-Buying-First/dp/1413329861?tag=yourtag-20) walks through escrow and other closing cost mechanics in plain language. (That's an affiliate link, just so you know.)
+If you want to really understand the full financial picture of what you're getting into before closing, a workbook like [Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/Noloss-Essential-Guide-Buying-First/dp/1413329861?tag=contentportfo-20) walks through escrow and other closing cost mechanics in plain language. (That's an affiliate link, just so you know.)
 
 ---
 

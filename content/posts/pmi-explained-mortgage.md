@@ -100,7 +100,7 @@ PMI isn't inevitable. If you hate the idea of paying for coverage that doesn't b
 
 **VA and USDA loans.** If you're eligible for a VA loan (active duty, veteran, or qualifying surviving spouse), you can purchase with zero down and zero PMI. USDA loans offer similar benefits in eligible rural areas. These programs are genuinely underused. If you qualify, you should almost certainly be using one.
 
-If you want to take a deeper look at how all these options compare before talking to a lender, a resource like a [home buying financial planning workbook](https://www.amazon.com/s?k=home+buying+financial+planning+workbook&tag=escapethenorm-20) can help you organize the numbers before your first lender conversation. (This site may earn a commission on qualifying purchases.)
+If you want to take a deeper look at how all these options compare before talking to a lender, a resource like a [home buying financial planning workbook](https://www.amazon.com/s?k=home+buying+financial+planning+workbook&tag=contentportfo-20) can help you organize the numbers before your first lender conversation. (This site may earn a commission on qualifying purchases.)
 
 
 ## Helpful Resources

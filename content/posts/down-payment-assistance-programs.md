@@ -89,7 +89,7 @@ The unfortunate reality is that searching "down payment assistance" online can s
 
 **Employer assistance programs.** A growing number of employers, particularly hospitals, school districts, and large corporations, offer housing assistance as a benefit. If you work for a large institution, it's worth a direct question to HR.
 
-If you want a structured way to get organized before talking to a counselor, a home-buying workbook or checklist can help you track income documents, program deadlines, and eligibility criteria in one place. Resources like those are available on [Amazon](https://www.amazon.com/s?k=home+buying+workbook&tag=yourtag-20) (note: this site may earn a commission on purchases).
+If you want a structured way to get organized before talking to a counselor, a home-buying workbook or checklist can help you track income documents, program deadlines, and eligibility criteria in one place. Resources like those are available on [Amazon](https://www.amazon.com/s?k=home+buying+workbook&tag=contentportfo-20) (note: this site may earn a commission on purchases).
 
 ---
 

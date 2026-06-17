@@ -92,7 +92,7 @@ These aren't ironclad rules. They're patterns I've watched over a long time.
 
 One thing I'd push back on is the reflexive advice to "just get the 15-year if you can afford it." The word "afford" is doing too much work in that sentence. Technically qualifying for the payment is not the same as actually being able to absorb it in a worst-case year. If you're not sure where your finances are, a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can walk through your specific numbers with no sales incentive attached — which is more than you can say for most loan officers, including good ones.
 
-If you want to go deeper on the analytical side before you talk to anyone, there are solid home-buying guides worth having on hand (you can find well-reviewed options [on Amazon](https://www.amazon.com/s?k=home+buying+mortgage+guide&tag=yourtag-20) — note this site may earn a commission on purchases). Running the actual numbers on your specific loan amount, rate, and alternative investment assumptions will tell you more than any general article can.
+If you want to go deeper on the analytical side before you talk to anyone, there are solid home-buying guides worth having on hand (you can find well-reviewed options [on Amazon](https://www.amazon.com/s?k=home+buying+mortgage+guide&tag=contentportfo-20) — note this site may earn a commission on purchases). Running the actual numbers on your specific loan amount, rate, and alternative investment assumptions will tell you more than any general article can.
 
 ## A Few Things Nobody Warns You About
 

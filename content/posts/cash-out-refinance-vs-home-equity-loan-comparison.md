@@ -62,7 +62,7 @@ But here's the thing: if you refinanced in 2020 or 2021 at 2.875% or 3.25%, a ca
 
 Run the math on that before you do anything else. A home equity loan at 8.5% on $50,000 might actually cost you significantly less over the life of both loans than a cash-out refi at 7.1% on a $350,000 combined balance, depending on how many years are left on your original mortgage.
 
-I keep a copy of a good mortgage comparison workbook (you can find solid options like [this mortgage and home finance reference on Amazon](https://www.amazon.com/s?k=home+equity+mortgage+guide&tag=mortgage-20)) on my desk specifically because this math is the kind that looks simple until you actually do it. (Note: that link is an affiliate and the site may earn a small commission.)
+I keep a copy of a good mortgage comparison workbook (you can find solid options like [this mortgage and home finance reference on Amazon](https://www.amazon.com/s?k=home+equity+mortgage+guide&tag=contentportfo-20)) on my desk specifically because this math is the kind that looks simple until you actually do it. (Note: that link is an affiliate and the site may earn a small commission.)
 
 The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/owning-a-home/) has a loan comparison tool worth using before you commit to either path. Not flashy, but thorough.
 

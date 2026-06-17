@@ -88,7 +88,7 @@ If you want to contribute $500 per month to retirement and $300 to an emergency 
 **Step 6: What's left is your real housing budget.**
 Now work backward. Take that monthly number, subtract your estimated property taxes, insurance, PMI (if applicable), and HOA. What remains is approximately what you can direct toward principal and interest.
 
-A mortgage calculator (like those in [home-buying guides on Amazon](https://www.amazon.com/s?k=home+buying+guide&tag=your-affiliate-tag)) can help you translate that principal-and-interest figure into a purchase price given current interest rates. Note that links to Amazon on this site may earn a commission.
+A mortgage calculator (like those in [home-buying guides on Amazon](https://www.amazon.com/s?k=home+buying+guide&tag=contentportfo-20)) can help you translate that principal-and-interest figure into a purchase price given current interest rates. Note that links to Amazon on this site may earn a commission.
 
 ---
 
@@ -138,7 +138,7 @@ The lender's job is to underwrite the loan. Your job is to underwrite your life.
 
 ---
 
-Take your time with this math before you fall in love with a house. The right home at the wrong price point will cost you in ways that don't show up on a closing disclosure. They show up in your bank account, your stress level, and your ability to handle what life throws at you. If you want to dig deeper into the numbers before talking to a lender, a solid home-buying workbook ([available on Amazon](https://www.amazon.com/s?k=home+buying+workbook&tag=your-affiliate-tag), affiliate link) can help you organize your finances and walk into that conversation with clarity. Consulting with a HUD-approved housing counselor or a fee-only financial advisor before you commit is always a smart move. Pre-approval is the beginning of the process. Your budget is the foundation of it.
+Take your time with this math before you fall in love with a house. The right home at the wrong price point will cost you in ways that don't show up on a closing disclosure. They show up in your bank account, your stress level, and your ability to handle what life throws at you. If you want to dig deeper into the numbers before talking to a lender, a solid home-buying workbook ([available on Amazon](https://www.amazon.com/s?k=home+buying+workbook&tag=contentportfo-20), affiliate link) can help you organize your finances and walk into that conversation with clarity. Consulting with a HUD-approved housing counselor or a fee-only financial advisor before you commit is always a smart move. Pre-approval is the beginning of the process. Your budget is the foundation of it.
 
 ## Helpful Resources
 

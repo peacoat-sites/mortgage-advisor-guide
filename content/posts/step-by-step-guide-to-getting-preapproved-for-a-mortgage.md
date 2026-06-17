@@ -96,7 +96,7 @@ The preapproval letter itself should specify the loan amount you're approved for
 
 If anything in your financial picture changes during the shopping process, tell your lender. Don't let them find out at closing. If you need help understanding your options or feel like you're getting conflicting advice, [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) offer free or low-cost guidance with no sales pressure attached.
 
-For borrowers who want to go deeper on the mechanics of mortgage qualification before they sit down with a lender, [The Mortgage Encyclopedia by Jack Guttentag](https://www.amazon.com/Mortgage-Encyclopedia-Comprehensive-Homebuyers-Homeowners/dp/0071739084?tag=clairen-20) is one of the better reference books available. (Disclosure: the site may earn a commission on purchases through that link.)
+For borrowers who want to go deeper on the mechanics of mortgage qualification before they sit down with a lender, [The Mortgage Encyclopedia by Jack Guttentag](https://www.amazon.com/Mortgage-Encyclopedia-Comprehensive-Homebuyers-Homeowners/dp/0071739084?tag=contentportfo-20) is one of the better reference books available. (Disclosure: the site may earn a commission on purchases through that link.)
 
 ---
 

@@ -98,7 +98,7 @@ If your LTV has dropped below 80% because your balance has fallen or values have
 
 If you're considering a cash-out refinance or a home equity loan, your equity position determines how much you can borrow and at what terms. And if you're unsure about what products make sense for your situation, talking to a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) is a genuinely good move, especially if you're considering using your equity to consolidate debt or fund a major expense. They're not salespeople, which is exactly why I recommend them.
 
-If you're doing your own financial planning, a resource like a home equity or mortgage workbook can help you track this over time. There are several solid ones available on [Amazon](https://www.amazon.com/s?k=home+equity+financial+planning+workbook&tag=yourtag-20) (the site may earn a commission on purchases) if you want something structured to work through the numbers year over year.
+If you're doing your own financial planning, a resource like a home equity or mortgage workbook can help you track this over time. There are several solid ones available on [Amazon](https://www.amazon.com/s?k=home+equity+financial+planning+workbook&tag=contentportfo-20) (the site may earn a commission on purchases) if you want something structured to work through the numbers year over year.
 
 ---
 

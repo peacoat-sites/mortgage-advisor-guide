@@ -98,7 +98,7 @@ The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) has pushed fo
 
 Your Loan Estimate, which your lender is required to provide within three business days of your application, will list title-related fees under Section B (services you cannot shop for) and Section C (services you can shop for). Read Section C carefully and ask your loan officer which fees you have the right to comparison shop. Many buyers assume they don't have a choice. Often they do.
 
-If you want to go deeper on closing costs before you get to that stage, a [home-buying guide](https://www.amazon.com/s?k=home+buying+guide+book&tag=youraffiliatetag-20) can help you understand what's negotiable and what isn't. *(Disclosure: this site may earn a commission on purchases.)*
+If you want to go deeper on closing costs before you get to that stage, a [home-buying guide](https://www.amazon.com/s?k=home+buying+guide+book&tag=contentportfo-20) can help you understand what's negotiable and what isn't. *(Disclosure: this site may earn a commission on purchases.)*
 
 ---
 

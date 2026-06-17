@@ -80,7 +80,7 @@ A few things to avoid in the 3-6 months before you apply: don't open new credit 
 
 One more thing: pull your actual credit reports at AnnualCreditReport.com before a lender does and look for errors. I've seen scores suppressed by 30, 40, even 60 points from reporting errors, old accounts that weren't updated, or disputes that were never properly resolved. Disputing inaccuracies takes time, so do it months before you plan to apply, not the week before.
 
-If you want to go deeper on the credit repair mechanics, books like *Credit Repair Kit for Dummies* (available on [Amazon](https://www.amazon.com/s?k=credit+repair+mortgage+home+buying&tag=yourtag-20)) cover the dispute process in real detail. (Disclosure: this site may earn a commission on purchases through that link.)
+If you want to go deeper on the credit repair mechanics, books like *Credit Repair Kit for Dummies* (available on [Amazon](https://www.amazon.com/s?k=credit+repair+mortgage+home+buying&tag=contentportfo-20)) cover the dispute process in real detail. (Disclosure: this site may earn a commission on purchases through that link.)
 
 ---
 

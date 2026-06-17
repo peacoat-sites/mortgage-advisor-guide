@@ -88,7 +88,7 @@ Income qualification works through what the VA calls "residual income," which is
 
 The home itself also has to pass a VA appraisal, which includes minimum property requirements (MPRs). The property needs to be in safe, sanitary, and structurally sound condition. VA appraisers are sometimes more rigorous than conventional appraisers about issues like chipping paint on older homes, inadequate heating, or deferred maintenance. This occasionally creates friction in purchase transactions, especially with fixer-uppers. Going in with eyes open about this can save you a lot of stress.
 
-If you want to do thorough prep work before meeting with a lender, a home-buying workbook like [*The Essential First-Time Home Buyer's Book*](https://www.amazon.com/s?k=first+time+home+buyer+workbook&tag=yourtag-20) can help you get your financial documentation organized in advance. (Note: this site may earn a commission on purchases.)
+If you want to do thorough prep work before meeting with a lender, a home-buying workbook like [*The Essential First-Time Home Buyer's Book*](https://www.amazon.com/s?k=first+time+home+buyer+workbook&tag=contentportfo-20) can help you get your financial documentation organized in advance. (Note: this site may earn a commission on purchases.)
 
 ---
 

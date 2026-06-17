@@ -101,7 +101,7 @@ Here's a comparison that cuts through the noise:
 
 The spousal protection issue deserves its own sentence. Rules have changed significantly since 2014 to protect non-borrowing spouses from immediate displacement after a borrower's death, but the specifics depend on when and how the loan was originated. If one partner is under 62, get detailed legal advice, not just a loan officer's reassurance.
 
-A useful resource for understanding the broader financial planning landscape here is [The Smartest Retirement Book You'll Ever Read by Daniel Solin](https://www.amazon.com/Smartest-Retirement-Book-Youll-Ever/dp/0399535322?tag=ghostmoss-20), which addresses how home equity fits into retirement income sequencing. (Disclosure: this site may earn a commission from qualifying purchases.)
+A useful resource for understanding the broader financial planning landscape here is [The Smartest Retirement Book You'll Ever Read by Daniel Solin](https://www.amazon.com/Smartest-Retirement-Book-Youll-Ever/dp/0399535322?tag=contentportfo-20), which addresses how home equity fits into retirement income sequencing. (Disclosure: this site may earn a commission from qualifying purchases.)
 
 ## The Required Counseling Session and Why You Should Take It Seriously
 

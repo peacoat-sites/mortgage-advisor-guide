@@ -94,7 +94,7 @@ Early termination fees are another one. Many lenders charge a fee, sometimes $30
 
 Also check whether your lender can reduce or freeze your credit line. During the 2008-2010 period, lenders froze HELOC lines en masse when property values dropped. It's within their rights if your home value falls or your financial circumstances change. If you're counting on future HELOC draws to fund a home improvement project or cover an expected expense, an unexpectedly frozen line can derail those plans entirely.
 
-For a detailed walkthrough of how to read and compare loan products before you sign, [The Mortgage Encyclopedia by Jack Guttentag](https://www.amazon.com/dp/0071739084?tag=your-affiliate-tag) is one of the more useful reference books in this space. (The site may earn a small commission on purchases.)
+For a detailed walkthrough of how to read and compare loan products before you sign, [The Mortgage Encyclopedia by Jack Guttentag](https://www.amazon.com/dp/0071739084?tag=contentportfo-20) is one of the more useful reference books in this space. (The site may earn a small commission on purchases.)
 
 ---
 

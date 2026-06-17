@@ -147,7 +147,7 @@ Freddie Mac's homebuyer resources offer helpful tools for understanding how loan
 
 ---
 
-Take your time with this decision. Run the numbers more than once, shop more than one lender, and read what you sign. The Consumer Financial Protection Bureau's "Owning a Home" resource center has a plain-language breakdown of every disclosure document you'll encounter, which is genuinely worth bookmarking. If you want to go deeper on the math before you ever talk to a lender, a book like [*Mortgage Management For Dummies*](https://www.amazon.com/dp/1119387078?tag=yourtag-20) can help you build a solid foundation. (This site may earn a commission from qualifying purchases.) A good refinance doesn't require you to trust the loan officer. It requires you to understand what you're agreeing to. That starts before you ever pick up the phone.
+Take your time with this decision. Run the numbers more than once, shop more than one lender, and read what you sign. The Consumer Financial Protection Bureau's "Owning a Home" resource center has a plain-language breakdown of every disclosure document you'll encounter, which is genuinely worth bookmarking. If you want to go deeper on the math before you ever talk to a lender, a book like [*Mortgage Management For Dummies*](https://www.amazon.com/dp/1119387078?tag=contentportfo-20) can help you build a solid foundation. (This site may earn a commission from qualifying purchases.) A good refinance doesn't require you to trust the loan officer. It requires you to understand what you're agreeing to. That starts before you ever pick up the phone.
 
 ## Helpful Resources
 

@@ -97,7 +97,7 @@ If you put 5% down, the fee drops to 1.5%. At 10% or more, it drops to 1.25%.
 
 Here's the critical exemption: veterans receiving VA disability compensation of any amount are exempt from the funding fee entirely. Surviving spouses of veterans who died in service are also exempt. If you're eligible for this exemption, the VA loan becomes even more financially compelling. Make sure your lender knows your disability status before closing.
 
-Rolling the fee into the loan means you're financing it, which adds to your balance and your total interest cost over the life of the loan. Some borrowers prefer to pay it at closing instead. Run the math with your lender, or use a mortgage calculator to compare total cost scenarios. If you want to dig deeper into loan cost analysis tools, there are several solid [home financing workbooks and mortgage planning guides on Amazon](https://www.amazon.com/s?k=mortgage+home+buying+guide&tag=yourtag-20) that walk through these calculations step by step. *(Disclosure: this site may earn a commission from qualifying purchases.)*
+Rolling the fee into the loan means you're financing it, which adds to your balance and your total interest cost over the life of the loan. Some borrowers prefer to pay it at closing instead. Run the math with your lender, or use a mortgage calculator to compare total cost scenarios. If you want to dig deeper into loan cost analysis tools, there are several solid [home financing workbooks and mortgage planning guides on Amazon](https://www.amazon.com/s?k=mortgage+home+buying+guide&tag=contentportfo-20) that walk through these calculations step by step. *(Disclosure: this site may earn a commission from qualifying purchases.)*
 
 ---
 

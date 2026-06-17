@@ -90,7 +90,7 @@ On the negative side, missed payments on student loans are seriously damaging. F
 
 If your student loans went into default at any point, that's a more serious conversation to have with a lender directly, because the path to homeownership is longer but usually still possible, just not immediate.
 
-For borrowers who want to dig deeper into how credit scoring works in the context of a mortgage application, a resource like [this home buyer's guide on Amazon](https://www.amazon.com/s?k=home+buying+guide+mortgage&tag=your-affiliate-tag) can give you a solid foundation before you sit down with a lender. *(Note: this site may earn a commission on purchases made through this link.)*
+For borrowers who want to dig deeper into how credit scoring works in the context of a mortgage application, a resource like [this home buyer's guide on Amazon](https://www.amazon.com/s?k=home+buying+guide+mortgage&tag=contentportfo-20) can give you a solid foundation before you sit down with a lender. *(Note: this site may earn a commission on purchases made through this link.)*
 
 ## Comparing How Loan Programs Handle Student Loan Payments
 

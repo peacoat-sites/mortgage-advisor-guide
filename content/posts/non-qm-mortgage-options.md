@@ -74,7 +74,7 @@ The non-QM space is heavily broker-driven, which means there's more variation in
 
 Documentation matters more in non-QM underwriting than most borrowers expect. Lenders aren't working with an automated underwriting system that spits out a clean approval; a human underwriter is evaluating your file, often with more discretion and also more subjectivity. Being organized, responding quickly to conditions, and keeping your cash flow and bank statements consistent in the months before application will genuinely affect your outcome.
 
-If you want to go deeper on the mechanics before you start shopping loans, a guide like [*The Mortgage Encyclopedia* by Jack Guttentag](https://www.amazon.com/Mortgage-Encyclopedia-Authoritative-Unconventional-Financing/dp/0071739084?tag=yourtag-20) covers loan product variations in useful detail. (That's an affiliate link, and the site may earn a small commission.)
+If you want to go deeper on the mechanics before you start shopping loans, a guide like [*The Mortgage Encyclopedia* by Jack Guttentag](https://www.amazon.com/Mortgage-Encyclopedia-Authoritative-Unconventional-Financing/dp/0071739084?tag=contentportfo-20) covers loan product variations in useful detail. (That's an affiliate link, and the site may earn a small commission.)
 
 
 ## Helpful Resources

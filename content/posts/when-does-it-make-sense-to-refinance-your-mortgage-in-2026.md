@@ -52,7 +52,7 @@ Say your outstanding balance is $320,000. Closing costs come in at $6,400 (rough
 
 I've seen people miss this because loan officers present the monthly savings in bold and bury the closing cost line. One borrower I know got handed a "no-closing-cost refinance" pitch and thought he was getting a free lunch. What he got was a slightly higher rate baked in to cover those costs, which meant his break-even was actually pushed out further than a traditional refi would have been. No-closing-cost loans aren't bad products, but they're absolutely not free.
 
-The other thing worth running: if you're resetting a 30-year clock, calculate total interest paid over the life of *both* scenarios. A $280,000 balance with 22 years left on a 7.1% loan vs. refinancing into a fresh 30-year at 5.6% might lower your payment, but you're agreeing to pay interest for 8 additional years. A good [mortgage calculator](https://www.amazon.com/s?k=mortgage+calculator+financial+planning&tag=yourtag-20) can model this out in minutes. (Disclosure: this site may earn a commission on qualifying purchases.)
+The other thing worth running: if you're resetting a 30-year clock, calculate total interest paid over the life of *both* scenarios. A $280,000 balance with 22 years left on a 7.1% loan vs. refinancing into a fresh 30-year at 5.6% might lower your payment, but you're agreeing to pay interest for 8 additional years. A good [mortgage calculator](https://www.amazon.com/s?k=mortgage+calculator+financial+planning&tag=contentportfo-20) can model this out in minutes. (Disclosure: this site may earn a commission on qualifying purchases.)
 
 ## Who Should Be Seriously Looking Right Now
 

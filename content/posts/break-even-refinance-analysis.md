@@ -58,7 +58,7 @@ The fix is to look at a true savings comparison. You need to compare:
 2. The total interest you'll pay on the new loan over its full term
 3. Plus the closing costs on the new loan
 
-A mortgage amortization calculator can do this in about two minutes. If you're not sure where to find a good one, a [home-buying reference guide](https://www.amazon.com/s?k=home+buying+mortgage+guide&tag=thehomebuying-20) that includes amortization worksheets can be worth having on hand (note: this site may earn a commission on purchases).
+A mortgage amortization calculator can do this in about two minutes. If you're not sure where to find a good one, a [home-buying reference guide](https://www.amazon.com/s?k=home+buying+mortgage+guide&tag=contentportfo-20) that includes amortization worksheets can be worth having on hand (note: this site may earn a commission on purchases).
 
 ## How to Run a Proper Break-Even Calculation: Step by Step
 
