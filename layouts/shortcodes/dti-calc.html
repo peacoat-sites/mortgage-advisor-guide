@@ -1,0 +1,121 @@
+<div class="calc-wrap" id="dti-calc">
+  <div class="calc-header">Debt-to-Income (DTI) Ratio Calculator</div>
+  <div class="calc-body">
+    <div style="display:flex;gap:10px;margin-bottom:14px;align-items:center">
+      <span style="font-size:13px;font-weight:600;color:var(--muted)">Income as:</span>
+      <label style="display:flex;align-items:center;gap:6px;font-size:13px;font-weight:600;color:var(--muted);cursor:pointer"><input type="radio" name="dti-inc-type" id="dti-annual" value="annual" checked style="accent-color:var(--accent)"> Annual</label>
+      <label style="display:flex;align-items:center;gap:6px;font-size:13px;font-weight:600;color:var(--muted);cursor:pointer"><input type="radio" name="dti-inc-type" id="dti-monthly" value="monthly" style="accent-color:var(--accent)"> Monthly</label>
+    </div>
+    <div class="calc-grid">
+      <label class="calc-label" id="dti-income-label">Annual Gross Income ($)
+        <input class="calc-input" id="dti-income" type="number" min="0" placeholder="85000">
+      </label>
+      <label class="calc-label">Auto Loan Payment ($/mo)
+        <input class="calc-input" id="dti-auto" type="number" min="0" placeholder="0">
+      </label>
+      <label class="calc-label">Student Loans ($/mo)
+        <input class="calc-input" id="dti-student" type="number" min="0" placeholder="0">
+      </label>
+      <label class="calc-label">Credit Card Minimums ($/mo)
+        <input class="calc-input" id="dti-cc" type="number" min="0" placeholder="0">
+      </label>
+      <label class="calc-label">Other Debts ($/mo)
+        <input class="calc-input" id="dti-other" type="number" min="0" placeholder="0">
+      </label>
+      <label class="calc-label">New Mortgage Payment ($/mo, optional)
+        <input class="calc-input" id="dti-mortgage" type="number" min="0" placeholder="0">
+      </label>
+    </div>
+    <div id="dti-results" style="display:none;margin-top:20px">
+      <div style="display:flex;flex-direction:column;gap:16px">
+        <div class="calc-card" style="text-align:left">
+          <span class="card-label">Front-End DTI (Housing Only)</span>
+          <div style="display:flex;align-items:center;gap:12px;margin-top:8px">
+            <span class="card-value" id="dti-front-val" style="font-size:1.4rem">—</span>
+            <div style="flex:1">
+              <div style="height:10px;background:var(--border,rgba(0,0,0,.1));border-radius:5px;overflow:hidden">
+                <div id="dti-front-bar" style="height:100%;width:0%;border-radius:5px;transition:width .3s,background .3s"></div>
+              </div>
+              <div id="dti-front-label" style="font-size:11px;margin-top:4px;color:var(--muted)"></div>
+            </div>
+          </div>
+        </div>
+        <div class="calc-card" style="text-align:left">
+          <span class="card-label">Back-End DTI (Total Debt)</span>
+          <div style="display:flex;align-items:center;gap:12px;margin-top:8px">
+            <span class="card-value" id="dti-back-val" style="font-size:1.4rem">—</span>
+            <div style="flex:1">
+              <div style="height:10px;background:var(--border,rgba(0,0,0,.1));border-radius:5px;overflow:hidden">
+                <div id="dti-back-bar" style="height:100%;width:0%;border-radius:5px;transition:width .3s,background .3s"></div>
+              </div>
+              <div id="dti-back-label" style="font-size:11px;margin-top:4px;color:var(--muted)"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="calc-callout" style="margin-top:16px">
+        <strong>Lender thresholds:</strong> Conventional: 43% max &nbsp;·&nbsp; FHA: 57% max &nbsp;·&nbsp; VA: 41% guideline &nbsp;·&nbsp; Jumbo: 43% max
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+function fmtPct(n){return n.toFixed(1)+'%'}
+function barColor(pct,thresholds){
+  // thresholds: [{limit,color,label}]
+  for(var i=0;i<thresholds.length;i++){
+    if(pct<=thresholds[i].limit) return thresholds[i];
+  }
+  return thresholds[thresholds.length-1];
+}
+function calc(){
+  var isAnnual=document.getElementById('dti-annual').checked;
+  var inc=parseFloat(document.getElementById('dti-income').value)||0;
+  var monthlyInc=isAnnual?inc/12:inc;
+  var auto=parseFloat(document.getElementById('dti-auto').value)||0;
+  var student=parseFloat(document.getElementById('dti-student').value)||0;
+  var cc=parseFloat(document.getElementById('dti-cc').value)||0;
+  var other=parseFloat(document.getElementById('dti-other').value)||0;
+  var mortgage=parseFloat(document.getElementById('dti-mortgage').value)||0;
+  if(!monthlyInc){document.getElementById('dti-results').style.display='none';return;}
+  var totalDebts=auto+student+cc+other;
+  var frontDTI=monthlyInc>0?mortgage/monthlyInc*100:0;
+  var backDTI=monthlyInc>0?(totalDebts+mortgage)/monthlyInc*100:0;
+
+  var frontThresh=[
+    {limit:28,color:'#16a34a',label:'Excellent — lenders love under 28%'},
+    {limit:31,color:'#ca8a04',label:'Good — within standard guidelines'},
+    {limit:36,color:'#ea580c',label:'High — may limit loan options'},
+    {limit:999,color:'#dc2626',label:'Too high — most lenders will decline'}
+  ];
+  var backThresh=[
+    {limit:36,color:'#16a34a',label:'Excellent — strong financial position'},
+    {limit:43,color:'#ca8a04',label:'Good — meets conventional guidelines'},
+    {limit:999,color:'#dc2626',label:'High — limited to FHA/VA programs'}
+  ];
+
+  function setGauge(valId,barId,labelId,pct,thresholds){
+    document.getElementById(valId).textContent=fmtPct(pct);
+    var t=barColor(pct,thresholds);
+    var bar=document.getElementById(barId);
+    bar.style.width=Math.min(pct,100)+'%';
+    bar.style.background=t.color;
+    document.getElementById(valId).style.color=t.color;
+    document.getElementById(labelId).textContent=t.label;
+  }
+  setGauge('dti-front-val','dti-front-bar','dti-front-label',frontDTI,frontThresh);
+  setGauge('dti-back-val','dti-back-bar','dti-back-label',backDTI,backThresh);
+  document.getElementById('dti-results').style.display='block';
+}
+document.querySelectorAll('#dti-calc input,#dti-calc select').forEach(function(el){el.addEventListener('input',calc)});
+document.querySelectorAll('input[name="dti-inc-type"]').forEach(function(el){
+  el.addEventListener('change',function(){
+    document.getElementById('dti-income-label').firstChild.textContent=(document.getElementById('dti-annual').checked?'Annual':'Monthly')+' Gross Income ($)';
+    calc();
+  });
+});
+calc();
+})();
+</script>

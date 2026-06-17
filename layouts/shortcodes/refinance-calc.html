@@ -1,0 +1,105 @@
+<div class="calc-wrap" id="refi-calc">
+  <div class="calc-header">Should You Refinance? Break-Even Calculator</div>
+  <div class="calc-body">
+    <div class="calc-grid">
+      <label class="calc-label">Current Loan Balance ($)
+        <input class="calc-input" id="rf-balance" type="number" min="0" placeholder="280000">
+      </label>
+      <label class="calc-label">Current Interest Rate (%)
+        <input class="calc-input" id="rf-old-rate" type="number" min="0" step="0.01" placeholder="7.5">
+      </label>
+      <label class="calc-label">Remaining Term (years)
+        <input class="calc-input" id="rf-old-term" type="number" min="1" placeholder="25">
+      </label>
+      <label class="calc-label">New Interest Rate (%)
+        <input class="calc-input" id="rf-new-rate" type="number" min="0" step="0.01" placeholder="6.5">
+      </label>
+      <label class="calc-label">New Loan Term
+        <select class="calc-input" id="rf-new-term">
+          <option value="30">30 years</option>
+          <option value="20">20 years</option>
+          <option value="15">15 years</option>
+        </select>
+      </label>
+      <label class="calc-label">Closing Costs ($)
+        <input class="calc-input" id="rf-costs" type="number" min="0" value="5000">
+      </label>
+      <label class="calc-label">Plan to Stay (years)
+        <input class="calc-input" id="rf-stay" type="number" min="1" placeholder="7">
+      </label>
+    </div>
+    <div id="rf-results" style="display:none">
+      <div class="results-grid">
+        <div class="calc-card">
+          <span class="card-label">Monthly Savings</span>
+          <span class="card-value" id="rf-savings">—</span>
+        </div>
+        <div class="calc-card">
+          <span class="card-label">Break-Even Period</span>
+          <span class="card-value" id="rf-breakeven">—</span>
+        </div>
+        <div class="calc-card">
+          <span class="card-label">Total Interest Saved</span>
+          <span class="card-value" id="rf-int-saved">—</span>
+        </div>
+      </div>
+      <div class="calc-callout" id="rf-verdict" style="margin-top:16px"></div>
+      <p class="calc-note">Cash-out refinances have different considerations. Consult a mortgage professional for your specific situation.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+function fmt(n){return n<0?'-$'+Math.round(-n).toLocaleString():'$'+Math.round(n).toLocaleString()}
+function pmt(bal,rateAnn,termYrs){
+  var r=rateAnn/12/100, n=termYrs*12;
+  if(r===0) return bal/n;
+  return bal*r/(1-Math.pow(1+r,-n));
+}
+function calc(){
+  var bal=parseFloat(document.getElementById('rf-balance').value)||0;
+  var oldRate=parseFloat(document.getElementById('rf-old-rate').value)||0;
+  var oldTerm=parseFloat(document.getElementById('rf-old-term').value)||0;
+  var newRate=parseFloat(document.getElementById('rf-new-rate').value)||0;
+  var newTerm=parseInt(document.getElementById('rf-new-term').value)||30;
+  var costs=parseFloat(document.getElementById('rf-costs').value)||0;
+  var stay=parseFloat(document.getElementById('rf-stay').value)||0;
+  if(!bal||!oldRate||!oldTerm||!newRate){document.getElementById('rf-results').style.display='none';return;}
+  var oldPmt=pmt(bal,oldRate,oldTerm);
+  var newPmt=pmt(bal,newRate,newTerm);
+  var savings=oldPmt-newPmt;
+  if(savings<=0){
+    document.getElementById('rf-savings').textContent='$0';
+    document.getElementById('rf-breakeven').textContent='N/A';
+    document.getElementById('rf-int-saved').textContent='$0';
+    var v=document.getElementById('rf-verdict');
+    v.textContent='Your new rate does not lower your payment. Refinancing would increase your monthly cost.';
+    v.className='calc-callout warn';
+    document.getElementById('rf-results').style.display='block';
+    return;
+  }
+  var breakevenMos=costs/savings;
+  var breakevenYrs=breakevenMos/12;
+  var totalIntOld=oldPmt*oldTerm*12-bal;
+  var totalIntNew=newPmt*newTerm*12-bal;
+  var intSaved=totalIntOld-totalIntNew-costs;
+
+  document.getElementById('rf-savings').textContent=fmt(savings)+'/mo';
+  document.getElementById('rf-breakeven').textContent=Math.ceil(breakevenMos)+' mo';
+  document.getElementById('rf-int-saved').textContent=fmt(intSaved);
+
+  var v=document.getElementById('rf-verdict');
+  if(stay>breakevenYrs){
+    v.textContent='Refinancing makes sense — you\'ll break even in '+Math.ceil(breakevenMos)+' months and save '+fmt(intSaved)+' in total interest.';
+    v.className='calc-callout good';
+  } else {
+    v.textContent='You\'d sell or move before breaking even ('+Math.ceil(breakevenMos)+' months needed). Refinancing costs more than you\'d save in that window.';
+    v.className='calc-callout warn';
+  }
+  document.getElementById('rf-results').style.display='block';
+}
+document.querySelectorAll('#refi-calc input,#refi-calc select').forEach(function(el){el.addEventListener('input',calc)});
+calc();
+})();
+</script>

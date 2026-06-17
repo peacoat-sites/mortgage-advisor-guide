@@ -1,0 +1,153 @@
+<div class="calc-wrap" id="rvb-calc">
+  <div class="calc-header">Rent vs. Buy Calculator</div>
+  <div class="calc-body">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:24px">
+      <div>
+        <div style="font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin-bottom:10px">Renting</div>
+        <div style="display:flex;flex-direction:column;gap:12px">
+          <label class="calc-label">Monthly Rent ($)
+            <input class="calc-input" id="rvb-rent" type="number" min="0" placeholder="1800">
+          </label>
+          <label class="calc-label">Annual Rent Increase (%)
+            <input class="calc-input" id="rvb-rent-inc" type="number" min="0" step="0.1" value="3">
+          </label>
+          <label class="calc-label">Renter's Insurance ($/mo)
+            <input class="calc-input" id="rvb-rins" type="number" min="0" value="15">
+          </label>
+        </div>
+      </div>
+      <div>
+        <div style="font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin-bottom:10px">Buying</div>
+        <div style="display:flex;flex-direction:column;gap:12px">
+          <label class="calc-label">Home Price ($)
+            <input class="calc-input" id="rvb-price" type="number" min="0" placeholder="350000">
+          </label>
+          <label class="calc-label">Down Payment ($)
+            <input class="calc-input" id="rvb-down" type="number" min="0" placeholder="70000">
+          </label>
+          <label class="calc-label">Mortgage Rate (%)
+            <input class="calc-input" id="rvb-mrate" type="number" min="0" step="0.01" value="7.0">
+          </label>
+          <label class="calc-label">Loan Term
+            <select class="calc-input" id="rvb-term">
+              <option value="30">30 years</option>
+              <option value="20">20 years</option>
+              <option value="15">15 years</option>
+            </select>
+          </label>
+          <label class="calc-label">Property Tax Rate (%/yr)
+            <input class="calc-input" id="rvb-tax" type="number" min="0" step="0.01" value="1.2">
+          </label>
+          <label class="calc-label">HOA ($/mo)
+            <input class="calc-input" id="rvb-hoa" type="number" min="0" value="0">
+          </label>
+          <label class="calc-label">Maintenance (% of value/yr)
+            <input class="calc-input" id="rvb-maint" type="number" min="0" step="0.1" value="1">
+          </label>
+          <label class="calc-label">Home Appreciation (%/yr)
+            <input class="calc-input" id="rvb-appr" type="number" min="0" step="0.1" value="3.5">
+          </label>
+        </div>
+      </div>
+    </div>
+    <label class="calc-label" style="margin-top:16px;max-width:300px">Comparison Period
+      <select class="calc-input" id="rvb-years">
+        <option value="5">5 years</option>
+        <option value="10" selected>10 years</option>
+        <option value="15">15 years</option>
+        <option value="20">20 years</option>
+      </select>
+    </label>
+    <div id="rvb-results" style="display:none">
+      <div class="results-grid">
+        <div class="calc-card">
+          <span class="card-label">Total Cost of Renting</span>
+          <span class="card-value" id="rvb-rent-total">—</span>
+        </div>
+        <div class="calc-card">
+          <span class="card-label">Net Cost of Buying</span>
+          <span class="card-value" id="rvb-buy-total">—</span>
+        </div>
+        <div class="calc-card">
+          <span class="card-label">Home Value in N Years</span>
+          <span class="card-value" id="rvb-home-val">—</span>
+        </div>
+        <div class="calc-card">
+          <span class="card-label">Equity Built</span>
+          <span class="card-value" id="rvb-equity">—</span>
+        </div>
+      </div>
+      <div class="calc-callout" id="rvb-verdict" style="margin-top:16px"></div>
+      <p class="calc-note">Does not account for investment returns on down payment, tax deductions, or local market variability. This is a planning estimate.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+function fmt(n){return n<0?'-$'+Math.round(-n).toLocaleString():'$'+Math.round(n).toLocaleString()}
+function calc(){
+  var rent=parseFloat(document.getElementById('rvb-rent').value)||0;
+  var rentInc=parseFloat(document.getElementById('rvb-rent-inc').value)||3;
+  var rins=parseFloat(document.getElementById('rvb-rins').value)||15;
+  var price=parseFloat(document.getElementById('rvb-price').value)||0;
+  var down=parseFloat(document.getElementById('rvb-down').value)||0;
+  var mrate=parseFloat(document.getElementById('rvb-mrate').value)||7;
+  var term=parseInt(document.getElementById('rvb-term').value)||30;
+  var taxRate=parseFloat(document.getElementById('rvb-tax').value)||1.2;
+  var hoa=parseFloat(document.getElementById('rvb-hoa').value)||0;
+  var maint=parseFloat(document.getElementById('rvb-maint').value)||1;
+  var appr=parseFloat(document.getElementById('rvb-appr').value)||3.5;
+  var N=parseInt(document.getElementById('rvb-years').value)||10;
+  if(!rent||!price){document.getElementById('rvb-results').style.display='none';return;}
+
+  // Rent total
+  var totalRent=0;
+  var curRent=rent;
+  for(var y=0;y<N;y++){
+    totalRent+=curRent*12+rins*12;
+    curRent*=(1+rentInc/100);
+  }
+
+  // Buy
+  var loanAmt=price-down;
+  var r=mrate/12/100;
+  var n=term*12;
+  var piPmt=r>0?loanAmt*r/(1-Math.pow(1+r,-n)):loanAmt/n;
+  var totalMortgage=piPmt*12*N;
+  var totalTax=price*taxRate/100*N;
+  var totalMaint=price*maint/100*N;
+  var totalHoa=hoa*12*N;
+  var closingBuy=price*0.035;
+  var homeValEnd=price*Math.pow(1+appr/100,N);
+  var closingSell=homeValEnd*0.06;
+
+  // Remaining balance after N years
+  var paymentsLeft=n-N*12;
+  var remBal=paymentsLeft>0?piPmt*(1-Math.pow(1+r,-paymentsLeft))/r:0;
+  if(N*12>=n) remBal=0;
+  var equity=homeValEnd-remBal;
+
+  var totalBuyGross=down+totalMortgage+totalTax+totalMaint+totalHoa+closingBuy+closingSell;
+  var netBuy=totalBuyGross-equity;
+
+  document.getElementById('rvb-rent-total').textContent=fmt(totalRent);
+  document.getElementById('rvb-buy-total').textContent=fmt(netBuy);
+  document.getElementById('rvb-home-val').textContent=fmt(homeValEnd);
+  document.getElementById('rvb-equity').textContent=fmt(equity);
+
+  var diff=Math.abs(totalRent-netBuy);
+  var v=document.getElementById('rvb-verdict');
+  if(netBuy<totalRent){
+    v.textContent='Buying saves '+fmt(diff)+' over '+N+' years after accounting for equity built.';
+    v.className='calc-callout good';
+  } else {
+    v.textContent='Renting saves '+fmt(diff)+' over '+N+' years — consider investing the difference.';
+    v.className='calc-callout warn';
+  }
+  document.getElementById('rvb-results').style.display='block';
+}
+document.querySelectorAll('#rvb-calc input,#rvb-calc select').forEach(function(el){el.addEventListener('input',calc)});
+calc();
+})();
+</script>

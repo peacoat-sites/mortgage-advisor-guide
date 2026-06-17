@@ -1,0 +1,132 @@
+<div class="calc-wrap" id="affordability-calc">
+  <div class="calc-header">How Much House Can You Afford?</div>
+  <div class="calc-body">
+    <div class="calc-grid">
+      <label class="calc-label">Annual Gross Income ($)
+        <input class="calc-input" id="ac-income" type="number" min="0" placeholder="85000">
+      </label>
+      <label class="calc-label">Monthly Debt Payments ($)
+        <input class="calc-input" id="ac-debts" type="number" min="0" placeholder="400">
+      </label>
+      <label class="calc-label">Down Payment ($)
+        <input class="calc-input" id="ac-down" type="number" min="0" placeholder="40000">
+      </label>
+      <label class="calc-label">Interest Rate (%)
+        <input class="calc-input" id="ac-rate" type="number" min="0" step="0.01" value="7.0">
+      </label>
+      <label class="calc-label">Loan Term
+        <select class="calc-input" id="ac-term">
+          <option value="30">30 years</option>
+          <option value="20">20 years</option>
+          <option value="15">15 years</option>
+        </select>
+      </label>
+      <label class="calc-label">Property Tax Rate (%/yr)
+        <input class="calc-input" id="ac-tax" type="number" min="0" step="0.01" value="1.2">
+      </label>
+      <label class="calc-label">Homeowner Insurance ($/yr)
+        <input class="calc-input" id="ac-ins" type="number" min="0" value="1200">
+      </label>
+    </div>
+    <label style="display:flex;align-items:center;gap:8px;margin-top:14px;font-size:13px;font-weight:600;color:var(--muted);cursor:pointer;">
+      <input type="checkbox" id="ac-pmi" style="width:auto;accent-color:var(--accent)">
+      Add PMI (down payment &lt; 20% of home price)
+    </label>
+    <div class="calc-results" id="ac-results" style="display:none">
+      <div class="results-grid">
+        <div class="calc-card">
+          <span class="card-label">Max Home Price</span>
+          <span class="card-value" id="ac-price">—</span>
+        </div>
+        <div class="calc-card">
+          <span class="card-label">Max Loan Amount</span>
+          <span class="card-value" id="ac-loan">—</span>
+        </div>
+        <div class="calc-card">
+          <span class="card-label">Est. Monthly Payment</span>
+          <span class="card-value" id="ac-pmt">—</span>
+        </div>
+        <div class="calc-card">
+          <span class="card-label">Down Payment %</span>
+          <span class="card-value" id="ac-dpct">—</span>
+        </div>
+      </div>
+      <div class="calc-callout" id="ac-callout">
+        Lenders may approve up to 43% DTI — but staying under 36% keeps your budget healthy.
+      </div>
+      <p class="calc-note">Estimates for planning. Actual approval depends on credit score, loan type, and lender guidelines. Get pre-approved before house hunting.</p>
+    </div>
+  </div>
+</div>
+
+<style>
+.calc-wrap{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.calc-header{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem}
+.calc-body{padding:20px}
+.calc-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px}
+.calc-label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)}
+.calc-input{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.calc-input:focus{outline:none;border-color:var(--accent,#c2410c);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 20%,transparent)}
+.results-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.calc-card{background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center}
+.card-label{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)}
+.card-value{display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0}
+.calc-callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);font-size:.95rem;line-height:1.5}
+.calc-callout.good{background:color-mix(in srgb,#16a34a 10%,#fff);border-color:color-mix(in srgb,#16a34a 35%,transparent)}
+.calc-callout.warn{background:color-mix(in srgb,#ea580c 10%,#fff);border-color:color-mix(in srgb,#ea580c 35%,transparent)}
+.calc-note{margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94)}
+@media(max-width:560px){.card-value{font-size:1.4rem}}
+</style>
+
+<script>
+(function(){
+function fmt(n){return n<0?'-$'+Math.round(-n).toLocaleString():'$'+Math.round(n).toLocaleString()}
+function fmtPct(n){return n.toFixed(1)+'%'}
+function calc(){
+  var income=parseFloat(document.getElementById('ac-income').value)||0;
+  var debts=parseFloat(document.getElementById('ac-debts').value)||0;
+  var down=parseFloat(document.getElementById('ac-down').value)||0;
+  var rate=parseFloat(document.getElementById('ac-rate').value)||7;
+  var term=parseInt(document.getElementById('ac-term').value)||30;
+  var taxRate=parseFloat(document.getElementById('ac-tax').value)||1.2;
+  var ins=parseFloat(document.getElementById('ac-ins').value)||1200;
+  var pmi=document.getElementById('ac-pmi').checked;
+  if(!income){document.getElementById('ac-results').style.display='none';return;}
+
+  var r=rate/12/100;
+  var n=term*12;
+  var monthlyIncome=income/12;
+  var taxMonthly=0; // placeholder — iterative solve
+  var insMonthly=ins/12;
+
+  // Iterative solve: home price affects tax & PMI
+  // Start with rough guess
+  var maxHome=monthlyIncome*0.28*n/(r*(1+r)?1:1)*12; // rough
+  for(var i=0;i<10;i++){
+    taxMonthly=maxHome*taxRate/100/12;
+    var pmiMonthly=pmi?(maxHome-down)*0.005/12:0;
+    var availFront=monthlyIncome*0.28-taxMonthly-insMonthly-pmiMonthly;
+    var availBack=monthlyIncome*0.36-debts-taxMonthly-insMonthly-pmiMonthly;
+    var piPmt=Math.min(availFront,availBack);
+    if(piPmt<=0){maxHome=0;break;}
+    var maxLoan=piPmt*(1-Math.pow(1+r,-n))/r;
+    maxHome=maxLoan+down;
+  }
+  if(maxHome<=0){document.getElementById('ac-results').style.display='none';return;}
+  var maxLoan=maxHome-down;
+  taxMonthly=maxHome*taxRate/100/12;
+  var pmiMonthly=pmi?maxLoan*0.005/12:0;
+  var piPmt=r>0?maxLoan*r/(1-Math.pow(1+r,-n)):maxLoan/n;
+  var totalMonthly=piPmt+taxMonthly+insMonthly+pmiMonthly;
+  var dpPct=maxHome>0?down/maxHome*100:0;
+
+  document.getElementById('ac-price').textContent=fmt(maxHome);
+  document.getElementById('ac-loan').textContent=fmt(maxLoan);
+  document.getElementById('ac-pmt').textContent=fmt(totalMonthly);
+  document.getElementById('ac-dpct').textContent=fmtPct(dpPct);
+  document.getElementById('ac-results').style.display='block';
+}
+document.querySelectorAll('#affordability-calc input,#affordability-calc select').forEach(function(el){el.addEventListener('input',calc)});
+calc();
+})();
+</script>
