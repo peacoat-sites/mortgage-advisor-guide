@@ -1,12 +1,12 @@
 ---
-title: "When Does It Make Sense To Refinance Your Mortgage In 2026"
+title: "When Does It Make Sense To Refinance Your Mortgage"
 date: 2026-06-04T12:23:15.161987+00:00
 draft: false
 description: "Thinking about refinancing in 2026? Learn when it makes financial sense, how to calculate your break-even point, and whether lower rates could save you money."
 image: "https://images.pexels.com/photos/6120207/pexels-photo-6120207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Refinancing"]
 tags: ["when", "does", "make", "sense", "refinance"]
-slug: "when-does-it-make-sense-to-refinance-your-mortgage-in-2026"
+slug: "when-does-it-make-sense-to-refinance-your-mortgage-in"
 affiliate_disclosure: true
 faqs:
   - q: "How much lower does my rate need to be for refinancing to make sense?"

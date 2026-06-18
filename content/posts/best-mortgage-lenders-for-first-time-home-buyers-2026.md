@@ -1,12 +1,12 @@
 ---
-title: "Best Mortgage Lenders For First Time Home Buyers 2026"
+title: "Best Mortgage Lenders For First Time Home Buyers"
 date: 2026-06-02T12:54:08.807772+00:00
 draft: false
 description: "Discover the best mortgage lenders for first time home buyers in 2026. Compare rates, loan options, and lender benefits to find your perfect home loan today."
 image: "https://images.pexels.com/photos/8292854/pexels-photo-8292854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping"]
 tags: ["best", "mortgage", "lenders", "first", "time"]
-slug: "best-mortgage-lenders-for-first-time-home-buyers-2026"
+slug: "best-mortgage-lenders-for-first-time-home-buyers"
 affiliate_disclosure: true
 faqs:
   - q: "How does my credit score affect which lenders I should approach?"

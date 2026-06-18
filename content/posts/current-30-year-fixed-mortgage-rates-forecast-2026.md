@@ -1,12 +1,12 @@
 ---
-title: "Current 30 Year Fixed Mortgage Rates Forecast 2026"
+title: "Current 30 Year Fixed Mortgage Rates Forecast"
 date: 2026-06-03T14:09:25.079264+00:00
 draft: false
 description: "Explore the latest 30-year fixed mortgage rate trends and expert forecasts for 2026. Learn what to expect and how to plan your home purchase or refinance strate"
 image: "https://images.pexels.com/photos/30139610/pexels-photo-30139610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Rates"]
 tags: ["current", "year", "fixed", "mortgage", "rates"]
-slug: "current-30-year-fixed-mortgage-rates-forecast-2026"
+slug: "current-30-year-fixed-mortgage-rates-forecast"
 affiliate_disclosure: true
 faqs:
   - q: "Will 30-year mortgage rates drop below 6% in 2026?"
