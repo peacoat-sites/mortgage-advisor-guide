@@ -1,0 +1,102 @@
+{{/* Home Closing Cost Estimator — itemized by state and loan type */}}
+<div class="cc-calc">
+<div class="cc-head">Home Closing Cost Estimator</div>
+<div class="cc-body">
+<div class="cc-grid">
+  <label>Purchase price ($)<input id="cc-price" type="number" value="400000" min="0" step="5000" inputmode="numeric"></label>
+  <label>Down payment ($)<input id="cc-down" type="number" value="80000" min="0" step="1000" inputmode="numeric"></label>
+  <label>State<select id="cc-state">
+    <option value="0.001">Alabama</option><option value="0">Alaska</option><option value="0.002">Arizona</option>
+    <option value="0.0033">Arkansas</option><option value="0.0011">California</option><option value="0.001">Colorado</option>
+    <option value="0.0075">Connecticut</option><option value="0.02">Delaware</option><option value="0.007">Florida</option>
+    <option value="0.001">Georgia</option><option value="0.001">Hawaii</option><option value="0">Idaho</option>
+    <option value="0.001">Illinois</option><option value="0">Indiana</option><option value="0.0016">Iowa</option>
+    <option value="0.00265">Kansas</option><option value="0.001">Kentucky</option><option value="0.0018">Louisiana</option>
+    <option value="0.0044">Maine</option><option value="0.005">Maryland</option><option value="0.00456">Massachusetts</option>
+    <option value="0.0086">Michigan</option><option value="0.0033">Minnesota</option><option value="0">Mississippi</option>
+    <option value="0">Missouri</option><option value="0">Montana</option><option value="0.00225">Nebraska</option>
+    <option value="0.00195">Nevada</option><option value="0.015">New Hampshire</option><option value="0.01">New Jersey</option>
+    <option value="0">New Mexico</option><option value="0.004">New York</option><option value="0.002">North Carolina</option>
+    <option value="0">North Dakota</option><option value="0.001">Ohio</option><option value="0.0075">Oklahoma</option>
+    <option value="0">Oregon</option><option value="0.01">Pennsylvania</option><option value="0.00046">Rhode Island</option>
+    <option value="0.004">South Carolina</option><option value="0">South Dakota</option><option value="0.0037">Tennessee</option>
+    <option value="0">Texas</option><option value="0">Utah</option><option value="0.0125">Vermont</option>
+    <option value="0.0025">Virginia</option><option value="0.0128">Washington</option><option value="0.011">West Virginia</option>
+    <option value="0.003">Wisconsin</option><option value="0">Wyoming</option><option value="0.011">Washington DC</option>
+  </select></label>
+  <label>Loan type<select id="cc-type">
+    <option value="conv">Conventional</option>
+    <option value="fha">FHA</option>
+    <option value="va">VA</option>
+    <option value="cash">Cash purchase</option>
+  </select></label>
+</div>
+<div class="cc-results" id="cc-results"></div>
+<div class="cc-totals" id="cc-totals"></div>
+<p class="cc-note">Get a Loan Estimate from your lender within 3 business days of applying — lenders are legally required to provide it. Title insurance and escrow fees can be shopped. Estimates vary by lender and location.</p>
+</div>
+</div>
+<style>
+.cc-calc{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.cc-head{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem}
+.cc-body{padding:20px}
+.cc-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px}
+.cc-calc label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)}
+.cc-calc input,.cc-calc select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.cc-calc input:focus,.cc-calc select:focus{outline:none;border-color:var(--accent,#c2410c);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 20%,transparent)}
+.cc-results{margin-top:20px;border:1px solid var(--border,rgba(0,0,0,.08));border-radius:10px;overflow:hidden}
+.cc-row{display:flex;justify-content:space-between;align-items:center;padding:10px 16px;font-size:14px;border-bottom:1px solid var(--border,rgba(0,0,0,.07))}
+.cc-row:last-child{border-bottom:none}
+.cc-row:nth-child(even){background:rgba(0,0,0,.018)}
+.cc-row-label{color:var(--text,#1a1a18)}
+.cc-row-amt{font-weight:600;color:var(--text,#1a1a18)}
+.cc-totals{margin-top:16px;display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+.cc-tc{background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center}
+.cc-tl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)}
+.cc-tv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0}
+.cc-ts{display:block;font-size:11.5px;color:var(--muted,#6b6860)}
+.cc-note{margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94);line-height:1.5}
+@media(max-width:560px){.cc-tv{font-size:1.35rem}}
+</style>
+<script>
+(function(){
+  var $=function(id){return document.getElementById(id);};
+  var fmt=function(n){return n<=0?'—':'$'+Math.round(n).toLocaleString();};
+  function calc(){
+    var price=parseFloat($('cc-price').value)||0;
+    var down=parseFloat($('cc-down').value)||0;
+    var taxRate=parseFloat($('cc-state').value)||0;
+    var ltype=$('cc-type').value;
+    var loan=Math.max(0,price-down);
+    if(!price){return;}
+    var isCash=(ltype==='cash');
+    var items=[
+      {label:'Loan origination fee (0.75%)', amt: isCash?0:loan*0.0075},
+      {label:'Appraisal', amt: isCash?0:550},
+      {label:'Title insurance — lender policy', amt: isCash?0:loan*0.005},
+      {label:'Title insurance — owner policy (optional)', amt: price*0.003},
+      {label:'Escrow / settlement fee', amt: 950},
+      {label:'Recording fees', amt: 225},
+      {label:'Transfer taxes', amt: price*taxRate},
+      {label:'FHA upfront mortgage insurance premium', amt: ltype==='fha'?loan*0.0175:0},
+      {label:'VA funding fee (first use, estimate)', amt: ltype==='va'?loan*0.02:0},
+      {label:'Prepaid interest (14 days, est. 7%)', amt: isCash?0:loan*0.07/365*14},
+      {label:'Property tax reserve (3 months)', amt: price*0.012/4},
+      {label:'Homeowner insurance (14 months)', amt: price*0.006/12*14},
+    ].filter(function(i){return i.amt>0;});
+    var total=items.reduce(function(s,i){return s+i.amt;},0);
+    var cashNeeded=down+total;
+    $('cc-results').innerHTML=items.map(function(i){
+      return '<div class="cc-row"><span class="cc-row-label">'+i.label+'</span><span class="cc-row-amt">'+fmt(i.amt)+'</span></div>';
+    }).join('');
+    $('cc-totals').innerHTML=
+      '<div class="cc-tc"><span class="cc-tl">Closing costs</span><span class="cc-tv">'+fmt(total)+'</span><span class="cc-ts">'+((total/price)*100).toFixed(1)+'% of purchase price</span></div>'+
+      '<div class="cc-tc"><span class="cc-tl">Down payment</span><span class="cc-tv">'+fmt(down)+'</span><span class="cc-ts">'+((down/price)*100).toFixed(1)+'% of price</span></div>'+
+      '<div class="cc-tc"><span class="cc-tl">Cash needed at closing</span><span class="cc-tv">'+fmt(cashNeeded)+'</span><span class="cc-ts">down + closing costs</span></div>';
+  }
+  ['cc-price','cc-down','cc-state','cc-type'].forEach(function(id){
+    var el=$(id);if(el){el.addEventListener('input',calc);el.addEventListener('change',calc);}
+  });
+  calc();
+})();
+</script>

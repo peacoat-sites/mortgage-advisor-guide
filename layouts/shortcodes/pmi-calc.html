@@ -1,0 +1,98 @@
+{{/* PMI Removal Tracker — when can you drop private mortgage insurance? */}}
+<div class="pmi-calc">
+<div class="pmi-head">PMI Removal Tracker</div>
+<div class="pmi-body">
+<div class="pmi-grid">
+  <label>Original loan amount ($)<input id="pm-loan" type="number" value="400000" min="0" step="1000" inputmode="numeric"></label>
+  <label>Original home purchase price ($)<input id="pm-price" type="number" value="500000" min="0" step="1000" inputmode="numeric"></label>
+  <label>Current loan balance ($)<input id="pm-bal" type="number" value="370000" min="0" step="1000" inputmode="numeric"></label>
+  <label>Current home value ($)<input id="pm-val" type="number" value="510000" min="0" step="1000" inputmode="numeric"></label>
+  <label>Interest rate (%)<input id="pm-rate" type="number" value="7.0" min="0" max="20" step="0.01" inputmode="decimal"></label>
+  <label>Extra monthly payment ($)<input id="pm-extra" type="number" value="0" min="0" step="50" inputmode="numeric"></label>
+</div>
+<div class="pmi-results">
+  <div class="pmi-rc"><span class="pmi-rl">Current LTV</span><span id="pm-ltv" class="pmi-rv">—</span><span class="pmi-rs">loan ÷ home value</span></div>
+  <div class="pmi-rc"><span class="pmi-rl">Balance to reach 80%</span><span id="pm-need" class="pmi-rv">—</span><span class="pmi-rs">target balance</span></div>
+  <div class="pmi-rc"><span class="pmi-rl">Monthly PMI est.</span><span id="pm-pmi" class="pmi-rv">—</span><span class="pmi-rs">~0.5%/yr of original loan</span></div>
+</div>
+<div id="pm-dates" class="pmi-dates"></div>
+<div id="pm-save" class="pmi-callout" hidden></div>
+<p class="pmi-note">At 20% equity you can <strong>request</strong> PMI removal. At 22% equity (78% LTV) your lender must cancel it automatically under the Homeowners Protection Act. PMI rates vary 0.2–2% annually — check your loan documents for your exact rate. FHA MIP rules differ from conventional PMI.</p>
+</div>
+</div>
+<style>
+.pmi-calc{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.pmi-head{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem}
+.pmi-body{padding:20px}
+.pmi-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px}
+.pmi-calc label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)}
+.pmi-calc input{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.pmi-calc input:focus{outline:none;border-color:var(--accent,#c2410c);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 20%,transparent)}
+.pmi-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.pmi-rc{background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center}
+.pmi-rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)}
+.pmi-rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0}
+.pmi-rs{display:block;font-size:11.5px;color:var(--muted,#6b6860)}
+.pmi-dates{margin-top:20px;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+.pmi-date-card{background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px}
+.pmi-date-card h4{margin:0 0 6px;font-size:13px;color:var(--muted,#6b6860);text-transform:uppercase;letter-spacing:.04em}
+.pmi-date-card p{margin:0;font-size:1.1rem;font-weight:700;color:var(--text,#1a1a18)}
+.pmi-date-card small{color:var(--muted,#6b6860);font-size:12px}
+.pmi-callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);font-size:.95rem;line-height:1.5}
+.pmi-callout b{color:var(--accent,#c2410c)}
+.pmi-note{margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94);line-height:1.5}
+@media(max-width:560px){.pmi-rv{font-size:1.35rem}}
+</style>
+<script>
+(function(){
+  var $=function(id){return document.getElementById(id);};
+  var fmt=function(n){return '$'+Math.round(n).toLocaleString();};
+  var fmtPct=function(n){return n.toFixed(1)+'%';};
+  function monthsTo80(bal,rate,extraPay){
+    var r=rate/100/12,mo=0;
+    if(r<=0)return Infinity;
+    var pmt=bal*r/(1-Math.pow(1+r,-360));
+    var target=$('pm-val')?parseFloat($('pm-val').value)*0.80:0;
+    var b=bal,pay=pmt+(extraPay||0),maxIter=600;
+    while(b>target&&mo<maxIter){var i=b*r;var pr=pay-i;if(pr<=0)return Infinity;if(pr>b)pr=b;b-=pr;mo++;}
+    return mo<maxIter?mo:Infinity;
+  }
+  function addDate(mo){var d=new Date();d.setMonth(d.getMonth()+mo);return d.toLocaleDateString(undefined,{month:'long',year:'numeric'});}
+  function calc(){
+    var loan=parseFloat($('pm-loan').value)||0;
+    var bal=parseFloat($('pm-bal').value)||0;
+    var val=parseFloat($('pm-val').value)||0;
+    var rate=parseFloat($('pm-rate').value)||7;
+    var extra=parseFloat($('pm-extra').value)||0;
+    if(!loan||!bal||!val){return;}
+    var ltv=val>0?bal/val*100:0;
+    var target80=val*0.80;
+    var monthlyPmi=loan*0.005/12;
+    $('pm-ltv').textContent=fmtPct(ltv);
+    $('pm-ltv').style.color=ltv>80?'#dc2626':'#16a34a';
+    $('pm-need').textContent=bal>target80?fmt(target80):fmt(bal)+' (at 80% now)';
+    $('pm-pmi').textContent=fmt(monthlyPmi)+'/mo';
+    var moStd=monthsTo80(bal,rate,0);
+    var moXtr=monthsTo80(bal,rate,extra);
+    var dates=$('pm-dates');
+    if(ltv<=80){
+      dates.innerHTML='<div class="pmi-date-card"><h4>Current Status</h4><p style="color:#16a34a">Already below 80% LTV</p><small>You can request PMI removal from your lender now.</small></div>';
+      $('pm-save').hidden=true;
+    } else {
+      var stdHtml=isFinite(moStd)?('<p>'+addDate(moStd)+'</p><small>'+moStd+' months at current payment</small>'):('<p style="color:var(--muted)">Interest-only or very slow</p>');
+      var xtrHtml=extra>0?(isFinite(moXtr)?('<p>'+addDate(moXtr)+'</p><small>'+moXtr+' months with extra $'+Math.round(extra)+'/mo</small>'):('<p style="color:var(--muted)">Check inputs</p>')):('<p style="color:var(--muted)">Enter extra payment above</p>');
+      dates.innerHTML='<div class="pmi-date-card"><h4>Standard payoff → PMI removal</h4>'+stdHtml+'</div><div class="pmi-date-card"><h4>With extra payment</h4>'+xtrHtml+'</div>';
+      var sv=$('pm-save');
+      if(extra>0&&isFinite(moStd)&&isFinite(moXtr)){
+        var saved=(moStd-moXtr)*monthlyPmi;
+        sv.hidden=false;
+        sv.innerHTML='Adding <b>'+fmt(extra)+'/mo</b> removes PMI <b>'+(moStd-moXtr)+' months early</b> and saves approximately <b>'+fmt(saved)+'</b> in PMI premiums.';
+      } else {sv.hidden=true;}
+    }
+  }
+  ['pm-loan','pm-price','pm-bal','pm-val','pm-rate','pm-extra'].forEach(function(id){
+    var el=$(id);if(el){el.addEventListener('input',calc);el.addEventListener('change',calc);}
+  });
+  calc();
+})();
+</script>
