@@ -1,5 +1,6 @@
 ---
 title: "PMI Removal Tracker: When Can You Drop Mortgage Insurance?"
+image: "https://images.pexels.com/photos/7947641/pexels-photo-7947641.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-06-10
 slug: "pmi-removal-tracker"
 description: "Find out exactly when you can stop paying PMI. Enter your loan balance, home value, and interest rate to see your PMI-free date."

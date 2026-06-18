@@ -1,5 +1,6 @@
 ---
 title: "Home Closing Cost Estimator: What to Budget in Every State"
+image: "https://images.pexels.com/photos/8292895/pexels-photo-8292895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-06-10
 slug: "closing-cost-estimator"
 description: "Estimate your home closing costs by state and loan type. See an itemized breakdown of every fee before you close."
