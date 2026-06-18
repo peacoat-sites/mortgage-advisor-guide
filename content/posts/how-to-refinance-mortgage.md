@@ -159,9 +159,9 @@ Take your time with this decision. Run the numbers more than once, shop more tha
 
 ## Sources & References
 
-- [CFPB — What is refinancing?](https://www.consumerfinance.gov/owning-a-home/loan-options/) — Explains refinance types and how the process works
-- [HUD — Refinancing your mortgage](https://www.hud.gov/topics/buying_a_home) — Government guidance on refinancing considerations and costs
-- [CFPB — Closing costs](https://www.consumerfinance.gov/ask-cfpb/what-are-closing-costs-en-1845/) — Details typical closing costs for mortgage transactions
+- [CFPB, What is refinancing?](https://www.consumerfinance.gov/owning-a-home/loan-options/), Explains refinance types and how the process works
+- [HUD, Refinancing your mortgage](https://www.hud.gov/topics/buying_a_home), Government guidance on refinancing considerations and costs
+- [CFPB, Closing costs](https://www.consumerfinance.gov/ask-cfpb/what-are-closing-costs-en-1845/), Details typical closing costs for mortgage transactions
 
 *Photo: [Ivan S](https://www.pexels.com/@ivan-s) via Pexels*
 
@@ -177,6 +177,6 @@ Take your time with this decision. Run the numbers more than once, shop more tha
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

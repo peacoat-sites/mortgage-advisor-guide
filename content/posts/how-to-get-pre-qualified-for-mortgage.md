@@ -119,9 +119,9 @@ Pre-qualification won't win you a house by itself, but walking into a serious ho
 
 ## Sources & References
 
-- [CFPB — Get ready to shop for a mortgage](https://www.consumerfinance.gov/owning-a-home/process/prepare/) — Explains pre-qualification vs pre-approval and mortgage preparation steps
-- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — Official guide to homebuying process including lender qualification
-- [Freddie Mac — Steps to Buying a Home](https://myhome.freddiemac.com/buying) — Explains pre-qualification as first step in mortgage process
+- [CFPB, Get ready to shop for a mortgage](https://www.consumerfinance.gov/owning-a-home/process/prepare/), Explains pre-qualification vs pre-approval and mortgage preparation steps
+- [HUD, Buying a Home](https://www.hud.gov/topics/buying_a_home), Official guide to homebuying process including lender qualification
+- [Freddie Mac, Steps to Buying a Home](https://myhome.freddiemac.com/buying), Explains pre-qualification as first step in mortgage process
 
 *Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
 
@@ -137,6 +137,6 @@ Pre-qualification won't win you a house by itself, but walking into a serious ho
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

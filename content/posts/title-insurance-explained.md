@@ -132,9 +132,9 @@ Title insurance isn't the most exciting part of buying a home. But it's one of t
 
 ## Sources & References
 
-- [CFPB — What is title insurance](https://www.consumerfinance.gov/ask-cfpb/what-is-title-insurance-en-164/) — Explains lender's vs owner's policies and what title insurance covers
-- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — Federal guidance on closing costs including title insurance
-- [ALTA — Homeowner Resources](https://www.alta.org/homebuyer/) — Industry association explains title defects and policy types
+- [CFPB, What is title insurance](https://www.consumerfinance.gov/ask-cfpb/what-is-title-insurance-en-164/), Explains lender's vs owner's policies and what title insurance covers
+- [HUD, Buying a Home](https://www.hud.gov/topics/buying_a_home), Federal guidance on closing costs including title insurance
+- [ALTA, Homeowner Resources](https://www.alta.org/homebuyer/), Industry association explains title defects and policy types
 
 ---
 
@@ -142,8 +142,8 @@ Title insurance isn't the most exciting part of buying a home. But it's one of t
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

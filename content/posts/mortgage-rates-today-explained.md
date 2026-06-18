@@ -131,9 +131,9 @@ The mortgage market rewards borrowers who take the time to understand it, and it
 
 ## Sources & References
 
-- [CFPB — What is the difference between a mortgage interest rate and an APR?](https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-mortgage-interest-rate-and-an-apr-en-135/) — Explains interest rate vs APR distinction for mortgages
-- [Freddie Mac — Primary Mortgage Market Survey](https://www.freddiemac.com/pmms) — Shows how mortgage rates move weekly based on market conditions
-- [CFPB — Explore interest rates](https://www.consumerfinance.gov/owning-a-home/explore-rates/) — Demonstrates how credit score and down payment affect rates
+- [CFPB, What is the difference between a mortgage interest rate and an APR?](https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-mortgage-interest-rate-and-an-apr-en-135/), Explains interest rate vs APR distinction for mortgages
+- [Freddie Mac, Primary Mortgage Market Survey](https://www.freddiemac.com/pmms), Shows how mortgage rates move weekly based on market conditions
+- [CFPB, Explore interest rates](https://www.consumerfinance.gov/owning-a-home/explore-rates/), Demonstrates how credit score and down payment affect rates
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -149,6 +149,6 @@ The mortgage market rewards borrowers who take the time to understand it, and it
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

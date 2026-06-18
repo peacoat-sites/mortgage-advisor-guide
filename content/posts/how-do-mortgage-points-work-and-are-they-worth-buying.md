@@ -35,8 +35,8 @@ Let me walk you through exactly how this works, because the math is simple once 
   <div class="vm-head">Breakeven Analysis: Worked Example</div>
   <div class="vm-body">
     <p class="vm-intro">Use this realistic scenario to see exactly how the breakeven math works before running your own numbers.</p>
-    <table><caption>Mortgage Points Breakeven Example: $320,000 Loan, 30-Year Fixed</caption><thead><tr><th>Scenario</th><th>No Points</th><th>1 Point Purchased</th></tr></thead><tbody><tr><td>Loan Amount</td><td>$320,000</td><td>$320,000</td></tr><tr><td>Interest Rate</td><td>7.00%</td><td>6.75%</td></tr><tr><td>Upfront Point Cost</td><td>$0</td><td>$3,200</td></tr><tr><td>Monthly Principal & Interest</td><td>$2,129</td><td>$2,076</td></tr><tr><td>Monthly Savings</td><td>—</td><td>$53</td></tr><tr><td>Breakeven Calculation</td><td>—</td><td>$3,200 ÷ $53 = 60 months</td></tr><tr><td><strong>Breakeven Point</strong></td><td>—</td><td><strong>5 years</strong></td></tr></tbody></table><ul><li><strong>Stay 7+ years:</strong> Points likely worth it — you save $53/month beyond breakeven</li><li><strong>Stay 3–5 years:</strong> Borderline — run exact numbers with your actual rate reduction</li><li><strong>Stay under 3 years:</strong> Points rarely make sense — you won't recoup the upfront cost</li><li><strong>Planning to refinance soon?</strong> Treat it like an early sale — breakeven resets</li><li><strong>Key variable:</strong> Confirm your lender's actual rate reduction per point (ranges from 0.125% to 0.375%)</li></ul>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <table><caption>Mortgage Points Breakeven Example: $320,000 Loan, 30-Year Fixed</caption><thead><tr><th>Scenario</th><th>No Points</th><th>1 Point Purchased</th></tr></thead><tbody><tr><td>Loan Amount</td><td>$320,000</td><td>$320,000</td></tr><tr><td>Interest Rate</td><td>7.00%</td><td>6.75%</td></tr><tr><td>Upfront Point Cost</td><td>$0</td><td>$3,200</td></tr><tr><td>Monthly Principal & Interest</td><td>$2,129</td><td>$2,076</td></tr><tr><td>Monthly Savings</td><td>-</td><td>$53</td></tr><tr><td>Breakeven Calculation</td><td>-</td><td>$3,200 ÷ $53 = 60 months</td></tr><tr><td><strong>Breakeven Point</strong></td><td>-</td><td><strong>5 years</strong></td></tr></tbody></table><ul><li><strong>Stay 7+ years:</strong> Points likely worth it, you save $53/month beyond breakeven</li><li><strong>Stay 3–5 years:</strong> Borderline, run exact numbers with your actual rate reduction</li><li><strong>Stay under 3 years:</strong> Points rarely make sense, you won't recoup the upfront cost</li><li><strong>Planning to refinance soon?</strong> Treat it like an early sale, breakeven resets</li><li><strong>Key variable:</strong> Confirm your lender's actual rate reduction per point (ranges from 0.125% to 0.375%)</li></ul>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -119,9 +119,9 @@ Points aren't magic, and they're not a trap. They're just a transaction with a c
 
 ## Sources & References
 
-- [CFPB — What are discount points and lender credits?](https://www.consumerfinance.gov/ask-cfpb/what-are-discount-points-and-lender-credits-en-136/) — Explains discount points, how they work, and cost considerations
-- [IRS — Publication 936: Home Mortgage Interest Deduction](https://www.irs.gov/publications/p936) — Covers tax deductibility rules for mortgage points
-- [HUD — Buying a Home: Shopping for Your Home Loan](https://www.hud.gov/topics/buying_a_home) — Federal guidance on understanding loan estimates and costs
+- [CFPB, What are discount points and lender credits?](https://www.consumerfinance.gov/ask-cfpb/what-are-discount-points-and-lender-credits-en-136/), Explains discount points, how they work, and cost considerations
+- [IRS, Publication 936: Home Mortgage Interest Deduction](https://www.irs.gov/publications/p936), Covers tax deductibility rules for mortgage points
+- [HUD, Buying a Home: Shopping for Your Home Loan](https://www.hud.gov/topics/buying_a_home), Federal guidance on understanding loan estimates and costs
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 
@@ -135,6 +135,6 @@ Points aren't magic, and they're not a trap. They're just a transaction with a c
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

@@ -149,9 +149,9 @@ You don't have to navigate this alone, and you shouldn't have to figure it out b
 
 ## Sources & References
 
-- [CFPB — Mortgage modification options](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-homeowners/) — Explains modification vs forbearance and homeowner assistance options
-- [HUD — Avoiding foreclosure](https://www.hud.gov/topics/avoiding_foreclosure) — Federal guidance on loss mitigation and contacting servicers
-- [Fannie Mae — Mortgage help for homeowners](https://www.fanniemae.com/here-help-homeowners) — Details loan modification types for conforming mortgages
+- [CFPB, Mortgage modification options](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-homeowners/), Explains modification vs forbearance and homeowner assistance options
+- [HUD, Avoiding foreclosure](https://www.hud.gov/topics/avoiding_foreclosure), Federal guidance on loss mitigation and contacting servicers
+- [Fannie Mae, Mortgage help for homeowners](https://www.fanniemae.com/here-help-homeowners), Details loan modification types for conforming mortgages
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -167,8 +167,8 @@ You don't have to navigate this alone, and you shouldn't have to figure it out b
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

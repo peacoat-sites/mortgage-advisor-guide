@@ -106,9 +106,9 @@ Yes. The waiting periods apply regardless of what you're purchasing, and for sec
 
 ## Sources & References
 
-- [CFPB — What is a short sale?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-short-sale-en-287/) — Explains short sale basics and credit reporting implications
-- [HUD — Buying a Home After Foreclosure](https://www.hud.gov/topics/buying_a_home) — FHA waiting period requirements after mortgage default
-- [Fannie Mae — Selling Guide](https://selling-guide.fanniemae.com/) — Documents conventional loan waiting periods after short sale
+- [CFPB, What is a short sale?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-short-sale-en-287/), Explains short sale basics and credit reporting implications
+- [HUD, Buying a Home After Foreclosure](https://www.hud.gov/topics/buying_a_home), FHA waiting period requirements after mortgage default
+- [Fannie Mae, Selling Guide](https://selling-guide.fanniemae.com/), Documents conventional loan waiting periods after short sale
 
 ---
 
@@ -116,6 +116,6 @@ Yes. The waiting periods apply regardless of what you're purchasing, and for sec
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

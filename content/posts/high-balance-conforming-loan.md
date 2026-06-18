@@ -35,7 +35,7 @@ Let me fix that.
   <div class="vm-body">
     <p class="vm-intro">Here's how the rate premium on high-balance conforming loans translates to actual monthly and lifetime costs across typical loan amounts.</p>
     <table><caption>Cost Impact of High-Balance Rate Premium (30-Year Fixed, Illustrative)</caption><thead><tr><th>Loan Amount</th><th>Standard Rate</th><th>High-Balance Rate (+0.20%)</th><th>Monthly Payment Difference</th><th>Total Interest Difference (30 yr)</th></tr></thead><tbody><tr><td>$850,000</td><td>6.50%</td><td>6.70%</td><td>+$114</td><td>+$41,040</td></tr><tr><td>$950,000</td><td>6.50%</td><td>6.70%</td><td>+$127</td><td>+$45,720</td></tr><tr><td>$1,100,000</td><td>6.50%</td><td>6.70%</td><td>+$147</td><td>+$52,920</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -105,9 +105,9 @@ If you're buying in a high-cost market and your loan amount is anywhere near the
 
 ## Sources & References
 
-- [FHFA — Conforming Loan Limit Values](https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limit.aspx) — Official 2024-2025 conforming and high-balance loan limits by county
-- [Fannie Mae — Loan Limits](https://singlefamily.fanniemae.com/originating-underwriting/loan-limits) — Explains high-balance loan eligibility and pricing adjustments
-- [CFPB — What is a conforming loan?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-conforming-loan-en-1791/) — Consumer-facing explanation of conforming loan basics
+- [FHFA, Conforming Loan Limit Values](https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limit.aspx), Official 2024-2025 conforming and high-balance loan limits by county
+- [Fannie Mae, Loan Limits](https://singlefamily.fanniemae.com/originating-underwriting/loan-limits), Explains high-balance loan eligibility and pricing adjustments
+- [CFPB, What is a conforming loan?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-conforming-loan-en-1791/), Consumer-facing explanation of conforming loan basics
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -121,8 +121,8 @@ If you're buying in a high-cost market and your loan amount is anywhere near the
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

@@ -125,9 +125,9 @@ There's nothing inherently predatory about a reverse mortgage, but there's a lot
 
 ## Sources & References
 
-- [HUD — Home Equity Conversion Mortgages for Seniors](https://www.hud.gov/program_offices/housing/sfh/hecm/hecmhome) — Official HECM program requirements and FHA insurance details
-- [CFPB — Reverse Mortgages](https://www.consumerfinance.gov/consumer-tools/reverse-mortgages/) — Consumer guidance on reverse mortgage types and risks
-- [FTC — Reverse Mortgages](https://consumer.ftc.gov/articles/reverse-mortgages) — Federal consumer protection information on reverse mortgages
+- [HUD, Home Equity Conversion Mortgages for Seniors](https://www.hud.gov/program_offices/housing/sfh/hecm/hecmhome), Official HECM program requirements and FHA insurance details
+- [CFPB, Reverse Mortgages](https://www.consumerfinance.gov/consumer-tools/reverse-mortgages/), Consumer guidance on reverse mortgage types and risks
+- [FTC, Reverse Mortgages](https://consumer.ftc.gov/articles/reverse-mortgages), Federal consumer protection information on reverse mortgages
 
 *Photo: [Thirdman](https://www.pexels.com/@thirdman) via Pexels*
 
@@ -143,6 +143,6 @@ There's nothing inherently predatory about a reverse mortgage, but there's a lot
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

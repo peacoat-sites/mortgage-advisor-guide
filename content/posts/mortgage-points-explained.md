@@ -160,9 +160,9 @@ The honest truth about points is that loan officers have a financial incentive t
 
 ## Sources & References
 
-- [CFPB — Buying a House](https://www.consumerfinance.gov/owning-a-home/) — Explains loan estimates, closing costs, and mortgage points
-- [CFPB — What Are Discount Points](https://www.consumerfinance.gov/ask-cfpb/what-are-discount-points-and-lender-credits-en-136/) — Defines discount points and how they reduce interest rates
-- [IRS — Mortgage Interest Deduction](https://www.irs.gov/publications/p936) — Covers tax deductibility rules for mortgage points
+- [CFPB, Buying a House](https://www.consumerfinance.gov/owning-a-home/), Explains loan estimates, closing costs, and mortgage points
+- [CFPB, What Are Discount Points](https://www.consumerfinance.gov/ask-cfpb/what-are-discount-points-and-lender-credits-en-136/), Defines discount points and how they reduce interest rates
+- [IRS, Mortgage Interest Deduction](https://www.irs.gov/publications/p936), Covers tax deductibility rules for mortgage points
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
@@ -178,6 +178,6 @@ The honest truth about points is that loan officers have a financial incentive t
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

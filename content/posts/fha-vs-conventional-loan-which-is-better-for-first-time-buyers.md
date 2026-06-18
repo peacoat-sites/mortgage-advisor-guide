@@ -38,7 +38,7 @@ After sixteen years reviewing loan files, I've watched borrowers choose the wron
   <div class="vm-body">
     <p class="vm-intro">This worked example shows how total costs diverge over time for two identical borrowers with different loan choices.</p>
     <table><caption><strong>Scenario:</strong> $350,000 home, $17,500 down (5%), 680 credit score, 6.5% rate (illustrative)</caption><thead><tr><th>Cost Category</th><th>FHA Loan</th><th>Conventional Loan</th></tr></thead><tbody><tr><td>Loan amount</td><td>$332,500</td><td>$332,500</td></tr><tr><td>Upfront mortgage insurance</td><td>$5,819 (1.75% financed into loan)</td><td>$0</td></tr><tr><td>Monthly mortgage insurance</td><td>$152/mo (0.55% MIP)</td><td>$183/mo (estimated PMI at 0.66%)</td></tr><tr><td>MI duration</td><td>Life of loan (30 years)</td><td>Until 78% LTV (~8 years auto-cancel)</td></tr><tr><td><strong>Total MI paid: Years 1–5</strong></td><td><strong>$14,939</strong> ($5,819 upfront + $9,120)</td><td><strong>$10,980</strong></td></tr><tr><td><strong>Total MI paid: Years 1–10</strong></td><td><strong>$24,059</strong></td><td><strong>$17,568</strong> (cancels ~year 8)</td></tr><tr><td><strong>Total MI paid: Life of loan</strong></td><td><strong>$60,539</strong></td><td><strong>$17,568</strong></td></tr><tr><td>Break-even point</td><td colspan="2">Conventional costs less if you keep the home 4+ years without refinancing</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -127,9 +127,9 @@ The right answer really does depend on your specific numbers. A 660 credit score
 
 ## Sources & References
 
-- [HUD — FHA Mortgage Insurance Premiums](https://www.hud.gov/program_offices/housing/fhahistory) — supports FHA MIP rates and duration rules
-- [CFPB — What is private mortgage insurance](https://www.consumerfinance.gov/ask-cfpb/what-is-private-mortgage-insurance-en-122/) — explains PMI costs and cancellation rules
-- [Fannie Mae — HomeReady mortgage](https://singlefamily.fanniemae.com/originating-underwriting/mortgage-products/homeready-mortgage) — supports conventional low-down-payment options
+- [HUD, FHA Mortgage Insurance Premiums](https://www.hud.gov/program_offices/housing/fhahistory), supports FHA MIP rates and duration rules
+- [CFPB, What is private mortgage insurance](https://www.consumerfinance.gov/ask-cfpb/what-is-private-mortgage-insurance-en-122/), explains PMI costs and cancellation rules
+- [Fannie Mae, HomeReady mortgage](https://singlefamily.fanniemae.com/originating-underwriting/mortgage-products/homeready-mortgage), supports conventional low-down-payment options
 
 *Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
 
@@ -145,8 +145,8 @@ The right answer really does depend on your specific numbers. A 660 credit score
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 

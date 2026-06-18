@@ -35,8 +35,8 @@ Your credit score is a three-digit number that can mean the difference between a
   <div class="vm-head">Monthly Payment Impact by Credit Score</div>
   <div class="vm-body">
     <p class="vm-intro">This table shows how credit score tiers affect your actual monthly principal and interest payment on a $350,000 conventional 30-year fixed mortgage, using illustrative rates typical of LLPA pricing differences.</p>
-    <table><thead><tr><th>Credit Score Range</th><th>Illustrative Rate</th><th>Monthly P&I</th><th>Extra Cost vs. 760+</th><th>30-Year Interest Paid</th></tr></thead><tbody><tr><td>760+</td><td>6.50%</td><td>$2,212</td><td>—</td><td>$446,320</td></tr><tr><td>740–759</td><td>6.75%</td><td>$2,270</td><td>+$58/mo</td><td>$467,200</td></tr><tr><td>720–739</td><td>6.875%</td><td>$2,299</td><td>+$87/mo</td><td>$477,640</td></tr><tr><td>700–719</td><td>7.00%</td><td>$2,329</td><td>+$117/mo</td><td>$488,440</td></tr><tr><td>680–699</td><td>7.25%</td><td>$2,388</td><td>+$176/mo</td><td>$509,680</td></tr><tr><td>660–679</td><td>7.50%</td><td>$2,447</td><td>+$235/mo</td><td>$530,920</td></tr><tr><td>620–659</td><td>7.875%</td><td>$2,538</td><td>+$326/mo</td><td>$563,680</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <table><thead><tr><th>Credit Score Range</th><th>Illustrative Rate</th><th>Monthly P&I</th><th>Extra Cost vs. 760+</th><th>30-Year Interest Paid</th></tr></thead><tbody><tr><td>760+</td><td>6.50%</td><td>$2,212</td><td>-</td><td>$446,320</td></tr><tr><td>740–759</td><td>6.75%</td><td>$2,270</td><td>+$58/mo</td><td>$467,200</td></tr><tr><td>720–739</td><td>6.875%</td><td>$2,299</td><td>+$87/mo</td><td>$477,640</td></tr><tr><td>700–719</td><td>7.00%</td><td>$2,329</td><td>+$117/mo</td><td>$488,440</td></tr><tr><td>680–699</td><td>7.25%</td><td>$2,388</td><td>+$176/mo</td><td>$509,680</td></tr><tr><td>660–679</td><td>7.50%</td><td>$2,447</td><td>+$235/mo</td><td>$530,920</td></tr><tr><td>620–659</td><td>7.875%</td><td>$2,538</td><td>+$326/mo</td><td>$563,680</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -147,8 +147,8 @@ Your credit score is one piece of a larger puzzle, but it's the piece that most 
 
 ## Sources & References
 
-- [CFPB — What is a credit score?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-score-en-315/) — Explains credit scores and their role in loan decisions
-- [CFPB — How to get and keep a good credit score](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/) — Federal guidance on credit reports and mortgage readiness
+- [CFPB, What is a credit score?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-score-en-315/), Explains credit scores and their role in loan decisions
+- [CFPB, How to get and keep a good credit score](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/), Federal guidance on credit reports and mortgage readiness
 
 *Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
 
@@ -164,7 +164,7 @@ Your credit score is one piece of a larger puzzle, but it's the piece that most 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 

@@ -130,9 +130,9 @@ DTI is one of those numbers that feels abstract until the moment it matters, and
 
 ## Sources & References
 
-- [CFPB — Debt-to-income ratio](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/) — Defines DTI and explains how lenders use it
-- [Fannie Mae — Selling Guide](https://selling-guide.fanniemae.com/) — Documents conventional loan DTI limits and requirements
-- [HUD — FHA Loan Requirements](https://www.hud.gov/buying/loans) — Covers FHA mortgage qualification criteria including DTI
+- [CFPB, Debt-to-income ratio](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/), Defines DTI and explains how lenders use it
+- [Fannie Mae, Selling Guide](https://selling-guide.fanniemae.com/), Documents conventional loan DTI limits and requirements
+- [HUD, FHA Loan Requirements](https://www.hud.gov/buying/loans), Covers FHA mortgage qualification criteria including DTI
 
 *Photo: [olia danilevich](https://www.pexels.com/@olia-danilevich) via Pexels*
 
@@ -148,6 +148,6 @@ DTI is one of those numbers that feels abstract until the moment it matters, and
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

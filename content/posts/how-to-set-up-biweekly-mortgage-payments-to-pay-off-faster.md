@@ -11,7 +11,7 @@ affiliate_disclosure: true
 faqs:
   - q: "Will biweekly payments actually show up on my credit report differently?"
     a: "No. Your credit report reflects whether you're current on your loan, not whether you're paying biweekly or monthly. Making extra payments won't change your reported payment history, but it will reduce your outstanding balance, which can slightly improve your credit utilization picture over time."
-  - q: "What if my mortgage servicer transfers my loan to a different company — do I have to start over?"
+  - q: "What if my mortgage servicer transfers my loan to a different company, do I have to start over?"
     a: "Yes, and this is a real pain point. When your loan is transferred, your payment instructions don't automatically carry over. The moment you get a notice of servicing transfer, contact the new servicer and ask about their extra-principal payment process before making your first payment. Don't assume your old setup transferred."
   - q: "Can I do biweekly payments on an FHA or VA loan?"
     a: "Generally yes, but call your servicer and confirm. FHA and VA loans have specific terms, and while prepayment is typically allowed on both, you want to confirm that partial biweekly payments are accepted and applied correctly. The mechanics are the same as a conventional loan, but the servicer's system needs to handle it properly."
@@ -26,7 +26,7 @@ author_bio: "Susan Taylor works at the intersection of credit health and mortgag
 
 ---
 
-Sixteen extra mortgage payments over thirty years. That's what a true biweekly setup actually delivers, and it's the number that makes this strategy worth your time — or worth walking away from if your lender is selling you a fee-based program that does the same math.
+Sixteen extra mortgage payments over thirty years. That's what a true biweekly setup actually delivers, and it's the number that makes this strategy worth your time, or worth walking away from if your lender is selling you a fee-based program that does the same math.
 
 I've reviewed enough loan files to know that most borrowers who ask about biweekly payments are doing it for the right reason: they want to own their home free and clear faster, pay less interest over the life of the loan, and maybe free up cash flow before retirement. That's legitimate. What's not legitimate is the industry that has grown up around charging you $300 to $400 in setup fees, plus $5 to $10 per transaction, to do something you can set up yourself in about twenty minutes.
 
@@ -34,9 +34,9 @@ Let me walk you through exactly how this works, what it actually saves you, and 
 
 ## The Math First, Because It's Surprisingly Simple
 
-A standard mortgage has 12 monthly payments per year. Pay biweekly — every two weeks — and you make 26 half-payments per year. Twenty-six halves equals 13 full payments. That thirteenth payment goes straight to principal, and that's the entire engine behind the strategy.
+A standard mortgage has 12 monthly payments per year. Pay biweekly, every two weeks, and you make 26 half-payments per year. Twenty-six halves equals 13 full payments. That thirteenth payment goes straight to principal, and that's the entire engine behind the strategy.
 
-On a 30-year fixed mortgage with a $350,000 balance at 7% interest, the difference is roughly 4 to 5 years off the back end of your loan and somewhere in the range of $50,000 to $75,000 in interest savings over the life of the loan. I won't give you a single precise number here because it depends heavily on your exact rate, your remaining balance, when you start, and whether your loan has any prepayment quirks. Use a real calculator — [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) include tools that let you model this out with your actual numbers. Do that before you decide anything.
+On a 30-year fixed mortgage with a $350,000 balance at 7% interest, the difference is roughly 4 to 5 years off the back end of your loan and somewhere in the range of $50,000 to $75,000 in interest savings over the life of the loan. I won't give you a single precise number here because it depends heavily on your exact rate, your remaining balance, when you start, and whether your loan has any prepayment quirks. Use a real calculator, [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) include tools that let you model this out with your actual numbers. Do that before you decide anything.
 
 What most people don't realize is how front-loaded mortgage interest is. In your first few years of repayment, the vast majority of each monthly payment is interest, not principal. Getting even a small additional chunk to principal early in the loan has an outsized impact because it shrinks the balance on which all future interest is calculated. Every month after that, slightly less of your payment goes to interest, slightly more goes to principal. The biweekly setup accelerates that shift.
 
@@ -70,7 +70,7 @@ The payment is applied to principal, not held. Ask if there's a "suspense accoun
 
 There's no prepayment penalty on your loan. This is rare on conventional loans post-2008, but it exists on some older loans and certain non-QM products. Check your note or your truth-in-lending disclosure. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) has guidance on mortgage terms that can help you understand what you're looking at in those documents.
 
-If your servicer checks out on all of those, you can set up an automatic biweekly transfer from your bank account to your loan — but make sure to mark each payment "apply to principal" in any memo or online payment portal field. Some servicers will apply additional funds to future payments (essentially pre-paying next month) rather than reducing your current principal. That is not what you want.
+If your servicer checks out on all of those, you can set up an automatic biweekly transfer from your bank account to your loan, but make sure to mark each payment "apply to principal" in any memo or online payment portal field. Some servicers will apply additional funds to future payments (essentially pre-paying next month) rather than reducing your current principal. That is not what you want.
 
 ## The Practical Setup, Step by Step
 
@@ -78,7 +78,7 @@ Call your servicer first. I put this step first because it's the one everyone sk
 
 Check your mortgage note for prepayment restrictions. Your note is the binding document. Look for any language about prepayment penalties or minimum payment intervals. If you can't find your note, request a copy from your servicer. They're required to provide it.
 
-Set up your payment method. If your servicer has an online portal (most do now), look for an option to make an "additional principal payment." Many servicers have this as a separate field or button in their payment interface. If you're mailing checks, write "Additional Principal Payment" in the memo line and include a separate check for the extra amount rather than writing one combined check — this reduces the chance of misapplication.
+Set up your payment method. If your servicer has an online portal (most do now), look for an option to make an "additional principal payment." Many servicers have this as a separate field or button in their payment interface. If you're mailing checks, write "Additional Principal Payment" in the memo line and include a separate check for the extra amount rather than writing one combined check, this reduces the chance of misapplication.
 
 Automate it. Set a recurring calendar reminder or, better, set up an automatic additional payment through your bank's bill pay system. The biweekly strategy only works if you actually do it consistently. One year of consistency matters; a decade of consistency changes your financial life.
 
@@ -90,7 +90,7 @@ There's a wrinkle that comes up if you go full biweekly: because you're paying e
 
 The once-a-month extra-principal approach avoids this completely. Same mathematical result, more predictable cash flow. For most people, especially those on a fixed salary with a predictable budget, I think the monthly extra-principal method is actually more reliable in practice. You make one slightly larger payment, it posts clearly, you move on.
 
-If you're a freelancer with uneven income, or you just prefer the psychological effect of paying every two weeks because it matches your pay cycle, the true biweekly works fine — just plan for those three-payment months.
+If you're a freelancer with uneven income, or you just prefer the psychological effect of paying every two weeks because it matches your pay cycle, the true biweekly works fine, just plan for those three-payment months.
 
 ---
 
@@ -109,8 +109,8 @@ If you want to dig into the full amortization math or read more about accelerate
 
 ## Sources & References
 
-- [Freddie Mac — My Home](https://myhome.freddiemac.com/) — Homebuyer tools for mortgage planning and calculations
-- [CFPB — Understand loan options](https://www.consumerfinance.gov/owning-a-home/loan-options/) — Official guidance on mortgage terms and payment structures
+- [Freddie Mac, My Home](https://myhome.freddiemac.com/), Homebuyer tools for mortgage planning and calculations
+- [CFPB, Understand loan options](https://www.consumerfinance.gov/owning-a-home/loan-options/), Official guidance on mortgage terms and payment structures
 
 *Photo: [Bich Tran](https://www.pexels.com/@thngocbich) via Pexels*
 
@@ -124,6 +124,6 @@ If you want to dig into the full amortization math or read more about accelerate
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

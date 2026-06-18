@@ -10,7 +10,7 @@ slug: "low-appraisal-mortgage-options"
 affiliate_disclosure: true
 faqs:
   - q: "Can I get a second appraisal if the first one comes in low?"
-    a: "You can request a reconsideration of value through your lender, but you typically can't just order a second appraisal and swap it in. Lenders are required to use the original appraisal. The exception is if there's evidence of appraiser bias or a significant factual error — in those cases, your lender may order a second appraisal, but it's not automatic or guaranteed."
+    a: "You can request a reconsideration of value through your lender, but you typically can't just order a second appraisal and swap it in. Lenders are required to use the original appraisal. The exception is if there's evidence of appraiser bias or a significant factual error, in those cases, your lender may order a second appraisal, but it's not automatic or guaranteed."
   - q: "Does a low appraisal mean the seller has to lower the price?"
     a: "No. The seller has no legal obligation to renegotiate. What the low appraisal does is give you leverage and, if your contract has an appraisal contingency, it gives you an exit. Whether the seller budges depends on their motivation, the market, and how many other buyers might be waiting."
   - q: "What happens to my earnest money if I walk away due to a low appraisal?"
@@ -26,7 +26,7 @@ author_bio: "Ethan Chen is a real estate researcher who has spent years tracking
 
 ---
 
-A low appraisal doesn't kill a deal. It just changes the math in ways most buyers aren't prepared for — and that panic is exactly what sellers and listing agents count on.
+A low appraisal doesn't kill a deal. It just changes the math in ways most buyers aren't prepared for, and that panic is exactly what sellers and listing agents count on.
 
 I've seen buyers walk away from houses they loved because their loan officer handed them a one-page explanation and shrugged. I've also seen buyers keep those same deals together by understanding what their actual options were. The difference almost always came down to information, not luck.
 
@@ -46,13 +46,13 @@ What most people don't realize is that a low appraisal isn't a verdict. It's an 
 
 
 
-**Renegotiate the purchase price.** This is the most straightforward path and works more often than buyers expect, especially in markets where homes have been sitting longer or rates have risen since the original listing. You show the seller the appraisal, explain the lender won't fund the gap, and ask them to meet you at $395,000. They might say no. They might counter. In a softer market, they often come down. Your buyer's agent is critical here — this is a negotiation, not a form letter.
+**Renegotiate the purchase price.** This is the most straightforward path and works more often than buyers expect, especially in markets where homes have been sitting longer or rates have risen since the original listing. You show the seller the appraisal, explain the lender won't fund the gap, and ask them to meet you at $395,000. They might say no. They might counter. In a softer market, they often come down. Your buyer's agent is critical here, this is a negotiation, not a form letter.
 
 **Cover the gap yourself.** If you have the cash and you genuinely believe the house is worth the contract price (maybe the appraiser missed a key comparable), you can pay the difference out of pocket. Some buyers do this in competitive markets where they've already lost three other offers. I'd only recommend it if your agent has independently confirmed the value is supportable, because throwing cash at an inflated price is exactly how people end up underwater.
 
-**Request a reconsideration of value (ROV).** This is a formal process where you challenge the appraisal with documented evidence: recent comparable sales the appraiser didn't include, errors in square footage or condition, renovations that weren't properly credited. Your lender submits this on your behalf. ROVs don't always work — appraisers don't love being challenged and they don't have to change their number — but I've seen them succeed when there was a clear factual error or when the buyer's agent found a legitimately comparable sale within the same 90-day window that the appraiser ignored. It costs nothing to try before you do anything else.
+**Request a reconsideration of value (ROV).** This is a formal process where you challenge the appraisal with documented evidence: recent comparable sales the appraiser didn't include, errors in square footage or condition, renovations that weren't properly credited. Your lender submits this on your behalf. ROVs don't always work, appraisers don't love being challenged and they don't have to change their number, but I've seen them succeed when there was a clear factual error or when the buyer's agent found a legitimately comparable sale within the same 90-day window that the appraiser ignored. It costs nothing to try before you do anything else.
 
-**Walk away using your appraisal contingency.** If your contract includes an appraisal contingency (and it absolutely should), a low appraisal gives you the right to exit the contract and get your earnest money back. Full stop. If you waived that contingency in a competitive bidding situation, you're in a harder spot — talk to a real estate attorney before you do anything.
+**Walk away using your appraisal contingency.** If your contract includes an appraisal contingency (and it absolutely should), a low appraisal gives you the right to exit the contract and get your earnest money back. Full stop. If you waived that contingency in a competitive bidding situation, you're in a harder spot, talk to a real estate attorney before you do anything.
 
 ## The Loan Type Matters More Than People Think
 
@@ -68,11 +68,11 @@ Conventional loans give you more flexibility because private mortgage insurance 
 
 In hotter markets, sellers sometimes ask buyers to sign an "appraisal gap clause" as part of the offer. This is a contractual agreement that you'll cover a certain dollar amount of any gap between the appraised value and the purchase price. For example: "Buyer agrees to cover up to $15,000 of any appraisal gap."
 
-I've seen this used thoughtfully and I've seen it used recklessly. If you're signing one, know your exact ceiling and make sure you actually have that cash accessible at closing. Lenders will ask for documentation. Also understand that agreeing to an appraisal gap clause doesn't mean you waive your right to walk away if the gap exceeds that ceiling — but that needs to be explicitly stated in the contract language. Don't assume. Have your agent or attorney confirm it in writing.
+I've seen this used thoughtfully and I've seen it used recklessly. If you're signing one, know your exact ceiling and make sure you actually have that cash accessible at closing. Lenders will ask for documentation. Also understand that agreeing to an appraisal gap clause doesn't mean you waive your right to walk away if the gap exceeds that ceiling, but that needs to be explicitly stated in the contract language. Don't assume. Have your agent or attorney confirm it in writing.
 
 The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) has solid plain-language guidance on how appraisals factor into loan approval that's worth reading if you want to understand lender requirements before your closing.
 
-If you're feeling overwhelmed by the whole process, [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can review your specific situation for free or very low cost. That's not a throwaway suggestion — I've referred people there when their scenarios were complicated enough that generic advice wasn't going to cut it.
+If you're feeling overwhelmed by the whole process, [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can review your specific situation for free or very low cost. That's not a throwaway suggestion, I've referred people there when their scenarios were complicated enough that generic advice wasn't going to cut it.
 
 For buyers who want to go deeper on the financial mechanics before they're sitting at a negotiating table, *Nolo's Essential Guide to Buying Your First Home* by Ilona Bray is one of the better comprehensive resources out there. (Disclosure: the site may earn a commission if you purchase through that link.)
 
@@ -94,8 +94,8 @@ For buyers who want to go deeper on the financial mechanics before they're sitti
 
 ## Sources & References
 
-- [CFPB — What is a home appraisal?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-appraisal-en-167/) — Explains how appraisals affect mortgage lending decisions
-- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — Federal guidance on home purchase process and financing
+- [CFPB, What is a home appraisal?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-appraisal-en-167/), Explains how appraisals affect mortgage lending decisions
+- [HUD, Buying a Home](https://www.hud.gov/topics/buying_a_home), Federal guidance on home purchase process and financing
 
 ---
 
@@ -103,6 +103,6 @@ For buyers who want to go deeper on the financial mechanics before they're sitti
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

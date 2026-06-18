@@ -99,9 +99,9 @@ You don't need a perfect score to buy a home. You need enough clarity about wher
 
 ## Sources & References
 
-- [HUD — FHA Single Family Housing Credit Score Requirements](https://www.hud.gov/program_offices/housing/sfh/fharesourcectr) — FHA minimum credit score tiers and down payment requirements
-- [CFPB — What is a credit score?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-score-en-315/) — Explains credit scores and their role in mortgage lending
-- [Fannie Mae — HomeReady Mortgage](https://www.fanniemae.com/homeready) — Conventional loan program eligibility and credit requirements
+- [HUD, FHA Single Family Housing Credit Score Requirements](https://www.hud.gov/program_offices/housing/sfh/fharesourcectr), FHA minimum credit score tiers and down payment requirements
+- [CFPB, What is a credit score?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-score-en-315/), Explains credit scores and their role in mortgage lending
+- [Fannie Mae, HomeReady Mortgage](https://www.fanniemae.com/homeready), Conventional loan program eligibility and credit requirements
 
 *Photo: [Jonathan Borba](https://www.pexels.com/@jonathanborba) via Pexels*
 
@@ -115,7 +115,7 @@ You don't need a perfect score to buy a home. You need enough clarity about wher
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 

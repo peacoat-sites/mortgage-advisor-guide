@@ -63,8 +63,8 @@ There's no universally right answer. Run the numbers for your specific situation
 
 ## Sources & References
 
-- [CFPB — Mortgage Key Terms](https://www.consumerfinance.gov/owning-a-home/loan-options/) — Explains fixed vs ARM loan options and how ARMs work
-- [Freddie Mac — Mortgage Rates](https://www.freddiemac.com/pmms) — Primary source for current fixed and ARM rate data
+- [CFPB, Mortgage Key Terms](https://www.consumerfinance.gov/owning-a-home/loan-options/), Explains fixed vs ARM loan options and how ARMs work
+- [Freddie Mac, Mortgage Rates](https://www.freddiemac.com/pmms), Primary source for current fixed and ARM rate data
 
 ---
 
@@ -72,6 +72,6 @@ There's no universally right answer. Run the numbers for your specific situation
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

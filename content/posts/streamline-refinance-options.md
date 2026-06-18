@@ -120,8 +120,8 @@ Streamline refinances exist because the federal government recognized that makin
 
 ## Sources & References
 
-- [HUD — FHA Streamline Refinance](https://www.hud.gov/program_offices/housing/sfh/ins/streamline) — Official FHA streamline refinance program requirements and eligibility
-- [VA — Interest Rate Reduction Refinance Loan](https://www.va.gov/housing-assistance/home-loans/loan-types/interest-rate-reduction-loan/) — Official VA IRRRL program details and borrower requirements
+- [HUD, FHA Streamline Refinance](https://www.hud.gov/program_offices/housing/sfh/ins/streamline), Official FHA streamline refinance program requirements and eligibility
+- [VA, Interest Rate Reduction Refinance Loan](https://www.va.gov/housing-assistance/home-loans/loan-types/interest-rate-reduction-loan/), Official VA IRRRL program details and borrower requirements
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -137,6 +137,6 @@ Streamline refinances exist because the federal government recognized that makin
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

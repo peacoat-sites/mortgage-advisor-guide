@@ -111,9 +111,9 @@ For borrowers who want to go deeper on the mechanics of mortgage qualification b
 
 ## Sources & References
 
-- [CFPB — What is a mortgage loan estimate?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/) — Explains official mortgage disclosure documents borrowers receive
-- [AnnualCreditReport.com — Free Credit Reports](https://www.annualcreditreport.com/) — Official source for free tri-bureau credit reports
-- [CFPB — How to dispute credit report errors](https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/) — Official guidance on disputing credit report inaccuracies
+- [CFPB, What is a mortgage loan estimate?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/), Explains official mortgage disclosure documents borrowers receive
+- [AnnualCreditReport.com, Free Credit Reports](https://www.annualcreditreport.com/), Official source for free tri-bureau credit reports
+- [CFPB, How to dispute credit report errors](https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/), Official guidance on disputing credit report inaccuracies
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 
@@ -127,6 +127,6 @@ For borrowers who want to go deeper on the mechanics of mortgage qualification b
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

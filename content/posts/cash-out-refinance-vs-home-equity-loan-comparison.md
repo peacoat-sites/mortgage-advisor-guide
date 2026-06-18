@@ -34,9 +34,9 @@ Let me lay out what I actually learned from being on the underwriting side of bo
 <div class="value-module">
   <div class="vm-head">5-Year Cost Comparison: Real Numbers</div>
   <div class="vm-body">
-    <p class="vm-intro">This worked example shows how a lower rate doesn't always mean lower total cost—closing costs and loan structure can flip the math.</p>
+    <p class="vm-intro">This worked example shows how a lower rate doesn't always mean lower total cost-closing costs and loan structure can flip the math.</p>
     <table><caption>Scenario: $80,000 cash needed, $320,000 existing mortgage at 4.5%, 25 years remaining, home value $500,000</caption><thead><tr><th>Factor</th><th>Cash-Out Refinance</th><th>Home Equity Loan</th></tr></thead><tbody><tr><td>New loan amount</td><td>$400,000 (replaces existing)</td><td>$80,000 (second lien)</td></tr><tr><td>Interest rate (illustrative)</td><td>6.5%</td><td>8.25%</td></tr><tr><td>Loan term</td><td>30 years</td><td>15 years</td></tr><tr><td>Monthly payment</td><td>$2,528 (single payment)</td><td>$1,621 (original) + $775 = $2,396</td></tr><tr><td>Closing costs</td><td>$9,600 (2.4% of $400K)</td><td>$850</td></tr><tr><td>Interest paid in first 5 years</td><td>$122,840</td><td>$73,920 (original) + $28,100 (HELOAN) = $102,020</td></tr><tr><td>Total 5-year cost (payments + closing)</td><td>$161,280</td><td>$144,410</td></tr><tr><td>Net difference</td><td colspan="2"><strong>Home equity loan saves $16,870 over 5 years in this scenario</strong></td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -134,8 +134,8 @@ And get quotes from multiple lenders on each product before you decide. Sometime
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

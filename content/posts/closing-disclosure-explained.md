@@ -34,7 +34,7 @@ Most people spend more time reading the menu at a new restaurant than they spend
   <div class="vm-body">
     <p class="vm-intro">Use this checklist to compare your Closing Disclosure against your original Loan Estimate, flagging any variance that exceeds federal tolerance limits.</p>
     <table><caption>Key Fields to Compare with Tolerance Thresholds</caption><thead><tr><th>CD Page/Section</th><th>Field to Check</th><th>Tolerance Rule</th><th>Action If Exceeded</th></tr></thead><tbody><tr><td>Page 1, Loan Terms</td><td>Loan Amount</td><td>Zero tolerance (must match exactly unless loan changed)</td><td>Request written explanation before closing</td></tr><tr><td>Page 1, Loan Terms</td><td>Interest Rate</td><td>Zero tolerance if rate locked</td><td>Do not sign; escalate to lender management</td></tr><tr><td>Page 2, Section A</td><td>Origination Charges</td><td>Zero tolerance (cannot increase)</td><td>Lender must credit any overcharge</td></tr><tr><td>Page 2, Section B</td><td>Services You Cannot Shop For (title insurance, appraisal, credit report)</td><td>10% aggregate tolerance (total of Section B can rise ≤10%)</td><td>If over 10% combined, lender must cure within 60 days of closing</td></tr><tr><td>Page 2, Section C</td><td>Services You Did Shop For (if you used lender's list)</td><td>10% aggregate tolerance</td><td>Same cure rule applies</td></tr><tr><td>Page 2, Section C</td><td>Services You Did Shop For (if you chose your own provider)</td><td>No tolerance limit</td><td>Negotiate directly with provider or accept variance</td></tr><tr><td>Page 2, Sections E–H</td><td>Prepaid interest, insurance premiums, property taxes, initial escrow</td><td>No tolerance limit (can change freely)</td><td>Verify calculations; request escrow breakdown</td></tr><tr><td>Page 3, Cash to Close</td><td>Total Cash to Close</td><td>Compare to LE; variance should trace to itemized changes above</td><td>If unexplained increase &gt;$100, demand itemized reconciliation</td></tr><tr><td>Page 4, Loan Disclosures</td><td>Prepayment Penalty / Balloon Payment</td><td>Must match LE exactly</td><td>If "Yes" appears unexpectedly, halt closing and consult attorney</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -123,9 +123,9 @@ The Closing Disclosure isn't bureaucratic paperwork. It's the final record of ev
 
 ## Sources & References
 
-- [CFPB — Closing Disclosure explainer](https://www.consumerfinance.gov/owning-a-home/closing-disclosure/) — Explains CD sections, 3-day review rule, and borrower rights
-- [CFPB — Loan Estimate explainer](https://www.consumerfinance.gov/owning-a-home/loan-estimate/) — Details LE fields for comparison against Closing Disclosure
-- [CFPB — TRID tolerance rules](https://www.consumerfinance.gov/rules-policy/regulations/1026/19/) — Regulation Z tolerance thresholds for fee changes
+- [CFPB, Closing Disclosure explainer](https://www.consumerfinance.gov/owning-a-home/closing-disclosure/), Explains CD sections, 3-day review rule, and borrower rights
+- [CFPB, Loan Estimate explainer](https://www.consumerfinance.gov/owning-a-home/loan-estimate/), Details LE fields for comparison against Closing Disclosure
+- [CFPB, TRID tolerance rules](https://www.consumerfinance.gov/rules-policy/regulations/1026/19/), Regulation Z tolerance thresholds for fee changes
 
 ---
 
@@ -133,6 +133,6 @@ The Closing Disclosure isn't bureaucratic paperwork. It's the final record of ev
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

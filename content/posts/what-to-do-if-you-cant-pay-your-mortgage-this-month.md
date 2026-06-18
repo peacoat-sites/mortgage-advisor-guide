@@ -115,8 +115,8 @@ The situation doesn't have to become a foreclosure. That's not optimism, it's ju
 
 ## Sources & References
 
-- [CFPB — Mortgage help for struggling homeowners](https://www.consumerfinance.gov/housing/) — Explains servicer options, loss mitigation, and borrower rights
-- [HUD — Housing counseling resources](https://www.hud.gov/counseling) — Free HUD-approved counseling and foreclosure prevention help
+- [CFPB, Mortgage help for struggling homeowners](https://www.consumerfinance.gov/housing/), Explains servicer options, loss mitigation, and borrower rights
+- [HUD, Housing counseling resources](https://www.hud.gov/counseling), Free HUD-approved counseling and foreclosure prevention help
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 
@@ -130,6 +130,6 @@ The situation doesn't have to become a foreclosure. That's not optimism, it's ju
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

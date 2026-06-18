@@ -37,8 +37,8 @@ That's the part your loan officer glossed over at closing.
   <div class="vm-head">Itemizing Break-Even Calculator</div>
   <div class="vm-body">
     <p class="vm-intro">Use this worksheet to determine whether your mortgage interest actually triggers any tax benefit in 2026.</p>
-    <table><caption>Will You Clear the Standard Deduction Threshold?</caption><thead><tr><th>Line Item</th><th>Your Amount</th><th>Example (MFJ, $450K loan at 6.5%)</th></tr></thead><tbody><tr><td>A. Annual mortgage interest paid</td><td>$________</td><td>$28,500</td></tr><tr><td>B. State/local taxes (SALT, capped at $10,000)</td><td>$________</td><td>$10,000</td></tr><tr><td>C. Charitable contributions</td><td>$________</td><td>$3,200</td></tr><tr><td>D. Medical expenses exceeding 7.5% of AGI</td><td>$________</td><td>$0</td></tr><tr><td>E. Other itemized deductions</td><td>$________</td><td>$0</td></tr><tr><td><strong>F. Total itemized (A+B+C+D+E)</strong></td><td>$________</td><td><strong>$41,700</strong></td></tr><tr><td>G. 2026 Standard deduction for your filing status</td><td>$________</td><td>$30,000 (MFJ est.)</td></tr><tr><td><strong>H. Benefit from itemizing (F minus G)</strong></td><td>$________</td><td><strong>$11,700</strong></td></tr><tr><td><strong>I. Actual tax savings (H × your marginal rate)</strong></td><td>$________</td><td><strong>$2,574</strong> (at 22%)</td></tr></tbody></table><ul><li><strong>If Line H is zero or negative:</strong> The mortgage interest deduction provides you no tax benefit—take the standard deduction instead.</li><li><strong>Key insight:</strong> Only the amount <em>above</em> the standard deduction saves you money. In the example, $41,700 in deductions yields just $2,574 in actual tax reduction—not $6,270 (22% of $28,500).</li><li><strong>2026 standard deduction estimates:</strong> Single ~$15,000 | MFJ ~$30,000 | Head of Household ~$22,500</li></ul>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <table><caption>Will You Clear the Standard Deduction Threshold?</caption><thead><tr><th>Line Item</th><th>Your Amount</th><th>Example (MFJ, $450K loan at 6.5%)</th></tr></thead><tbody><tr><td>A. Annual mortgage interest paid</td><td>$________</td><td>$28,500</td></tr><tr><td>B. State/local taxes (SALT, capped at $10,000)</td><td>$________</td><td>$10,000</td></tr><tr><td>C. Charitable contributions</td><td>$________</td><td>$3,200</td></tr><tr><td>D. Medical expenses exceeding 7.5% of AGI</td><td>$________</td><td>$0</td></tr><tr><td>E. Other itemized deductions</td><td>$________</td><td>$0</td></tr><tr><td><strong>F. Total itemized (A+B+C+D+E)</strong></td><td>$________</td><td><strong>$41,700</strong></td></tr><tr><td>G. 2026 Standard deduction for your filing status</td><td>$________</td><td>$30,000 (MFJ est.)</td></tr><tr><td><strong>H. Benefit from itemizing (F minus G)</strong></td><td>$________</td><td><strong>$11,700</strong></td></tr><tr><td><strong>I. Actual tax savings (H × your marginal rate)</strong></td><td>$________</td><td><strong>$2,574</strong> (at 22%)</td></tr></tbody></table><ul><li><strong>If Line H is zero or negative:</strong> The mortgage interest deduction provides you no tax benefit-take the standard deduction instead.</li><li><strong>Key insight:</strong> Only the amount <em>above</em> the standard deduction saves you money. In the example, $41,700 in deductions yields just $2,574 in actual tax reduction-not $6,270 (22% of $28,500).</li><li><strong>2026 standard deduction estimates:</strong> Single ~$15,000 | MFJ ~$30,000 | Head of Household ~$22,500</li></ul>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -113,9 +113,9 @@ Tax law has a way of rewarding people who actually read the fine print rather th
 
 ## Sources & References
 
-- [IRS — Publication 936 Home Mortgage Interest Deduction](https://www.irs.gov/publications/p936) — Official rules for deducting mortgage interest
-- [IRS — Standard Deduction amounts](https://www.irs.gov/taxtopics/tc551) — Confirms standard deduction thresholds by filing status
-- [IRS — SALT deduction limit](https://www.irs.gov/taxtopics/tc503) — Documents the $10,000 state/local tax cap
+- [IRS, Publication 936 Home Mortgage Interest Deduction](https://www.irs.gov/publications/p936), Official rules for deducting mortgage interest
+- [IRS, Standard Deduction amounts](https://www.irs.gov/taxtopics/tc551), Confirms standard deduction thresholds by filing status
+- [IRS, SALT deduction limit](https://www.irs.gov/taxtopics/tc503), Documents the $10,000 state/local tax cap
 
 *Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*
 
@@ -129,8 +129,8 @@ Tax law has a way of rewarding people who actually read the fine print rather th
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89) — Whole-home 4-pack of 10-year battery-powered detectors — covers a standard 3-bedroom home.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89), Whole-home 4-pack of 10-year battery-powered detectors, covers a standard 3-bedroom home.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 

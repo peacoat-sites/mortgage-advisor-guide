@@ -26,7 +26,7 @@ author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer b
 
 ---
 
-Most people treat this decision like a math problem. They pull up a mortgage calculator, see that the 15-year saves them $80,000 in interest, and start mentally patting themselves on the back for being so financially disciplined. What they miss is that the 15-year mortgage is also one of the fastest ways to wreck your financial flexibility — and I've watched it happen more times than I'd like to count.
+Most people treat this decision like a math problem. They pull up a mortgage calculator, see that the 15-year saves them $80,000 in interest, and start mentally patting themselves on the back for being so financially disciplined. What they miss is that the 15-year mortgage is also one of the fastest ways to wreck your financial flexibility, and I've watched it happen more times than I'd like to count.
 
 I'll be honest: I spent years as an underwriter quietly rooting for borrowers who chose the 15-year. Seemed smart. Seemed responsible. Then I started paying more attention to what happened to those borrowers five years in, and my thinking shifted considerably.
 
@@ -38,7 +38,7 @@ That's not an argument for one loan over the other. It's an argument for underst
   <div class="vm-body">
     <p class="vm-intro">These side-by-side numbers show exactly how the payment gap and interest savings scale across typical loan amounts at representative rates.</p>
     <table><caption>15-Year vs 30-Year Mortgage: Payment and Interest Comparison</caption><thead><tr><th>Loan Amount</th><th>15-Year Payment (6.0%)</th><th>30-Year Payment (6.75%)</th><th>Monthly Difference</th><th>Total Interest (15-Yr)</th><th>Total Interest (30-Yr)</th><th>Interest Savings</th></tr></thead><tbody><tr><td>$250,000</td><td>$2,109</td><td>$1,622</td><td>$487 higher</td><td>$129,620</td><td>$333,920</td><td>$204,300</td></tr><tr><td>$400,000</td><td>$3,375</td><td>$2,595</td><td>$780 higher</td><td>$207,500</td><td>$534,200</td><td>$326,700</td></tr><tr><td>$550,000</td><td>$4,641</td><td>$3,568</td><td>$1,073 higher</td><td>$285,380</td><td>$734,480</td><td>$449,100</td></tr><tr><td>$700,000</td><td>$5,906</td><td>$4,541</td><td>$1,365 higher</td><td>$363,080</td><td>$934,760</td><td>$571,680</td></tr></tbody><tfoot><tr><td colspan="7">Rates shown are illustrative (0.75% spread typical). Actual rates vary by lender, credit profile, and market conditions. Excludes taxes, insurance, and PMI.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -46,7 +46,7 @@ That's not an argument for one loan over the other. It's an argument for underst
 
 Everyone knows the headline numbers. A 15-year mortgage carries a lower interest rate (typically somewhere between 0.5 and 0.75 percentage points lower than a 30-year, though that spread moves around), and you pay dramatically less total interest over the life of the loan. On a $400,000 mortgage, the difference in total interest paid can easily clear $150,000 or more, depending on the rate environment you're borrowing in. That number is real. It's not a trick.
 
-But here's what surprises most borrowers when they actually run the monthly payment comparison: the 15-year payment on that same $400,000 isn't just a little higher. It's often 40 to 50 percent higher. We're talking the difference between, say, a $2,100 monthly payment and a $3,100 monthly payment. That $1,000 gap doesn't disappear — it has to come from somewhere every single month, for 180 months, regardless of whether you lose a client, have a medical bill, or face any of the roughly infinite ways life gets expensive.
+But here's what surprises most borrowers when they actually run the monthly payment comparison: the 15-year payment on that same $400,000 isn't just a little higher. It's often 40 to 50 percent higher. We're talking the difference between, say, a $2,100 monthly payment and a $3,100 monthly payment. That $1,000 gap doesn't disappear, it has to come from somewhere every single month, for 180 months, regardless of whether you lose a client, have a medical bill, or face any of the roughly infinite ways life gets expensive.
 
 The 30-year isn't the lazy choice. It's the flexible choice. And flexibility has real financial value that a simple interest comparison completely ignores.
 
@@ -74,7 +74,7 @@ This isn't theoretical. You can absolutely pay off a 30-year mortgage in 15 year
 
 The other angle worth taking seriously: what else could that $1,000 monthly difference do? If you're early in your career and you have room to max your 401(k), or your employer offers matching contributions you haven't fully captured, or you're carrying 22% APR credit card debt, redirecting that $1,000 into the lower mortgage payment and putting the difference to work elsewhere might come out ahead of the 15-year mathematically. The research here is genuinely mixed, and it depends heavily on market returns in the years you happen to be investing, but it's not a crazy argument. It's one serious financial planners make regularly.
 
-I want to be careful not to oversell this. Investing the difference only wins if you actually invest the difference. If the $1,000 in breathing room becomes $1,000 in lifestyle inflation — a nicer car, more travel, subscriptions you barely use — then you've just paid more interest for nothing.
+I want to be careful not to oversell this. Investing the difference only wins if you actually invest the difference. If the $1,000 in breathing room becomes $1,000 in lifestyle inflation, a nicer car, more travel, subscriptions you barely use, then you've just paid more interest for nothing.
 
 ## The Rate Gap Matters More Than People Realize
 
@@ -90,9 +90,9 @@ The 30-year tends to be the smarter call for: first-time buyers who are still bu
 
 These aren't ironclad rules. They're patterns I've watched over a long time.
 
-One thing I'd push back on is the reflexive advice to "just get the 15-year if you can afford it." The word "afford" is doing too much work in that sentence. Technically qualifying for the payment is not the same as actually being able to absorb it in a worst-case year. If you're not sure where your finances are, a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can walk through your specific numbers with no sales incentive attached — which is more than you can say for most loan officers, including good ones.
+One thing I'd push back on is the reflexive advice to "just get the 15-year if you can afford it." The word "afford" is doing too much work in that sentence. Technically qualifying for the payment is not the same as actually being able to absorb it in a worst-case year. If you're not sure where your finances are, a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can walk through your specific numbers with no sales incentive attached, which is more than you can say for most loan officers, including good ones.
 
-If you want to go deeper on the analytical side before you talk to anyone, there are solid home-buying guides worth having on hand (you can find well-reviewed options [on Amazon](https://www.amazon.com/s?k=home+buying+mortgage+guide&tag=contentportfo-20) — note this site may earn a commission on purchases). Running the actual numbers on your specific loan amount, rate, and alternative investment assumptions will tell you more than any general article can.
+If you want to go deeper on the analytical side before you talk to anyone, there are solid home-buying guides worth having on hand (you can find well-reviewed options [on Amazon](https://www.amazon.com/s?k=home+buying+mortgage+guide&tag=contentportfo-20), note this site may earn a commission on purchases). Running the actual numbers on your specific loan amount, rate, and alternative investment assumptions will tell you more than any general article can.
 
 ## A Few Things Nobody Warns You About
 
@@ -119,8 +119,8 @@ The honest answer to "which is better" is that the 15-year wins the interest cos
 
 ## Sources & References
 
-- [CFPB — Mortgage Key Terms](https://www.consumerfinance.gov/owning-a-home/loan-options/) — explains mortgage term options and payment structure differences
-- [HUD — Buying a Home](https://www.hud.gov/topics/buying_a_home) — federal guidance on mortgage decisions and homebuyer considerations
+- [CFPB, Mortgage Key Terms](https://www.consumerfinance.gov/owning-a-home/loan-options/), explains mortgage term options and payment structure differences
+- [HUD, Buying a Home](https://www.hud.gov/topics/buying_a_home), federal guidance on mortgage decisions and homebuyer considerations
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
@@ -134,6 +134,6 @@ The honest answer to "which is better" is that the 15-year wins the interest cos
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

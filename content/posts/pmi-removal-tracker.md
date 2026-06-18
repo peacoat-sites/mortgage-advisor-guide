@@ -8,7 +8,7 @@ categories: ["mortgage-tools"]
 
 Private mortgage insurance (PMI) costs most borrowers between $50 and $200 per month. You can request removal once your loan-to-value (LTV) ratio drops to 80%, and your lender must cancel it automatically at 78% LTV under the Homeowners Protection Act.
 
-Use the calculator below to see when you hit that milestone — and how much you save by paying a little extra each month.
+Use the calculator below to see when you hit that milestone, and how much you save by paying a little extra each month.
 
 {{< pmi-calc >}}
 
@@ -16,16 +16,16 @@ Use the calculator below to see when you hit that milestone — and how much you
 
 **At 80% LTV:** You can formally request PMI cancellation in writing. Your lender may require a home appraisal (at your expense, typically $300–$600) to confirm the current value.
 
-**At 78% LTV:** Your lender must automatically cancel PMI based on the original amortization schedule — even if home values have changed. This is a federal requirement under the HPA.
+**At 78% LTV:** Your lender must automatically cancel PMI based on the original amortization schedule, even if home values have changed. This is a federal requirement under the HPA.
 
 **FHA loans are different:** FHA mortgage insurance premium (MIP) follows different rules. If you put down less than 10%, MIP lasts the life of the loan. If you put down 10% or more, MIP cancels after 11 years. Refinancing into a conventional loan is typically the only way out.
 
 ## Ways to Reach 80% LTV Faster
 
-- **Make extra principal payments** — even $100–$200/month can shorten the timeline significantly
-- **Home improvements** — renovations that increase appraised value lower your LTV
-- **Rising home values** — if your area appreciates, you may qualify for a new appraisal sooner than the standard schedule
-- **Lump-sum paydown** — a bonus, tax refund, or inheritance applied to principal accelerates the clock
+- **Make extra principal payments**, even $100–$200/month can shorten the timeline significantly
+- **Home improvements**, renovations that increase appraised value lower your LTV
+- **Rising home values**, if your area appreciates, you may qualify for a new appraisal sooner than the standard schedule
+- **Lump-sum paydown**, a bonus, tax refund, or inheritance applied to principal accelerates the clock
 
 ## When to Request PMI Removal
 

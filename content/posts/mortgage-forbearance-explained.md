@@ -132,9 +132,9 @@ The most important thing I can leave you with is this: the phone call you're avo
 
 ## Sources & References
 
-- [CFPB — Mortgage forbearance overview](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-homeowners/) — Explains forbearance options and homeowner rights
-- [HUD — Avoiding foreclosure resources](https://www.hud.gov/topics/avoiding_foreclosure) — Federal guidance on hardship options for homeowners
-- [Fannie Mae — Forbearance and relief options](https://www.fanniemae.com/here-help-homeowners) — Details forbearance terms for conventional loans
+- [CFPB, Mortgage forbearance overview](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-homeowners/), Explains forbearance options and homeowner rights
+- [HUD, Avoiding foreclosure resources](https://www.hud.gov/topics/avoiding_foreclosure), Federal guidance on hardship options for homeowners
+- [Fannie Mae, Forbearance and relief options](https://www.fanniemae.com/here-help-homeowners), Details forbearance terms for conventional loans
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
@@ -150,6 +150,6 @@ The most important thing I can leave you with is this: the phone call you're avo
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

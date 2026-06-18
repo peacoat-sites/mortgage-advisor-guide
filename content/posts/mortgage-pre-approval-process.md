@@ -150,9 +150,9 @@ The pre-approval process isn't the exciting part of buying a home. Finding the h
 
 ## Sources & References
 
-- [CFPB — Mortgage shopping guide](https://www.consumerfinance.gov/owning-a-home/) — Explains pre-approval process and mortgage steps
-- [HUD — Buying a home resources](https://www.hud.gov/topics/buying_a_home) — Federal guidance on home purchase preparation
-- [CFPB — What is loan estimate](https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/) — Explains lender documentation requirements
+- [CFPB, Mortgage shopping guide](https://www.consumerfinance.gov/owning-a-home/), Explains pre-approval process and mortgage steps
+- [HUD, Buying a home resources](https://www.hud.gov/topics/buying_a_home), Federal guidance on home purchase preparation
+- [CFPB, What is loan estimate](https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/), Explains lender documentation requirements
 
 *Photo: [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai) via Pexels*
 
@@ -168,6 +168,6 @@ The pre-approval process isn't the exciting part of buying a home. Finding the h
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

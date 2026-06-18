@@ -34,9 +34,9 @@ You saved $8,000 and thought you were finally close. Then you ran the actual num
 <div class="value-module">
   <div class="vm-head">DPA Program Types: Quick Comparison</div>
   <div class="vm-body">
-    <p class="vm-intro">Different assistance structures have distinct repayment terms, eligibility hurdles, and long-term costs—here's how they stack up.</p>
-    <table><thead><tr><th>Program Type</th><th>Typical Amount</th><th>Repayment Terms</th><th>DTI Impact</th><th>Best For</th><th>Watch Out For</th></tr></thead><tbody><tr><td>Outright Grant</td><td>$5,000–$15,000 or 3–5% of price</td><td>None—fully forgiven at closing</td><td>None</td><td>Buyers who meet strict income caps</td><td>Limited availability; often first-come, first-served funding</td></tr><tr><td>Forgivable Second Mortgage</td><td>3–5% of loan amount</td><td>Forgiven after 5–10 years of occupancy</td><td>Usually none (no monthly payment)</td><td>Buyers planning to stay long-term</td><td>Sell or refi early = full or prorated repayment due</td></tr><tr><td>Deferred Second Mortgage</td><td>Up to 5% of loan amount</td><td>Due when you sell, refi, or pay off first mortgage</td><td>Minimal (no monthly payment, but balance owed)</td><td>Buyers who need flexibility but can repay later</td><td>Balloon payment at sale can reduce net proceeds</td></tr><tr><td>Repayable Second Mortgage</td><td>Varies widely</td><td>Monthly payments, often at below-market rates</td><td>Increases DTI by payment amount</td><td>Buyers with income room who want lower total interest</td><td>Can push DTI over approval thresholds</td></tr><tr><td>Matched Savings (IDA)</td><td>$2,000–$8,000 typical match</td><td>None—you keep matched funds</td><td>None</td><td>Buyers with 12–24 months to save</td><td>Requires consistent deposits; early withdrawal forfeits match</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-intro">Different assistance structures have distinct repayment terms, eligibility hurdles, and long-term costs-here's how they stack up.</p>
+    <table><thead><tr><th>Program Type</th><th>Typical Amount</th><th>Repayment Terms</th><th>DTI Impact</th><th>Best For</th><th>Watch Out For</th></tr></thead><tbody><tr><td>Outright Grant</td><td>$5,000–$15,000 or 3–5% of price</td><td>None-fully forgiven at closing</td><td>None</td><td>Buyers who meet strict income caps</td><td>Limited availability; often first-come, first-served funding</td></tr><tr><td>Forgivable Second Mortgage</td><td>3–5% of loan amount</td><td>Forgiven after 5–10 years of occupancy</td><td>Usually none (no monthly payment)</td><td>Buyers planning to stay long-term</td><td>Sell or refi early = full or prorated repayment due</td></tr><tr><td>Deferred Second Mortgage</td><td>Up to 5% of loan amount</td><td>Due when you sell, refi, or pay off first mortgage</td><td>Minimal (no monthly payment, but balance owed)</td><td>Buyers who need flexibility but can repay later</td><td>Balloon payment at sale can reduce net proceeds</td></tr><tr><td>Repayable Second Mortgage</td><td>Varies widely</td><td>Monthly payments, often at below-market rates</td><td>Increases DTI by payment amount</td><td>Buyers with income room who want lower total interest</td><td>Can push DTI over approval thresholds</td></tr><tr><td>Matched Savings (IDA)</td><td>$2,000–$8,000 typical match</td><td>None-you keep matched funds</td><td>None</td><td>Buyers with 12–24 months to save</td><td>Requires consistent deposits; early withdrawal forfeits match</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -146,8 +146,8 @@ The path to homeownership doesn't always look the way you expected. Saving a ful
 
 ## Sources & References
 
-- [CFPB — Down Payment Assistance Overview](https://www.consumerfinance.gov/owning-a-home/) — explains DPA options and homebuying costs
-- [USA.gov — Help Buying a Home](https://www.usa.gov/buying-home) — federal resource on assistance programs for homebuyers
+- [CFPB, Down Payment Assistance Overview](https://www.consumerfinance.gov/owning-a-home/), explains DPA options and homebuying costs
+- [USA.gov, Help Buying a Home](https://www.usa.gov/buying-home), federal resource on assistance programs for homebuyers
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
@@ -163,6 +163,6 @@ The path to homeownership doesn't always look the way you expected. Saving a ful
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

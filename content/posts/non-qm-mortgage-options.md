@@ -92,9 +92,9 @@ If you want to go deeper on the mechanics before you start shopping loans, a gui
 
 ## Sources & References
 
-- [CFPB — Ability-to-Repay and Qualified Mortgage Rule](https://www.consumerfinance.gov/rules-policy/regulations/1026/43/) — Defines QM rule requirements that non-QM loans don't meet
-- [CFPB — What is a Qualified Mortgage?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-qualified-mortgage-en-1789/) — Explains QM standards and lender protections
-- [Fannie Mae — Selling Guide eligibility overview](https://singlefamily.fanniemae.com/originating-underwriting) — Describes GSE loan purchase requirements
+- [CFPB, Ability-to-Repay and Qualified Mortgage Rule](https://www.consumerfinance.gov/rules-policy/regulations/1026/43/), Defines QM rule requirements that non-QM loans don't meet
+- [CFPB, What is a Qualified Mortgage?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-qualified-mortgage-en-1789/), Explains QM standards and lender protections
+- [Fannie Mae, Selling Guide eligibility overview](https://singlefamily.fanniemae.com/originating-underwriting), Describes GSE loan purchase requirements
 
 ---
 
@@ -102,6 +102,6 @@ If you want to go deeper on the mechanics before you start shopping loans, a gui
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 
