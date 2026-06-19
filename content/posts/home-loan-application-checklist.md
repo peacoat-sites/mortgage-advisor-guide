@@ -25,13 +25,11 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 
 ---
+You're sitting across from a loan officer, folder in hand, feeling prepared. Then they ask for your past two years of W-2s, your most recent 30 days of pay stubs, statements for every bank account you own, and proof of any gift funds you're using toward the down payment. You hand over three of the five items and watch their expression shift. That moment, scrambling through your phone and email looking for documents you didn't know you needed, is exactly what this guide prevents.
 
-You're sitting across from a loan officer, folder in hand, feeling prepared. Then they ask for your past two years of W-2s, your most recent 30 days of pay stubs, statements for every bank account you own, and proof of any gift funds you're using toward the down payment. You hand over three of the five items and watch their expression shift. That moment, where you're suddenly scrambling through your phone and email looking for documents you didn't know you needed, is exactly what this guide is designed to prevent.
-
-A mortgage application isn't complicated. It's just thorough. Lenders are required to verify nearly every financial claim you make, and the documentation standards are stricter than most borrowers expect. Missing one piece doesn't usually kill your loan, but it does slow everything down, sometimes by weeks, and in a competitive market that can mean losing the house.
+A mortgage application isn't complicated. It's thorough. Lenders are required to verify nearly every financial claim you make, and the documentation standards are stricter than most borrowers expect. Missing one piece doesn't usually kill your loan, but it does slow things down. Sometimes by weeks. In a competitive market, that can mean losing the house.
 
 ---
-
 
 <div class="value-module">
   <div class="vm-head">Document Readiness Checklist With Thresholds</div>
@@ -46,9 +44,9 @@ A mortgage application isn't complicated. It's just thorough. Lenders are requir
 
 Before you resent the paperwork, understand what's driving it. Since the Dodd-Frank Act tightened lending standards after the 2008 housing crisis, lenders are legally required to verify a borrower's ability to repay. This is called the Ability-to-Repay rule, and it puts the burden of proof on you.
 
-Your loan file gets reviewed not just by the loan officer, but by an underwriter, and often a second underwriter if the loan is going to Fannie Mae or Freddie Mac. Each set of eyes is looking for inconsistencies. A large deposit in your checking account that doesn't match your documented income? That triggers a paper trail request. A gap in employment? You'll need a written explanation. A name spelling that's slightly different on two documents? Believe it or not, that can cause delays.
+Your loan file gets reviewed not just by the loan officer, but by an underwriter, and often a second underwriter if the loan is going to Fannie Mae or Freddie Mac. Each set of eyes is looking for inconsistencies. A large deposit in your checking account that doesn't match your documented income? That triggers a paper trail request. A gap in employment? You'll need a written explanation. A name that's spelled slightly differently on two documents? Believe it or not, that can cause delays.
 
-I've seen borrowers with excellent credit and plenty of assets lose weeks of time simply because they couldn't document where a $4,000 deposit came from three months earlier. The scrutiny is real, and it's thorough.
+I've seen borrowers with excellent credit and plenty of assets lose weeks of time simply because they couldn't document where a $4,000 deposit came from three months earlier. The scrutiny is real.
 
 ---
 
@@ -56,15 +54,13 @@ I've seen borrowers with excellent credit and plenty of assets lose weeks of tim
 
 > **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Start here. Before a lender can do anything, they need to verify who you are.
 
-You'll need a **government-issued photo ID**, typically a driver's license or passport. If you've recently changed your name, bring documentation like a marriage certificate to explain any discrepancies between your ID and other records.
+You'll need a government-issued photo ID, typically a driver's license or passport. If you've recently changed your name, bring documentation like a marriage certificate to explain any discrepancies between your ID and other records.
 
-You'll also need your **Social Security number**. The lender will use this to pull your credit report, verify your employment history, and check for any tax liens or public records. If you've had a name change or multiple addresses in recent years, be prepared for the verification process to take a bit longer.
+You'll also need your Social Security number. The lender uses this to pull your credit report, verify your employment history, and check for any tax liens or public records. If you've had a name change or multiple addresses in recent years, be prepared for the verification process to take longer.
 
-For non-U.S. citizens, lenders will want to see your visa, permanent resident card, or Employment Authorization Document. Loan eligibility for non-citizens varies by loan type, so consult with your lender early.
+For non-U.S. citizens, lenders will want to see your visa, permanent resident card, or Employment Authorization Document. Loan eligibility varies by loan type, so consult with your lender early.
 
 ---
 
@@ -83,7 +79,7 @@ This is where most borrowers hit friction, especially if their income situation 
 - Year-to-date profit and loss statement, often prepared by a CPA
 - Business bank statements for 12 to 24 months
 
-Self-employment income is averaged over two years, and lenders use the net income after deductions, not gross revenue. If you write off significant expenses, your qualifying income may be substantially lower than what you actually earn. I've had clients who made $200,000 in gross revenue but qualified as if they made $60,000 because of their deduction strategy. It's a real tension between tax efficiency and borrowing power.
+Self-employment income is averaged over two years, and lenders use net income after deductions, not gross revenue. If you write off significant expenses, your qualifying income may be substantially lower than what you actually earn. I've had clients who made $200,000 in gross revenue but qualified as if they made $60,000 because of their deduction strategy. That's a real tension between tax efficiency and borrowing power.
 
 **Other income types that require documentation:**
 - Social Security or disability: Award letter from SSA
@@ -124,7 +120,7 @@ Once you have a property under contract, a second layer of documentation kicks i
 
 The lender will order an appraisal, a title search, and often a flood zone certification independently. You don't arrange these, but you do need to respond quickly when they ask for additional information or clarifications that come out of those reports.
 
-If you're buying a condo, your lender will also need documentation from the homeowners association, things like the HOA's master insurance policy, budget, reserve study, and pending litigation disclosure. Condo approvals can take extra time, so flag this early.
+If you're buying a condo, your lender will also need documentation from the homeowners association: the HOA's master insurance policy, budget, reserve study, and pending litigation disclosure. Condo approvals can take extra time, so flag this early.
 
 ---
 
@@ -161,9 +157,6 @@ If you want a resource to work through alongside this, [Freddie Mac's home buyer
 
 ---
 
-
----
-
 A mortgage application rewards preparation more than almost any other financial process I know. You can't control interest rates, appraisal outcomes, or title issues. But you can control whether your file is complete and organized from day one. The borrowers I've watched sail through closings weren't always the ones with the highest incomes or the best credit scores. They were the ones who showed up ready, with every document already in the folder. That's the advantage you can actually build before you ever walk through a lender's door.
 
 ## Helpful Resources
@@ -187,8 +180,6 @@ A mortgage application rewards preparation more than almost any other financial 
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
@@ -197,4 +188,3 @@ A mortgage application rewards preparation more than almost any other financial 
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

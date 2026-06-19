@@ -25,16 +25,15 @@ author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
 
 ---
-
 Nobody tells you the real number until you're three days from closing.
 
 I've watched this play out hundreds of times from the underwriting side of the desk. A buyer spends six months obsessing over the purchase price, negotiates hard to save $5,000 on the home, then gets blindsided by a Loan Estimate showing $14,000 in closing costs they didn't see coming. The shock is real. The scramble for cash is real. And almost all of it is preventable if someone just walks you through what you're actually paying for before you get to the table.
 
 So let's do that.
 
-The short answer, before we get into specifics: most home buyers pay between 2% and 5% of the loan amount in closing costs. On a $350,000 mortgage, that's roughly $7,000 to $17,500. The range is wide because closing costs vary significantly by state, loan type, lender, and even which title company gets selected. I'll be honest, the 2% floor is optimistic for most buyers I've seen. Something closer to 3% to 4% is more realistic in most markets, and in high-cost areas with transfer taxes (hello, New York and Maryland), you can blow past 5% without blinking.
+The short answer: most home buyers pay between 2% and 5% of the loan amount in closing costs. On a $350,000 mortgage, that's roughly $7,000 to $17,500. The range is wide because closing costs vary significantly by state, loan type, lender, and which title company gets selected. I'll be honest, the 2% floor is optimistic for most buyers I've seen. Something closer to 3% to 4% is more realistic in most markets, and in high-cost areas with transfer taxes (hello, New York and Maryland), you can blow past 5% without blinking.
 
-What surprised me when I first started breaking these down was just how many distinct line items get lumped under the umbrella of "closing costs." It's not one fee. It's closer to fifteen or twenty. Some are negotiable. Some are fixed by law. Some are lender charges, some go to third parties, and a few are technically prepaid expenses rather than fees at all. The distinction matters.
+What surprised me when I first started breaking these down was just how many distinct line items get lumped under "closing costs." It's not one fee. It's closer to fifteen or twenty. Some are negotiable. Some are fixed by law. Some come from your lender, some go to third parties, and a few are technically prepaid expenses rather than fees at all.
 
 ## The Two Big Buckets: Lender Fees vs. Third-Party Costs
 
@@ -46,13 +45,9 @@ Third-party costs are charges from vendors who aren't your lender. Title insuran
 
 Other third-party fees include the appraisal (typically $400 to $700 for a standard single-family home), a home inspection if you haven't paid it upfront, attorney fees in states that require an attorney at closing (about a dozen states do), recording fees charged by the county to officially record the deed and mortgage, and transfer taxes.
 
-Transfer taxes deserve special mention because they can be enormous and are almost never adequately explained to buyers. Some states charge nothing. Pennsylvania charges 2% of the purchase price (usually split with the seller). New York City adds its own transfer tax on top of the state's. Maryland's recordation and transfer taxes can add up to 1% or more of the purchase price for the buyer's share. If you're buying in a state with significant transfer taxes, get that number before you make an offer.
+Transfer taxes deserve special mention because they can be enormous and are almost never adequately explained to buyers. Some states charge nothing. Pennsylvania charges 2% of the purchase price, usually split with the seller. New York City adds its own transfer tax on top of the state's. Maryland's recordation and transfer taxes can add up to 1% or more of the purchase price for the buyer's share. If you're buying in a state with significant transfer taxes, get that number before you make an offer.
 
 ## The Prepaids: Not Fees, But Still Cash Out of Pocket
-
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where I see the most confusion. Prepaid items aren't really "costs" in the traditional sense. You'd owe them eventually anyway. But they're due at closing, which means they feel like costs because they drain the same bank account.
 
@@ -74,7 +69,7 @@ Title and settlement fees are negotiable in most states (not all, some states re
 
 The appraisal fee goes to an independent appraiser, and your lender is required to use an appraisal management company after the 2010 reforms, so there's very little you can do to negotiate that number.
 
-Transfer taxes are set by law. Non-negotiable. Some sellers will cover part of them if the local custom or a motivated seller allows for it, but don't count on it.
+Transfer taxes are set by law. You can't negotiate them. Some sellers will cover part of them if the local custom or a motivated seller allows for it, but don't count on it.
 
 You can also ask the seller to pay a portion of your closing costs as part of your offer. This is called a seller concession, and lenders cap how much a seller can contribute (typically 3% to 6% of the purchase price for conventional loans, depending on your down payment). In a slow market, this is a reasonable ask. In a competitive one, it may cost you the deal.
 
@@ -90,11 +85,6 @@ USDA loans have their own upfront guarantee fee (currently 1% of the loan) plus 
 
 None of this makes these loans bad choices. The VA loan in particular is one of the best mortgage products in existence for eligible borrowers. But go in knowing what these fees are.
 
----
-
-
----
-
 The best thing you can do right now, even before you've found a home, is get a ballpark Loan Estimate from two or three lenders. You don't need to be under contract to ask. Any competent loan officer can run a preliminary estimate based on your target price range, and that one document will tell you more about your actual costs than anything else you'll read.
 
 ## Helpful Resources
@@ -105,23 +95,15 @@ The best thing you can do right now, even before you've found a home, is get a b
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
 
-
 *Photo: [Adriana Beckova](https://www.pexels.com/@adriana-beckova-1584864721) via Pexels*
-
----
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
----
-
----
-
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

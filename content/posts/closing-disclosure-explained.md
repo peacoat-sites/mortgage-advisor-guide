@@ -25,7 +25,6 @@ author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
 
 ---
-
 Most people spend more time reading the menu at a new restaurant than they spend reading their Closing Disclosure. I've watched borrowers sign a stack of documents at the closing table, Closing Disclosure included, without really understanding what they agreed to. And I get it: by that point you're exhausted, excited, and trusting that somebody caught the details. But here's what I wish more borrowers knew before that moment arrived: the Closing Disclosure is the single most important document in your entire mortgage transaction, and you legally have three business days to review it before anyone can ask you to sign anything. That window exists for a reason. Use it.
 
 
@@ -40,67 +39,60 @@ Most people spend more time reading the menu at a new restaurant than they spend
 
 ## What the Closing Disclosure Actually Is
 
-The Closing Disclosure (CD) is a five-page federal form that lays out the final terms of your mortgage loan. It replaced the old HUD-1 Settlement Statement back in 2015 as part of the TRID rule (TILA-RESPA Integrated Disclosure), and the change was genuinely an improvement. The form is standardized, which means your lender can't design it to hide things. Every fee, every rate, every term is in a specific place on a specific page, whether you're borrowing from a credit union in Vermont or a national lender in Texas.
+The Closing Disclosure (CD) is a five-page federal form that lays out the final terms of your mortgage loan. It replaced the old HUD-1 Settlement Statement back in 2015 as part of the TRID rule (TILA-RESPA Integrated Disclosure), and it was genuinely an upgrade. The form is standardized, which means your lender can't design it to hide things. Every fee, every rate, every term is in a specific place on a specific page, whether you're borrowing from a credit union in Vermont or a national lender in Texas.
 
-What surprised me when I first started working with the new form was how much information it actually contains that borrowers skip. Your loan amount, interest rate, whether your rate can adjust, whether you have a prepayment penalty, whether there's a balloon payment, your projected monthly payment broken down into principal, interest, mortgage insurance, and escrow: it's all there. On page one. Before you ever get to the fees.
+What struck me when I first started working with the new form was how much information it actually contains that borrowers skip over. Your loan amount, interest rate, whether your rate can adjust, whether you have a prepayment penalty, whether there's a balloon payment, your projected monthly payment broken down into principal, interest, mortgage insurance, and escrow: it's all there on page one, before you even get to the fees.
 
-The CD also shows your cash to close, which is the actual dollar amount you need to bring to the closing table. That number is not the same as your down payment. It includes your down payment plus closing costs minus any credits or deposits you've already made. I've seen borrowers show up underfunded because they confused the two.
+The CD also shows your cash to close, which is the actual dollar amount you need to bring to the closing table. That number isn't the same as your down payment. It includes your down payment plus closing costs minus any credits or deposits you've already made. I've seen borrowers show up underfunded because they confused the two.
 
 ## How to Compare Your Closing Disclosure to Your Loan Estimate
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-This is where most borrowers leave money on the table. When you applied for your mortgage, you received a Loan Estimate (LE) within three business days. The Closing Disclosure is meant to be the final version of that estimate, and the law puts real limits on how much certain fees can change between the two documents.
+This is where most borrowers leave money on the table. When you applied for your mortgage, you got a Loan Estimate (LE) within three business days. The Closing Disclosure is supposed to be the final version of that estimate, and the law puts real limits on how much certain fees can change between the two.
 
 Here's what you need to check, side by side:
 
-- **Your interest rate and loan terms:** These should match exactly what you locked in. If your rate is different and you locked, that's a problem.
-- **Origination charges:** These are capped. Lender fees, origination fees, and points cannot increase at all from the Loan Estimate to the Closing Disclosure. Zero tolerance. If they went up, your lender has to eat the difference.
-- **Third-party services you couldn't shop for:** These fees (like the appraisal) can increase by no more than 10% combined from what was quoted.
-- **Prepaid interest, homeowner's insurance, and escrow reserves:** These can change, and lenders have more flexibility here. But you should still understand why they changed.
+- **Your interest rate and loan terms:** These should match exactly what you locked in. If your rate is different and you locked, something's wrong.
+- **Origination charges:** These are capped. Lender fees, origination fees, and points cannot increase at all from the Loan Estimate to the Closing Disclosure. Zero tolerance. If they went up, your lender eats the difference.
+- **Third-party services you couldn't shop for:** These fees, like the appraisal, can increase by no more than 10% combined from what was quoted.
+- **Prepaid interest, homeowner's insurance, and escrow reserves:** These can change, and lenders have more flexibility here. But you should still understand why.
 
 The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) has resources that explain borrower rights in the mortgage process, including what protections apply during the closing disclosure period. Read them before your closing, not after.
 
 ## Breaking Down All Five Pages
 
-Page one is the overview: loan terms, projected payments, and closing costs totals. Spend real time here.
+**Page one** is the overview: loan terms, projected payments, and closing costs totals. Spend real time here.
 
-Page two is the full fee breakdown, split into categories. Section A covers origination charges. Sections B through H cover everything else, from appraisal fees to title insurance to recording fees. This is where you look for duplicates, junk fees, or charges that weren't on your Loan Estimate.
+**Page two** is the full fee breakdown, split into categories. Section A covers origination charges. Sections B through H cover everything else, from appraisal fees to title insurance to recording fees. This is where you look for duplicates, junk fees, or charges that weren't on your Loan Estimate.
 
-Page three shows your cash to close calculation and a summary of all transactions. It also shows what the seller is paying, if anything, and any credits applied to your account.
+**Page three** shows your cash to close calculation and a summary of all transactions. It also shows what the seller is paying, if anything, and any credits applied to your account.
 
-Page four covers loan disclosures. This is where you'll find out if your loan has a demand feature (meaning the lender could call the loan due early under certain conditions), whether it's assumable, and details about escrow. Don't skip this page. In 16 years of underwriting, I've seen borrowers genuinely surprised by things on page four that were sitting right there in plain text.
+**Page four** covers loan disclosures. This is where you'll find out if your loan has a demand feature, meaning the lender could call the loan due early under certain conditions. It also shows whether it's assumable and details about escrow. Don't skip this one. In 16 years of underwriting, I've seen borrowers genuinely surprised by things on page four that were sitting right there in plain text.
 
-Page five has the loan calculations: total interest paid over the life of the loan, the annual percentage rate (APR), and the total payments figure. The APR is higher than your interest rate because it reflects the cost of the loan including fees. If your APR is dramatically higher than your rate, that tells you something about your fee structure.
+**Page five** has the loan calculations: total interest paid over the life of the loan, the annual percentage rate (APR), and the total payments figure. The APR is higher than your interest rate because it reflects the cost of the loan including fees. If your APR is dramatically higher than your rate, that tells you something about your fee structure.
 
 ## The Three-Day Rule and What It Actually Means
 
-Your lender must deliver the Closing Disclosure at least three business days before closing. Business days in this context means all calendar days except Sundays and federal public holidays. So if you're scheduled to close on a Monday, your lender must get you the CD by the prior Wednesday at the latest. If you receive it Thursday, your closing can't legally happen until Tuesday.
+Your lender must deliver the Closing Disclosure at least three business days before closing. Business days means all calendar days except Sundays and federal public holidays. So if you're scheduled to close on a Monday, your lender must get you the CD by the prior Wednesday at the latest. If you receive it Thursday, your closing can't legally happen until Tuesday.
 
-This rule exists because Congress decided, correctly, that three days is the minimum time a reasonable person needs to review a legally binding financial document. Don't let anyone pressure you to waive that window. I'll be honest: the pressure can be subtle. A loan officer might say "we're cutting it close on timing" or "the seller needs this done by Friday." Those are not your problems to solve by giving up your review time.
+Congress got this one right. Three days is the bare minimum a reasonable person needs to review a legally binding financial document. Don't let anyone pressure you to waive that window. The pressure can be subtle, too. A loan officer might say "we're cutting it close on timing" or "the seller needs this done by Friday." Those are not your problems to solve by giving up your review time.
 
-There are only three changes that can reset your three-day clock: the APR increases by more than 1/8 of a percent (1/4 percent for irregular payment loans), the loan product changes, or a prepayment penalty is added. If any of those happen, the clock starts over. Everything else, even significant fee changes, does not reset the clock. Which is all the more reason to use your original three days carefully.
+Only three changes actually reset your three-day clock: the APR increases by more than 1/8 of a percent (1/4 percent for irregular payment loans), the loan product changes, or a prepayment penalty gets added. Everything else, even significant fee changes, doesn't reset the clock. Which is all the more reason to use your original three days carefully.
 
 ## A Step-by-Step Review Process for Your Three Days
 
-Don't just read the CD once and nod. Work through it deliberately.
+Don't just read it once and nod. Work through it deliberately.
 
 1. **Pull out your Loan Estimate.** Set the two documents side by side, either on paper or in two windows on your screen.
-2. **Confirm your loan terms on page one.** Rate, loan amount, loan type, whether the rate is fixed or adjustable. Any surprises here need an immediate call to your loan officer.
-3. **Go line by line through page two fees.** Use a highlighter for anything that wasn't on your Loan Estimate or that increased. Ask for written explanations.
-4. **Check your cash to close on page three.** Confirm your lender credits, seller credits, and earnest money deposit are all accurately reflected.
-5. **Read page four completely.** Yes, all of it. Look for anything about a demand feature, escrow waivers, or loan assumptions.
+2. **Confirm your loan terms on page one.** Rate, loan amount, loan type, whether the rate is fixed or adjustable. Any surprises need an immediate call to your loan officer.
+3. **Go line by line through page two fees.** Use a highlighter for anything that wasn't on your Loan Estimate or that went up. Ask for written explanations.
+4. **Check your cash to close on page three.** Confirm your lender credits, seller credits, and earnest money deposit are all there.
+5. **Read page four completely.** All of it. Look for anything about a demand feature, escrow waivers, or loan assumptions.
 6. **Note the APR and total interest paid on page five.** This gives you a reality check on what this loan actually costs over time.
-7. **Submit questions in writing.** Email your loan officer or processor rather than calling. That creates a paper trail if there's a dispute.
+7. **Submit questions in writing.** Email your loan officer or processor rather than calling. Paper trail beats a phone call if there's a dispute.
 
 [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) include tools and guides that walk borrowers through the closing process in plain language. Worth bookmarking before you get to this stage.
 
-If you want a physical reference to work through alongside your documents, a home-buying guide like one of the well-reviewed mortgage and real estate handbooks [available on Amazon](https://www.amazon.com/s?k=home+buying+guide+mortgage) can help you understand the terminology before the pressure of closing day arrives. (The site may earn a commission from qualifying purchases.)
-
----
-
+If you want a physical reference to work through alongside your documents, a home-buying guide like one of the well-reviewed mortgage and real estate handbooks [available on Amazon](https://www.amazon.com/s?k=home+buying+guide+mortgage) can help you understand the terminology before the pressure of closing day hits. (This site may earn a commission from qualifying purchases.)
 
 ---
 
@@ -113,7 +105,6 @@ The Closing Disclosure isn't bureaucratic paperwork. It's the final record of ev
 - **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
-
 
 ---
 
@@ -135,4 +126,3 @@ The Closing Disclosure isn't bureaucratic paperwork. It's the final record of ev
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

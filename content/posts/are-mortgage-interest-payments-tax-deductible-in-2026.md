@@ -25,7 +25,6 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 
 ---
-
 The mortgage interest deduction has survived more "this is definitely its last year" predictions than I can count. Here we are in 2026, and it's still alive, still useful for a specific slice of homeowners, and still wildly misunderstood by almost everyone who thinks they're getting it.
 
 Let me tell you what most coverage skips: the deduction doesn't help you unless you're already itemizing, and most American households stopped doing that after the Tax Cuts and Jobs Act of 2017 nearly doubled the standard deduction. If you bought a $400,000 home in 2024 with a 7% rate, your annual mortgage interest in year one is roughly $27,000. The 2026 standard deduction for married filing jointly is $30,000 (indexed for inflation from the 2025 figure of $29,200). Do the math. You'd need significant property taxes, charitable donations, or state income taxes stacked on top of that mortgage interest just to clear the itemizing threshold. Millions of homeowners never do.
@@ -37,7 +36,7 @@ That's the part your loan officer glossed over at closing.
   <div class="vm-head">Itemizing Break-Even Calculator</div>
   <div class="vm-body">
     <p class="vm-intro">Use this worksheet to determine whether your mortgage interest actually triggers any tax benefit in 2026.</p>
-    <table><caption>Will You Clear the Standard Deduction Threshold?</caption><thead><tr><th>Line Item</th><th>Your Amount</th><th>Example (MFJ, $450K loan at 6.5%)</th></tr></thead><tbody><tr><td>A. Annual mortgage interest paid</td><td>$________</td><td>$28,500</td></tr><tr><td>B. State/local taxes (SALT, capped at $10,000)</td><td>$________</td><td>$10,000</td></tr><tr><td>C. Charitable contributions</td><td>$________</td><td>$3,200</td></tr><tr><td>D. Medical expenses exceeding 7.5% of AGI</td><td>$________</td><td>$0</td></tr><tr><td>E. Other itemized deductions</td><td>$________</td><td>$0</td></tr><tr><td><strong>F. Total itemized (A+B+C+D+E)</strong></td><td>$________</td><td><strong>$41,700</strong></td></tr><tr><td>G. 2026 Standard deduction for your filing status</td><td>$________</td><td>$30,000 (MFJ est.)</td></tr><tr><td><strong>H. Benefit from itemizing (F minus G)</strong></td><td>$________</td><td><strong>$11,700</strong></td></tr><tr><td><strong>I. Actual tax savings (H × your marginal rate)</strong></td><td>$________</td><td><strong>$2,574</strong> (at 22%)</td></tr></tbody></table><ul><li><strong>If Line H is zero or negative:</strong> The mortgage interest deduction provides you no tax benefit-take the standard deduction instead.</li><li><strong>Key insight:</strong> Only the amount <em>above</em> the standard deduction saves you money. In the example, $41,700 in deductions yields just $2,574 in actual tax reduction-not $6,270 (22% of $28,500).</li><li><strong>2026 standard deduction estimates:</strong> Single ~$15,000 | MFJ ~$30,000 | Head of Household ~$22,500</li></ul>
+    <table><caption>Will You Clear the Standard Deduction Threshold?</caption><thead><tr><th>Line Item</th><th>Your Amount</th><th>Example (MFJ, $450K loan at 6.5%)</th></tr></thead><tbody><tr><td>A. Annual mortgage interest paid</td><td>$________</td><td>$28,500</td></tr><tr><td>B. State/local taxes (SALT, capped at $10,000)</td><td>$________</td><td>$10,000</td></tr><tr><td>C. Charitable contributions</td><td>$________</td><td>$3,200</td></tr><tr><td>D. Medical expenses exceeding 7.5% of AGI</td><td>$________</td><td>$0</td></tr><tr><td>E. Other itemized deductions</td><td>$________</td><td>$0</td></tr><tr><td><strong>F. Total itemized (A+B+C+D+E)</strong></td><td>$________</td><td><strong>$41,700</strong></td></tr><tr><td>G. 2026 Standard deduction for your filing status</td><td>$________</td><td>$30,000 (MFJ est.)</td></tr><tr><td><strong>H. Benefit from itemizing (F minus G)</strong></td><td>$________</td><td><strong>$11,700</strong></td></tr><tr><td><strong>I. Actual tax savings (H × your marginal rate)</strong></td><td>$________</td><td><strong>$2,574</strong> (at 22%)</td></tr></tbody></table><ul><li><strong>If Line H is zero or negative:</strong> The mortgage interest deduction provides you no tax benefit, take the standard deduction instead.</li><li><strong>Key insight:</strong> Only the amount <em>above</em> the standard deduction saves you money. In the example, $41,700 in deductions yields just $2,574 in actual tax reduction, not $6,270 (22% of $28,500).</li><li><strong>2026 standard deduction estimates:</strong> Single ~$15,000 | MFJ ~$30,000 | Head of Household ~$22,500</li></ul>
     <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
@@ -48,13 +47,9 @@ The mortgage interest deduction lets you subtract the interest you paid on a qua
 
 For 2026, the deduction applies to interest on up to $750,000 of mortgage debt on a primary residence and one second home combined. That $750,000 cap has been in place since the TCJA took effect in 2018 and replaces the old $1 million limit that applied to mortgages originated before December 15, 2017. If your loan predates that cutoff, you're still grandfathered at $1 million. Keep your original closing documents if you're in that boat. I've seen people lose that grandfathered status by refinancing carelessly into a new loan that reset the clock.
 
-One more thing the limit applies to: the outstanding principal balance, not the original loan amount. If you borrowed $800,000 in 2022 and you've paid it down to $760,000, you're still over the $750,000 cap and your deduction will be slightly reduced. The IRS worksheet in Publication 936 walks through the exact proration calculation, and it's not intuitive.
+One more thing: the limit applies to the outstanding principal balance, not the original loan amount. If you borrowed $800,000 in 2022 and you've paid it down to $760,000, you're still over the $750,000 cap and your deduction gets slightly reduced. The IRS worksheet in Publication 936 walks through the proration calculation, and it's not intuitive.
 
 ## The TCJA Expiration Question You're Probably Here to Answer
-
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where 2026 gets genuinely complicated, and where almost every piece of coverage I've read either gets lazy or hedges itself into uselessness.
 
@@ -94,14 +89,9 @@ Your lender will send you a Form 1098 by January 31st each year. Box 1 is the mo
 
 You report the deductible interest on Schedule A (Form 1040). If you have more than one mortgage or a home equity loan, you'll have multiple 1098s to reconcile. The IRS worksheet in Publication 936 handles the combined limit calculation. It's tedious but straightforward if you set aside an hour and don't rush it.
 
-One thing I'll say plainly: if you have a complex situation, a large loan, a HELOC that was partly used for renovation and partly for other things, or a loan that predates the TCJA, pay a CPA to do this once and do it right. The fee is deductible as a business expense if you have one, and the cost of getting the deduction wrong in either direction (claiming too much, missing it entirely) almost always exceeds the cost of professional help. If you want to understand the framework yourself first, IRS Publication 936 is free and more readable than its reputation suggests. (Books like [J.K. Lasser's Your Income Tax](https://www.amazon.com/J-K-Lassers-Income-Tax/dp/1394278543/?tag=contentportfo-20) also do a solid job of walking through the deduction with examples. Disclosure: that's an affiliate link.)
+One thing I'll say plainly: if you have a complex situation, a large loan, a HELOC that was partly used for renovation and partly for other things, or a loan that predates the TCJA, pay a CPA to do this once and do it right. The fee is worth it. Getting the deduction wrong in either direction (claiming too much, missing it entirely) almost always costs more than a professional's hourly rate. If you want to understand the framework yourself first, IRS Publication 936 is free and more readable than its reputation suggests. [J.K. Lasser's Your Income Tax](https://www.amazon.com/J-K-Lassers-Income-Tax/dp/1394278543/?tag=contentportfo-20) also walks through the deduction with real examples.
 
----
-
-
----
-
-Tax law has a way of rewarding people who actually read the fine print rather than accepting the headline version. The mortgage interest deduction is real, still available in 2026, and worth real money to the right borrower. It's just not the universal homeowner benefit it's frequently described as, and walking into it with inflated expectations will cost you either in disappointment or in a misreported return. Know your numbers before you count on it.
+Tax law rewards people who actually read the fine print rather than accepting the headline version. The mortgage interest deduction is real, still available in 2026, and worth real money to the right borrower. It's just not the universal homeowner benefit it's frequently described as. Walk into it with inflated expectations and you'll either be disappointed or you'll misreport your return. Know your numbers first.
 
 ## Helpful Resources
 
@@ -133,4 +123,3 @@ Tax law has a way of rewarding people who actually read the fine print rather th
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 - **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89), Whole-home 4-pack of 10-year battery-powered detectors, covers a standard 3-bedroom home.
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-

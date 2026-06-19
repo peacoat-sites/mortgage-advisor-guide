@@ -25,22 +25,19 @@ author_title: "Credit Writer"
 author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
 
 ---
-
 You filled out the application. You answered every question. You uploaded what felt like half your filing cabinet. And then the loan processor came back asking for something else, something you didn't expect, and now you're wondering if this whole process is designed to make you feel like you're doing it wrong. It's not. Mortgage income documentation is genuinely one of the most confusing parts of buying a home, and the confusion is rarely your fault. Lenders are required by law to verify that you can repay what you're borrowing, which sounds simple until you realize that "proving income" looks completely different depending on how you earn it.
 
 ## Why Lenders Care So Much About Income Documentation
 
-Here's the short version: after the 2008 financial crisis, the mortgage industry was reshaped by a set of rules called the Ability-to-Repay standard, part of the Dodd-Frank Act. Lenders are now legally required to make a reasonable, good-faith determination that you can actually pay back your loan. That means they can't just take your word for it.
+After the 2008 financial crisis, the mortgage industry got reshaped by the Ability-to-Repay standard, part of the Dodd-Frank Act. Lenders now have a legal obligation to make a reasonable, good-faith determination that you can actually pay back what you borrow. They can't just take your word for it.
 
-What they're really doing when they review your documents is calculating something called your Debt-to-Income ratio, or DTI. This is the percentage of your gross monthly income that goes toward monthly debt payments, including your new mortgage. Most conventional loans want to see a DTI at or below 43%, though some loan programs allow higher with compensating factors. A lower DTI signals to an underwriter that you have enough breathing room in your budget to handle a mortgage payment even if something goes sideways.
+What they're really calculating when they review your documents is your Debt-to-Income ratio, or DTI. This is the percentage of your gross monthly income that goes toward monthly debt payments, including the new mortgage. Most conventional loans want to see a DTI at or below 43%, though some loan programs allow higher with compensating factors. A lower DTI tells an underwriter you've got enough breathing room in your budget to handle a mortgage payment even if something goes sideways.
 
-Here's what I tell people who feel overwhelmed at this stage: the documentation isn't about distrust. It's about building a paper trail that tells a consistent story. Your job is to make sure the story makes sense from the outside looking in.
+The documentation isn't about distrust. It's about building a paper trail that tells a consistent story. Your job is to make sure the story makes sense from the outside looking in.
 
 ## W-2 Employees: Simpler, But Not Simple
 
 > **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 If you have a traditional job where your employer withholds taxes and you receive a W-2 at year-end, you're starting from the most straightforward position. But "straightforward" doesn't mean "hands off."
 
@@ -53,7 +50,7 @@ Here's the standard package a lender will typically want from W-2 employees:
 
 You might be wondering why they need tax returns if you already have W-2s. The answer is that returns reveal the full picture. Tax returns show things like unreimbursed business expenses, which reduce your qualifying income, and additional income sources that might help you. They also catch inconsistencies. If your W-2 shows $85,000 in wages but your return shows significant deductions that bring your adjusted gross income much lower, an underwriter needs to account for that.
 
-Overtime, bonuses, and commission income get treated differently than base salary. If you make $60,000 base but count on $20,000 in commission, most lenders will only count that commission if it's been consistent for at least two years and looks likely to continue. They'll average the two-year history rather than using just the most recent year. This surprises a lot of people who had a great year and expected full credit for every dollar they earned.
+Overtime, bonuses, and commission income get treated differently than base salary. If you make $60,000 base but count on $20,000 in commission, most lenders will only count that commission if it's been consistent for at least two years and looks likely to continue. They'll average the two-year history rather than using just the most recent year. This catches a lot of people off guard who had a great year and expected full credit for every dollar they earned.
 
 ## Self-Employed and Freelance Borrowers: Prepare to Document Everything
 
@@ -88,7 +85,7 @@ Not all income is treated equally. Here's a practical breakdown of common income
 | Gig Economy / 1099 Income | Treated as self-employed | Two-year history typically required; highly variable income gets averaged |
 | Retirement / Pension | Yes | Award letter or account statement showing amount and frequency |
 
-You might be wondering about income that isn't on this list. The general rule is that lenders want to see income that is stable, ongoing, and documentable. If you can't prove it with paper, they generally can't use it.
+The general rule is that lenders want income that is stable, ongoing, and documentable. If you can't prove it with paper, they generally can't use it.
 
 ## A Step-by-Step Approach to Gathering Your Documents
 
@@ -106,7 +103,7 @@ Getting your documentation in order before you apply makes the entire process sm
 
 **Step 6: Don't change jobs or income structure during the process.** This is the step people forget. Starting a new job, going from W-2 to self-employed, or taking a pay cut after your application is submitted can send your loan back to underwriting or kill it entirely.
 
-If you're uncertain about any of this, working with a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) before you apply is one of the most underused and genuinely valuable resources available to home buyers. They're free or low-cost and can help you understand what's on your financial profile before a lender sees it.
+Working with a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) before you apply is one of the most underused and genuinely valuable resources available to home buyers. They're free or low-cost and can help you understand what's on your financial profile before a lender sees it.
 
 ## When Your Income Documentation Has Gaps or Complications
 
@@ -114,16 +111,13 @@ Life isn't always clean. Maybe you changed jobs six months ago, or you took time
 
 Lenders call this a Letter of Explanation, or LOE. It's exactly what it sounds like: a written statement from you explaining the circumstance. A job gap because of a medical issue, a career change that resulted in higher pay, a business loss in a prior year that you've since recovered from. The letter won't override the numbers, but it provides context that underwriters are actually allowed to consider.
 
-In my experience, the worst thing you can do is hide a gap or try to paper over it. Underwriters are trained to find inconsistencies. If they discover something that feels like it was obscured, it raises questions about everything else in the file. Honesty and documentation, paired together, solve most problems.
+The worst thing you can do is hide a gap or try to paper over it. Underwriters are trained to find inconsistencies. If they discover something that feels like it was obscured, it raises questions about everything else in the file. Honesty and documentation, paired together, solve most problems.
 
-The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) also oversees guidelines that affect how loans are evaluated at the conforming loan level, and those guidelines do include specific provisions for income documentation flexibility in certain circumstances, including employment gaps related to documented medical conditions. The rules have more nuance than many borrowers expect.
-
----
-
+The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) oversees guidelines that affect how loans are evaluated at the conforming loan level, and those guidelines do include specific provisions for income documentation flexibility in certain circumstances, including employment gaps related to documented medical conditions. The rules have more nuance than many borrowers expect.
 
 ---
 
-The mortgage process can feel like it was designed by someone who wanted to make you second-guess yourself. But understanding what lenders actually need, and why they need it, takes away most of the anxiety. You're not proving you're a good person. You're building a paper record that tells a coherent, honest story about your finances. Get the documents organized, understand how your income type is evaluated, and don't be afraid to ask questions. The loan officer works for you. Use that.
+The mortgage process can feel rigged. But understanding what lenders actually need, and why they need it, takes away most of the anxiety. You're not proving you're a good person. You're building a paper record that tells a coherent, honest story about your finances. Get the documents organized, understand how your income type is evaluated, and don't be afraid to ask questions. The loan officer works for you. Use that.
 
 ## Helpful Resources
 
@@ -132,7 +126,6 @@ The mortgage process can feel like it was designed by someone who wanted to make
 - **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 - **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
-
 
 ---
 
@@ -154,4 +147,3 @@ The mortgage process can feel like it was designed by someone who wanted to make
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 - **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14), Covers the pre-litigation claims process step by step, medical documentation, negotiation tactics, and what to expect.
-

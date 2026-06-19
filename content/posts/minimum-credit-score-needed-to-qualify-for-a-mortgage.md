@@ -25,7 +25,6 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 
 ---
-
 Your credit score is not a verdict on you as a person. I've had to remind myself to say that out loud in underwriting reviews, because the number on the screen can feel deeply personal when it determines whether someone gets approved for a home loan. If you're here because you pulled your score and felt your stomach drop a little, you're in exactly the right place.
 
 Here's what I tell people who come to me with score anxiety: lenders don't use one universal minimum. There are programs with real, government-backed pathways for scores well below what most people assume. But the details matter enormously, and the version of this information you'll get from some loan officers tends to be a little too optimistic about what those pathways actually cost you.
@@ -36,7 +35,7 @@ Let me give you the honest version.
 
 The single most confusing thing about credit score requirements is that they vary dramatically depending on which loan program you're applying for. There's no one national answer.
 
-**FHA loans** are the most forgiving of the major programs. The Federal Housing Administration technically allows scores as low as 500, but that 500-579 range requires a 10% down payment. If your score is 580 or above, you're eligible for the 3.5% minimum down payment. Those numbers come directly from FHA guidelines, but here's the catch that loan officers sometimes leave out: most lenders who originate FHA loans set their own internal minimums, called "overlays," that are stricter than FHA's rules. It's common to see lenders require a 620 or even 640 for an FHA loan, even though the program itself technically permits 580. You may have to shop around more aggressively if your score is in the 580-619 range.
+**FHA loans** are the most forgiving of the major programs. The Federal Housing Administration technically allows scores as low as 500, but that 500-579 range requires a 10% down payment. If your score hits 580 or above, you're eligible for the 3.5% minimum down payment. Those numbers come directly from FHA guidelines, but here's the catch that loan officers sometimes leave out: most lenders who originate FHA loans set their own internal minimums, called "overlays," that are stricter than FHA's rules. It's common to see lenders require a 620 or even 640 for an FHA loan, even though the program itself technically permits 580. You may have to shop around more aggressively if your score is in the 580-619 range.
 
 **Conventional loans** (the type backed by Fannie Mae or Freddie Mac) generally require a minimum score of 620. That's the floor. And unlike FHA, there's no pathway at 500 or 550. But once you're above 620, conventional loans price based on risk, meaning your rate actually gets better as your score climbs. The [Federal Housing Finance Agency](https://www.fhfa.gov/) oversees these guidelines, and Fannie and Freddie's pricing grids are tiered in ways that can significantly affect your monthly payment even within the "qualifying" range.
 
@@ -48,11 +47,9 @@ The single most confusing thing about credit score requirements is that they var
 
 > **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+I saw this constantly in underwriting: a borrower with a 650 score who looked great on paper, and a borrower with a 720 score who had problems I couldn't ignore. Credit score is an input, not the whole application.
 
-
-Something I saw constantly in underwriting: a borrower with a 650 score who looked great on paper, and a borrower with a 720 score who had problems I couldn't ignore. Credit score is an input, not the whole application.
-
-Lenders are simultaneously evaluating your debt-to-income ratio (DTI), the stability and history of your income, your assets and reserves, and the property itself. A 620 score paired with a 28% DTI, two years of W-2 employment at the same company, and 10% down is a very different application than a 620 score with a 48% DTI, six months at a new job, and the minimum 3.5% down. Both borrowers technically "qualify" on paper at many lenders. Only one of them is likely to sail through underwriting.
+Lenders are simultaneously evaluating your debt-to-income ratio (DTI), the stability and history of your income, your assets and reserves, and the property itself. A 620 score paired with a 28% DTI, two years of W-2 employment at the same company, and 10% down is a very different application than a 620 score with a 48% DTI, six months at a new job, and the minimum 3.5% down. Both borrowers technically "qualify" on paper at many lenders. Only one of them is likely to sail through underwriting without hiccups.
 
 The DTI conversation is the one I wish more people had before they applied. Your front-end DTI is your proposed housing payment divided by your gross monthly income. Your back-end DTI includes all monthly debt payments. FHA allows back-end DTI up to 57% in some cases with compensating factors, though I'd encourage serious caution at those levels because the math on your actual monthly cash flow can get uncomfortable fast. Conventional loans are generally stricter, usually capping around 45-50%.
 
@@ -62,11 +59,13 @@ The DTI conversation is the one I wish more people had before they applied. Your
 
 This is the distinction that doesn't come up often enough in these conversations.
 
-You might clear a 620 minimum and get approved. But the interest rate you're quoted at 620 is meaningfully higher than what a 720-score borrower gets on the same loan. We're not talking about fractions of a percent. On a conventional loan, the difference between a 620 and 740 score can easily translate to 0.5 to 1.5 percentage points on your rate, depending on the loan amount, LTV, and market conditions. On a $300,000 mortgage, even a 0.75% rate difference costs you roughly $130-$150 more per month and tens of thousands of dollars over a 30-year term.
+You might clear a 620 minimum and get approved. But the interest rate you're quoted at 620 is meaningfully higher than what a 720-score borrower gets on the same loan. We're not talking about fractions of a percent. On a conventional loan, the difference between a 620 and 740 score can easily translate to 0.5 to 1.5 percentage points on your rate, depending on the loan amount, LTV, and market conditions.
+
+On a $300,000 mortgage, even a 0.75% rate difference costs you roughly $130-$150 more per month and tens of thousands of dollars over a 30-year term.
 
 FHA mitigates some of this because FHA doesn't tier its pricing as aggressively based on credit score. The mortgage insurance premium (MIP) is largely flat regardless of your score, which is why FHA can actually be competitively priced for borrowers in the 580-639 range even though FHA loans carry lifetime MIP if you put less than 10% down. That lifetime MIP is real money you need to account for, and I've seen people focus so much on the interest rate that they don't fully reckon with how MIP adds to total cost.
 
-The honest advice: if your score is in the 620-659 range and you're not under time pressure to buy, it's worth calculating whether 6-12 months of credit improvement gets you to a lower pricing tier. Sometimes it does. Sometimes the home you want today will cost more tomorrow and the math favors moving now. There's no universal answer, which I know isn't what anyone wants to hear.
+The honest advice: if your score is in the 620-659 range and you're not under time pressure to buy, it's worth calculating whether 6-12 months of credit improvement gets you to a lower pricing tier. Sometimes it does. Sometimes the home you want today will cost more tomorrow and the math favors moving now.
 
 ## How to Improve Your Score Before You Apply
 
@@ -82,12 +81,7 @@ One more thing: pull your actual credit reports at AnnualCreditReport.com before
 
 If you want to go deeper on the credit repair mechanics, books like *Credit Repair Kit for Dummies* (available on [Amazon](https://www.amazon.com/s?k=credit+repair+mortgage+home+buying&tag=contentportfo-20)) cover the dispute process in real detail. (Disclosure: this site may earn a commission on purchases through that link.)
 
----
-
-
----
-
-You don't need a perfect score to buy a home. You need enough clarity about where you stand, and enough time to do something about it if you don't. Most people who come to me frustrated about their credit are closer than they think, or have more options than they knew existed. That matters.
+You don't need a perfect score to buy a home. You need enough clarity about where you stand, and enough time to do something about it if you don't. Most people who come to me frustrated about their credit are closer than they think, or have more options than they knew existed.
 
 ## Helpful Resources
 
@@ -118,4 +112,3 @@ You don't need a perfect score to buy a home. You need enough clarity about wher
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-

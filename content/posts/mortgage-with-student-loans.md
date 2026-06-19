@@ -25,26 +25,21 @@ author_title: "Mortgage Writer"
 author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
 
 ---
-
 You sat down with a loan officer last spring, excited about finally buying a house, and walked out confused and deflated. Your income looked fine. Your credit score was decent. But those student loans kept coming up. The loan officer mentioned something about your "debt-to-income ratio" being too high, threw out a few numbers, and suddenly the house you'd been picturing felt a lot further away. If that sounds familiar, you're not alone. I've sat across the table from hundreds of borrowers in exactly that spot, and I can tell you: the situation is almost never as hopeless as it feels in that moment. But you do need to understand what's actually happening under the hood.
 
 ## Why Student Loans Hit Your Mortgage Application So Hard
 
 Here's the core issue. When a lender evaluates whether you can afford a mortgage, they're not just looking at your credit score. They're calculating your debt-to-income ratio, which is your total monthly debt obligations divided by your gross monthly income. Most conventional loans want that number at or below 43 to 45 percent, and some loan programs are stricter. Student loans feed directly into that calculation, and depending on your repayment plan, they can feed in more aggressively than you'd expect.
 
-What most people don't realize is that the number your lender uses for your monthly student loan payment isn't always your actual payment. If you're on an income-driven repayment (IDR) plan and your required monthly payment is $0 or $50, some loan programs will still count a higher hypothetical payment against you. Fannie Mae, for example, will count your actual IDR payment as long as it's greater than zero. Freddie Mac follows similar guidelines but with slightly different nuances depending on the loan type. And if you're in deferment or forbearance, many lenders will impute a payment of 1% of your outstanding balance per month, regardless of what you're actually paying. On a $80,000 loan balance, that's $800 per month hitting your debt-to-income ratio even if your real bill is $0.
+What most people don't realize is that the number your lender uses for your monthly student loan payment isn't always your actual payment. If you're on an income-driven repayment (IDR) plan and your required monthly payment is $0 or $50, some loan programs will still count a higher hypothetical payment against you. Fannie Mae, for example, will count your actual IDR payment as long as it's greater than zero. Freddie Mac follows similar guidelines but with slightly different nuances depending on the loan type. And if you're in deferment or forbearance, many lenders will impute a payment of 1% of your outstanding balance per month, regardless of what you're actually paying. On an $80,000 loan balance, that's $800 per month hitting your debt-to-income ratio even if your real bill is $0.
 
 That single policy has killed more mortgage applications than almost anything else I saw in my years of underwriting.
 
 ## How Different Loan Programs Treat Student Debt Differently
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+This is where it actually gets useful, because not all mortgages play by the same rules.
 
-
-
-This is where it gets genuinely useful, because not all mortgages play by the same rules.
-
-**Conventional loans (Fannie Mae/Freddie Mac):** As mentioned, these programs will generally use your actual monthly payment if you're actively repaying under an IDR plan and the payment is documented. If the payment is $0, they'll typically use 1% of the balance or a fully amortized payment calculated over the loan term, whichever is lower in some cases. The specific calculation depends on the automated underwriting system result and the loan file details.
+**Conventional loans (Fannie Mae/Freddie Mac):** These programs will generally use your actual monthly payment if you're actively repaying under an IDR plan and the payment is documented. If the payment is $0, they'll typically use 1% of the balance or a fully amortized payment calculated over the loan term, whichever is lower in some cases. The specific calculation depends on the automated underwriting system result and the loan file details.
 
 **FHA loans:** The Federal Housing Administration has historically been more conservative here. FHA's current guidelines require lenders to use 0.5% of the outstanding loan balance per month if the actual monthly payment is $0 or not documented. So on that same $80,000 balance, you're looking at $400 per month used in the calculation. That's better than 1%, but it still adds up fast if you have multiple loans.
 
@@ -52,7 +47,7 @@ This is where it gets genuinely useful, because not all mortgages play by the sa
 
 **USDA loans:** These rural development loans generally follow FHA-like guidelines, using 0.5% of the balance if the actual payment is $0 or deferred.
 
-The bottom line: the loan program you apply for can literally be the difference between an approval and a denial. I've seen borrowers qualify easily under VA guidelines who were flat-out rejected under conventional guidelines, with the same income and the same debts.
+The loan program you apply for can literally be the difference between an approval and a denial. I've seen borrowers qualify easily under VA guidelines who were flat-out rejected under conventional guidelines, with the same income and the same debts.
 
 ## The Income-Driven Repayment Strategy You Should Know About
 
@@ -62,11 +57,11 @@ Getting onto an IDR plan like SAVE, PAYE, or IBR can reduce your actual monthly 
 
 That said, there's a catch, and I want to be honest about it. Going on an IDR plan specifically to qualify for a mortgage is a short-term move that can have long-term consequences. IDR plans often result in slower principal paydown and more interest accruing over time. You should run the full numbers before treating IDR as a mortgage strategy rather than a loan management strategy.
 
-One more thing: if you switch repayment plans right before applying for a mortgage, lenders may want to see a history of consistent payments at the new amount. A single statement showing the new IDR payment often isn't enough. Twelve months of documented payment history at the new amount is a much stronger position to be in.
+One more thing: if you switch repayment plans right before applying for a mortgage, lenders may want to see a history of consistent payments at the new amount. A single statement showing the new IDR payment often isn't enough. Twelve months of documented payment history at the new amount puts you in a much stronger position.
 
 ## What to Do Right Now: A Practical Step-by-Step Plan
 
-If you're 6 to 18 months from wanting to buy, here's how I'd approach this:
+If you're 6 to 18 months from wanting to buy, here's how I'd approach this.
 
 **Step 1: Pull your full credit report and your complete student loan picture.** Log into studentaid.gov to see every federal loan, the current balance, the loan servicer, and your repayment status. Know the exact numbers before you talk to any lender.
 
@@ -82,15 +77,13 @@ If you're 6 to 18 months from wanting to buy, here's how I'd approach this:
 
 ## The Credit Score Side of the Equation
 
-Student loans affect your credit score too, and not just your DTI. The relationship is complicated.
+Student loans affect your credit score too, and not just your DTI.
 
 On the positive side, student loans are installment accounts, and having a mix of credit types (installment plus revolving like credit cards) can benefit your score. A long, consistent payment history on student loans is a genuine credit asset.
 
 On the negative side, missed payments on student loans are seriously damaging. Federal student loans typically report to credit bureaus after 90 days of non-payment. Private student loans can report a delinquency after just 30 days. I've reviewed files where one period of missed student loan payments years earlier was still suppressing a borrower's score enough to push them out of the best rate tiers.
 
 If your student loans went into default at any point, that's a more serious conversation to have with a lender directly, because the path to homeownership is longer but usually still possible, just not immediate.
-
-For borrowers who want to dig deeper into how credit scoring works in the context of a mortgage application, a resource like [this home buyer's guide on Amazon](https://www.amazon.com/s?k=home+buying+guide+mortgage&tag=contentportfo-20) can give you a solid foundation before you sit down with a lender. *(Note: this site may earn a commission on purchases made through this link.)*
 
 ## Comparing How Loan Programs Handle Student Loan Payments
 
@@ -103,11 +96,6 @@ For borrowers who want to dig deeper into how credit scoring works in the contex
 
 Guidelines change, and lenders sometimes overlay their own requirements on top of program minimums. Always verify the current treatment with an actual loan officer for your specific scenario.
 
----
-
-
----
-
 The frustrating truth is that student loans and mortgages are both complicated systems, and they interact in ways that aren't intuitive until you've been through it. But borrowers with six-figure student debt get approved for mortgages every single day. The ones who succeed don't hope the lender figures it out. They come in with their documentation organized, they understand their own numbers, and they've done enough homework to ask the right questions. You're already doing that. The rest is just execution.
 
 ## Helpful Resources
@@ -117,7 +105,6 @@ The frustrating truth is that student loans and mortgages are both complicated s
 - **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
 - **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
 - **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
-
 
 ---
 
@@ -135,10 +122,9 @@ The frustrating truth is that student loans and mortgages are both complicated s
 
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

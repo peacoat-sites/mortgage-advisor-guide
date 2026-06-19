@@ -25,7 +25,6 @@ author_title: "Mortgage Writer"
 author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
 
 ---
-
 The tax return is the enemy of the self-employed borrower. I say that after sixteen years of watching otherwise strong candidates get rejected, delayed, or strong-armed into bad loan terms because their Schedule C made them look broke on paper even when they had $15,000 a month hitting their business checking account.
 
 Here's the thing nobody explains clearly upfront: lenders don't care what you earn. They care what you *report*. And for most self-employed borrowers, those two numbers are very, very different.
@@ -36,21 +35,19 @@ I'm not telling you this to discourage you. I'm telling you because if you under
 
 ## What Lenders Actually Look At
 
-When you're a W-2 employee, income verification is clean. Two pay stubs and a W-2. Done. Self-employed borrowers require a completely different documentation package, and most loan officers don't take the time to explain why.
+When you're a W-2 employee, income verification is straightforward. Two pay stubs and a W-2. Done. Self-employed borrowers need a completely different documentation package, and most loan officers don't bother to explain why.
 
-Standard conventional loans (Fannie Mae and Freddie Mac guidelines) require two years of personal tax returns, two years of business tax returns if your business is a partnership, S-corp, or corporation, a year-to-date profit and loss statement, and two to three months of business bank statements. Some lenders will also want a CPA letter confirming you've been in business for at least two years and that the business is still operating.
+Standard conventional loans (Fannie Mae and Freddie Mac guidelines) want two years of personal tax returns, two years of business tax returns if your business is a partnership, S-corp, or corporation, a year-to-date profit and loss statement, and two to three months of business bank statements. Some lenders will also want a CPA letter confirming you've been in business for at least two years and that the business is still operating.
 
-The two-year requirement is firm on conventional loans. Not negotiable. I've had borrowers try to argue it with me. Lenders need to see that your self-employment income is stable and likely to continue, and two years of tax history is how they satisfy that requirement. If you've been self-employed for 18 months, you're going to wait or you're going to need a different loan product.
+The two-year requirement is firm on conventional loans. Not negotiable. I've had borrowers try to argue it with me. Lenders need to see that your self-employment income is stable and likely to continue, and two years of tax history is how they satisfy that requirement. If you've been self-employed for 18 months, you're either waiting or you're looking at a different loan product.
 
-What the underwriter is calculating is your qualifying income. For a sole proprietor, that's your Schedule C net profit plus any depreciation or depletion you wrote back in. For an S-corp owner, it gets more complicated: they'll look at your W-2 wages from the business plus your share of business income or loss from the K-1, then add back depreciation and certain other non-cash expenses. The math is specific and it varies slightly by lender, but the takeaway is that a lot of legitimate write-offs get added back, which can work in your favor.
+What the underwriter is calculating is your qualifying income. For a sole proprietor, that's your Schedule C net profit plus any depreciation or depletion you wrote back in. For an S-corp owner, it gets trickier: they'll look at your W-2 wages from the business plus your share of business income or loss from the K-1, then add back depreciation and certain non-cash expenses. The math varies slightly by lender, but the takeaway is that a lot of legitimate write-offs get added back, which can work in your favor.
 
-This is one of the few areas where having a good mortgage broker actually pays off, because they can run your income calculation across multiple lenders' guidelines before you ever submit an application. A broker who specializes in self-employed borrowers will know which lenders' underwriting is more favorable for your specific situation.
+This is one of the few areas where having a good mortgage broker actually pays off. They can run your income calculation across multiple lenders' guidelines before you ever submit an application. A broker who specializes in self-employed borrowers will know which underwriting approach favors your specific situation.
 
 ## The Bank Statement Loan: When Conventional Doesn't Work
 
 > **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 There's a whole category of loan products built specifically for borrowers who can't qualify the traditional way. Bank statement loans, sometimes called Non-QM (non-qualified mortgage) loans, let you use 12 or 24 months of business or personal bank statement deposits as your income documentation instead of tax returns.
 
@@ -58,44 +55,41 @@ The appeal is obvious. If your deposits show $15,000 a month consistently, the l
 
 Now for the honest part. These loans cost more. Meaningfully more. You're typically looking at interest rates 0.75 to 1.5 percentage points higher than a comparable conventional loan. Down payment requirements are usually 10-20%, sometimes higher depending on your credit score. And not every lender offers them, so your options are narrower.
 
-They're not a scam. They fill a real need. But don't let a loan officer steer you into a bank statement loan before you've actually confirmed you can't qualify conventionally. I've seen borrowers pay a rate premium they didn't have to pay because nobody bothered to run the tax return numbers properly first.
+They're not a scam. They fill a real need. But don't let a loan officer steer you into one before you've actually confirmed you can't qualify conventionally. I've seen borrowers pay a rate premium they didn't have to pay because nobody bothered to run the tax return numbers properly first.
 
 ## The Credit and Reserves Picture
 
-Self-employed borrowers are held to a higher standard than W-2 borrowers in one specific way: reserves. After your down payment and closing costs, lenders want to see that you have cash left over. For a conventional self-employed borrower, that's often 2-6 months of housing payments sitting in an accessible account. For a jumbo loan, 12 months isn't unusual.
+Self-employed borrowers face a higher bar than W-2 borrowers in one specific area: reserves. After your down payment and closing costs, lenders want to see cash left over. For a conventional self-employed borrower, that's often 2-6 months of housing payments sitting in an accessible account. For a jumbo loan, 12 months isn't unusual.
 
-This makes sense when you think about it from the lender's perspective. Your income has variability. A bad quarter happens. They want to know you have a cushion.
+This makes sense from the lender's perspective. Your income fluctuates. A bad quarter happens. They want proof you can absorb it.
 
-Your credit score matters as much as it does for any borrower. A score above 740 gets you the best pricing. Below 680, your options narrow significantly and you're paying for it in rate. If you're self-employed with a thin credit file (common if you've put business expenses on business cards rather than personal ones), that's something to address 12 months before you plan to buy.
+Your credit score matters as much as it does for any borrower. A score above 740 gets you the best pricing. Below 680, your options narrow and you're paying for it in rate. If you're self-employed with a thin credit file (common if you've charged business expenses on business cards rather than personal ones), that's something to fix 12 months before you plan to buy.
 
-Debt-to-income ratio is the other lever. Your monthly debt obligations divided by your qualifying monthly income has to land below 45% on most conventional loans, 43% on many. Car payments, student loans, credit card minimums, and your proposed new mortgage payment all count. This is where I see self-employed borrowers get surprised: they assumed the income side was the only problem, then discovered a student loan or a business credit card (if it's in their personal name) was pushing their DTI over the limit.
+Debt-to-income ratio is the other critical factor. Your monthly debt obligations divided by your qualifying monthly income has to stay below 45% on most conventional loans, 43% on many. Car payments, student loans, credit card minimums, and your proposed new mortgage payment all count. This is where self-employed borrowers get surprised: they thought the income side was the only problem, then discovered a student loan or a business credit card (if it's in their personal name) was pushing their DTI over the limit.
 
 ## Preparation: What to Do 12-24 Months Before You Apply
 
-This section is the one most articles skip, which is frustrating because it's arguably the most actionable.
+This section is the one most articles skip. It's also arguably the most useful.
 
 If you know you want to buy a home in the next one to two years, your tax strategy needs to account for that. I'm not telling you to artificially inflate your income or commit tax fraud. I'm telling you to have a conversation with your CPA about the tradeoff between minimizing taxes now and maximizing qualifying income for a mortgage. Sometimes that means writing off a bit less in year two. Sometimes it means timing a large equipment purchase after you've closed. The math on carrying a slightly larger tax bill in one year versus paying a higher mortgage rate for 30 years usually favors the latter.
 
-Get your two years of tax returns filed on time, ideally not on extension. Lenders can work with filed extensions, but it adds friction and some programs prefer returns without extension.
+Get your two years of tax returns filed on time. Ideally not on extension. Lenders can work with filed extensions, but it adds friction and some programs won't touch them.
 
-Open and season your bank accounts. "Seasoning" means the money has been sitting there long enough that the lender won't ask where it came from. Large deposits that appear right before a mortgage application raise red flags. If a family member is gifting you part of your down payment, know that there's a formal process for documenting that: a signed gift letter, sometimes proof that the donor had the funds to give.
+Open and season your bank accounts. "Seasoning" means the money's been sitting there long enough that the lender won't ask where it came from. Large deposits right before a mortgage application raise red flags. If a family member is gifting you part of your down payment, there's a formal process: a signed gift letter, sometimes proof that the donor had the funds to give.
 
 Keep your business and personal finances strictly separate. Commingled accounts are an underwriting nightmare and sometimes a deal-killer.
 
-Freddie Mac has solid free guidance for self-employed borrowers in their [home buyer resources at myhome.freddiemac.com](https://myhome.freddiemac.com/) if you want to understand how the qualifying income calculations actually work from the agency's own perspective.
+Freddie Mac has solid free guidance for self-employed borrowers in their [home buyer resources at myhome.freddiemac.com](https://myhome.freddiemac.com/). It explains how the qualifying income calculations actually work from the agency's own perspective.
 
 ## Working the System: Practical Tips That Actually Help
 
-One thing I always told borrowers: get a prequalification letter from a lender who has actually reviewed your tax returns, not just your stated income. "Pre-approval" means different things to different lenders. An underwriter-reviewed pre-approval (sometimes called a TBD approval, meaning the property address is to be determined) is worth far more when making an offer in a competitive market.
+Get a prequalification letter from a lender who has actually reviewed your tax returns, not just your stated income. "Pre-approval" means different things to different lenders. An underwriter-reviewed pre-approval (sometimes called a TBD approval, meaning the property address is to be determined) is worth far more when making an offer in a competitive market.
 
-If your qualifying income is borderline, consider buying with a larger down payment. Getting below an 80% loan-to-value ratio removes private mortgage insurance and can open up better rate tiers. It doesn't fix a DTI problem by itself, but it can change the math enough to matter.
+If your qualifying income is borderline, consider buying with a larger down payment. Getting below an 80% loan-to-value ratio removes private mortgage insurance and can unlock better rate tiers. It doesn't fix a DTI problem by itself, but it can shift the math enough to matter.
 
 Consider working with [a HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) before you start the process. I know that sounds like a recommendation for someone who can't figure things out on their own, but these counselors see self-employed borrowers constantly and they're free. A session with one can catch problems before they become rejections.
 
-For the borrower who wants to do deeper prep work, a resource like *The Self-Employed Borrower's Workbook* or a solid [home-buying preparation checklist](https://www.amazon.com/s?k=home+buying+checklist+self+employed) can help you build the documentation portfolio before you ever sit down with a lender. (The site may earn a commission on purchases made through these links.)
-
----
-
+For deeper prep work, a resource like *The Self-Employed Borrower's Workbook* or a solid [home-buying preparation checklist](https://www.amazon.com/s?k=home+buying+checklist+self+employed) can help you build your documentation portfolio before you ever sit down with a lender. (The site may earn a commission on purchases made through these links.)
 
 ## Helpful Resources
 
@@ -125,4 +119,3 @@ For the borrower who wants to do deeper prep work, a resource like *The Self-Emp
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

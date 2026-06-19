@@ -25,36 +25,29 @@ author_title: "Mortgage Writer"
 author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
 
 ---
-
-Most buyers walk into a lender's office knowing exactly one number: the pre-approval amount. They take it as gospel. I've watched clients get pre-approved for $550,000 and immediately start touring homes at that ceiling, only to realize three months later that the monthly payment was quietly eating their financial life. A pre-approval tells you what a lender is willing to risk. It tells you almost nothing about what you can actually afford.
+Most buyers walk into a lender's office knowing exactly one number: the pre-approval amount. They treat it like scripture. I've watched clients get pre-approved for $550,000 and immediately start touring homes at that ceiling, only to realize three months later that the monthly payment was quietly eating their financial life. A pre-approval tells you what a lender is willing to risk. It tells you almost nothing about what you can actually afford.
 
 Those are two very different questions, and confusing them is the single most expensive mistake in home buying.
 
----
-
 ## The Numbers Lenders Use (And Why They're Not Enough)
 
-When a lender evaluates your application, they're focused on ratios. Specifically, your debt-to-income ratio, or DTI. There are two versions that matter.
+When a lender evaluates your application, they're focused on ratios. Specifically, your debt-to-income ratio, or DTI. Two versions matter.
 
 The **front-end DTI** is your proposed monthly housing payment divided by your gross monthly income. Most conventional loans want this below 28%. The **back-end DTI** covers all your monthly debt obligations, including the new housing payment, divided by gross income. Conventional guidelines typically allow up to 45%, and some loan programs stretch to 50% with compensating factors.
 
-Here's the part your loan officer might not emphasize: gross income is what you earn before taxes. A borrower making $8,000 per month gross might take home $5,800 after federal taxes, state taxes, and other withholding. If the lender approves a back-end DTI of 45%, that's $3,600 per month in debt payments against $8,000 gross. Against $5,800 net, that same $3,600 is 62% of actual take-home pay. Suddenly, "qualified" and "comfortable" look nothing alike.
+Here's what your loan officer might gloss over: gross income is what you earn before taxes. A borrower making $8,000 per month gross might take home $5,800 after federal taxes, state taxes, and withholding. If the lender approves a back-end DTI of 45%, that's $3,600 per month in debt payments against $8,000 gross. But against $5,800 net, that same $3,600 is 62% of actual take-home pay. Suddenly, "qualified" and "comfortable" look nothing alike.
 
 I've seen clients technically qualify for a loan while having almost nothing left for groceries after their first mortgage payment. Lenders don't lose sleep over that. You will.
-
----
 
 ## The Real Affordability Formula: Start With Your Budget, Not a Ratio
 
 > **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Forget working backward from a purchase price. Work forward from what you actually want your life to look like.
 
-Pull up your last three months of bank statements. Find your real monthly spending on food, transportation, utilities, childcare, subscriptions, clothing, and everything else. Add your non-housing debt payments. Now subtract all of that from your actual monthly take-home pay. What's left is the maximum universe of money available for housing costs.
+Pull up your last three months of bank statements. Find your real monthly spending on food, transportation, utilities, childcare, subscriptions, clothing, everything else. Add your non-housing debt payments. Now subtract all of that from your actual monthly take-home pay. What's left is the maximum universe of money available for housing costs.
 
-And housing costs are not just the principal and interest on your loan. They include:
+Housing costs are not just principal and interest. They include:
 
 - **Property taxes**: These vary wildly by location. In Texas or Illinois, annual property taxes on a $400,000 home can run $8,000 to $10,000 or more. In Alabama or Hawaii, that same home might generate less than $2,000 per year.
 - **Homeowner's insurance**: Typically $1,000 to $3,000 annually for a median-priced home, but significantly higher in coastal areas, flood zones, or hurricane-prone markets.
@@ -64,33 +57,33 @@ And housing costs are not just the principal and interest on your loan. They inc
 
 Add all of those up. That's your true housing number, and it's rarely close to what shows up in the "estimated monthly payment" on a listing website.
 
----
-
 ## A Step-by-Step Affordability Calculation
 
 Here's a practical process to run before you ever call a lender.
 
 **Step 1: Nail down your net monthly income.**
+
 Use your actual take-home pay. If you have variable income (freelance, commissions, bonuses), use a conservative average from the past two years, not your best month.
 
 **Step 2: List every monthly non-housing expense.**
-Be honest. Pull from statements, not memory. Most people underestimate spending by 15% to 25% when they guess from memory.
+
+Be honest. Pull from statements, not memory. Most people underestimate spending by 15% to 25% when they guess.
 
 **Step 3: List every monthly debt payment.**
-Student loans, car payments, credit card minimums, personal loans. Everything.
+
+Student loans, car payments, credit card minimums, personal loans, everything.
 
 **Step 4: Subtract Step 2 and Step 3 from Step 1.**
+
 What remains is your maximum available amount for housing, before any savings goals.
 
 **Step 5: Subtract your savings and investment targets.**
+
 If you want to contribute $500 per month to retirement and $300 to an emergency fund, that comes out here. Don't skip this step. Home equity is not a liquid emergency fund.
 
 **Step 6: What's left is your real housing budget.**
-Now work backward. Take that monthly number, subtract your estimated property taxes, insurance, PMI (if applicable), and HOA. What remains is approximately what you can direct toward principal and interest.
 
-A mortgage calculator (like those in [home-buying guides on Amazon](https://www.amazon.com/s?k=home+buying+guide&tag=contentportfo-20)) can help you translate that principal-and-interest figure into a purchase price given current interest rates. Note that links to Amazon on this site may earn a commission.
-
----
+Now work backward. Take that monthly number, subtract your estimated property taxes, insurance, PMI (if applicable), and HOA. What remains is approximately what you can direct toward principal and interest. A mortgage calculator (like those in [home-buying guides on Amazon](https://www.amazon.com/s?k=home+buying+guide&tag=contentportfo-20)) can help you translate that principal-and-interest figure into a purchase price given current interest rates. Note that links to Amazon on this site may earn a commission.
 
 ## Down Payment: How It Changes Everything
 
@@ -102,11 +95,7 @@ But there's a real trap here. I've watched buyers drain every dollar from their 
 
 The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) publishes conforming loan limits annually. If your loan amount stays under the conforming limit for your area, you have access to conventional financing. Go above it, and you're into jumbo territory, which typically requires stronger credit, larger reserves, and sometimes a higher rate.
 
-The decision isn't just "20% down to avoid PMI." It's a balance between minimizing your monthly payment and keeping enough liquid reserves to handle the realities of home ownership.
-
-A reasonable target: have at least 3 to 6 months of living expenses in accessible savings after your down payment and closing costs are covered.
-
----
+The decision isn't just "20% down to avoid PMI." It's a balance between minimizing your monthly payment and keeping enough liquid reserves to handle the realities of home ownership. A reasonable target: have at least 3 to 6 months of living expenses in accessible savings after your down payment and closing costs are covered.
 
 ## How Credit Score and Interest Rate Interact With Affordability
 
@@ -117,8 +106,6 @@ The difference between a 680 credit score and a 760 credit score might be 0.5% t
 If your credit score isn't where you want it, it's often worth waiting six to twelve months to pay down revolving balances and clean up any errors before applying. Rushing into a loan at a higher rate because you didn't want to wait can cost you more over 30 years than a year of renting would have.
 
 [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) include credit guidance and affordability tools that are genuinely useful for understanding how your financial profile translates into loan eligibility. It's a free resource that most buyers don't know exists.
-
----
 
 ## Affordability vs. Approval: A Side-by-Side Comparison
 
@@ -132,9 +119,6 @@ If your credit score isn't where you want it, it's often worth waiting six to tw
 | Comfort | Not a metric | Absolutely a metric |
 
 The lender's job is to underwrite the loan. Your job is to underwrite your life.
-
----
-
 
 ---
 
@@ -162,12 +146,9 @@ Take your time with this math before you fall in love with a house. The right ho
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

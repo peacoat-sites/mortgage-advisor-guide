@@ -24,7 +24,6 @@ faqs:
   - q: "What's the difference between a HELOC draw period and a home equity loan?"
     a: "A home equity loan gives you a lump sum upfront with fixed payments from day one. There's no draw period because you borrow everything at once. A HELOC is a revolving line with flexible draws and (usually) interest-only payments during the draw phase. Which is better depends on whether you need flexibility or certainty, and honestly, if you know exactly how much you need and want predictable payments, the home equity loan is the underrated choice."
 ---
-
 Most articles about HELOCs spend three paragraphs explaining what a home equity line of credit *is*, then bury the part that actually trips people up in a single vague sentence near the bottom. The draw period is where borrowers get comfortable, sometimes dangerously so, and it deserves a real explanation.
 
 Here's what you're actually signing up for.
@@ -41,21 +40,19 @@ The draw period isn't a grace period. It's a postponement.
 
 ## How Access Actually Works
 
-> **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-During the draw period, your available credit works off a revolving balance. Borrow $30,000, pay back $15,000, now you have $15,000 drawn and $X remaining available depending on your original limit. Most lenders issue a debit card or checks tied to the line, and some allow online transfers directly to your checking account.
+During the draw period, your available credit works off a revolving balance. Borrow $30,000, pay back $15,000, now you have $15,000 drawn and the rest of your limit sitting there waiting. Most lenders issue a debit card or checks tied to the line, and some allow online transfers straight to your checking account.
 
 One detail loan officers rarely volunteer: most HELOCs have a variable rate tied to the prime rate, which moves with federal rate decisions. Your interest-only payment in month one isn't necessarily your payment in month 36. When rates climbed sharply between 2022 and 2023, borrowers who'd drawn heavily on their HELOCs watched their monthly interest payments increase by hundreds of dollars with almost no warning. The line didn't change. The rate did.
 
-Some lenders allow you to lock a portion of your balance into a fixed rate during the draw period, sometimes called a rate-lock option or fixed-rate advance. This is worth asking about specifically, not just glancing at the brochure. The conversion terms vary widely and sometimes carry fees or minimum balance requirements that make them less attractive than they sound.
+Some lenders allow you to lock a portion of your balance into a fixed rate during the draw period, sometimes called a rate-lock option or fixed-rate advance. Ask about this specifically, don't just glance at the brochure. The conversion terms vary widely and sometimes carry fees or minimum balance requirements that make them less attractive than they sound.
+
+> **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 ## What You Can (and Can't) Do During the Draw Period
 
 You can borrow repeatedly up to your credit limit. You can make principal payments voluntarily, reducing your balance and freeing up that credit again. You can sometimes request a credit line increase, though that typically triggers a new appraisal and underwriting review.
 
-What you generally cannot do: borrow past your credit limit, avoid the variable rate unless you've converted to a fixed-rate advance, or ignore the lender's inactivity fees if you never touch the line. Some lenders charge an annual fee just for maintaining the HELOC, whether you use it or not. That's usually $50 to $100 a year but worth knowing before you open a line as a "just in case" safety net.
+What you generally cannot do: borrow past your credit limit, avoid the variable rate unless you've converted to a fixed-rate advance, or ignore the lender's inactivity fees if you never touch the line. Some lenders charge an annual fee just for maintaining the HELOC, whether you use it or not. Usually $50 to $100 a year, but worth knowing before you open a line as a "just in case" safety net.
 
 Lenders can also freeze or reduce your line during the draw period if your home's value drops significantly or your financial situation deteriorates. This happened broadly during the 2008 housing collapse and caught borrowers completely off guard. It's written into virtually every HELOC agreement and is 100% legal.
 
@@ -83,9 +80,6 @@ If you want a structured way to think through HELOC strategy before you sign, [F
 
 The line of credit is a tool. How you use it during those 10 years determines whether it saves you money or costs you significantly more than a standard home equity loan would have.
 
----
-
-
 ## Helpful Resources
 
 *As an Amazon Associate this site earns from qualifying purchases.*
@@ -94,19 +88,15 @@ The line of credit is a tool. How you use it during those 10 years determines wh
 - **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
 
-
 *Photo: [SAULO LEITE](https://www.pexels.com/@saulo-leite-1491182) via Pexels*
 
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

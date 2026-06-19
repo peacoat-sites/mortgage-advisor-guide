@@ -25,7 +25,6 @@ author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
 
 ---
-
 Most borrowers ask the wrong question. They spend hours watching rate trackers and refreshing mortgage news sites, waiting for the perfect moment to lock, as if they're trying to time the stock market. The real question isn't "when will rates be lowest?" It's "when do I need certainty, and what does certainty cost me?"
 
 Those are very different questions. The first one is unanswerable. The second one you can actually work with.
@@ -42,27 +41,21 @@ There's also a float-down provision some lenders offer. A float-down lets you lo
 
 ## When to Lock: The Honest Answer
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-The honest answer is: lock when you have a signed purchase contract and a realistic closing date you trust.
+Lock when you have a signed purchase contract and a realistic closing date you trust.
 
 Not when you "feel like" rates are going up. Not the first day you talk to a lender. Not after you've spent six weeks watching rates oscillate and convincing yourself you've spotted a pattern. Rate markets don't reward retail borrowers for trying to time them. Institutional traders with Bloomberg terminals and dedicated rate desks get it wrong constantly.
 
 What you can control is your own risk exposure. Once you have a contract, you have a closing date. That closing date creates a window. Your job is to match a lock period to that window with a small buffer built in, and then stop agonizing over whether rates will move.
 
-Here's how I'd think about the timing practically:
-
 The standard purchase timeline in most markets runs 30 to 45 days from contract to close. If your contract allows 45 days, a 45-day lock is tight but workable with a competent lender and a straightforward file. A 60-day lock gives you breathing room, but it costs more. Longer locks are priced into the rate itself: a 60-day lock typically runs 0.125% to 0.25% higher than a 30-day lock for the same loan. Not a lot on paper, but over 30 years on a $400,000 loan, that fraction adds up.
 
-New construction is the scenario that breaks all the standard advice. If you're buying a home that won't be finished for five or six months, you either need an extended lock (90, 180, or 360 days, all of which are expensive) or you float until you're closer to a real closing date and accept the rate risk. Neither option is comfortable. The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) has solid plain-language guidance on lock periods worth reading before you sit down with a builder's preferred lender.
+New construction breaks all the standard advice. If you're buying a home that won't be finished for five or six months, you either need an extended lock (90, 180, or 360 days, all of which are expensive) or you float until you're closer to a real closing date and accept the rate risk. Neither option is comfortable. The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) has solid plain-language guidance on lock periods worth reading before you sit down with a builder's preferred lender.
 
 ## The Market Timing Trap
 
 A borrower I counseled a few years back decided not to lock in early March because he was certain rates were about to fall. He'd read several articles saying the Fed was likely to cut. He floated for three weeks. By the time he closed, his rate had moved up 0.375%. On a 30-year fixed at $350,000, that added roughly $80 a month to his payment. Over the life of the loan, that's over $28,000 in extra interest, not accounting for any potential refinancing down the road.
 
-He wasn't foolish. He was doing exactly what a lot of smart, financially literate people do: confusing Fed policy predictions with mortgage rate behavior.
+He wasn't foolish. He was doing exactly what smart, financially literate people do: confusing Fed policy predictions with mortgage rate behavior.
 
 The Fed doesn't set mortgage rates. It sets the federal funds rate, which influences short-term borrowing costs. Mortgage rates are tied more tightly to the 10-year Treasury yield and to mortgage-backed securities markets, which price in inflation expectations, global capital flows, and investor appetite for risk. Sometimes mortgage rates move in the same direction as Fed policy. Sometimes they move ahead of it. Occasionally they move in the opposite direction entirely.
 
@@ -84,18 +77,11 @@ Also: if your loan officer mentions "we'll just lock it closer to closing," ask 
 
 If you're uncertain about how to read what your lender sends you, [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can review loan documents with you at no cost. More borrowers should use this resource. Almost none do.
 
-Good preparation helps too. If you want to walk into the lender conversation already knowing what to ask, a solid home-buying guide like *The Homebuyer's Guide* or a financial planning workbook with a mortgage prep section (widely available on Amazon, and yes, this site may earn a small commission on purchases) can help you build a checklist before you sit down at anyone's desk.
-
 ## Locks in a Volatile Rate Environment
 
 When rates are swinging 0.25% to 0.5% in a single week, the case for locking early gets stronger, not weaker. Volatility cuts both ways, but purchase borrowers can't benefit from a surprise drop the way a speculator can. You're not positioned to take the upside. You're just exposed to the downside.
 
 In a relatively stable rate environment, floating short-term (a week or two while you finalize the right loan program) is lower risk. But "relatively stable" is doing a lot of work in that sentence. The rate environment of 2022 and 2023 reminded a lot of people that stability can end fast.
-
----
-
-
----
 
 You can't time mortgage rates with any consistency. Nobody can, not reliably, not retail borrowers, not most professionals. What you can do is make a smart decision once you have real information: a contract, a closing date, a confirmed loan program. Lock then. Accept that the rate you get might not be the lowest rate that existed during your purchase window. It will still be the right rate, because it's the one you actually planned around.
 
@@ -122,8 +108,7 @@ You can't time mortgage rates with any consistency. Nobody can, not reliably, no
 
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

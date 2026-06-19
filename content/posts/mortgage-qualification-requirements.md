@@ -25,7 +25,6 @@ author_title: "Credit Writer"
 author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
 
 ---
-
 You fill out a mortgage application feeling reasonably confident. Good job, money in the bank, no major debt. Then the loan officer calls back and tells you that you don't qualify. No explanation that actually makes sense. Just a polite version of "no." This happens to thousands of people every year, and in most cases it's completely preventable. The problem isn't that borrowers are bad financial risks. The problem is that almost nobody explains what lenders are actually looking for before you apply.
 
 Let me fix that.
@@ -34,21 +33,21 @@ Let me fix that.
 
 ## The Five Factors That Determine Whether You Qualify
 
-Mortgage underwriting isn't mysterious, but lenders do a poor job of advertising how their decisions get made. Every loan application gets evaluated on five core dimensions: credit score, income, employment history, debt-to-income ratio, and assets. That's it. Everything else is a variation on one of those five.
+Mortgage underwriting isn't mysterious, but lenders do a terrible job of explaining how their decisions get made. Every loan application gets evaluated on five core dimensions: credit score, income, employment history, debt-to-income ratio, and assets. That's it. Everything else is just a variation on one of those five.
 
 **Credit Score**
 
 Your credit score is the first filter. For a conventional loan backed by Fannie Mae or Freddie Mac, you generally need a minimum score of 620, though getting a competitive interest rate usually means being north of 740. FHA loans go down to 580 with a 3.5% down payment, or as low as 500 with 10% down. VA loans don't have a published minimum, but most lenders impose their own floor around 620.
 
-One thing loan officers often skip over: lenders use the middle score from all three bureaus (Equifax, Experian, TransUnion), not the highest. If you have scores of 755, 740, and 618, your qualifying score is 740. If your spouse or co-borrower is on the loan, lenders typically use the lower of the two middle scores. That one detail has killed more joint applications than I can count.
+Here's the part loan officers skip over: lenders use the middle score from all three bureaus (Equifax, Experian, TransUnion), not the highest. If you have scores of 755, 740, and 618, your qualifying score is 740. If your spouse or co-borrower is on the loan, lenders typically use the lower of the two middle scores. That one detail has killed more joint applications than I can count.
 
 **Income**
 
-Lenders care about gross monthly income, before taxes. But they can't just take your word for it. They need documented, verifiable, stable income. W-2 employees need two years of W-2s and recent pay stubs. Self-employed borrowers need two years of tax returns, and here's the part that trips people up: lenders use your net income after deductions, not what you actually deposited. If you wrote off $60,000 in business expenses, that $60,000 is essentially invisible to an underwriter.
+Lenders care about gross monthly income, before taxes. But they can't just take your word for it. They need documented, verifiable, stable income. W-2 employees need two years of W-2s and recent pay stubs. Self-employed borrowers need two years of tax returns, and here's where it gets tricky: lenders use your net income after deductions, not what you actually deposited. If you wrote off $60,000 in business expenses, that $60,000 is essentially invisible to an underwriter.
 
 **Employment History**
 
-Two years of continuous employment in the same field is the standard benchmark. Gaps matter, job-hopping matters, and industry changes matter. A recent promotion or raise is fine. Switching from salaried to commission-based income right before applying can pause your qualification because lenders want to see at least one to two years of commission history to average it out.
+Two years of continuous employment in the same field is the standard. Gaps matter. Job-hopping matters. Industry changes matter. A recent promotion or raise is fine. Switching from salaried to commission-based income right before applying can stall your qualification because lenders want to see at least one to two years of commission history to average it out.
 
 **Debt-to-Income Ratio (DTI)**
 
@@ -64,15 +63,13 @@ Lenders verify that you have enough cash to close (down payment plus closing cos
 
 > **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-DTI is simply your total monthly debt payments divided by your gross monthly income. Lenders look at two versions of it.
+DTI is your total monthly debt payments divided by your gross monthly income. Lenders look at two versions of it.
 
 The front-end DTI covers only your proposed housing payment (principal, interest, taxes, insurance, and HOA dues if applicable). The back-end DTI covers your housing payment plus all recurring debt: car loans, student loans, credit cards, personal loans, child support. Back-end DTI is the one that usually causes problems.
 
 For conventional loans, most lenders want back-end DTI at or below 43%. Some automated underwriting systems will approve up to 50% with compensating factors like a large down payment or excellent credit. FHA loans are similar, though they can technically go higher with strong compensating factors. VA loans don't have a hard DTI cap, but lenders get nervous above 41%.
 
-Here's a concrete illustration. Say your gross income is $7,000 per month. A 43% DTI means your total monthly debt load, including the new mortgage, can't exceed $3,010. If you're already paying $400 for a car and $300 in student loans, that leaves $2,310 for your mortgage payment. At current rate levels, that caps your buying power considerably. Many first-time buyers are shocked to discover their car payment is quietly strangling their homebuying budget.
+Here's a concrete example. Say your gross income is $7,000 per month. A 43% DTI means your total monthly debt load, including the new mortgage, can't exceed $3,010. If you're already paying $400 for a car and $300 in student loans, that leaves $2,310 for your mortgage payment. At current rate levels, that caps your buying power considerably. Many first-time buyers are shocked to discover their car payment is quietly strangling their homebuying budget.
 
 The fix, in most cases, is paying down debt before applying. Not after. Before.
 
@@ -90,7 +87,7 @@ Not all mortgages are created equal, and the requirements shift significantly de
 | USDA | 640 (most lenders) | 0% | ~41% | Yes (upfront and annual fee) |
 | Jumbo | 700-720+ | 10-20%+ | ~43% | Varies by lender |
 
-A few things worth pointing out here. FHA loans carry mortgage insurance premium (MIP) for the life of the loan if you put down less than 10%. That's different from conventional PMI, which falls off automatically once you reach 20% equity under federal law. Over a 30-year loan, that difference in how long you pay insurance can cost you tens of thousands of dollars. I've had borrowers lock into FHA loans because of the easier qualification, not realizing they'd be paying insurance indefinitely.
+FHA loans carry mortgage insurance premium (MIP) for the life of the loan if you put down less than 10%. That's different from conventional PMI, which falls off automatically once you reach 20% equity under federal law. Over a 30-year loan, that difference in how long you pay insurance can cost you tens of thousands of dollars. I've watched borrowers lock into FHA loans because of the easier qualification, not realizing they'd be paying insurance indefinitely.
 
 VA loans are genuinely the best deal available for eligible veterans and service members. Zero down, no PMI, and competitive rates. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) regularly publishes data on loan performance and conforming loan limits, which affect how VA and conventional loan limits are set each year. If you're eligible and not using a VA loan, it's worth asking why.
 
@@ -137,9 +134,6 @@ Even borrowers who look strong on paper can get tripped up by things they didn't
 
 ---
 
-
----
-
 Getting a mortgage isn't about impressing a loan officer. It's about presenting documented evidence that you can repay the debt. The qualification system rewards borrowers who understand the criteria in advance and position themselves accordingly. You don't need a perfect financial history. You need a strategy. Start with the basics, know what the underwriter will be looking at before you apply, and get professional guidance from a licensed mortgage professional who can review your actual numbers. The difference between a denial and an approval is often just a matter of timing and preparation.
 
 ## Helpful Resources
@@ -163,12 +157,9 @@ Getting a mortgage isn't about impressing a loan officer. It's about presenting 
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

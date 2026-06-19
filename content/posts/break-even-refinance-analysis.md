@@ -25,52 +25,49 @@ author_title: "Mortgage Writer"
 author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
 
 ---
-
 Most people refinance because their loan officer told them the new rate was "great." I've watched borrowers roll $6,000 in closing costs into a loan that lowered their payment by $80 a month, never once asking how long it would take to actually come out ahead. The answer, in that case, was 75 months. Six and a quarter years. And they sold the house in four. They didn't save money. They lost it.
 
-That's what break-even analysis is designed to prevent. And yet most borrowers never run it, partly because lenders don't lead with it, and partly because it sounds more complicated than it is.
+That's what break-even analysis is designed to prevent. Most borrowers never run it, partly because lenders don't lead with it, and partly because it sounds more complicated than it actually is.
 
 ## What Break-Even Analysis Actually Measures
 
 Here's the core idea: when you refinance, you pay costs upfront to get a lower payment going forward. Break-even analysis answers one question: how many months do you need to stay in that loan before the accumulated monthly savings offset what you paid to get there?
 
-The formula looks simple enough. Divide your total closing costs by your monthly savings. If closing costs are $5,400 and you're saving $150 a month, your break-even point is 36 months. Stay longer than three years and you're in the black. Leave sooner and you've paid for a benefit you never fully received.
+The formula looks simple. Divide your total closing costs by your monthly savings. If closing costs are $5,400 and you're saving $150 a month, your break-even point is 36 months. Stay longer than three years and you're in the black. Leave sooner and you've paid for a benefit you never fully received.
 
-What surprised me, after years of reviewing loan files, is how often borrowers underestimate what "total closing costs" actually means. They see an origination fee and stop there. But closing costs on a refinance typically include lender origination fees, discount points, title insurance, appraisal fees, attorney or escrow fees, prepaid interest, and sometimes a new homeowner's insurance deposit. The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) offers a loan estimate explainer that walks through every fee category on your disclosure, and I'd recommend going through it line by line before you accept any refinance quote.
+What surprised me after years of reviewing loan files is how often borrowers underestimate what "total closing costs" actually means. They see an origination fee and stop there. But closing costs on a refinance typically include lender origination fees, discount points, title insurance, appraisal fees, attorney or escrow fees, prepaid interest, and sometimes a new homeowner's insurance deposit. The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) offers a loan estimate explainer that walks through every fee category on your disclosure, and I'd recommend going through it line by line before you accept any refinance quote.
 
-The monthly savings number is also not as simple as "old payment minus new payment." I'll come back to why that matters.
+The monthly savings number is also trickier than "old payment minus new payment." I'll come back to why that matters.
 
 ## The Hidden Trap: Why Your Monthly Savings Number Is Probably Wrong
 
 > **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Borrowers make this mistake constantly. They take their current mortgage payment, subtract the new projected payment, and call that the monthly savings. But that calculation ignores something critical: where you are in your amortization schedule.
 
-Mortgages are front-loaded with interest. In the early years, most of your payment goes toward interest. As the loan matures, more goes toward principal. If you're six years into a 30-year mortgage and you refinance into a new 30-year loan, you're resetting that amortization clock. Even if your rate drops and your monthly payment drops, you'll pay more in total interest over the life of the loan because you've added years back to the timeline.
+Mortgages are front-loaded with interest. Early on, most of your payment goes toward interest. As the loan ages, more goes toward principal. If you're six years into a 30-year mortgage and you refinance into a new 30-year loan, you're resetting that amortization clock. Even if your rate drops and your payment drops, you'll pay more in total interest over the life of the loan because you've added years back to the timeline.
 
-I've seen clients refinance from a 30-year mortgage with 22 years remaining into a fresh 30-year loan, excited about the lower payment, and when we mapped it out, they would pay tens of thousands more in total interest over the life of both loans combined. Their break-even on monthly payments looked like 28 months. Their break-even on total interest paid was never. They would never come out ahead.
+I've seen clients refinance from a 30-year mortgage with 22 years remaining into a fresh 30-year loan, excited about the lower payment. When we mapped it out, they'd pay tens of thousands more in total interest over the life of both loans combined. Their break-even on monthly payments looked like 28 months. Their break-even on total interest paid was never. They would never come out ahead.
 
-The fix is to look at a true savings comparison. You need to compare:
+The fix is to look at a true savings comparison. You need to compare these three numbers:
 
-1. The total interest you'll pay on your current loan over its remaining term
-2. The total interest you'll pay on the new loan over its full term
+1. Total interest you'll pay on your current loan over its remaining term
+2. Total interest you'll pay on the new loan over its full term
 3. Plus the closing costs on the new loan
 
-A mortgage amortization calculator can do this in about two minutes. If you're not sure where to find a good one, a [home-buying reference guide](https://www.amazon.com/s?k=home+buying+mortgage+guide&tag=contentportfo-20) that includes amortization worksheets can be worth having on hand (note: this site may earn a commission on purchases).
+A mortgage amortization calculator can do this in about two minutes. If you're not sure where to find one, a [home-buying reference guide](https://www.amazon.com/s?k=home+buying+mortgage+guide&tag=contentportfo-20) that includes amortization worksheets can be worth having on hand (note: this site may earn a commission on purchases).
 
 ## How to Run a Proper Break-Even Calculation: Step by Step
 
-Let me walk you through the version I'd use with a client sitting across the table.
+Here's the version I'd use with a client sitting across the table.
 
-**Step 1: Get every fee on paper.** Pull your Loan Estimate disclosure from your lender. Add up every fee in Section A (origination charges), Section B (services you cannot shop for), Section C (services you can shop for), and Section E (prepaid interest for the days between closing and your first payment). Don't forget to include any prepayment penalty on your current loan if one applies.
+**Step 1: Get every fee on paper.** Pull your Loan Estimate disclosure from your lender. Add up every fee in Section A (origination charges), Section B (services you cannot shop for), Section C (services you can shop for), and Section E (prepaid interest for the days between closing and your first payment). Don't forget any prepayment penalty on your current loan if one applies.
 
 **Step 2: Identify your true monthly interest savings.** Don't subtract payments. Subtract monthly interest charges. Look at your current month's mortgage statement and find the interest portion. Then get an amortization schedule for the new loan and find the interest portion for month one. The difference is your true monthly interest savings.
 
 **Step 3: Calculate the simple break-even.** Divide total closing costs (from Step 1) by monthly interest savings (from Step 2). This gives you your break-even in months.
 
-**Step 4: Compare total interest paid.** Add the remaining interest on your current loan to the closing costs you're paying. Compare that figure to the total interest projected on the new loan. If the new number is lower, you're ahead on total cost. If it's higher, a shorter-term loan may be the better move even if the monthly payment is higher.
+**Step 4: Compare total interest paid.** Add the remaining interest on your current loan to the closing costs you're paying. Compare that to the total interest projected on the new loan. If the new number is lower, you're ahead on total cost. If it's higher, a shorter-term loan may be the better move even if the monthly payment is higher.
 
 **Step 5: Account for your expected time horizon.** How long are you actually planning to stay? If there's a real possibility you're moving in five years, your break-even needs to happen well inside that window with room to spare. Life changes. Build in a margin.
 
@@ -85,7 +82,7 @@ The no-closing-cost row deserves a callout. When a lender offers to waive closin
 
 ## What Rate Difference Actually Moves the Needle
 
-I'll be honest: the old rule of thumb that said "only refinance if you can drop your rate by at least 1%" is outdated and too simplistic. The research here is mixed, and the answer really depends on your loan balance and how long you'll stay.
+The old rule that said "only refinance if you can drop your rate by at least 1%" is outdated and too simplistic. The research here is mixed, and it really depends on your loan balance and how long you'll stay.
 
 A 1% rate drop on a $150,000 loan balance produces very different monthly savings than a 1% drop on a $600,000 balance. Larger loan balances make smaller rate improvements more meaningful in dollar terms, which can shorten the break-even timeline considerably. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) publishes data on refinancing trends and average loan characteristics that can give you useful context on where market conditions are.
 
@@ -95,11 +92,11 @@ Discount points are another variable that complicates the math. Paying points up
 
 ## Cash-Out Refinances Require a Different Lens
 
-Everything above applies to rate-and-term refinances. Cash-out refinances are a different animal, and I want to address them separately because borrowers conflate them constantly.
+Everything above applies to rate-and-term refinances. Cash-out refinances work differently, and I want to address them separately because borrowers conflate them constantly.
 
 When you take cash out, you're borrowing against your equity. Your loan balance goes up. Your payment usually goes up. The question isn't just "when do I break even on the closing costs" but "is this the right way to access capital and at what true cost?"
 
-For a cash-out refi, you should calculate the effective interest rate on the cash you're receiving. You're taking on a larger mortgage balance and potentially a higher rate across the entire balance, not just on the new money. Compare that cost against alternatives like a home equity line of credit, a personal loan, or simply not pulling the equity at all. Sometimes a cash-out refi makes sense. Often a HELOC is cheaper and more flexible. The break-even framework alone won't answer that question.
+For a cash-out refi, calculate the effective interest rate on the cash you're receiving. You're taking on a larger mortgage balance and potentially a higher rate across the entire balance, not just on the new money. Compare that cost against alternatives like a home equity line of credit, a personal loan, or simply not pulling the equity at all. Sometimes a cash-out refi makes sense. Often a HELOC is cheaper and more flexible. The break-even framework alone won't answer that question.
 
 
 ## Helpful Resources
@@ -123,12 +120,9 @@ For a cash-out refi, you should calculate the effective interest rate on the cas
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

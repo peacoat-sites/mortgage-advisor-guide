@@ -24,8 +24,7 @@ faqs:
   - q: "Can I get homeowner's insurance on a land contract property?"
     a: "Yes, and you absolutely should. Most insurers will write a policy for a buyer with equitable title. Make sure the policy names both you and the seller (as the legal title holder) appropriately, and keep documentation that you're current on your premiums."
 ---
-
-Maybe you've been turned down by a traditional lender. Maybe your credit score took a hit a few years back, or you're self-employed and your tax returns make your income look like origami. Whatever the reason, a land contract might have come up in conversation, and right now you're probably somewhere between intrigued and a little nervous. That's a completely reasonable place to be.
+Maybe you've been turned down by a traditional lender. Maybe your credit score took a hit a few years back, or you're self-employed and your tax returns make your income look like origami. Whatever the reason, a land contract might have come up in conversation, and right now you're probably somewhere between intrigued and a little nervous. That's completely reasonable.
 
 Here's what I tell people who ask me about land contracts: they can be genuinely useful tools, and they can also be traps. Which one you're walking into depends almost entirely on how well you understand what you're agreeing to before you sign anything.
 
@@ -33,33 +32,31 @@ So let's get into it.
 
 ## What a Land Contract Actually Is (And Isn't)
 
-A land contract, also called a contract for deed or installment sale agreement depending on what state you're in, is an arrangement where the seller finances the purchase directly. You make payments to the seller, you occupy the home, but here's the part that surprises most people: the seller keeps the legal title until you've paid off the agreed purchase price, or sometimes until you refinance into a conventional mortgage.
+A land contract, also called a contract for deed or installment sale agreement depending on your state, is an arrangement where the seller finances the purchase directly. You make payments to the seller, you occupy the home, but here's the part that surprises most people: the seller keeps the legal title until you've paid off the agreed purchase price, or sometimes until you refinance into a conventional mortgage.
 
 That distinction matters enormously. With a traditional mortgage, you get the deed at closing. With a land contract, the deed doesn't transfer until some future condition is met. In the meantime, you hold what's called "equitable title," which gives you the right to occupy and benefit from the property, but not the full legal ownership.
 
 Think of it like a rent-to-own arrangement with more formal structure and more money at stake.
 
-The seller sets the purchase price, the interest rate, the down payment, and the repayment terms. There's no underwriting process in the traditional sense, no appraisal requirement (though you should absolutely get one anyway), and no mortgage insurance. The deal is whatever both parties negotiate. That flexibility is appealing. It's also where things can go sideways.
+The seller sets everything: the purchase price, the interest rate, the down payment, the repayment terms. There's no underwriting process in the traditional sense, no appraisal requirement (though you should absolutely get one anyway), and no mortgage insurance. The deal is whatever both parties negotiate. That flexibility is appealing. It's also where things can go sideways.
 
 ## The Real Appeal, and Who It Actually Helps
 
 > **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Land contracts show up most often in three situations: buyers who can't qualify for a conventional loan right now, rural or distressed properties that are hard to finance through traditional channels, and sellers who want to generate installment income rather than take a lump sum. When all three conditions align, a land contract can genuinely help everyone involved.
 
 You might be wondering whether lenders look down on land contract history when you eventually try to refinance. Honestly, it depends. If you've made 24 months of on-time payments and the transaction was structured cleanly, a lot of lenders will count that payment history positively. What they want to see is a written contract, clear payment records, and proof that you've been maintaining the property. Keep every receipt and every bank statement from day one.
 
-The interest rates on land contracts are negotiated, not set by market indexes, which means sellers can charge more than a bank would. I've seen contracts written at 8%, 9%, even 10% when prevailing conventional rates were considerably lower. That spread costs you real money over time. Run the numbers before you agree to anything.
+The interest rates on land contracts are negotiated, not set by market indexes, which means sellers can charge significantly more than a bank would. I've seen contracts written at 8%, 9%, even 10% when prevailing conventional rates were considerably lower. That spread costs you real money over time. Run the numbers before you agree to anything.
 
 ## The Risks That Don't Get Explained Clearly Enough
 
-This is the section I'd want someone to read twice.
+Read this section twice.
 
-Because you don't hold legal title, you're exposed to things that simply don't happen with a traditional mortgage. If the seller has an existing mortgage on the property and stops paying it, the lender can foreclose, and your equitable interest may not fully protect you depending on state law. This is not hypothetical. It happens. Before you sign a land contract, you need to verify that the property is free of liens, or at minimum understand exactly what encumbrances exist. A title search is non-negotiable here.
+Because you don't hold legal title, you're exposed to things that simply don't happen with a traditional mortgage. If the seller has an existing mortgage on the property and stops paying it, the lender can foreclose, and your equitable interest may not fully protect you depending on state law. This isn't hypothetical. It happens. Before you sign a land contract, you need to verify that the property is free of liens, or at minimum understand exactly what encumbrances exist. A title search is non-negotiable here.
 
-Many land contracts also include balloon payments. You might be making monthly payments calculated on a 30-year amortization, but the full remaining balance comes due in 3, 5, or 7 years. The assumption is that you'll refinance before then. That's a reasonable assumption if your credit is on an upward trajectory, but it's a dangerous gamble if you're not actively working toward that goal. The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/owning-a-home/) has flagged balloon payment structures specifically as an area where buyers need to be especially careful about understanding their repayment obligations before committing.
+Many land contracts also include balloon payments. You might be making monthly payments calculated on a 30-year amortization, but the full remaining balance comes due in 3, 5, or 7 years. The assumption is that you'll refinance before then. That's reasonable if your credit is on an upward trajectory, but it's a dangerous gamble if you're not actively working toward that goal. The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/owning-a-home/) has flagged balloon payment structures specifically as an area where buyers need to be especially careful about understanding their repayment obligations before committing.
 
 Foreclosure under a land contract also tends to be faster and more seller-friendly than a traditional mortgage foreclosure. In many states, if you default, the seller can cancel the contract and keep your equity through a process called forfeiture rather than a full court foreclosure. You could lose years of payments. The rules vary significantly by state, which is exactly why you should be talking to a real estate attorney licensed in your state before signing, not after.
 
@@ -87,9 +84,6 @@ If you're going into a land contract specifically because you can't qualify for 
 
 A land contract isn't a destination. At least, it shouldn't be. The goal is to get into a property now and into a conventional loan as soon as you can qualify for one, so that legal title actually transfers to your name and you stop being exposed to the risks that come with someone else holding the deed.
 
----
-
-
 ## Helpful Resources
 
 *As an Amazon Associate this site earns from qualifying purchases.*
@@ -113,4 +107,3 @@ A land contract isn't a destination. At least, it shouldn't be. The goal is to g
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

@@ -25,7 +25,6 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 
 ---
-
 Most preapproval guides tell you to "gather your documents and contact a lender." That's about as useful as telling someone to "buy low, sell high." What they skip is the sequence, the friction points, and the three or four places where borrowers quietly torpedo their own applications before they've even found a house.
 
 Sixteen years of underwriting taught me exactly where that happens. Let's actually fix it.
@@ -36,15 +35,11 @@ Your credit report needs to be reviewed before any lender touches it. Not your c
 
 Why all three? Because lenders use a tri-merge report, and if Experian shows a collection account that the other two don't, that account still counts. I've watched borrowers get blindsided by a $280 medical collection they genuinely forgot about, only to find out on day one of underwriting. That's a solvable problem in January. It's a crisis in March when you're under contract.
 
-Look for four things specifically: accounts you don't recognize (possible fraud or mixed file), any collections under two years old, late payments in the last 24 months, and discrepancies in your account balances. Dispute anything inaccurate in writing before you apply. Errors take 30 to 45 days to correct, and "I'm disputing it" is not a satisfying answer to an underwriter with a closing date.
+Look for four things specifically: accounts you don't recognize (possible fraud or mixed file), any collections under two years old, late payments in the last 24 months, and discrepancies in your account balances. Dispute anything inaccurate in writing before you apply. Errors take 30 to 45 days to correct, and "I'm disputing it" isn't a satisfying answer to an underwriter with a closing date.
 
 One more step before you call a lender: run your own soft-pull estimate. Tools like the FICO loan simulator (available through myFICO.com) let you model what happens to your score if you pay down a specific card or let an inquiry age. Spend an hour here. It's worth it.
 
 ## What Lenders Are Actually Looking At
-
-> **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Preapproval gets treated like a formality. It's not. A real preapproval means a human or system has reviewed your income, assets, credit, and liabilities and issued a conditional commitment. A prequalification is someone typing your answers into a calculator. They're not the same thing, and sellers know the difference.
 
@@ -54,15 +49,15 @@ The four pillars of your file are income, assets, credit, and property (the last
 
 **Assets:** You'll need to document where your down payment and reserves are coming from. Lenders want to see 60 days of bank statements, and they will ask about every large deposit that isn't a paycheck. "I sold a car" requires a bill of sale. "My parents gave me money" requires a gift letter. Account for your money before you apply.
 
-**Credit:** Most conventional loans want a 620 minimum; for the best pricing on a conventional loan, you want to be at 740 or above. FHA loans allow scores as low as 580 with 3.5% down. The spread between a 680 and a 740 score isn't just approval vs. denial, it's a meaningful difference in your interest rate that compounds over 30 years.
+**Credit:** Most conventional loans want a 620 minimum; for the best pricing on a conventional loan, you want to be at 740 or above. FHA loans allow scores as low as 580 with 3.5% down. The spread between a 680 and a 740 score isn't just approval versus denial. It's a meaningful difference in your interest rate that compounds over 30 years.
 
-**Debt-to-income ratio (DTI):** This is the one nobody explains clearly. Your DTI is total monthly debt payments divided by gross monthly income. Most conventional loans cap it at 45%, and some go to 50% with compensating factors. If your gross income is $8,000 a month and your total debts including the new mortgage would be $3,600, that's a 45% DTI. If you're right at the edge, paying off a car loan before applying can shift your qualifying power significantly.
+**Debt-to-income ratio (DTI):** This is the one nobody explains clearly. Your DTI is total monthly debt payments divided by gross monthly income. Most conventional loans cap it at 45%, and some go to 50% with compensating factors. If your gross income is $8,000 a month and your total debts including the new mortgage would be $3,600, that's a 45% DTI. Right at the edge? Paying off a car loan before applying can shift your qualifying power significantly.
 
 ## The Document List (Actually Complete This Time)
 
 Here's what a standard preapproval requires. Missing one of these causes delay.
 
-For income, you'll need: W-2s from the past two years, pay stubs covering the last 30 days, and federal tax returns from the past two years (all schedules). If you're self-employed, add your business returns and a year-to-date profit and loss statement.
+For income, you'll need W-2s from the past two years, pay stubs covering the last 30 days, and federal tax returns from the past two years (all schedules). Self-employed? Add your business returns and a year-to-date profit and loss statement.
 
 For assets: 60 days of statements for every account you plan to use for the down payment or closing costs. Every page, even the blank ones.
 
@@ -70,17 +65,17 @@ For identity and credit: a government-issued photo ID, your Social Security numb
 
 If you have other income sources, like rental income, alimony, disability, or investment distributions, document those separately with the relevant awards letters or lease agreements.
 
-One thing I always told borrowers: don't close credit accounts, don't open new credit accounts, and don't buy anything significant on credit between when you apply and when you close. A new car payment can disqualify you two weeks before settlement. I saw it happen more than once.
+Here's the thing nobody tells you: don't close credit accounts, don't open new credit accounts, and don't buy anything significant on credit between when you apply and when you close. A new car payment can disqualify you two weeks before settlement. I saw it happen more than once.
 
 ## Choosing Where to Apply (And Why "Shop Around" Needs More Detail)
 
 The generic advice is "shop multiple lenders." Correct but incomplete.
 
-Multiple inquiries for a mortgage within a 45-day window count as a single inquiry for FICO scoring purposes. So you can apply at three or four places without meaningful credit score damage. Use that window. Rates and fees vary more than most people expect, and a half-point difference in rate on a $350,000 loan is roughly $100 a month for 30 years.
+Multiple inquiries for a mortgage within a 45-day window count as a single inquiry for FICO scoring purposes. So you can apply at three or four places without meaningful credit score damage. Use that window. Rates and fees vary more than most people expect. A half-point difference in rate on a $350,000 loan is roughly $100 a month for 30 years.
 
-Compare loan estimates side by side on Section A (origination charges) and Section B/C (third-party services). Lenders control Section A; they don't control your property taxes or homeowner's insurance. Be skeptical of any estimate that shows unusually low numbers in the sections they can't control -- it doesn't make their offer cheaper, it just makes the comparison harder.
+Compare loan estimates side by side on Section A (origination charges) and Section B/C (third-party services). Lenders control Section A; they don't control your property taxes or homeowner's insurance. Be skeptical of any estimate that shows unusually low numbers in the sections they can't control. It doesn't make their offer cheaper. It just makes the comparison harder.
 
-Your options are generally: retail banks, credit unions, mortgage banks, and mortgage brokers. Banks and credit unions are often slower but sometimes more relationship-oriented. Mortgage banks originate and fund their own loans. Brokers have access to multiple wholesale lenders and can sometimes find better pricing, particularly if your file has complexity. There's no universally correct answer. A borrower with a straightforward W-2 and 780 credit score has different needs than someone who's self-employed with rental property income.
+Your options: retail banks, credit unions, mortgage banks, and mortgage brokers. Banks and credit unions are often slower but sometimes more relationship-oriented. Mortgage banks originate and fund their own loans. Brokers have access to multiple wholesale lenders and can sometimes find better pricing, particularly if your file has complexity. There's no universally correct answer. A borrower with a straightforward W-2 and 780 credit score has different needs than someone who's self-employed with rental property income.
 
 [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) have a solid overview of loan types that's worth reading before you shop, because understanding the difference between a conforming loan, FHA, VA, and USDA affects which lenders you should even be talking to.
 
@@ -92,14 +87,11 @@ Complete it accurately. This sounds obvious, but income figures are a source of 
 
 After submission, the lender runs your credit, processes your documents through automated underwriting (Fannie Mae's Desktop Underwriter or Freddie Mac's Loan Product Advisor, for most conventional loans), and generates a findings report. A green light from automated underwriting is a good sign but not a guarantee. Manual underwriting takes longer and asks more questions.
 
-The preapproval letter itself should specify the loan amount you're approved for, the loan type (conventional, FHA, etc.), and an expiration date (usually 60 to 90 days). If it doesn't specify a loan type, ask. A letter that says "approved up to $400,000" without specifying conventional vs. FHA is vague enough to be nearly useless when a seller's listing agent calls to verify it.
+The preapproval letter itself should specify the loan amount you're approved for, the loan type (conventional, FHA, etc.), and an expiration date (usually 60 to 90 days). If it doesn't specify a loan type, ask. A letter that says "approved up to $400,000" without specifying conventional versus FHA is vague enough to be nearly useless when a seller's listing agent calls to verify it.
 
 If anything in your financial picture changes during the shopping process, tell your lender. Don't let them find out at closing. If you need help understanding your options or feel like you're getting conflicting advice, [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) offer free or low-cost guidance with no sales pressure attached.
 
-For borrowers who want to go deeper on the mechanics of mortgage qualification before they sit down with a lender, [The Mortgage Encyclopedia by Jack Guttentag](https://www.amazon.com/Mortgage-Encyclopedia-Comprehensive-Homebuyers-Homeowners/dp/0071739084?tag=contentportfo-20) is one of the better reference books available. (Disclosure: the site may earn a commission on purchases through that link.)
-
----
-
+For borrowers who want to go deeper on the mechanics of mortgage qualification before they sit down with a lender, [The Mortgage Encyclopedia by Jack Guttentag](https://www.amazon.com/Mortgage-Encyclopedia-Comprehensive-Homebuyers-Homeowners/dp/0071739084?tag=contentportfo-20) is one of the better reference books available. (As an Amazon Associate this site earns from qualifying purchases.)
 
 ## Helpful Resources
 
@@ -129,4 +121,3 @@ For borrowers who want to go deeper on the mechanics of mortgage qualification b
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

@@ -25,7 +25,6 @@ author_title: "Mortgage Writer"
 author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
 
 ---
-
 Most homebuyers sign their closing documents, see the line item for "escrow account," and nod like they understand it. They don't. And honestly, neither did I when I started in underwriting. I had to sit with a processor named Renée who drew it on a whiteboard in about 90 seconds and suddenly the whole thing clicked.
 
 Let me do that for you here.
@@ -39,10 +38,6 @@ You don't write a check to your county tax office. You don't scramble to pay a $
 That's the whole mechanism. But the details inside that mechanism are where most borrowers get surprised, frustrated, or just plain confused.
 
 ## How the Monthly Payment Math Works
-
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Your monthly mortgage payment is often described with the acronym PITI: Principal, Interest, Taxes, and Insurance. The first two go toward your loan balance and interest. The last two go into escrow.
 
@@ -86,14 +81,11 @@ If you suspect an error and can't get it resolved directly, a [HUD-approved hous
 
 Keep your property tax statements and insurance renewal documents in one place. Compare them against what your servicer is actually paying. It takes 20 minutes a year and it has caught mistakes for borrowers I've known.
 
-If you want to really understand the full financial picture of what you're getting into before closing, a workbook like [Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/Noloss-Essential-Guide-Buying-First/dp/1413329861?tag=contentportfo-20) walks through escrow and other closing cost mechanics in plain language. (That's an affiliate link, just so you know.)
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
----
-
+If you want to really understand the full financial picture of what you're getting into before closing, a workbook like [Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/Noloss-Essential-Guide-Buying-First/dp/1413329861?tag=contentportfo-20) walks through escrow and other closing cost mechanics in plain language.
 
 ## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
 
 - **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
 - **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
@@ -109,13 +101,3 @@ If you want to really understand the full financial picture of what you're getti
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

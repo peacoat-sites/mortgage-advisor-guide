@@ -12,50 +12,46 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 
 ---
-
-When you're shopping for a mortgage, the rate type choice -- fixed or adjustable -- has more impact on your long-term costs than almost anything else. But it's not complicated once you understand what you're actually choosing between.
+When you're shopping for a mortgage, the rate type you choose, fixed or adjustable, probably matters more to your wallet than the down payment size or your loan term. Pick the wrong one and you're stuck with it for years. But here's the thing: it's actually straightforward once you understand what's at stake.
 
 ## Fixed-Rate Mortgages
 
-With a fixed-rate mortgage, your interest rate stays the same for the entire loan term. If you get a 30-year fixed at 6.75%, that's your rate in year one and year twenty-nine.
+A fixed-rate mortgage locks in your interest rate for the entire loan. Get a 30-year fixed at 6.75% and you're paying 6.75% in year one, year fifteen, year twenty-nine. All of it.
 
-Your principal and interest payment never changes. Property taxes and insurance will fluctuate, but the loan payment itself is predictable.
+That means your monthly principal and interest payment never budges. Property taxes and homeowners insurance will jump around, sure. But the loan payment itself? Set it and forget it.
 
-**Best for:** Buyers who plan to stay in the home long-term (7+ years) and want payment certainty, especially in a rising-rate environment.
+**Best for:** People who know they're staying put (at least 7+ years) and sleep better when they know exactly what their mortgage costs next month, next decade, and the month before they pay it off.
 
 ## Adjustable-Rate Mortgages (ARMs)
 
-An ARM has an initial fixed period, then adjusts periodically based on a market index. A 5/1 ARM means:
+An ARM starts with a fixed rate for a set number of years, then adjusts based on whatever market index the lender uses. A 5/1 ARM means your rate doesn't move for 5 years, then it adjusts every year after that.
 
-- Fixed for the first **5 years**
-- Adjusts every **1 year** after that
+You'll see 3/1s, 5/1s, 7/1s, 10/1s floating around. That initial rate is almost always lower than a fixed-rate option by half a percent to a full point and a half. Sometimes more.
 
-Common ARM types include 3/1, 5/1, 7/1, and 10/1. The initial rate is usually lower than a comparable fixed-rate -- often by 0.5% to 1.5%.
-
-**Best for:** Buyers who are confident they'll sell or refinance before the adjustment period begins.
+**Best for:** People confident they'll move or refinance before the adjustments kick in. Sounds like a nice deal until the adjustment period hits and rates have climbed.
 
 ## The Math That Matters
 
-If you're buying a $400,000 home with 20% down ($320,000 loan):
+Say you're buying a $400,000 house and putting down 20%, so you're borrowing $320,000:
 
 | Option | Rate | Monthly Payment |
 |--------|------|----------------|
 | 30-yr fixed | 6.75% | $2,076 |
 | 7/1 ARM | 5.75% | $1,868 |
 
-That's $208/month in savings during the ARM's fixed period -- $17,472 over 7 years. If you move or refinance within 7 years, you've come out ahead.
+That's $208 a month you're not paying during the ARM's fixed period. Over 7 years, that's $17,472 sitting in your account instead of your lender's. If you sell or refinance within those 7 years, you've made out. 
 
-If rates rise and you stay past year 7, your rate adjusts. ARMs have caps that limit how much your rate can increase per adjustment and over the life of the loan -- but you could still see a meaningful payment jump.
+But if rates climb and you're still there after year 7? Your payment adjusts upward. ARMs have caps on how much the rate can jump per adjustment and over the life of the loan. That said, the jump can still hurt. I've seen people's payments increase by $400 or $500 a month once adjustments start. Your financial cushion matters here.
 
 ## Questions to Ask Yourself
 
-1. How long do you realistically plan to stay in this home?
-2. What's your financial cushion if your payment increases?
-3. Where are rates today relative to historical averages?
+1. How long do you genuinely plan to stay? Not "how long do I hope to," but realistically?
+2. Can you handle a $300 or $400 monthly payment increase if rates don't cooperate?
+3. Are we in a historically high-rate environment right now, or a low one?
 
-If you're buying a starter home you'll likely outgrow in 5-7 years, an ARM often makes mathematical sense. If this is your forever home, a fixed rate offers the certainty most people want.
+A first-time buyer picking up a starter home they'll outgrow in 5-7 years? An ARM usually wins on pure numbers. Buying your forever place? A fixed rate lets you stop thinking about interest rates entirely.
 
-There's no universally right answer. Run the numbers for your specific situation.
+There's no objectively correct answer here. The math works differently depending on whether you plan to stay put or you're building equity before moving on. Run your own numbers. That's what matters.
 
 *This article is for educational purposes only. Mortgage rates change daily. Consult with a HUD-approved housing counselor or licensed mortgage professional for guidance specific to your financial situation.*
 
@@ -74,4 +70,3 @@ There's no universally right answer. Run the numbers for your specific situation
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

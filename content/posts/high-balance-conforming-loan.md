@@ -24,8 +24,7 @@ faqs:
   - q: "How often do the high-balance conforming loan limits change?"
     a: "The FHFA adjusts them annually based on the House Price Index. In markets where home values have been flat or declining, the limits can stay the same or theoretically drop (though that's rare). In markets where prices have risen sharply, the limits tend to follow. The update for any given calendar year is typically announced in November of the prior year and takes effect January 1st."
 ---
-
-Most borrowers have never heard of a high-balance conforming loan until the moment they actually need one. Then they're staring at two loan offers that look almost identical on the surface, and nobody at the closing table can explain clearly why one costs more than the other.
+Most borrowers have never heard of a high-balance conforming loan until they actually need one. Then they're staring at two loan offers that look nearly identical, and nobody at the closing table can explain why one costs more than the other.
 
 Let me fix that.
 
@@ -41,59 +40,50 @@ Let me fix that.
 
 ## What a High-Balance Conforming Loan Actually Is
 
-Here's the setup: Fannie Mae and Freddie Mac buy mortgages from lenders, which is what keeps the mortgage market liquid. But they won't buy just any loan. They set limits on the size of loans they'll purchase, and those limits vary by county based on local home prices. The standard conforming limit in 2026 is $806,500 for a single-family home in most of the country. In high-cost areas, that ceiling goes higher, sometimes significantly higher, up to $1,209,750 in the most expensive markets like San Francisco, Manhattan, and coastal Hawaii.
+Fannie Mae and Freddie Mac buy mortgages from lenders. That's the whole machinery that keeps the mortgage market from seizing up. But they're picky. They set caps on loan size, and those caps change by county based on what homes actually cost there. The standard conforming limit in 2026 is $806,500 for a single-family home across most of the country. In expensive areas it's higher, sometimes much higher. San Francisco, Manhattan, and coastal Hawaii top out at $1,209,750.
 
-A high-balance conforming loan (also called a "super conforming" loan, depending on who you're talking to) is any loan that falls between the standard conforming limit and the high-cost area limit. It's still a conforming loan in the sense that Fannie and Freddie will buy it, but it's not a standard conforming loan, and that distinction matters to your rate.
+A high-balance conforming loan (sometimes called "super conforming," depending on who's talking) sits between the standard limit and the high-cost limit. Fannie and Freddie will still buy it. It's conforming in that sense. But it's not a *standard* conforming loan, and lenders price it differently.
 
-The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) publishes these limits every year, usually in late November. They adjust for home price changes nationally. If you're buying in a high-cost county and you're anywhere near the limits, bookmark that page before you start shopping.
+The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) publishes these limits every November and adjusts them for home price changes. If you're buying in a high-cost county and you're anywhere near these thresholds, bookmark that page before you start shopping.
 
 ## Why Your Rate Will Be Slightly Higher (and How Much)
 
 > **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+I've watched borrowers assume that if a loan is still "conforming," it prices like a standard conforming loan. Not true.
 
+Lenders charge slightly higher interest rates on high-balance loans, typically 0.10% to 0.30% above what you'd get on a standard conforming loan with identical credit and down payment. That spread depends on the lender, market conditions, and how hungry competing banks are for business in your area right now.
 
-I've seen borrowers assume that if a loan is still "conforming," it should price the same as a standard conforming loan. That's not how it works.
+What most people miss is that Fannie and Freddie charge higher loan-level price adjustments (LLPAs) on high-balance loans. These are risk-based fees baked into your rate. A borrower with a 750 credit score and 20% down on a $900,000 purchase in a high-cost county gets a worse rate than the same borrower buying a $600,000 home in a standard market. Not catastrophically worse. But it adds up.
 
-Lenders price high-balance loans with slightly higher interest rates, typically somewhere in the range of 0.10% to 0.30% above what you'd get on a standard conforming loan with the same credit profile and down payment. The exact spread depends on the lender, the market conditions, and frankly, how much competition there is in your area at that moment.
-
-What most people don't realize is that Fannie and Freddie charge higher loan-level price adjustments (LLPAs) on high-balance loans. These are essentially risk-based fees that get baked into your rate. A borrower with a 750 credit score and 20% down on a $900,000 purchase in a high-cost county is going to get a slightly worse rate than the identical borrower buying a $600,000 home in a standard market. Not dramatically worse. But real money over 30 years.
-
-To put a number on it: on a $950,000 loan, a rate that's 0.25% higher costs you roughly $140 to $165 more per month depending on where rates are sitting. Over five years before you refinance or sell, that's $8,000 to $10,000. Worth knowing going in.
+On a $950,000 loan, a 0.25% rate bump costs you roughly $140 to $165 more per month. Over five years before you refinance or sell, that's $8,000 to $10,000. Real money.
 
 ## How High-Balance Loans Compare to Jumbo Loans
 
-This is where people get genuinely confused, and loan officers don't always bother to untangle it.
+Here's where it gets confusing, and loan officers don't always clear it up.
 
-A jumbo loan is any loan that exceeds the conforming limit for that county. In a standard market, that means anything over $806,500. In a high-cost area, it means anything over the local high-cost limit (up to $1,209,750). Jumbo loans are not sold to Fannie or Freddie. They're kept on the lender's balance sheet or sold to private investors, which means:
+A jumbo loan exceeds the conforming limit for your county. In a standard market that's anything over $806,500. In a high-cost area it's anything over the local high-cost limit. Jumbo loans don't get sold to Fannie or Freddie. They stay on the lender's books or go to private investors. That means:
 
-- Underwriting standards tend to be stricter (higher reserve requirements, sometimes more income documentation)
-- Rates can be higher or, interestingly, sometimes lower than high-balance conforming rates in competitive markets when jumbo investors are hungry for product
-- Down payment minimums are often 20%, sometimes more
-- Mortgage insurance is almost never an option, so that 20% is usually non-negotiable
+- Underwriting is stricter (higher reserve requirements, more income paperwork)
+- Rates can be higher than high-balance conforming, or sometimes lower when jumbo investors are hungry
+- Down payment minimums are typically 20%, sometimes more
+- Mortgage insurance almost never happens, so that 20% isn't optional
 
-A high-balance conforming loan, by contrast, follows Fannie/Freddie guidelines. You can put 10% down on a high-balance loan if you qualify. You can use gift funds. You can have a co-borrower who doesn't live in the property. The flexibility of the conforming universe is still available to you.
+A high-balance conforming loan follows Fannie and Freddie rules. You can put down 10% if you qualify. Gift funds work. A co-borrower who doesn't live in the property is fine. You keep the flexibility of the conforming world.
 
-I've worked files where a borrower in a high-cost county was $50,000 over the local conforming limit and was automatically steered into a jumbo product without anyone checking whether it made sense to restructure. Sometimes it does make sense to put a little more down specifically to keep the loan within high-balance conforming territory. Run the math on that before you commit to a jumbo.
+I've seen files where a borrower $50,000 over the local conforming limit got automatically pushed into a jumbo without anyone checking if restructuring the down payment would save them money. Sometimes it does. Run those scenarios before you commit.
 
 ## Qualifying for a High-Balance Conforming Loan
 
-The baseline qualification requirements follow standard Fannie/Freddie guidelines, but high-balance loans do have some additional overlays you'll run into.
+The baseline requirements follow standard Fannie and Freddie guidelines, but high-balance loans come with additional overlays.
 
-On the credit side, most lenders want at least a 680 qualifying score for a high-balance loan, though you'll get meaningfully better pricing at 740 or above. Debt-to-income ratios matter a lot here: Fannie's automated underwriting system (Desktop Underwriter, or DU) will approve DTIs as high as 50% in some cases, but at higher loan amounts, lenders often apply internal overlays that cap DTI at 43% to 45%. Don't let a loan officer tell you your DTI isn't going to matter just because the software gave you a thumbs up.
+Credit-wise, most lenders want at least a 680 qualifying score, though you'll get meaningfully better pricing at 740 or above. Debt-to-income ratios matter hugely. Fannie's underwriting software (Desktop Underwriter, or DU) approves DTIs as high as 50% in some cases, but at these loan sizes, lenders often layer on internal caps of 43% to 45%. Don't let a loan officer tell you your DTI doesn't matter just because the software said yes.
 
-Reserves are the other thing that trips people up. At these loan sizes, lenders commonly want to see six to twelve months of principal, interest, taxes, and insurance sitting in verified accounts after closing. On a $900,000 loan payment of, say, $5,500 a month, twelve months of reserves is $66,000 that you need to be able to document. If you're cleaning out your accounts to cover the down payment and closing costs, you may have a reserves problem you haven't discovered yet.
+Reserves trip up more people than you'd think. Lenders typically want six to twelve months of principal, interest, taxes, and insurance sitting in verified accounts after closing. On a $900,000 loan with a $5,500 monthly payment, twelve months of reserves is $66,000 you need to document. If you're draining accounts to cover the down payment and closing costs, you might have a reserves problem you haven't spotted yet.
 
-If you're working through any of this and feeling overwhelmed, a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can sit down with you at no cost and help you understand where you stand before you're deep into a purchase contract.
+A [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can walk through this at no cost before you're locked into a purchase contract.
 
-For borrowers who want to go deeper on the mechanics before shopping, something like a solid home-buying workbook can be worth the few hours. There are several good ones on Amazon that break down the entire loan process step by step (note: this site may earn a commission on purchases made through links here).
-
----
-
-
----
-
-If you're buying in a high-cost market and your loan amount is anywhere near these thresholds, spend a little time with your loan officer actually mapping out the scenarios before you lock anything. A $30,000 down payment adjustment can sometimes move you from one pricing tier to another in a way that saves you real money every month. That conversation doesn't always happen unless you ask for it.
+If you're buying in a high-cost market and your loan amount hovers near these thresholds, spend real time with your loan officer mapping out scenarios before locking anything. A $30,000 down payment adjustment can sometimes move you across a pricing tier and save you meaningful money every month. That conversation doesn't happen unless you push for it.
 
 ## Helpful Resources
 
@@ -125,4 +115,3 @@ If you're buying in a high-cost market and your loan amount is anywhere near the
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-
