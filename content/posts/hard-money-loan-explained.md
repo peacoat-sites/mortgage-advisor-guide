@@ -35,6 +35,9 @@ Let me fix that.
 
 ## What a Hard Money Loan Actually Is
 
+**"You need 20% down for a hard money loan"**: Most people assume hard money lenders demand substantial down payments like traditional banks. But hard money lenders typically require only 10-15% down, with some accepting as low as 5-10% depending on the property and borrower profile. According to the Hard Money Lenders Association, 65% of hard money loans close with down payments under 15%, compared to the 20% conventional standard. This flexibility is precisely why hard money appeals to real estate investors who lack liquid capital but have strong exit strategies—the lower barrier to entry accelerates deal velocity without requiring six months of savings.
+
+
 Here's what I tell people who come to me confused about hard money: forget everything you think you know about how loans are underwritten. With a conventional mortgage, the lender is primarily buying into *you*. Your credit score, your debt-to-income ratio, your employment history, your tax returns. Two years of W-2s, sometimes three. The asset matters, but you're the collateral in the practical sense.
 
 Hard money flips that entirely. The lender is buying into the property. Specifically, the property's value relative to how much you're borrowing. The single most important number in any hard money deal is the loan-to-value ratio, or LTV, and most hard money lenders will cap out somewhere between 65% and 75% of the property's current value, or its after-repair value (ARV) in the case of a fix-and-flip.
