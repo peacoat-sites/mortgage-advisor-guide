@@ -33,6 +33,9 @@ Here's what I want you to understand before we go any further: this article won'
 
 ## What Actually Makes a Lender "Good" for First-Time Buyers
 
+**"You need 20% down to get approved"**: Most first-time buyers think they're locked out without a substantial down payment. But that's outdated. In 2025, the average down payment for first-time buyers was just 6%, according to the National Association of Realtors. FHA loans require as little as 3.5% down, while VA and USDA loans require zero down for eligible borrowers. Even conventional loans—the strictest option—now regularly approve buyers with 5-10% down. The real trade-off isn't approval; it's PMI (private mortgage insurance). Yes, you'll pay extra monthly, but building equity faster often outweighs that cost, especially in appreciating markets.
+
+
 Most "best lenders" lists rank companies by star ratings or application speed. Those things matter. They're not what separates a good lending experience from a painful one for a first-time buyer specifically.
 
 What you actually need is a lender with loan products designed for borrowers with limited down payment savings, flexible credit requirements, and ideally, someone on staff who will explain the process without making you feel stupid for asking.
