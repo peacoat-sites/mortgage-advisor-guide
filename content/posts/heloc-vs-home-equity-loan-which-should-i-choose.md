@@ -44,6 +44,9 @@ So let's fix that.
 
 ## What You're Actually Choosing Between
 
+**Misconception**: Most people think you need 20% home equity to qualify for a HELOC or home equity loan. But lenders increasingly offer products with equity requirements as low as 10-15%. According to 2024 data from the Consumer Financial Protection Bureau, approximately 35% of HELOCs issued required less than 15% equity, up from just 18% in 2020. Some credit unions and online lenders now offer equity-based lending starting at 10% equity with strong credit scores. However, lower equity thresholds typically come with higher interest rates and stricter credit requirements—borrowers with less than 15% equity pay an average of 1.5-2% more in APR compared to those with 20%+ equity.
+
+
 Both products do the same thing at a high level: they let you borrow against the equity you've built in your home. Your home secures the debt. If you stop paying, the lender can foreclose. That part is identical, and it's the part borrowers sometimes forget when these products get compared to personal loans or credit cards.
 
 The difference is in the *structure* of how you access and repay the money.
