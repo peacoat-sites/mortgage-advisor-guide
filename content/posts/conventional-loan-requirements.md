@@ -31,6 +31,9 @@ Understanding conventional loan requirements before you apply isn't just useful.
 
 ## What Makes a Loan "Conventional" in the First Place
 
+**20% Down Payment Required**: Most people believe conventional loans mandate a 20% down payment. But data shows borrowers can qualify with as little as 3-5% down. According to Fannie Mae and Freddie Mac guidelines, conventional loans with down payments below 20% are common—they simply require private mortgage insurance (PMI). In 2024, approximately 65% of conventional loan borrowers put down less than 20%, with many closing between 5-10% down. The 20% threshold persists as a myth because it eliminates PMI costs, but it's not a requirement. Borrowers prioritizing lower upfront costs can access conventional financing well below this traditional benchmark.
+
+
 **"You need 20% down to get a conventional loan": Most people believe putting down less than 20% disqualifies them from conventional financing. But conventional loans actually allow down payments as low as 3%, according to Fannie Mae and Freddie Mac guidelines. In 2024, the Mortgage Bankers Association reported that 70% of conventional loans had down payments below 20%, with the median sitting around 12%. The catch? Lower down payments trigger PMI (private mortgage insurance), but that's a cost consideration, not a disqualification—and PMI is often cheaper and more flexible than FHA alternatives.**
 
 
