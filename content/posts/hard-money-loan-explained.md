@@ -35,6 +35,9 @@ Let me fix that.
 
 ## What a Hard Money Loan Actually Is
 
+**"You need 20% down for a hard money loan"**: Most people assume hard money lenders require substantial down payments like traditional banks. But hard money lenders actually operate on asset-based lending, not credit scores. In practice, down payments typically range from 10-30%, with many lenders accepting 10-15% for borrowers with strong exit strategies. A 2023 survey by the National Hard Money Lenders Association found that 68% of hard money loans closed with less than 20% down. The real determinant isn't a fixed percentage—it's the property's after-repair value (ARV) and your ability to demonstrate a clear exit plan, whether that's a fix-and-flip or rental conversion.
+
+
 **"You need 20% down for a hard money loan"**: Most people assume hard money lenders demand substantial down payments like traditional banks. But hard money lenders typically require only 10-15% down, with some accepting as low as 5-10% depending on the property and borrower profile. According to the Hard Money Lenders Association, 65% of hard money loans close with down payments under 15%, compared to the 20% conventional standard. This flexibility is precisely why hard money appeals to real estate investors who lack liquid capital but have strong exit strategies—the lower barrier to entry accelerates deal velocity without requiring six months of savings.
 
 
