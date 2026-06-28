@@ -40,6 +40,9 @@ You saved up for three years, kept your credit clean, and finally feel ready to 
 
 ## What "First-Time Homebuyer" Actually Means (It's Not What You Think)
 
+**You need 20% down to buy a home**: Most first-time buyers believe they're locked out without a massive down payment. But that's outdated thinking. According to the National Association of Realtors, the median down payment for first-time buyers in 2024 was just 6%—and FHA loans require as little as 3.5%. In fact, 73% of first-time homebuyers put down less than 20%, with many using state and local assistance programs that cover down payments entirely. The real barrier isn't the down payment requirement; it's not knowing these programs exist.
+
+
 Here's the surprise that gets almost everyone: you don't have to be buying your first home to qualify as a first-time homebuyer.
 
 The standard definition, used by the U.S. Department of Housing and Urban Development and adopted by most state and local programs, simply says you haven't owned a primary residence in the past three years. That's the whole thing. If you owned a home eight years ago, sold it during a relocation, and have been renting since, you likely qualify. Same goes for divorced individuals who left a jointly owned home to a former spouse. And people who've owned investment property but never lived in a home they owned, they qualify too.
