@@ -31,6 +31,9 @@ Understanding conventional loan requirements before you apply isn't just useful.
 
 ## What Makes a Loan "Conventional" in the First Place
 
+**"You need 20% down to get a conventional loan": Most people believe putting down less than 20% disqualifies them from conventional financing. But conventional loans actually allow down payments as low as 3%, according to Fannie Mae and Freddie Mac guidelines. In 2024, the Mortgage Bankers Association reported that 70% of conventional loans had down payments below 20%, with the median sitting around 12%. The catch? Lower down payments trigger PMI (private mortgage insurance), but that's a cost consideration, not a disqualification—and PMI is often cheaper and more flexible than FHA alternatives.**
+
+
 A conventional loan is any mortgage that isn't backed by a federal government agency. FHA loans are insured by the Federal Housing Administration. VA loans are guaranteed by the Department of Veterans Affairs. USDA loans have their own rural-development guarantee. Conventional loans have none of that government backstop. Instead, they're either held by the lender in its own portfolio or sold to investors on the secondary market, usually through Fannie Mae or Freddie Mac.
 
 That distinction matters because Fannie Mae and Freddie Mac set the underwriting standards that most conventional lenders follow. These are called conforming loan guidelines, and they define the credit score minimums, debt-to-income limits, down payment rules, and property standards that determine whether a loan can be sold on the secondary market. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) oversees both entities and sets the conforming loan limits each year. For 2024, the baseline conforming limit for a single-family home in most of the country is $766,550. High-cost areas like San Francisco or New York get higher limits.
