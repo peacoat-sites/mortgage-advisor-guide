@@ -110,6 +110,15 @@ A prepayment penalty is a fee the lender charges if you pay off your loan (or a 
 
 ## Recommended Resources
 
+## Sources
+
+- [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)
+- [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/)
+- [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
+- [*The Mortgage Professor's Guide to Mortgage Shopping*](https://www.amazon.com/s?k=mortgage+professor+guide&tag=contentportfo-20)
+- [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.

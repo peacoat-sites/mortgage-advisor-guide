@@ -103,6 +103,15 @@ A land contract isn't a destination. At least, it shouldn't be. The goal is to g
 
 ## Recommended Resources
 
+## Sources
+
+- [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)
+- [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/owning-a-home/)
+- [Freddie Mac's homebuyer resources](https://myhome.freddiemac.com/)
+- [this one on Amazon](https://www.amazon.com/s?k=home+buying+workbook)
+- [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.

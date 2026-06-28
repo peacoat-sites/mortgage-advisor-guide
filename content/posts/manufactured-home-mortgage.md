@@ -103,6 +103,15 @@ For general reading on this process, a solid home-buying reference like [The Com
 
 ## Recommended Resources
 
+## Sources
+
+- [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/)
+- [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)
+- [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
+- [The Complete Guide to Buying and Selling a Home](https://www.amazon.com/s?k=manufactured+home+buying+guide&tag=contentportfo-20)
+- [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.

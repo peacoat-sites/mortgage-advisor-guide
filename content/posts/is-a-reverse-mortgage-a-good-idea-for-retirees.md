@@ -91,6 +91,15 @@ If a reverse mortgage is on your radar, the most useful thing you can do right n
 
 ## Recommended Resources
 
+## Sources
+
+- [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/)
+- [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)
+- [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
+- [The Retirement Savings Time Bomb](https://www.amazon.com/Retirement-Savings-Time-Bomb-Defuse/dp/0593327861/?tag=contentportfo-20)
+- [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.

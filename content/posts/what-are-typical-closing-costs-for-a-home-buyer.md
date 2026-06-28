@@ -101,6 +101,15 @@ The best thing you can do right now, even before you've found a home, is get a b
 
 ## Recommended Resources
 
+## Sources
+
+- [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/owning-a-home/)
+- [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
+- [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)
+- [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)
+- [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)
+
+
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.

@@ -105,6 +105,15 @@ For borrowers who want to go deeper, there are good guides to mortgage contracts
 
 ## Recommended Resources
 
+## Sources
+
+- [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)
+- [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
+- [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/)
+- [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)
+- [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.

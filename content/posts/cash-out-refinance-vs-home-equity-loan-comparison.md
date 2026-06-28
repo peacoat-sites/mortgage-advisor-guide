@@ -128,6 +128,15 @@ And get quotes from multiple lenders on each product before you decide. Sometime
 
 ## Recommended Resources
 
+## Sources
+
+- [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)
+- [this mortgage and home finance reference on Amazon](https://www.amazon.com/s?k=home+equity+mortgage+guide&tag=contentportfo-20)
+- [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/owning-a-home/)
+- [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
+- [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.

@@ -97,6 +97,15 @@ If you want to go deeper on the financial modeling side before you start shoppin
 
 ## Recommended Resources
 
+## Sources
+
+- [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
+- [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)
+- [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/)
+- [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/Book-Rental-Property-Investing-Intelligent/dp/099071179X?tag=contentportfo-20)
+- [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.

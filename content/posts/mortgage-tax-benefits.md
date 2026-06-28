@@ -90,6 +90,15 @@ The honest summary is this: mortgage tax benefits matter for some borrowers and 
 
 ## Recommended Resources
 
+## Sources
+
+- [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)
+- [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
+- [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
+- [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)
+- [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.

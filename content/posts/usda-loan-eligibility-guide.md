@@ -134,6 +134,15 @@ The USDA loan won't work for everyone. If you're buying in a dense urban area, y
 
 ## Recommended Resources
 
+## Sources
+
+- [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)
+- [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
+- [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
+- [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)
+- [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.

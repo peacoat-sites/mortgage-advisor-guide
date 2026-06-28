@@ -97,6 +97,15 @@ If any of this sounds complex, consider picking up a resource like [*The Complet
 
 ## Recommended Resources
 
+## Sources
+
+- [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)
+- [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/)
+- [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
+- [*The Complete Guide to Real Estate Finance for Investment Properties*](https://www.amazon.com/dp/0471647128?tag=contentportfo-20)
+- [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
