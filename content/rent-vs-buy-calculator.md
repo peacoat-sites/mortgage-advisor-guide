@@ -6,6 +6,7 @@ description: "Compare the true cost of renting vs. buying a home over 5, 10, 15,
 categories: ["Home Buying"]
 author: "Greg Callahan"
 image: ""
+image: "https://images.pexels.com/photos/27920274/pexels-photo-27920274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 The rent vs. buy debate comes up constantly, and for good reason — it's one of the biggest financial decisions most people will ever face. The "buying is always better" crowd points to equity and appreciation. The "renting gives you flexibility" camp points to maintenance, transaction costs, and the opportunity cost of a down payment. Both sides have valid points, which is why a real comparison requires running the actual numbers for your situation.

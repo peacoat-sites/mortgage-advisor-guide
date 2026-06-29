@@ -6,6 +6,7 @@ description: "Use our free home affordability calculator to estimate how much ho
 categories: ["Home Buying"]
 author: "Greg Callahan"
 image: ""
+image: "https://images.pexels.com/photos/27920274/pexels-photo-27920274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Buying a home is one of the largest financial decisions you'll ever make, and figuring out your price range before you start shopping can save you hours of frustration — and protect you from overcommitting. Lenders use two key ratios to decide how much they'll approve: the **front-end ratio** (your housing costs vs. your gross income) and the **back-end ratio** (all debts vs. your gross income). Most conventional lenders want to see a front-end ratio below 28% and a back-end ratio below 36%.

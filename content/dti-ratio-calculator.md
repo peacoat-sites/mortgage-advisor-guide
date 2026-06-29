@@ -6,6 +6,7 @@ description: "Calculate your debt-to-income ratio in seconds. See your front-end
 categories: ["Mortgage Basics"]
 author: "Greg Callahan"
 image: ""
+image: "https://images.pexels.com/photos/5849563/pexels-photo-5849563.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Your debt-to-income ratio — or DTI — is one of the most important numbers a mortgage lender looks at. It's a simple formula: divide your total monthly debt payments by your gross monthly income. But there are actually two versions lenders care about, and they each tell a different part of your financial story.
