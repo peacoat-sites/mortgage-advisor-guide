@@ -11,7 +11,9 @@ author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 slug: "what-trumps-mortgage-credit-order-means-for-your-next-closing"
-affiliate_disclosure: true, Picture this: you're three weeks from closing on a house you've been hunting for eight months, and your loan officer calls to say your appraisal came in low. The deal stalls. The seller gets nervous. You lose the house. I've seen this scenario play out dozens of times, and it's the kind of grinding, expensive friction that a sweeping executive order signed in March is now directly targeting.
+affiliate_disclosure: true
+---
+Picture this: you're three weeks from closing on a house you've been hunting for eight months, and your loan officer calls to say your appraisal came in low. The deal stalls. The seller gets nervous. You lose the house. I've seen this scenario play out dozens of times, and it's the kind of grinding, expensive friction that a sweeping executive order signed in March is now directly targeting.
 
 On March 13, 2026, President Trump signed EO 14393, "Promoting Access to Mortgage Credit," directing the CFPB, FHFA, HUD, VA, USDA, and federal banking regulators to revisit and overhaul much of the post-Dodd-Frank mortgage infrastructure. Several agency deadlines land this summer, with the FHFA report to the White House due around mid-July 2026. If you're buying or refinancing during this peak season, some of these changes may be taking shape while your loan is literally in the pipeline.
 

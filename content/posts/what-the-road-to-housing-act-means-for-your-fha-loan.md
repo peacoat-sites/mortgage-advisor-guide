@@ -11,7 +11,9 @@ author_slug: "ethan-chen"
 author_title: "Real Estate Researcher"
 author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
 slug: "what-the-road-to-housing-act-means-for-your-fha-loan"
-affiliate_disclosure: true, The 21st Century ROAD to Housing Act passed the House 396–13 on May 20, 2026, and is sitting on the president's desk waiting for a signature. Most coverage has focused on the institutional investor provisions, which is where the misleading headlines are concentrated. The more consequential changes, the ones that will actually affect real borrowers in the next 12 to 24 months, are buried in the FHA sections. Here's what those changes actually do, and what they don't.
+affiliate_disclosure: true
+---
+The 21st Century ROAD to Housing Act passed the House 396–13 on May 20, 2026, and is sitting on the president's desk waiting for a signature. Most coverage has focused on the institutional investor provisions, which is where the misleading headlines are concentrated. The more consequential changes, the ones that will actually affect real borrowers in the next 12 to 24 months, are buried in the FHA sections. Here's what those changes actually do, and what they don't.
 
 ## The Small-Dollar Mortgage Pilot Is Bigger Than It Sounds
 

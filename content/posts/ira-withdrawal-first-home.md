@@ -11,7 +11,9 @@ author_slug: "susan-taylor"
 author_title: "Credit Writer"
 author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
 slug: "ira-withdrawal-first-home"
-affiliate_disclosure: true, You're sitting at a closing table, home of your dreams within reach, and your loan officer casually mentions you could pull from your IRA penalty-free to cover the down payment. Sounds like a lifeline. I've watched borrowers light up at that suggestion, and then sign paperwork they didn't fully understand, only to get hit with a tax bill that genuinely shocked them.
+affiliate_disclosure: true
+---
+You're sitting at a closing table, home of your dreams within reach, and your loan officer casually mentions you could pull from your IRA penalty-free to cover the down payment. Sounds like a lifeline. I've watched borrowers light up at that suggestion, and then sign paperwork they didn't fully understand, only to get hit with a tax bill that genuinely shocked them.
 
 Here's what that loan officer probably didn't explain: "penalty-free" and "tax-free" are not the same thing. Not even close.
 

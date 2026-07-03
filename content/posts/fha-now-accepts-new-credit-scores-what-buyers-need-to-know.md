@@ -11,7 +11,9 @@ author_slug: "susan-taylor"
 author_title: "Credit Writer"
 author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
 slug: "fha-now-accepts-new-credit-scores-what-buyers-need-to-know"
-affiliate_disclosure: true, Most people assume their credit score is their credit score. One number, one fate. What I've spent the last week digging into suggests that assumption is about to get a lot more complicated, and for millions of potential homebuyers, that's genuinely good news.
+affiliate_disclosure: true
+---
+Most people assume their credit score is their credit score. One number, one fate. What I've spent the last week digging into suggests that assumption is about to get a lot more complicated, and for millions of potential homebuyers, that's genuinely good news.
 
 On April 22, 2026, HUD Secretary Scott Turner announced that FHA would begin accepting VantageScore 4.0 and FICO Score 10T alongside the Classic FICO models that have dominated mortgage underwriting for decades. FHA confirmed the shift through [FHA INFO 2026-11](https://www.hud.gov/hud-partners/single-family-fha-info) in May 2026. This isn't a minor tweak to the fine print. It's the biggest structural change to FHA credit evaluation in years, and it's landing right as the summer homebuying season hits full stride with 30-year fixed rates sitting at 6.47% as of June 18, 2026, according to Freddie Mac's Primary Mortgage Market Survey.
 

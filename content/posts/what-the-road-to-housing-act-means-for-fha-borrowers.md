@@ -11,7 +11,9 @@ author_slug: "ethan-chen"
 author_title: "Real Estate Researcher"
 author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
 slug: "what-the-road-to-housing-act-means-for-fha-borrowers"
-affiliate_disclosure: true, The same week Congress passed what the Bipartisan Policy Center called the largest housing affordability legislation in decades, HUD quietly rolled out 14 separate FHA policy changes that most buyers haven't heard about yet. Both things happened on June 22-23, 2026. Both affect FHA borrowers. And right now, one of them is already in effect while the other is sitting on the President's desk with an uncertain future. If you're trying to buy a home with an FHA loan, or you've been priced out and are waiting for conditions to shift, you need to understand what changed, what's coming, and what's genuinely still unknown.
+affiliate_disclosure: true
+---
+The same week Congress passed what the Bipartisan Policy Center called the largest housing affordability legislation in decades, HUD quietly rolled out 14 separate FHA policy changes that most buyers haven't heard about yet. Both things happened on June 22-23, 2026. Both affect FHA borrowers. And right now, one of them is already in effect while the other is sitting on the President's desk with an uncertain future. If you're trying to buy a home with an FHA loan, or you've been priced out and are waiting for conditions to shift, you need to understand what changed, what's coming, and what's genuinely still unknown.
 
 ## The Affordability Context Nobody Wants to Say Out Loud
 

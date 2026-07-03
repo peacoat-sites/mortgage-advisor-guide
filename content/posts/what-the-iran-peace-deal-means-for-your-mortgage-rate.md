@@ -11,7 +11,9 @@ author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
 slug: "what-the-iran-peace-deal-means-for-your-mortgage-rate"
-affiliate_disclosure: true, If you've been watching mortgage rates tick down this week and wondering whether to finally make a move, you're not imagining the shift. Something real happened. On June 18, 2026, President Trump signed a preliminary peace agreement with Iran, kicking off a 60-day window of negotiations toward a final deal. Almost immediately, the Strait of Hormuz reopened, oil prices pulled back, and the 30-year fixed mortgage rate dropped to roughly 6.37%–6.56%, the lowest level in over a month, according to Yahoo Finance. For buyers who've been sitting on the sidelines through a brutal spring, this feels like a door cracking open. The question is how long it stays that way.
+affiliate_disclosure: true
+---
+If you've been watching mortgage rates tick down this week and wondering whether to finally make a move, you're not imagining the shift. Something real happened. On June 18, 2026, President Trump signed a preliminary peace agreement with Iran, kicking off a 60-day window of negotiations toward a final deal. Almost immediately, the Strait of Hormuz reopened, oil prices pulled back, and the 30-year fixed mortgage rate dropped to roughly 6.37%–6.56%, the lowest level in over a month, according to Yahoo Finance. For buyers who've been sitting on the sidelines through a brutal spring, this feels like a door cracking open. The question is how long it stays that way.
 
 ## Why a Geopolitical Deal Is Moving Your Mortgage Rate
 

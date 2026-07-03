@@ -11,7 +11,9 @@ author_slug: "ethan-chen"
 author_title: "Real Estate Researcher"
 author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
 slug: "break-even-point-calculator-for-refinancing-a-home-loan"
-affiliate_disclosure: true, A borrower came to me once, practically beaming, because she'd locked in a rate that was a full percentage point lower than her current mortgage. She was ready to sign. I asked her one question: "How long are you planning to stay in the house?" She paused. "Maybe two years, three tops." She almost paid $6,200 in closing costs to save money she'd never actually see.
+affiliate_disclosure: true
+---
+A borrower came to me once, practically beaming, because she'd locked in a rate that was a full percentage point lower than her current mortgage. She was ready to sign. I asked her one question: "How long are you planning to stay in the house?" She paused. "Maybe two years, three tops." She almost paid $6,200 in closing costs to save money she'd never actually see.
 
 That's what the break-even calculation is really for. Not the math itself, which takes about four minutes, but the moment it forces on you: do the numbers actually support doing this?
 

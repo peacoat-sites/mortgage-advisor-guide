@@ -11,7 +11,9 @@ author_slug: "jennifer-walsh"
 author_title: "Mortgage Writer"
 author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
 slug: "gift-funds-for-down-payment-rules"
-affiliate_disclosure: true, Someone called me last week, two days before their closing date, panicking because their lender had just flagged a $15,000 deposit in their bank account. It was a gift from her parents. She'd had it sitting there for six weeks. And nobody had told her she needed a gift letter.
+affiliate_disclosure: true
+---
+Someone called me last week, two days before their closing date, panicking because their lender had just flagged a $15,000 deposit in their bank account. It was a gift from her parents. She'd had it sitting there for six weeks. And nobody had told her she needed a gift letter.
 
 We got it sorted out, but it added stress nobody needs right before closing. And honestly, it's a situation I've seen play out dozens of times, because gift funds are one of those topics where borrowers assume everything will be fine until suddenly it isn't.
 

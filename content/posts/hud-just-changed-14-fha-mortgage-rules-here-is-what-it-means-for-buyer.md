@@ -11,7 +11,9 @@ author_slug: "susan-taylor"
 author_title: "Credit Writer"
 author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
 slug: "hud-just-changed-14-fha-mortgage-rules-here-is-what-it-means-for-buyer"
-affiliate_disclosure: true, Picture this: you're a first-time buyer, you've scraped together your 3.5% down payment, you've found a house that needs a little work, and you're trying to figure out why your FHA loan closing cost you $425 extra for an appraisal field review that your lender explained in exactly one sentence. You didn't push back because you didn't know you could. I've seen that scenario play out hundreds of times, and it's exactly the kind of friction that quietly drains money from buyers who can least afford it.
+affiliate_disclosure: true
+---
+Picture this: you're a first-time buyer, you've scraped together your 3.5% down payment, you've found a house that needs a little work, and you're trying to figure out why your FHA loan closing cost you $425 extra for an appraisal field review that your lender explained in exactly one sentence. You didn't push back because you didn't know you could. I've seen that scenario play out hundreds of times, and it's exactly the kind of friction that quietly drains money from buyers who can least afford it.
 
 On June 23, 2026, HUD announced 14 policy changes to the FHA single-family mortgage program, framed as part of National Homeownership Month and described by HUD as the latest in a wave of more than 150 streamlining actions under the Trump administration. Some of these changes will save you real money. Some are operational housekeeping that makes lenders' lives easier. And one glaring absence in the package has industry groups already pushing back. If you're using FHA financing this summer or planning to, here's what you actually need to know.
 

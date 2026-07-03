@@ -11,7 +11,9 @@ author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
 slug: "trump-blocked-the-housing-bill-what-happens-to-buyers-now"
-affiliate_disclosure: true, The bill passed 85–5 in the Senate. Then 358–32 in the House. Two chambers, bipartisan consensus so lopsided it barely qualifies as a vote. Then, the morning of June 24, Trump posted on Truth Social canceling the signing ceremony, tying the bill's fate to the SAVE AMERICA ACT and leaving everyone who'd been watching that ceremony, buyers, sellers, housing advocates, mortgage lenders, staring at their screens.
+affiliate_disclosure: true
+---
+The bill passed 85–5 in the Senate. Then 358–32 in the House. Two chambers, bipartisan consensus so lopsided it barely qualifies as a vote. Then, the morning of June 24, Trump posted on Truth Social canceling the signing ceremony, tying the bill's fate to the SAVE AMERICA ACT and leaving everyone who'd been watching that ceremony, buyers, sellers, housing advocates, mortgage lenders, staring at their screens.
 
 Most coverage treated this as political drama. It is also a housing market problem, arriving at the worst possible moment.
 
