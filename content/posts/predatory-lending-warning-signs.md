@@ -13,16 +13,16 @@ author_bio: "Maria Santos has coached hundreds of first-time buyers through the 
 slug: "predatory-lending-warning-signs"
 affiliate_disclosure: true
 faqs:
-  - q: "How can I tell if a loan officer is being predatory versus just pushy?"
-    a: "Pushiness alone isn't the tell. The real signal is whether they can answer specific questions about the loan terms in writing. A pushy but honest loan officer will put everything in an email. A predatory one deflects, verbally reassures, and avoids documentation. Ask for written confirmation of the rate, fees, and loan structure, and watch what happens."
-  - q: "Are online or non-bank lenders more likely to be predatory?"
-    a: "Not inherently, no. Some of the most aggressive predatory lending in recent history came from bank subsidiaries, not fly-by-night operations. The lender's charter matters less than the specific loan terms in front of you. Scrutinize the product, not just the brand name."
-  - q: "What should I do if I think I've already signed a predatory loan?"
-    a: "Contact a HUD-approved housing counselor immediately. They can help you understand your options, which may include refinancing, loan modification requests, or in cases involving clear TILA violations, rescission rights that can last up to three years. Don't wait and hope the situation improves."
-  - q: "Is a high interest rate the main sign of a predatory loan?"
-    a: "High rates are a symptom, not the definition. What makes a loan predatory is the combination of terms designed to trap you, lack of transparent disclosure, and targeting of borrowers who lack realistic alternatives. A high-rate loan with clear terms and a borrower who genuinely understands what they're signing is a bad deal. It's not necessarily predatory."
-  - q: "Do predatory lenders only target people with bad credit?"
-    a: "No. Equity is often the real target. A borrower with a 620 credit score and $300,000 in home equity is extremely attractive to certain bad actors. Plenty of predatory loans have been sold to people with good credit who simply weren't paying close enough attention, or who trusted a referral source they shouldn't have. The most useful thing I can tell you is this: a legitimate lender survives scrutiny. They welcome questions, they put things in writing, and they don't need you to decide today. Any pressure that works against your ability to think clearly is working against you."
+ - q: "How can I tell if a loan officer is being predatory versus just pushy?"
+ a: "Pushiness alone isn't the tell. The real signal is whether they can answer specific questions about the loan terms in writing. A pushy but honest loan officer will put everything in an email. A predatory one deflects, verbally reassures, and avoids documentation. Ask for written confirmation of the rate, fees, and loan structure, and watch what happens."
+ - q: "Are online or non-bank lenders more likely to be predatory?"
+ a: "Not inherently, no. Some of the most aggressive predatory lending in recent history came from bank subsidiaries, not fly-by-night operations. The lender's charter matters less than the specific loan terms in front of you. Scrutinize the product, not just the brand name."
+ - q: "What should I do if I think I've already signed a predatory loan?"
+ a: "Contact a HUD-approved housing counselor immediately. They can help you understand your options, which may include refinancing, loan modification requests, or in cases involving clear TILA violations, rescission rights that can last up to three years. Don't wait and hope the situation improves."
+ - q: "Is a high interest rate the main sign of a predatory loan?"
+ a: "High rates are a symptom, not the definition. What makes a loan predatory is the combination of terms designed to trap you, lack of transparent disclosure, and targeting of borrowers who lack realistic alternatives. A high-rate loan with clear terms and a borrower who genuinely understands what they're signing is a bad deal. It's not necessarily predatory."
+ - q: "Do predatory lenders only target people with bad credit?"
+ a: "No. Equity is often the real target. A borrower with a 620 credit score and $300,000 in home equity is extremely attractive to certain bad actors. Plenty of predatory loans have been sold to people with good credit who simply weren't paying close enough attention, or who trusted a referral source they shouldn't have. The most useful thing I can tell you is this: a legitimate lender survives scrutiny. They welcome questions, they put things in writing, and they don't need you to decide today. Any pressure that works against your ability to think clearly is working against you."
 ---
 
 Most people who get trapped in a predatory loan didn't see it coming. That's not because they were careless. It's because the people who design these products are very, very good at making them look reasonable until you're already signed.

@@ -11,10 +11,7 @@ author_slug: "ethan-chen"
 author_title: "Real Estate Researcher"
 author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
 slug: "what-the-road-to-housing-act-means-for-your-fha-loan"
-affiliate_disclosure: true
----
-
-The 21st Century ROAD to Housing Act passed the House 396–13 on May 20, 2026, and is sitting on the president's desk waiting for a signature. Most coverage has focused on the institutional investor provisions, which is where the misleading headlines are concentrated. The more consequential changes, the ones that will actually affect real borrowers in the next 12 to 24 months, are buried in the FHA sections. Here's what those changes actually do, and what they don't.
+affiliate_disclosure: true, The 21st Century ROAD to Housing Act passed the House 396–13 on May 20, 2026, and is sitting on the president's desk waiting for a signature. Most coverage has focused on the institutional investor provisions, which is where the misleading headlines are concentrated. The more consequential changes, the ones that will actually affect real borrowers in the next 12 to 24 months, are buried in the FHA sections. Here's what those changes actually do, and what they don't.
 
 ## The Small-Dollar Mortgage Pilot Is Bigger Than It Sounds
 
@@ -64,11 +61,11 @@ The bill's breadth is real, but so is the gap between legislation and implementa
 
 ## Sources
 
-- [What the 2026 Housing Bill Means for Homebuyers ,  Better](https://better.com/content/2026-housing-bill-what-it-means-for-buyers) (May 2026)
-- [What's in the House Amendment to the 21st Century ROAD to Housing Act ,  Bipartisan Policy Center](https://bipartisanpolicy.org/issue-brief/whats-in-the-house-amendment-to-the-21st-century-road-to-housing-act/) (May 19, 2026)
-- [21st Century ROAD to Housing Act Passes Senate ,  National Mortgage Professional](https://nationalmortgageprofessional.com/news/21st-century-road-housing-act-passes-senate) (March 2026)
-- [H.R.6644 Bill Text ,  Congress.gov](https://www.congress.gov/bill/119th-congress/house-bill/6644/text) (May 20, 2026)
-- [2026 Federal Housing Policy Preview ,  Terner Center, UC Berkeley](https://ternercenter.berkeley.edu/research-and-policy/2026-federal-housing-policy-preview/) (March 18, 2026)
+- [What the 2026 Housing Bill Means for Homebuyers , Better](https://better.com/content/2026-housing-bill-what-it-means-for-buyers) (May 2026)
+- [What's in the House Amendment to the 21st Century ROAD to Housing Act , Bipartisan Policy Center](https://bipartisanpolicy.org/issue-brief/whats-in-the-house-amendment-to-the-21st-century-road-to-housing-act/) (May 19, 2026)
+- [21st Century ROAD to Housing Act Passes Senate , National Mortgage Professional](https://nationalmortgageprofessional.com/news/21st-century-road-housing-act-passes-senate) (March 2026)
+- [H.R.6644 Bill Text , Congress.gov](https://www.congress.gov/bill/119th-congress/house-bill/6644/text) (May 20, 2026)
+- [2026 Federal Housing Policy Preview , Terner Center, UC Berkeley](https://ternercenter.berkeley.edu/research-and-policy/2026-federal-housing-policy-preview/) (March 18, 2026)
 
 ## Helpful Resources
 
@@ -91,8 +88,8 @@ The bill's breadth is real, but so is the gap between legislation and implementa
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25) — Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25), Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 

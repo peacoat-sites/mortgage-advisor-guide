@@ -11,10 +11,7 @@ author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 slug: "what-trumps-mortgage-credit-order-means-for-your-next-closing"
-affiliate_disclosure: true
----
-
-Picture this: you're three weeks from closing on a house you've been hunting for eight months, and your loan officer calls to say your appraisal came in low. The deal stalls. The seller gets nervous. You lose the house. I've seen this scenario play out dozens of times, and it's the kind of grinding, expensive friction that a sweeping executive order signed in March is now directly targeting.
+affiliate_disclosure: true, Picture this: you're three weeks from closing on a house you've been hunting for eight months, and your loan officer calls to say your appraisal came in low. The deal stalls. The seller gets nervous. You lose the house. I've seen this scenario play out dozens of times, and it's the kind of grinding, expensive friction that a sweeping executive order signed in March is now directly targeting.
 
 On March 13, 2026, President Trump signed EO 14393, "Promoting Access to Mortgage Credit," directing the CFPB, FHFA, HUD, VA, USDA, and federal banking regulators to revisit and overhaul much of the post-Dodd-Frank mortgage infrastructure. Several agency deadlines land this summer, with the FHFA report to the White House due around mid-July 2026. If you're buying or refinancing during this peak season, some of these changes may be taking shape while your loan is literally in the pipeline.
 
@@ -60,11 +57,11 @@ The borrowers who benefit most from regulatory overhauls are the ones who were a
 
 ## Sources
 
-- [White House – Promoting Access to Mortgage Credit (EO 14393)](https://www.whitehouse.gov/presidential-actions/2026/03/promoting-access-to-mortgage-credit/) (March 13, 2026)
-- [Mayer Brown – New Executive Orders Aim to Promote Access to Mortgage Credit](https://www.mayerbrown.com/en/insights/publications/2026/03/new-executive-orders-aim-to-promote-access-to-mortgage-credit-and-expand-construction-of-affordable-homes) (March 27, 2026)
-- [National Mortgage Professional – What Trump's Mortgage Credit Executive Order Means for LOs](https://nationalmortgageprofessional.com/news/what-trumps-mortgage-credit-executive-order-means-los) (March 19, 2026)
-- [CNBC – Mortgage Rates Hit Highest Level in a Month, Causing First-Time Homebuyers to Drop Out](https://www.cnbc.com/2026/05/06/mortgage-rates-hit-the-highest-level-in-a-month-causing-lower-income-homebuyers-to-drop-out.html) (May 6, 2026)
-- [America's Credit Unions – The President's Housing Executive Orders: Which Regulations Might Be Affected?](https://www.americascreditunions.org/blogs/compliance/presidents-housing-executive-orders-which-regulations-might-be-affected) (April 7, 2026)
+- [White House, Promoting Access to Mortgage Credit (EO 14393)](https://www.whitehouse.gov/presidential-actions/2026/03/promoting-access-to-mortgage-credit/) (March 13, 2026)
+- [Mayer Brown, New Executive Orders Aim to Promote Access to Mortgage Credit](https://www.mayerbrown.com/en/insights/publications/2026/03/new-executive-orders-aim-to-promote-access-to-mortgage-credit-and-expand-construction-of-affordable-homes) (March 27, 2026)
+- [National Mortgage Professional, What Trump's Mortgage Credit Executive Order Means for LOs](https://nationalmortgageprofessional.com/news/what-trumps-mortgage-credit-executive-order-means-los) (March 19, 2026)
+- [CNBC, Mortgage Rates Hit Highest Level in a Month, Causing First-Time Homebuyers to Drop Out](https://www.cnbc.com/2026/05/06/mortgage-rates-hit-the-highest-level-in-a-month-causing-lower-income-homebuyers-to-drop-out.html) (May 6, 2026)
+- [America's Credit Unions, The President's Housing Executive Orders: Which Regulations Might Be Affected?](https://www.americascreditunions.org/blogs/compliance/presidents-housing-executive-orders-which-regulations-might-be-affected) (April 7, 2026)
 
 ## Helpful Resources
 
@@ -87,6 +84,6 @@ The borrowers who benefit most from regulatory overhauls are the ones who were a
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

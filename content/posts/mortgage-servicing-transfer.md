@@ -13,16 +13,16 @@ author_bio: "Ethan Chen is a real estate researcher who has spent years tracking
 slug: "mortgage-servicing-transfer"
 affiliate_disclosure: true
 faqs:
-  - q: "Can my mortgage terms change when my loan is transferred to a new servicer?"
-    a: "No. The interest rate, loan balance, repayment schedule, and all other terms in your original promissory note stay exactly the same. A servicing transfer only changes who collects and manages your payments, not the underlying loan agreement."
-  - q: "What if I never received a transfer notice?"
-    a: "Your servicer is required by law to send one, but mail gets lost. Call your original servicer directly (use the number on your old statement, not a number from an unfamiliar letter) and ask for confirmation of the transfer and the new servicer's contact details. If you have reason to believe the notice was never sent at all, that's a RESPA violation worth documenting and reporting to the CFPB."
-  - q: "Does a servicing transfer affect my credit score?"
-    a: "The transfer itself doesn't. What can affect your score is missing a payment during the transition because you didn't update autopay, or failing to act on the new servicer's instructions in time. The transfer will typically appear on your credit report as a new account number under the new servicer's name, but that's a data update, not a new inquiry or hard pull."
-  - q: "How often can my loan be transferred?"
-    a: "There's no legal limit on how many times servicing rights can be sold. Some loans are transferred multiple times over their life. Each time, the same RESPA notice requirements apply."
-  - q: "My new servicer says I owe a different amount than what I had before. What do I do?"
-    a: "Start by requesting a complete payment history and current payoff statement from both the old and new servicer. Compare them. Small discrepancies sometimes come from how interest accrued during the transition days. Larger differences, especially involving your escrow balance, may indicate a data error and warrant a formal Qualified Written Request. Don't pay a disputed amount without getting something in writing explaining the calculation."
+ - q: "Can my mortgage terms change when my loan is transferred to a new servicer?"
+ a: "No. The interest rate, loan balance, repayment schedule, and all other terms in your original promissory note stay exactly the same. A servicing transfer only changes who collects and manages your payments, not the underlying loan agreement."
+ - q: "What if I never received a transfer notice?"
+ a: "Your servicer is required by law to send one, but mail gets lost. Call your original servicer directly (use the number on your old statement, not a number from an unfamiliar letter) and ask for confirmation of the transfer and the new servicer's contact details. If you have reason to believe the notice was never sent at all, that's a RESPA violation worth documenting and reporting to the CFPB."
+ - q: "Does a servicing transfer affect my credit score?"
+ a: "The transfer itself doesn't. What can affect your score is missing a payment during the transition because you didn't update autopay, or failing to act on the new servicer's instructions in time. The transfer will typically appear on your credit report as a new account number under the new servicer's name, but that's a data update, not a new inquiry or hard pull."
+ - q: "How often can my loan be transferred?"
+ a: "There's no legal limit on how many times servicing rights can be sold. Some loans are transferred multiple times over their life. Each time, the same RESPA notice requirements apply."
+ - q: "My new servicer says I owe a different amount than what I had before. What do I do?"
+ a: "Start by requesting a complete payment history and current payoff statement from both the old and new servicer. Compare them. Small discrepancies sometimes come from how interest accrued during the transition days. Larger differences, especially involving your escrow balance, may indicate a data error and warrant a formal Qualified Written Request. Don't pay a disputed amount without getting something in writing explaining the calculation."
 ---
 
 Your loan closes on a Friday. By the following Tuesday, you've already forgotten half the paperwork you signed. Then, three weeks later, you get a letter in the mail from a company you've never heard of, telling you to start sending your mortgage payments to them instead of the lender you spent weeks working with. And your first instinct is: *is this a scam?*
@@ -107,6 +107,6 @@ If you feel like you're getting nowhere, a [HUD-approved housing counselor](http
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

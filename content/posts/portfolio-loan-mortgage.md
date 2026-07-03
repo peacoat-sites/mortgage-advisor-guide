@@ -13,16 +13,16 @@ author_bio: "Susan Taylor works at the intersection of credit health and mortgag
 slug: "portfolio-loan-mortgage"
 affiliate_disclosure: true
 faqs:
-  - q: "What's the difference between a portfolio loan and a non-QM loan?"
-    a: "Non-QM (non-qualified mortgage) is a regulatory category describing loans that don't meet the CFPB's 'qualified mortgage' safe harbor rules. Portfolio loans are defined by who holds the loan. A lot of non-QM loans are portfolio loans, but the terms describe different things. A loan can be both, either, or neither."
-  - q: "Can I refinance a portfolio loan into a conventional loan later?"
-    a: "Yes, and for a lot of borrowers that's the plan. You use the portfolio loan to get into the property when the conventional market won't approve you, then refinance into a conforming product once your income documentation, credit history, or wait-out period improves. Factor prepayment penalties into that timing calculation."
-  - q: "Do portfolio loans have higher down payment requirements?"
-    a: "Often, yes. Many portfolio lenders want 20-25% down because they're not selling the loan and can't rely on mortgage insurance guarantees in the same way. Some will go lower, but expect the rate to compensate for the added risk. It varies meaningfully by lender."
-  - q: "Are portfolio loans available for investment properties?"
-    a: "This is one of the primary use cases. Real estate investors who've maxed out their conventional financing options, or who need a loan on a property with unusual characteristics (a mixed-use building, a large portfolio of rentals pledged as collateral), turn to portfolio lenders regularly. Expect stricter reserves requirements and scrutiny of your rental income history."
-  - q: "Is a portfolio loan harder to get approved for?"
-    a: "Not necessarily harder, but differently hard. If you're self-employed with clean bank statements and genuine cash flow, a portfolio lender might approve you faster than a conventional lender. If you have genuinely weak credit and minimal assets, neither market wants you. Portfolio flexibility is about documentation format and income type, not about lowering the bar on creditworthiness."
+ - q: "What's the difference between a portfolio loan and a non-QM loan?"
+ a: "Non-QM (non-qualified mortgage) is a regulatory category describing loans that don't meet the CFPB's 'qualified mortgage' safe harbor rules. Portfolio loans are defined by who holds the loan. A lot of non-QM loans are portfolio loans, but the terms describe different things. A loan can be both, either, or neither."
+ - q: "Can I refinance a portfolio loan into a conventional loan later?"
+ a: "Yes, and for a lot of borrowers that's the plan. You use the portfolio loan to get into the property when the conventional market won't approve you, then refinance into a conforming product once your income documentation, credit history, or wait-out period improves. Factor prepayment penalties into that timing calculation."
+ - q: "Do portfolio loans have higher down payment requirements?"
+ a: "Often, yes. Many portfolio lenders want 20-25% down because they're not selling the loan and can't rely on mortgage insurance guarantees in the same way. Some will go lower, but expect the rate to compensate for the added risk. It varies meaningfully by lender."
+ - q: "Are portfolio loans available for investment properties?"
+ a: "This is one of the primary use cases. Real estate investors who've maxed out their conventional financing options, or who need a loan on a property with unusual characteristics (a mixed-use building, a large portfolio of rentals pledged as collateral), turn to portfolio lenders regularly. Expect stricter reserves requirements and scrutiny of your rental income history."
+ - q: "Is a portfolio loan harder to get approved for?"
+ a: "Not necessarily harder, but differently hard. If you're self-employed with clean bank statements and genuine cash flow, a portfolio lender might approve you faster than a conventional lender. If you have genuinely weak credit and minimal assets, neither market wants you. Portfolio flexibility is about documentation format and income type, not about lowering the bar on creditworthiness."
 ---
 
 Most articles about portfolio loans spend three paragraphs explaining what they are and then give you a generic "talk to your lender" send-off. You leave knowing the definition but nothing useful. Let's skip that.

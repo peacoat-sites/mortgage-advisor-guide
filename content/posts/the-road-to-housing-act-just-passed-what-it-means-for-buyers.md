@@ -11,10 +11,7 @@ author_slug: "jennifer-walsh"
 author_title: "Mortgage Writer"
 author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
 slug: "the-road-to-housing-act-just-passed-what-it-means-for-buyers"
-affiliate_disclosure: true
----
-
-If you've been watching home prices from the sidelines, wondering whether the math will ever work in your favor, this week brought news worth paying attention to. On June 23, 2026, the Senate passed the 21st Century ROAD to Housing Act with overwhelming bipartisan support, sending it to President Trump's desk. Only five senators voted against it, all Republicans. The House had passed its version back on May 20. This is the most significant federal housing legislation in a very long time, and if you're a first-time buyer, a renter hoping to eventually own, or just someone frustrated by what homes cost right now, here's what it actually does.
+affiliate_disclosure: true, If you've been watching home prices from the sidelines, wondering whether the math will ever work in your favor, this week brought news worth paying attention to. On June 23, 2026, the Senate passed the 21st Century ROAD to Housing Act with overwhelming bipartisan support, sending it to President Trump's desk. Only five senators voted against it, all Republicans. The House had passed its version back on May 20. This is the most significant federal housing legislation in a very long time, and if you're a first-time buyer, a renter hoping to eventually own, or just someone frustrated by what homes cost right now, here's what it actually does.
 
 ## The Part Everyone's Talking About: The Institutional Investor Ban
 

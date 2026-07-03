@@ -13,10 +13,7 @@ author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 slug: "the-housing-bill-that-passed-congress-but-stalled-at-the-white-house"
-affiliate_disclosure: true
----
-
-If you've been watching mortgage rates hover above 6.5% and waiting for some signal that relief is coming, this week probably felt like a cruel joke. Congress passed what Fortune called "the most significant housing bill in decades," and then the signing ceremony was canceled hours before it was supposed to happen.
+affiliate_disclosure: true, If you've been watching mortgage rates hover above 6.5% and waiting for some signal that relief is coming, this week probably felt like a cruel joke. Congress passed what Fortune called "the most significant housing bill in decades," and then the signing ceremony was canceled hours before it was supposed to happen.
 
 Here's where things stand as of late June 2026: the 21st Century ROAD to Housing Act passed the Senate 85-5 on June 22, then cleared the House 358-32 on June 23. Both margins exceed the two-thirds threshold needed to override a presidential veto. And yet, the bill sits in limbo because President Trump abruptly pulled out of the planned signing on June 24, saying he won't put pen to paper until Congress passes the SAVE America Act, a voter-ID bill that has been stalled in the Senate. According to HousingWire, that announcement came hours before the ceremony was scheduled to begin.
 
@@ -100,6 +97,6 @@ The bill may still become law without a signature. The FHA changes are already r
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

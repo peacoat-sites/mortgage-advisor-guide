@@ -13,16 +13,16 @@ author_bio: "Maria Santos has coached hundreds of first-time buyers through the 
 slug: "mortgage-payoff-calculator"
 affiliate_disclosure: true
 faqs:
-  - q: "Does paying extra principal every month actually save money?"
-    a: "Yes, definitively. Every dollar you put toward principal reduces the balance on which interest accrues the following month. The earlier in your loan term you do this, the greater the savings, because early payments are heavily weighted toward interest."
-  - q: "Should I pay biweekly or make one extra payment per year?"
-    a: "Mathematically, they're nearly identical in outcome. Biweekly payments just enforce the habit automatically, which is why some people prefer them. Either approach results in roughly one extra full payment per year, which can shave several years off a 30-year mortgage."
-  - q: "Will my lender apply extra payments to my principal automatically?"
-    a: "Not always. Some servicers apply extra funds to future payments, which doesn't reduce your principal the same way. You need to specify in writing (or through their online portal) that any overpayment should be applied directly to principal. Call your servicer and confirm how they handle it."
-  - q: "Does it make more sense to pay off the mortgage or invest the extra money?"
-    a: "It depends on your interest rate, your actual investment behavior, your tax situation, and your risk tolerance. For most people carrying a mortgage at today's rates, paying extra toward principal offers a guaranteed return equivalent to your mortgage rate. That's meaningful. But anyone with high-interest debt or unmaxed employer 401(k) matching should address those first."
-  - q: "How do I find my exact remaining loan balance?"
-    a: "Look at your most recent mortgage statement. The number labeled 'principal balance' or 'outstanding balance' is what you want. Don't use your original loan amount or an equity estimate from a real estate website. Those won't give you accurate results in a payoff calculator."
+ - q: "Does paying extra principal every month actually save money?"
+ a: "Yes, definitively. Every dollar you put toward principal reduces the balance on which interest accrues the following month. The earlier in your loan term you do this, the greater the savings, because early payments are heavily weighted toward interest."
+ - q: "Should I pay biweekly or make one extra payment per year?"
+ a: "Mathematically, they're nearly identical in outcome. Biweekly payments just enforce the habit automatically, which is why some people prefer them. Either approach results in roughly one extra full payment per year, which can shave several years off a 30-year mortgage."
+ - q: "Will my lender apply extra payments to my principal automatically?"
+ a: "Not always. Some servicers apply extra funds to future payments, which doesn't reduce your principal the same way. You need to specify in writing (or through their online portal) that any overpayment should be applied directly to principal. Call your servicer and confirm how they handle it."
+ - q: "Does it make more sense to pay off the mortgage or invest the extra money?"
+ a: "It depends on your interest rate, your actual investment behavior, your tax situation, and your risk tolerance. For most people carrying a mortgage at today's rates, paying extra toward principal offers a guaranteed return equivalent to your mortgage rate. That's meaningful. But anyone with high-interest debt or unmaxed employer 401(k) matching should address those first."
+ - q: "How do I find my exact remaining loan balance?"
+ a: "Look at your most recent mortgage statement. The number labeled 'principal balance' or 'outstanding balance' is what you want. Don't use your original loan amount or an equity estimate from a real estate website. Those won't give you accurate results in a payoff calculator."
 ---
 
 You've probably landed here because you're staring at your mortgage statement, wondering what would actually happen if you paid an extra $200 a month. Or maybe you just got a bonus and you're trying to decide whether to throw it at the principal or put it in the market. Either way, you're asking exactly the right question, and a mortgage payoff calculator is the tool that can finally give you a real answer instead of a gut feeling.
@@ -121,6 +121,6 @@ A prepayment penalty is a fee the lender charges if you pay off your loan (or a 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

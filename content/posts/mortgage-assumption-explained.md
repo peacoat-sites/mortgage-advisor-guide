@@ -13,16 +13,16 @@ author_bio: "Robert Kim focused his mortgage career on refinancing, helping home
 slug: "mortgage-assumption-explained"
 affiliate_disclosure: true
 faqs:
-  - q: "Can anyone assume an FHA or VA loan?"
-    a: "You don't have to be a veteran to assume a VA loan, and you don't have to be a first-time buyer to assume an FHA loan. The assuming borrower must qualify under the lender's credit and income standards, but there's no requirement to belong to a specific group. The exception is VA loans, where if a non-veteran assumes the loan, the seller's VA entitlement may remain encumbered until the loan is paid off."
-  - q: "Does the seller always get released from the mortgage after assumption?"
-    a: "Not automatically. The seller must be formally granted a release of liability by the servicer as part of the assumption process. Without that release, the seller remains on the hook if the buyer defaults. Always verify this in writing before closing."
-  - q: "What happens if the home's value is much higher than the remaining loan balance?"
-    a: "The buyer must cover the gap between the assumable loan balance and the purchase price using cash, a second mortgage, or some combination. That second mortgage will be at current market interest rates, which reduces (but doesn't eliminate) the rate advantage of the assumption. Running a side-by-side payment comparison is worth the twenty minutes it takes."
-  - q: "How long does a mortgage assumption take to close?"
-    a: "Plan for at least 45 to 90 days, sometimes longer. Servicers vary widely in how efficiently they process assumptions. Build that timeline into your purchase contract and communicate it clearly to all parties. A standard 30-day close is not realistic for most assumptions."
-  - q: "Will assuming a mortgage affect my ability to get another loan later?"
-    a: "An assumed mortgage will appear on your credit and count toward your debt-to-income ratio just like any other mortgage. For VA buyers substituting their entitlement, assuming a VA loan uses a portion of that entitlement just as originating a new VA loan would. If you later want to buy again using VA financing, check your remaining entitlement first."
+ - q: "Can anyone assume an FHA or VA loan?"
+ a: "You don't have to be a veteran to assume a VA loan, and you don't have to be a first-time buyer to assume an FHA loan. The assuming borrower must qualify under the lender's credit and income standards, but there's no requirement to belong to a specific group. The exception is VA loans, where if a non-veteran assumes the loan, the seller's VA entitlement may remain encumbered until the loan is paid off."
+ - q: "Does the seller always get released from the mortgage after assumption?"
+ a: "Not automatically. The seller must be formally granted a release of liability by the servicer as part of the assumption process. Without that release, the seller remains on the hook if the buyer defaults. Always verify this in writing before closing."
+ - q: "What happens if the home's value is much higher than the remaining loan balance?"
+ a: "The buyer must cover the gap between the assumable loan balance and the purchase price using cash, a second mortgage, or some combination. That second mortgage will be at current market interest rates, which reduces (but doesn't eliminate) the rate advantage of the assumption. Running a side-by-side payment comparison is worth the twenty minutes it takes."
+ - q: "How long does a mortgage assumption take to close?"
+ a: "Plan for at least 45 to 90 days, sometimes longer. Servicers vary widely in how efficiently they process assumptions. Build that timeline into your purchase contract and communicate it clearly to all parties. A standard 30-day close is not realistic for most assumptions."
+ - q: "Will assuming a mortgage affect my ability to get another loan later?"
+ a: "An assumed mortgage will appear on your credit and count toward your debt-to-income ratio just like any other mortgage. For VA buyers substituting their entitlement, assuming a VA loan uses a portion of that entitlement just as originating a new VA loan would. If you later want to buy again using VA financing, check your remaining entitlement first."
 ---
 
 A borrower I worked with in the mid-2010s locked in a 30-year fixed at 3.25%. She's still in that house. And right now, with rates sitting comfortably above 6%, that loan is worth something most people haven't even thought to ask about.

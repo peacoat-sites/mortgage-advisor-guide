@@ -13,16 +13,16 @@ author_bio: "Robert Kim focused his mortgage career on refinancing, helping home
 slug: "mortgage-tax-benefits"
 affiliate_disclosure: true
 faqs:
-  - q: "Does the mortgage interest deduction automatically reduce my taxes?"
-    a: "No. You only receive the benefit if you itemize deductions and your total itemized deductions exceed the standard deduction. Many homeowners, especially those with modest loan balances, don't itemize and receive no direct tax benefit from mortgage interest."
-  - q: "Can I deduct interest on a second home or vacation property?"
-    a: "Yes, with limits. Mortgage interest on a second home is deductible as long as the combined debt on both homes doesn't exceed $750,000. If you rent out the vacation property, the rules get more complicated and depend on how many days it's rented versus personally used."
-  - q: "What happens to my tax benefits if I refinance?"
-    a: "Your interest deduction continues, but the $750,000 debt limit applies to the new loan. If you cash out equity, only the portion of the new loan used to buy, build, or substantially improve the home qualifies for the deduction. Points paid on a refinance are deducted over the loan term, not all at once."
-  - q: "Does paying off my mortgage early hurt my tax deductions?"
-    a: "Technically yes: less interest paid means less potential deduction. But this concern is usually overstated. You're spending a dollar in interest to save roughly 22 to 37 cents in taxes depending on your bracket. Paying off the mortgage saves you the other 63 to 78 cents. The math generally favors payoff if that's your goal."
-  - q: "Are mortgage tax benefits the same in every state?"
-    a: "No. Some states have their own mortgage interest deductions that mirror federal rules; others don't. A handful of states have no income tax at all, making the federal deduction the only one available. Always check your specific state's rules."
+ - q: "Does the mortgage interest deduction automatically reduce my taxes?"
+ a: "No. You only receive the benefit if you itemize deductions and your total itemized deductions exceed the standard deduction. Many homeowners, especially those with modest loan balances, don't itemize and receive no direct tax benefit from mortgage interest."
+ - q: "Can I deduct interest on a second home or vacation property?"
+ a: "Yes, with limits. Mortgage interest on a second home is deductible as long as the combined debt on both homes doesn't exceed $750,000. If you rent out the vacation property, the rules get more complicated and depend on how many days it's rented versus personally used."
+ - q: "What happens to my tax benefits if I refinance?"
+ a: "Your interest deduction continues, but the $750,000 debt limit applies to the new loan. If you cash out equity, only the portion of the new loan used to buy, build, or substantially improve the home qualifies for the deduction. Points paid on a refinance are deducted over the loan term, not all at once."
+ - q: "Does paying off my mortgage early hurt my tax deductions?"
+ a: "Technically yes: less interest paid means less potential deduction. But this concern is usually overstated. You're spending a dollar in interest to save roughly 22 to 37 cents in taxes depending on your bracket. Paying off the mortgage saves you the other 63 to 78 cents. The math generally favors payoff if that's your goal."
+ - q: "Are mortgage tax benefits the same in every state?"
+ a: "No. Some states have their own mortgage interest deductions that mirror federal rules; others don't. A handful of states have no income tax at all, making the federal deduction the only one available. Always check your specific state's rules."
 ---
 Most people overestimate what mortgage tax benefits will actually do for their finances. They sign at closing half-convinced that the government is effectively subsidizing their homeownership, and then April rolls around wondering why their refund didn't spike. Here's the short version: mortgage tax benefits are real, they're worth understanding, but the way they're typically explained sells borrowers a fantasy.
 

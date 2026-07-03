@@ -13,16 +13,16 @@ author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer b
 slug: "manufactured-home-mortgage"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I get a 30-year mortgage on a manufactured home?"
-    a: "Yes, but only under specific conditions. Real property loans (FHA Title II, conventional, VA, USDA) can have 30-year terms. Chattel loans almost never do, typically running 15 to 20 years, which significantly raises the monthly payment."
-  - q: "Does the age of the manufactured home affect whether I can get financing?"
-    a: "It matters a lot. Most programs require the home to have been built after June 15, 1976 (the HUD standards date). Some conventional lenders have even stricter cutoffs. A home from the early 1990s that's in great shape might still be hard to finance through certain programs simply because of its age."
-  - q: "What credit score do I need for a manufactured home loan?"
-    a: "Minimums vary by loan type: FHA loans generally require at least a 580 score for the low-down-payment tier, and conventional programs typically want 620 or higher. Chattel loan lenders tend to have their own standards, and some will go lower but charge substantially higher rates in exchange."
-  - q: "What's the difference between a manufactured home and a modular home for mortgage purposes?"
-    a: "Modular homes are built in sections in a factory but installed on permanent foundations and titled as real property from the start. They're financed exactly like site-built homes, same products, same rates. Manufactured homes are built on a steel chassis, originally titled as personal property, and require the extra steps to qualify for real property financing. Don't let a seller or agent blur this distinction."
-  - q: "Can I refinance a chattel loan into a real property mortgage later?"
-    a: "Sometimes, yes. If you subsequently purchase the land, permanently affix the home, and retire the title into the deed (a process called 'titling as real property'), you may be able to refinance into a conventional or government-backed mortgage. The process varies by state and has real costs, but if it substantially lowers your rate, it can be worth doing. Get legal help with the title conversion; it's not a DIY process."
+ - q: "Can I get a 30-year mortgage on a manufactured home?"
+ a: "Yes, but only under specific conditions. Real property loans (FHA Title II, conventional, VA, USDA) can have 30-year terms. Chattel loans almost never do, typically running 15 to 20 years, which significantly raises the monthly payment."
+ - q: "Does the age of the manufactured home affect whether I can get financing?"
+ a: "It matters a lot. Most programs require the home to have been built after June 15, 1976 (the HUD standards date). Some conventional lenders have even stricter cutoffs. A home from the early 1990s that's in great shape might still be hard to finance through certain programs simply because of its age."
+ - q: "What credit score do I need for a manufactured home loan?"
+ a: "Minimums vary by loan type: FHA loans generally require at least a 580 score for the low-down-payment tier, and conventional programs typically want 620 or higher. Chattel loan lenders tend to have their own standards, and some will go lower but charge substantially higher rates in exchange."
+ - q: "What's the difference between a manufactured home and a modular home for mortgage purposes?"
+ a: "Modular homes are built in sections in a factory but installed on permanent foundations and titled as real property from the start. They're financed exactly like site-built homes, same products, same rates. Manufactured homes are built on a steel chassis, originally titled as personal property, and require the extra steps to qualify for real property financing. Don't let a seller or agent blur this distinction."
+ - q: "Can I refinance a chattel loan into a real property mortgage later?"
+ a: "Sometimes, yes. If you subsequently purchase the land, permanently affix the home, and retire the title into the deed (a process called 'titling as real property'), you may be able to refinance into a conventional or government-backed mortgage. The process varies by state and has real costs, but if it substantially lowers your rate, it can be worth doing. Get legal help with the title conversion; it's not a DIY process."
 ---
 
 Most people assume financing a manufactured home works roughly like financing any other home. Get a loan, make monthly payments, done. What I found when I spent time in this corner of the mortgage market is that the rules are almost entirely different, the product options are narrower, and the mistakes borrowers make here are expensive in ways they don't see coming until closing day.
@@ -114,6 +114,6 @@ For general reading on this process, a solid home-buying reference like [The Com
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 
