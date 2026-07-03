@@ -14,15 +14,15 @@ slug: "seller-financing-explained"
 affiliate_disclosure: true
 faqs:
  - q: "Is seller financing legal everywhere in the United States?"
- a: "Yes, seller financing is legal in all 50 states, but the specific rules around land contracts, foreclosure procedures, and seller disclosure requirements vary significantly by state. Always work with a local real estate attorney who's done these deals before, not just a general practice lawyer."
+   a: "Yes, seller financing is legal in all 50 states, but the specific rules around land contracts, foreclosure procedures, and seller disclosure requirements vary significantly by state. Always work with a local real estate attorney who's done these deals before, not just a general practice lawyer."
  - q: "Does seller financing show up on my credit report?"
- a: "Usually not, unless the seller uses a third-party loan servicer that reports to credit bureaus, which is rare. This is actually a downside if you're using seller financing partly to rebuild credit, because on-time payments won't help your score the way a conventional mortgage would."
+   a: "Usually not, unless the seller uses a third-party loan servicer that reports to credit bureaus, which is rare. This is actually a downside if you're using seller financing partly to rebuild credit, because on-time payments won't help your score the way a conventional mortgage would."
  - q: "Can I refinance out of a seller-financed loan?"
- a: "Yes, and in most cases that's the plan. When you refinance into a conventional loan, the seller gets paid in full and the lien is released. Whether you can qualify at that point depends on your credit, income, and the appraised value at the time. That's why balloon payment timelines deserve serious thought upfront."
+   a: "Yes, and in most cases that's the plan. When you refinance into a conventional loan, the seller gets paid in full and the lien is released. Whether you can qualify at that point depends on your credit, income, and the appraised value at the time. That's why balloon payment timelines deserve serious thought upfront."
  - q: "What happens if the seller dies while I'm still making payments?"
- a: "The note doesn't disappear. It becomes an asset of the seller's estate, and you'd make payments to whoever inherits or manages that estate. This is exactly why having a properly recorded mortgage or deed of trust matters: it protects you regardless of what happens on the seller's side."
+   a: "The note doesn't disappear. It becomes an asset of the seller's estate, and you'd make payments to whoever inherits or manages that estate. This is exactly why having a properly recorded mortgage or deed of trust matters: it protects you regardless of what happens on the seller's side."
  - q: "Is seller financing the same as a lease-option?"
- a: "No. A lease-option (or rent-to-own) is a rental agreement with an option to purchase later, and you don't build equity during the lease period unless the contract specifies otherwise. Seller financing is an actual sale with actual title transfer (except in a land contract). They're often confused, but the legal and financial implications are completely different."
+   a: "No. A lease-option (or rent-to-own) is a rental agreement with an option to purchase later, and you don't build equity during the lease period unless the contract specifies otherwise. Seller financing is an actual sale with actual title transfer (except in a land contract). They're often confused, but the legal and financial implications are completely different."
 ---
 
 Most people assume that getting a mortgage means going through a bank. Full stop. That assumption costs some buyers real opportunities, and I've watched it happen more times than I'd like to count.

@@ -14,15 +14,15 @@ slug: "how-long-does-a-mortgage-refinance-take-from-start-to-finish"
 affiliate_disclosure: true
 faqs:
  - q: "How long does a mortgage refinance take on average?"
- a: "For most borrowers with a standard rate-and-term refinance, plan on 30 to 60 days from application to funded loan. Forty-five days is a reasonable middle estimate. Streamline products (FHA Streamline, VA IRRRL) can close faster, sometimes in 21-30 days, while cash-out refis or complex income situations tend to run longer."
+   a: "For most borrowers with a standard rate-and-term refinance, plan on 30 to 60 days from application to funded loan. Forty-five days is a reasonable middle estimate. Streamline products (FHA Streamline, VA IRRRL) can close faster, sometimes in 21-30 days, while cash-out refis or complex income situations tend to run longer."
  - q: "Can a refinance close in two weeks?"
- a: "Technically possible, but uncommon for a full refinance. You'd need an appraisal waiver, a very clean file, no conditions, and a lender with fast underwriting turns. FHA Streamline and VA IRRRL loans come closest because they require less documentation and no new appraisal. Don't count on two weeks unless your lender has specifically confirmed all of those conditions apply to you."
+   a: "Technically possible, but uncommon for a full refinance. You'd need an appraisal waiver, a very clean file, no conditions, and a lender with fast underwriting turns. FHA Streamline and VA IRRRL loans come closest because they require less documentation and no new appraisal. Don't count on two weeks unless your lender has specifically confirmed all of those conditions apply to you."
  - q: "What causes a refinance to take longer than expected?"
- a: "The most common culprits are: a slow or complex appraisal, underwriting conditions that require multiple rounds of documentation, a borrower who takes several days to respond to requests, and lender volume backlogs. Changing jobs, opening new credit, or making large unusual bank deposits mid-process can also add significant time."
+   a: "The most common culprits are: a slow or complex appraisal, underwriting conditions that require multiple rounds of documentation, a borrower who takes several days to respond to requests, and lender volume backlogs. Changing jobs, opening new credit, or making large unusual bank deposits mid-process can also add significant time."
  - q: "Does the three-day right of rescission apply to all refinances?"
- a: "No. It applies only to refinances of your primary residence. If you're refinancing a rental property or a second home, there's no rescission period and the lender can fund at closing. For primary residences, federal law requires lenders to wait three full business days after you sign before disbursing funds."
+   a: "No. It applies only to refinances of your primary residence. If you're refinancing a rental property or a second home, there's no rescission period and the lender can fund at closing. For primary residences, federal law requires lenders to wait three full business days after you sign before disbursing funds."
  - q: "What happens if my rate lock expires before the loan closes?"
- a: "You'll have two options: pay a lock extension fee (typically 0.125% to 0.25% of the loan amount per extension period) or let the rate float to whatever the current market rate is. Neither is good if you were counting on a specific rate. Ask your lender before you close who bears the cost if their timeline causes the lock to expire. Some lenders absorb that cost; many don't."
+   a: "You'll have two options: pay a lock extension fee (typically 0.125% to 0.25% of the loan amount per extension period) or let the rate float to whatever the current market rate is. Neither is good if you were counting on a specific rate. Ask your lender before you close who bears the cost if their timeline causes the lock to expire. Some lenders absorb that cost; many don't."
 ---
 
 Most borrowers assume a refinance is the "easy" version of getting a mortgage. You've done it before, the lender already knows the drill, and you're not buying anything new. Shouldn't it take a couple of weeks, tops?

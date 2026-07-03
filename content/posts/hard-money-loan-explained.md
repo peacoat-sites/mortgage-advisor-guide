@@ -14,15 +14,15 @@ slug: "hard-money-loan-explained"
 affiliate_disclosure: true
 faqs:
  - q: "Can I get a hard money loan with bad credit?"
- a: "Yes, many hard money lenders will approve a loan with credit scores well below 620, because their underwriting is primarily based on the collateral property. That said, some lenders do have minimum score thresholds, and a very poor credit history (recent bankruptcy, fraud history) may still disqualify you with some lenders."
+   a: "Yes, many hard money lenders will approve a loan with credit scores well below 620, because their underwriting is primarily based on the collateral property. That said, some lenders do have minimum score thresholds, and a very poor credit history (recent bankruptcy, fraud history) may still disqualify you with some lenders."
  - q: "How fast can a hard money loan close?"
- a: "Most hard money loans close in 7 to 14 business days. Some lenders advertise closings in 3-5 days, though that typically requires all your documentation to be in order immediately and a simple property profile. Compared to conventional mortgages averaging 30-60 days, the speed difference is real and significant."
+   a: "Most hard money loans close in 7 to 14 business days. Some lenders advertise closings in 3-5 days, though that typically requires all your documentation to be in order immediately and a simple property profile. Compared to conventional mortgages averaging 30-60 days, the speed difference is real and significant."
  - q: "Are hard money loans only for real estate investors?"
- a: "Primarily, yes. Hard money loans are almost always collateralized by real property, and lenders expect a clear investment exit strategy. Owner-occupied hard money loans exist but are rarer and subject to additional regulations under TILA (Truth in Lending Act). Most borrowers using hard money are purchasing non-owner-occupied investment properties."
+   a: "Primarily, yes. Hard money loans are almost always collateralized by real property, and lenders expect a clear investment exit strategy. Owner-occupied hard money loans exist but are rarer and subject to additional regulations under TILA (Truth in Lending Act). Most borrowers using hard money are purchasing non-owner-occupied investment properties."
  - q: "What happens if I can't pay off the hard money loan at maturity?"
- a: "The lender can foreclose. Hard money lenders are often faster to foreclose than conventional banks because the asset is the whole basis of the deal. Most will offer extensions (for a fee) before going that route, but you shouldn't count on that. Always have a backup exit strategy before you take the loan."
+   a: "The lender can foreclose. Hard money lenders are often faster to foreclose than conventional banks because the asset is the whole basis of the deal. Most will offer extensions (for a fee) before going that route, but you shouldn't count on that. Always have a backup exit strategy before you take the loan."
  - q: "Is hard money lending regulated?"
- a: "Partially. Hard money lenders must be licensed in most states as mortgage brokers or lenders, and consumer protection laws apply if the loan is on an owner-occupied property. But for investment properties, regulation is much lighter than for conventional mortgages. There's no FHFA oversight, no GSE backing, and no standardized disclosure requirements. You're operating more on contract law than consumer protection law, which is exactly why you should have a real estate attorney review the loan documents before you sign."
+   a: "Partially. Hard money lenders must be licensed in most states as mortgage brokers or lenders, and consumer protection laws apply if the loan is on an owner-occupied property. But for investment properties, regulation is much lighter than for conventional mortgages. There's no FHFA oversight, no GSE backing, and no standardized disclosure requirements. You're operating more on contract law than consumer protection law, which is exactly why you should have a real estate attorney review the loan documents before you sign."
 ---
 
 Hard money loans get a bad reputation they only half deserve.

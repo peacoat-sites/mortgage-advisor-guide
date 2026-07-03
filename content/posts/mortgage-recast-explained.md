@@ -14,15 +14,15 @@ slug: "mortgage-recast-explained"
 affiliate_disclosure: true
 faqs:
  - q: "Does a recast affect my credit score?"
- a: "No. A recast is simply an administrative adjustment to your payment schedule. There's no new loan inquiry, no new account opened, and no change to how your account is reported. Your credit score isn't touched."
+   a: "No. A recast is simply an administrative adjustment to your payment schedule. There's no new loan inquiry, no new account opened, and no change to how your account is reported. Your credit score isn't touched."
  - q: "How long does a mortgage recast take?"
- a: "Most servicers process a recast within 30 to 60 days of receiving your lump-sum payment and completed paperwork. Some are faster. Ask your servicer for their specific timeline before you submit, especially if you're working around a budget deadline."
+   a: "Most servicers process a recast within 30 to 60 days of receiving your lump-sum payment and completed paperwork. Some are faster. Ask your servicer for their specific timeline before you submit, especially if you're working around a budget deadline."
  - q: "Can I recast my mortgage more than once?"
- a: "Generally, yes, if your servicer allows it. There's no universal rule limiting the number of recasts, but individual lenders may have their own policies. If you anticipate doing this more than once, ask upfront whether they have any restrictions."
+   a: "Generally, yes, if your servicer allows it. There's no universal rule limiting the number of recasts, but individual lenders may have their own policies. If you anticipate doing this more than once, ask upfront whether they have any restrictions."
  - q: "Is the interest I save from a recast taxable?"
- a: "Saving on mortgage interest isn't a taxable event. What changes after a recast is that you're paying less interest each month, which means your potential mortgage interest deduction would also be smaller. Whether that matters to you depends on whether you're itemizing deductions. Worth a quick conversation with your tax preparer."
+   a: "Saving on mortgage interest isn't a taxable event. What changes after a recast is that you're paying less interest each month, which means your potential mortgage interest deduction would also be smaller. Whether that matters to you depends on whether you're itemizing deductions. Worth a quick conversation with your tax preparer."
  - q: "What if my servicer doesn't offer recasting?"
- a: "You have a few options. You can continue making extra principal payments without recasting (your loan will pay off sooner, even if your required monthly payment doesn't change). Or, if reducing your monthly payment is the priority, refinancing may be worth considering despite the higher cost. Some borrowers also find that when they push their servicer, a recast option does exist but wasn't being offered proactively."
+   a: "You have a few options. You can continue making extra principal payments without recasting (your loan will pay off sooner, even if your required monthly payment doesn't change). Or, if reducing your monthly payment is the priority, refinancing may be worth considering despite the higher cost. Some borrowers also find that when they push their servicer, a recast option does exist but wasn't being offered proactively."
 ---
 Most borrowers have never heard of a mortgage recast. Their loan officer didn't mention it. The real estate agent definitely didn't. And that's frustrating, because for the right person in the right situation, it's genuinely one of the most underused tools available.
 

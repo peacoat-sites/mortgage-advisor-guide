@@ -14,15 +14,15 @@ slug: "mortgage-forbearance-impact-on-credit"
 affiliate_disclosure: true
 faqs:
  - q: "Does forbearance show up on your credit report?"
- a: "Forbearance itself doesn't appear as a separate entry, but servicers can add comment codes to your mortgage tradeline indicating a forbearance arrangement. These notations don't directly lower your credit score, but they're visible to lenders reviewing your full file."
+   a: "Forbearance itself doesn't appear as a separate entry, but servicers can add comment codes to your mortgage tradeline indicating a forbearance arrangement. These notations don't directly lower your credit score, but they're visible to lenders reviewing your full file."
  - q: "Will forbearance prevent me from getting a mortgage later?"
- a: "Not necessarily, but it complicates things. Conventional loans backed by Fannie Mae and Freddie Mac may have no mandatory waiting period if you exited cleanly, but FHA and VA loans typically require 12 months of clean payment history post-forbearance. Individual lenders can impose stricter requirements on top of that."
+   a: "Not necessarily, but it complicates things. Conventional loans backed by Fannie Mae and Freddie Mac may have no mandatory waiting period if you exited cleanly, but FHA and VA loans typically require 12 months of clean payment history post-forbearance. Individual lenders can impose stricter requirements on top of that."
  - q: "Can I dispute a late payment that was reported during a correctly documented forbearance?"
- a: "Yes, and you should. If your servicer reported a payment as late during a period covered by a formal forbearance agreement, that's a reporting error. Dispute it in writing with all three bureaus and send documentation of the forbearance approval. The servicer has 30 days to respond."
+   a: "Yes, and you should. If your servicer reported a payment as late during a period covered by a formal forbearance agreement, that's a reporting error. Dispute it in writing with all three bureaus and send documentation of the forbearance approval. The servicer has 30 days to respond."
  - q: "Does a loan modification after forbearance hurt my credit score?"
- a: "A modification itself won't create a derogatory mark. The account stays current. However, some servicers add a comment code noting the modification, and future lenders may treat it as a risk signal depending on the loan type and their underwriting standards."
+   a: "A modification itself won't create a derogatory mark. The account stays current. However, some servicers add a comment code noting the modification, and future lenders may treat it as a risk signal depending on the loan type and their underwriting standards."
  - q: "How long does a forbearance stay on my credit report?"
- a: "The comment codes and notations a servicer adds during forbearance don't have a standard removal timeline the way a late payment (7 years) does. In practice, many notations fade into the background as your positive payment history builds back up. The bigger issue is that underwriters reviewing your full file can see the history regardless of how old it is."
+   a: "The comment codes and notations a servicer adds during forbearance don't have a standard removal timeline the way a late payment (7 years) does. In practice, many notations fade into the background as your positive payment history builds back up. The bigger issue is that underwriters reviewing your full file can see the history regardless of how old it is."
 ---
 
 Most articles about mortgage forbearance and credit scores get the basic facts right and miss everything that actually matters. They'll tell you forbearance won't automatically tank your credit. True. They won't tell you what happens six months later when you apply for a new loan and the underwriter pulls your file.

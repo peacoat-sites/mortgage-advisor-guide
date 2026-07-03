@@ -14,15 +14,15 @@ slug: "land-contract-mortgage"
 affiliate_disclosure: true
 faqs:
  - q: "Is a land contract the same as a mortgage?"
- a: "No. With a mortgage, a lender funds the purchase and you get the deed at closing. With a land contract, the seller finances the purchase and retains legal title until you've fulfilled the contract terms. The practical effect is similar in some ways, but your legal protections are meaningfully different."
+   a: "No. With a mortgage, a lender funds the purchase and you get the deed at closing. With a land contract, the seller finances the purchase and retains legal title until you've fulfilled the contract terms. The practical effect is similar in some ways, but your legal protections are meaningfully different."
  - q: "Can I build equity in a land contract?"
- a: "Yes, in the form of equitable interest. Each payment you make reduces the outstanding balance and increases your stake in the property. However, because legal title hasn't transferred, that equity can be harder to access or protect if the seller runs into financial trouble."
+   a: "Yes, in the form of equitable interest. Each payment you make reduces the outstanding balance and increases your stake in the property. However, because legal title hasn't transferred, that equity can be harder to access or protect if the seller runs into financial trouble."
  - q: "What happens if the seller dies during a land contract?"
- a: "The contract remains legally binding and becomes an obligation of the seller's estate. But this is exactly why you want the contract to specifically address succession, and why recording the contract with your county recorder's office (which is allowed in most states) offers you important protection. Recording puts the world on notice of your interest in the property."
+   a: "The contract remains legally binding and becomes an obligation of the seller's estate. But this is exactly why you want the contract to specifically address succession, and why recording the contract with your county recorder's office (which is allowed in most states) offers you important protection. Recording puts the world on notice of your interest in the property."
  - q: "Do I need a down payment for a land contract?"
- a: "Almost always yes, though the amount is negotiated rather than dictated by lending guidelines. Sellers typically want somewhere between 5% and 20%, but there's no industry standard. A larger down payment often means better terms, but it also means more equity at risk if the deal goes wrong."
+   a: "Almost always yes, though the amount is negotiated rather than dictated by lending guidelines. Sellers typically want somewhere between 5% and 20%, but there's no industry standard. A larger down payment often means better terms, but it also means more equity at risk if the deal goes wrong."
  - q: "Can I get homeowner's insurance on a land contract property?"
- a: "Yes, and you absolutely should. Most insurers will write a policy for a buyer with equitable title. Make sure the policy names both you and the seller (as the legal title holder) appropriately, and keep documentation that you're current on your premiums."
+   a: "Yes, and you absolutely should. Most insurers will write a policy for a buyer with equitable title. Make sure the policy names both you and the seller (as the legal title holder) appropriately, and keep documentation that you're current on your premiums."
 ---
 Maybe you've been turned down by a traditional lender. Maybe your credit score took a hit a few years back, or you're self-employed and your tax returns make your income look like origami. Whatever the reason, a land contract might have come up in conversation, and right now you're probably somewhere between intrigued and a little nervous. That's completely reasonable.
 
