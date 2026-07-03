@@ -11,10 +11,7 @@ author_slug: "ethan-chen"
 author_title: "Real Estate Researcher"
 author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
 slug: "break-even-point-calculator-for-refinancing-a-home-loan"
-affiliate_disclosure: true
----
-
-A borrower came to me once, practically beaming, because she'd locked in a rate that was a full percentage point lower than her current mortgage. She was ready to sign. I asked her one question: "How long are you planning to stay in the house?" She paused. "Maybe two years, three tops." She almost paid $6,200 in closing costs to save money she'd never actually see.
+affiliate_disclosure: true, A borrower came to me once, practically beaming, because she'd locked in a rate that was a full percentage point lower than her current mortgage. She was ready to sign. I asked her one question: "How long are you planning to stay in the house?" She paused. "Maybe two years, three tops." She almost paid $6,200 in closing costs to save money she'd never actually see.
 
 That's what the break-even calculation is really for. Not the math itself, which takes about four minutes, but the moment it forces on you: do the numbers actually support doing this?
 
@@ -140,8 +137,8 @@ The break-even calculation isn't the whole decision, but it's the foundation. Do
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

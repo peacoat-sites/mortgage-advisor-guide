@@ -9,16 +9,16 @@ tags: ["mortgage", "interest", "payments", "deductible", "2026"]
 slug: "are-mortgage-interest-payments-tax-deductible-in"
 affiliate_disclosure: true
 faqs:
-  - q: "Is mortgage interest still tax deductible in 2026?"
-    a: "Yes. The mortgage interest deduction remains intact for 2026. You can deduct interest on up to $750,000 in qualifying mortgage debt (or $1 million if your loan originated before December 15, 2017), but you must itemize deductions instead of taking the standard deduction for it to benefit you."
-  - q: "Did the TCJA expiration change the mortgage interest deduction in 2026?"
-    a: "No. Legislation passed in 2025 made the key TCJA provisions permanent, meaning the $750,000 debt cap, the higher standard deduction, and the $10,000 SALT cap all continue into 2026. The reversion to the old $1 million cap and lower standard deduction amounts did not occur."
-  - q: "Can I deduct interest on a home equity loan or HELOC in 2026?"
-    a: "Only if you used the funds to buy, build, or substantially improve the home that secures the loan. Using home equity proceeds for debt consolidation, vacations, or vehicle purchases does not qualify for the deduction under current law."
-  - q: "How do I know if it's worth itemizing instead of taking the standard deduction?"
-    a: "Add up your mortgage interest, state and local taxes (capped at $10,000 or $40,000 depending on your income under the new legislation), and any charitable contributions. If that total exceeds the standard deduction for your filing status (roughly $15,000 for single, $30,000 for married filing jointly in 2026), itemizing saves you money. If it doesn't, take the standard deduction."
-  - q: "What happens if my mortgage balance is over $750,000?"
-    a: "You can only deduct the interest proportional to the $750,000 limit. If your outstanding balance is $1,000,000, you can deduct 75% of the interest paid that year. IRS Publication 936 includes the exact worksheet for calculating this proration, and your lender's Form 1098 provides the principal balance figure you'll need."
+ - q: "Is mortgage interest still tax deductible in 2026?"
+ a: "Yes. The mortgage interest deduction remains intact for 2026. You can deduct interest on up to $750,000 in qualifying mortgage debt (or $1 million if your loan originated before December 15, 2017), but you must itemize deductions instead of taking the standard deduction for it to benefit you."
+ - q: "Did the TCJA expiration change the mortgage interest deduction in 2026?"
+ a: "No. Legislation passed in 2025 made the key TCJA provisions permanent, meaning the $750,000 debt cap, the higher standard deduction, and the $10,000 SALT cap all continue into 2026. The reversion to the old $1 million cap and lower standard deduction amounts did not occur."
+ - q: "Can I deduct interest on a home equity loan or HELOC in 2026?"
+ a: "Only if you used the funds to buy, build, or substantially improve the home that secures the loan. Using home equity proceeds for debt consolidation, vacations, or vehicle purchases does not qualify for the deduction under current law."
+ - q: "How do I know if it's worth itemizing instead of taking the standard deduction?"
+ a: "Add up your mortgage interest, state and local taxes (capped at $10,000 or $40,000 depending on your income under the new legislation), and any charitable contributions. If that total exceeds the standard deduction for your filing status (roughly $15,000 for single, $30,000 for married filing jointly in 2026), itemizing saves you money. If it doesn't, take the standard deduction."
+ - q: "What happens if my mortgage balance is over $750,000?"
+ a: "You can only deduct the interest proportional to the $750,000 limit. If your outstanding balance is $1,000,000, you can deduct 75% of the interest paid that year. IRS Publication 936 includes the exact worksheet for calculating this proration, and your lender's Form 1098 provides the principal balance figure you'll need."
 author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
@@ -33,12 +33,12 @@ That's the part your loan officer glossed over at closing.
 
 
 <div class="value-module">
-  <div class="vm-head">Itemizing Break-Even Calculator</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this worksheet to determine whether your mortgage interest actually triggers any tax benefit in 2026.</p>
-    <table><caption>Will You Clear the Standard Deduction Threshold?</caption><thead><tr><th>Line Item</th><th>Your Amount</th><th>Example (MFJ, $450K loan at 6.5%)</th></tr></thead><tbody><tr><td>A. Annual mortgage interest paid</td><td>$________</td><td>$28,500</td></tr><tr><td>B. State/local taxes (SALT, capped at $10,000)</td><td>$________</td><td>$10,000</td></tr><tr><td>C. Charitable contributions</td><td>$________</td><td>$3,200</td></tr><tr><td>D. Medical expenses exceeding 7.5% of AGI</td><td>$________</td><td>$0</td></tr><tr><td>E. Other itemized deductions</td><td>$________</td><td>$0</td></tr><tr><td><strong>F. Total itemized (A+B+C+D+E)</strong></td><td>$________</td><td><strong>$41,700</strong></td></tr><tr><td>G. 2026 Standard deduction for your filing status</td><td>$________</td><td>$30,000 (MFJ est.)</td></tr><tr><td><strong>H. Benefit from itemizing (F minus G)</strong></td><td>$________</td><td><strong>$11,700</strong></td></tr><tr><td><strong>I. Actual tax savings (H × your marginal rate)</strong></td><td>$________</td><td><strong>$2,574</strong> (at 22%)</td></tr></tbody></table><ul><li><strong>If Line H is zero or negative:</strong> The mortgage interest deduction provides you no tax benefit, take the standard deduction instead.</li><li><strong>Key insight:</strong> Only the amount <em>above</em> the standard deduction saves you money. In the example, $41,700 in deductions yields just $2,574 in actual tax reduction, not $6,270 (22% of $28,500).</li><li><strong>2026 standard deduction estimates:</strong> Single ~$15,000 | MFJ ~$30,000 | Head of Household ~$22,500</li></ul>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Itemizing Break-Even Calculator</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this worksheet to determine whether your mortgage interest actually triggers any tax benefit in 2026.</p>
+ <table><caption>Will You Clear the Standard Deduction Threshold?</caption><thead><tr><th>Line Item</th><th>Your Amount</th><th>Example (MFJ, $450K loan at 6.5%)</th></tr></thead><tbody><tr><td>A. Annual mortgage interest paid</td><td>$________</td><td>$28,500</td></tr><tr><td>B. State/local taxes (SALT, capped at $10,000)</td><td>$________</td><td>$10,000</td></tr><tr><td>C. Charitable contributions</td><td>$________</td><td>$3,200</td></tr><tr><td>D. Medical expenses exceeding 7.5% of AGI</td><td>$________</td><td>$0</td></tr><tr><td>E. Other itemized deductions</td><td>$________</td><td>$0</td></tr><tr><td><strong>F. Total itemized (A+B+C+D+E)</strong></td><td>$________</td><td><strong>$41,700</strong></td></tr><tr><td>G. 2026 Standard deduction for your filing status</td><td>$________</td><td>$30,000 (MFJ est.)</td></tr><tr><td><strong>H. Benefit from itemizing (F minus G)</strong></td><td>$________</td><td><strong>$11,700</strong></td></tr><tr><td><strong>I. Actual tax savings (H × your marginal rate)</strong></td><td>$________</td><td><strong>$2,574</strong> (at 22%)</td></tr></tbody></table><ul><li><strong>If Line H is zero or negative:</strong> The mortgage interest deduction provides you no tax benefit, take the standard deduction instead.</li><li><strong>Key insight:</strong> Only the amount <em>above</em> the standard deduction saves you money. In the example, $41,700 in deductions yields just $2,574 in actual tax reduction, not $6,270 (22% of $28,500).</li><li><strong>2026 standard deduction estimates:</strong> Single ~$15,000 | MFJ ~$30,000 | Head of Household ~$22,500</li></ul>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## How the Deduction Actually Works in 2026

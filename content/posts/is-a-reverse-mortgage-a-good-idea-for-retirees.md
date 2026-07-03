@@ -13,16 +13,16 @@ author_bio: "Susan Taylor works at the intersection of credit health and mortgag
 slug: "is-a-reverse-mortgage-a-good-idea-for-retirees"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I lose my home with a reverse mortgage?"
-    a: "Yes, you can. If you fail to pay property taxes, homeowner's insurance, or HOA fees, or if you leave the home as your primary residence for more than 12 consecutive months, the lender can declare the loan in default and start foreclosure proceedings. The loan balance growing over time doesn't itself put you at risk, but failing to meet the ongoing obligations does."
-  - q: "What happens to my heirs when I die?"
-    a: "Your heirs typically have 6 months (extendable to 12 in some cases) to repay the loan, refinance it, or sell the home. If the loan balance is less than the home's value, they keep the difference. Because of the non-recourse clause, they'll never owe more than the home sells for, even if the balance has grown past it."
-  - q: "Is the money I receive from a reverse mortgage taxable?"
-    a: "No. Reverse mortgage proceeds are loan advances, not income, so they're not subject to federal income tax. However, receiving these funds could affect income-based benefit programs like Medicaid or Supplemental Security Income, so check with a benefits counselor before drawing funds."
-  - q: "How much can I borrow?"
-    a: "It depends on your age, the home's appraised value, current interest rates, and the HECM lending limit set by the FHA (which adjusts annually). Older borrowers with higher-value homes generally qualify for more. Expect the available amount to be significantly less than your full equity, not a dollar-for-dollar conversion."
-  - q: "Do I need to see a counselor before getting a reverse mortgage?"
-    a: "Yes, and this is required by law, not optional. Before a HECM can close, you must complete a counseling session with an independent HUD-approved counselor who has no financial stake in the transaction. Take this seriously. It's one of the best protections built into the program, and a good counselor will help you ask questions you hadn't thought to ask."
+ - q: "Can I lose my home with a reverse mortgage?"
+ a: "Yes, you can. If you fail to pay property taxes, homeowner's insurance, or HOA fees, or if you leave the home as your primary residence for more than 12 consecutive months, the lender can declare the loan in default and start foreclosure proceedings. The loan balance growing over time doesn't itself put you at risk, but failing to meet the ongoing obligations does."
+ - q: "What happens to my heirs when I die?"
+ a: "Your heirs typically have 6 months (extendable to 12 in some cases) to repay the loan, refinance it, or sell the home. If the loan balance is less than the home's value, they keep the difference. Because of the non-recourse clause, they'll never owe more than the home sells for, even if the balance has grown past it."
+ - q: "Is the money I receive from a reverse mortgage taxable?"
+ a: "No. Reverse mortgage proceeds are loan advances, not income, so they're not subject to federal income tax. However, receiving these funds could affect income-based benefit programs like Medicaid or Supplemental Security Income, so check with a benefits counselor before drawing funds."
+ - q: "How much can I borrow?"
+ a: "It depends on your age, the home's appraised value, current interest rates, and the HECM lending limit set by the FHA (which adjusts annually). Older borrowers with higher-value homes generally qualify for more. Expect the available amount to be significantly less than your full equity, not a dollar-for-dollar conversion."
+ - q: "Do I need to see a counselor before getting a reverse mortgage?"
+ a: "Yes, and this is required by law, not optional. Before a HECM can close, you must complete a counseling session with an independent HUD-approved counselor who has no financial stake in the transaction. Take this seriously. It's one of the best protections built into the program, and a good counselor will help you ask questions you hadn't thought to ask."
 ---
 
 You've probably been thinking about this for a while. Maybe a neighbor mentioned it, or you caught an ad during the evening news, or your financial advisor brought it up and you weren't sure what to think. Reverse mortgages have been sold to retirees as a lifeline and dismissed by skeptics as a trap, and the truth is more complicated than either version.

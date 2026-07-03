@@ -13,16 +13,16 @@ author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer b
 slug: "average-cost-of-private-mortgage-insurance-per-month"
 affiliate_disclosure: true
 faqs:
-  - q: "What is the average cost of PMI per month?"
-    a: "For most borrowers with conventional loans, PMI runs between $100 and $450 per month, depending on loan size, down payment, and credit score. A reasonable rule of thumb is 0.5% to 1.5% of the original loan balance annually, divided by 12."
-  - q: "Is PMI tax deductible in 2026?"
-    a: "The PMI deduction has expired and been reinstated multiple times over the years, and as of 2026 it is not currently available at the federal level. You should verify with a tax professional for your specific situation, since this has historically been subject to congressional action."
-  - q: "Can I avoid PMI without a 20% down payment?"
-    a: "Yes, through a few approaches: lender-paid PMI (higher interest rate in exchange), a piggyback loan structure (an 80/10/10 where a second lien covers part of the down payment), or certain portfolio loan products that waive PMI for qualified borrowers. Each has tradeoffs worth modeling carefully."
-  - q: "How soon can I cancel PMI?"
-    a: "You can request cancellation once your loan balance drops to 80% of the original purchase price, assuming your payment history is clean. If your home has appreciated, you may be able to request an earlier cancellation with a new appraisal, typically for loans that are at least two years old."
-  - q: "Does PMI protect me as the borrower?"
-    a: "No. PMI protects the lender if you default. It provides zero direct benefit to you. The sole reason to pay it is because it's the cost of entry for getting a loan with less than 20% down, and for many buyers, that tradeoff makes sense."
+ - q: "What is the average cost of PMI per month?"
+ a: "For most borrowers with conventional loans, PMI runs between $100 and $450 per month, depending on loan size, down payment, and credit score. A reasonable rule of thumb is 0.5% to 1.5% of the original loan balance annually, divided by 12."
+ - q: "Is PMI tax deductible in 2026?"
+ a: "The PMI deduction has expired and been reinstated multiple times over the years, and as of 2026 it is not currently available at the federal level. You should verify with a tax professional for your specific situation, since this has historically been subject to congressional action."
+ - q: "Can I avoid PMI without a 20% down payment?"
+ a: "Yes, through a few approaches: lender-paid PMI (higher interest rate in exchange), a piggyback loan structure (an 80/10/10 where a second lien covers part of the down payment), or certain portfolio loan products that waive PMI for qualified borrowers. Each has tradeoffs worth modeling carefully."
+ - q: "How soon can I cancel PMI?"
+ a: "You can request cancellation once your loan balance drops to 80% of the original purchase price, assuming your payment history is clean. If your home has appreciated, you may be able to request an earlier cancellation with a new appraisal, typically for loans that are at least two years old."
+ - q: "Does PMI protect me as the borrower?"
+ a: "No. PMI protects the lender if you default. It provides zero direct benefit to you. The sole reason to pay it is because it's the cost of entry for getting a loan with less than 20% down, and for many buyers, that tradeoff makes sense."
 ---
 
 Nobody tells you what PMI actually costs until you're three days from closing and staring at a loan estimate that suddenly looks different than you expected.
@@ -115,8 +115,8 @@ For borrowers who want to go deep on the math before their next conversation wit
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

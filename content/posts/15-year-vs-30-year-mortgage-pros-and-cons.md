@@ -9,16 +9,16 @@ tags: ["year", "year", "mortgage", "pros", "cons"]
 slug: "15-year-vs-30-year-mortgage-pros-and-cons"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I pay off a 30-year mortgage early without penalties?"
-    a: "Most conventional 30-year mortgages today have no prepayment penalty, so you can make additional principal payments at any time. Just make sure any extra payment is specifically applied to principal, not future interest, and confirm your servicer's process for doing this."
-  - q: "Is the interest rate on a 15-year mortgage always lower?"
-    a: "Almost always, yes, though the gap varies. Lenders price 15-year loans at lower rates because the shorter repayment window reduces their exposure to interest rate risk and default over time. But 'lower' doesn't mean dramatically lower in every rate environment, so check the actual spread with your specific lender."
-  - q: "Does a 15-year mortgage affect how much house I can buy?"
-    a: "Yes, significantly. Because the monthly payment on a 15-year is substantially higher, your debt-to-income ratio limits the loan amount you'll qualify for. Some buyers who qualify for a $450,000 loan on a 30-year product can only qualify for $300,000 or less on a 15-year. That's a real constraint in competitive housing markets."
-  - q: "What happens if I can't make a payment on a 15-year mortgage?"
-    a: "The same thing that happens on a 30-year: after a period of delinquency your credit takes serious damage, and eventually the lender can initiate foreclosure. There's no special protection or grace period built into the loan type. This is exactly why payment affordability in a bad year, not just a normal year, should factor into your decision."
-  - q: "Is a 20-year mortgage a reasonable middle ground?"
-    a: "It exists, and some lenders offer it, but it's much less common and you may not get the same rate competitiveness you'd see on a 15 or 30. For some borrowers it genuinely is a good fit, but you'll want to comparison shop carefully because the product isn't as standardized."
+ - q: "Can I pay off a 30-year mortgage early without penalties?"
+ a: "Most conventional 30-year mortgages today have no prepayment penalty, so you can make additional principal payments at any time. Just make sure any extra payment is specifically applied to principal, not future interest, and confirm your servicer's process for doing this."
+ - q: "Is the interest rate on a 15-year mortgage always lower?"
+ a: "Almost always, yes, though the gap varies. Lenders price 15-year loans at lower rates because the shorter repayment window reduces their exposure to interest rate risk and default over time. But 'lower' doesn't mean dramatically lower in every rate environment, so check the actual spread with your specific lender."
+ - q: "Does a 15-year mortgage affect how much house I can buy?"
+ a: "Yes, significantly. Because the monthly payment on a 15-year is substantially higher, your debt-to-income ratio limits the loan amount you'll qualify for. Some buyers who qualify for a $450,000 loan on a 30-year product can only qualify for $300,000 or less on a 15-year. That's a real constraint in competitive housing markets."
+ - q: "What happens if I can't make a payment on a 15-year mortgage?"
+ a: "The same thing that happens on a 30-year: after a period of delinquency your credit takes serious damage, and eventually the lender can initiate foreclosure. There's no special protection or grace period built into the loan type. This is exactly why payment affordability in a bad year, not just a normal year, should factor into your decision."
+ - q: "Is a 20-year mortgage a reasonable middle ground?"
+ a: "It exists, and some lenders offer it, but it's much less common and you may not get the same rate competitiveness you'd see on a 15 or 30. For some borrowers it genuinely is a good fit, but you'll want to comparison shop carefully because the product isn't as standardized."
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Mortgage Writer"
@@ -33,12 +33,12 @@ That's not an argument for one loan over the other. It's an argument for underst
 
 
 <div class="value-module">
-  <div class="vm-head">Monthly Payment & Total Cost Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">These side-by-side numbers show exactly how the payment gap and interest savings scale across typical loan amounts at representative rates.</p>
-    <table><caption>15-Year vs 30-Year Mortgage: Payment and Interest Comparison</caption><thead><tr><th>Loan Amount</th><th>15-Year Payment (6.0%)</th><th>30-Year Payment (6.75%)</th><th>Monthly Difference</th><th>Total Interest (15-Yr)</th><th>Total Interest (30-Yr)</th><th>Interest Savings</th></tr></thead><tbody><tr><td>$250,000</td><td>$2,109</td><td>$1,622</td><td>$487 higher</td><td>$129,620</td><td>$333,920</td><td>$204,300</td></tr><tr><td>$400,000</td><td>$3,375</td><td>$2,595</td><td>$780 higher</td><td>$207,500</td><td>$534,200</td><td>$326,700</td></tr><tr><td>$550,000</td><td>$4,641</td><td>$3,568</td><td>$1,073 higher</td><td>$285,380</td><td>$734,480</td><td>$449,100</td></tr><tr><td>$700,000</td><td>$5,906</td><td>$4,541</td><td>$1,365 higher</td><td>$363,080</td><td>$934,760</td><td>$571,680</td></tr></tbody><tfoot><tr><td colspan="7">Rates shown are illustrative (0.75% spread typical). Actual rates vary by lender, credit profile, and market conditions. Excludes taxes, insurance, and PMI.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Monthly Payment & Total Cost Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">These side-by-side numbers show exactly how the payment gap and interest savings scale across typical loan amounts at representative rates.</p>
+ <table><caption>15-Year vs 30-Year Mortgage: Payment and Interest Comparison</caption><thead><tr><th>Loan Amount</th><th>15-Year Payment (6.0%)</th><th>30-Year Payment (6.75%)</th><th>Monthly Difference</th><th>Total Interest (15-Yr)</th><th>Total Interest (30-Yr)</th><th>Interest Savings</th></tr></thead><tbody><tr><td>$250,000</td><td>$2,109</td><td>$1,622</td><td>$487 higher</td><td>$129,620</td><td>$333,920</td><td>$204,300</td></tr><tr><td>$400,000</td><td>$3,375</td><td>$2,595</td><td>$780 higher</td><td>$207,500</td><td>$534,200</td><td>$326,700</td></tr><tr><td>$550,000</td><td>$4,641</td><td>$3,568</td><td>$1,073 higher</td><td>$285,380</td><td>$734,480</td><td>$449,100</td></tr><tr><td>$700,000</td><td>$5,906</td><td>$4,541</td><td>$1,365 higher</td><td>$363,080</td><td>$934,760</td><td>$571,680</td></tr></tbody><tfoot><tr><td colspan="7">Rates shown are illustrative (0.75% spread typical). Actual rates vary by lender, credit profile, and market conditions. Excludes taxes, insurance, and PMI.</td></tr></tfoot></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Core Tradeoff Is Not What You Think

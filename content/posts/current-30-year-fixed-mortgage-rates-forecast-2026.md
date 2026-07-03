@@ -9,16 +9,16 @@ tags: ["current", "year", "fixed", "mortgage", "rates"]
 slug: "current-30-year-fixed-mortgage-rates-forecast"
 affiliate_disclosure: true
 faqs:
-  - q: "Will 30-year mortgage rates drop below 6% in 2026?"
-    a: "Most major forecasters don't expect 30-year rates to drop below 6% in 2026 under baseline economic conditions. A sharper-than-expected recession or rapid disinflation could push them lower, but that scenario isn't widely predicted. Plan around the 6% to 6.8% range and treat anything lower as a welcome surprise."
-  - q: "Is 2026 a good time to buy a house?"
-    a: "That depends far more on your personal finances, job stability, and local market than on the rate environment. If you can comfortably afford the payment at current rates and plan to stay in the home for at least five to seven years, waiting for a better rate often costs more than it saves."
-  - q: "How do Federal Reserve rate cuts affect my mortgage rate in 2026?"
-    a: "Not as directly as most people expect. Fed rate cuts affect short-term borrowing costs. Your 30-year mortgage rate tracks the 10-year Treasury yield, which responds to inflation expectations and long-term growth outlooks. The Fed can cut rates while mortgage rates stay flat or even rise, as happened in late 2024."
-  - q: "Should I lock in a mortgage rate now or float into 2026?"
-    a: "If you're closing within 60 days, locking is generally the lower-risk move. Floating only makes sense if you have strong reason to believe rates are falling soon and you're comfortable with the possibility they move against you. Most buyers aren't in a position to absorb a 0.25% to 0.5% upward move."
-  - q: "What credit score do I need to get the best mortgage rate in 2026?"
-    a: "Conventional lenders typically reserve their best pricing tiers for borrowers at 760 and above. You can qualify with a lower score, but you'll pay for it in rate, points, or both. Getting to 760 or higher before you apply is one of the highest-return moves a borrower can make."
+ - q: "Will 30-year mortgage rates drop below 6% in 2026?"
+ a: "Most major forecasters don't expect 30-year rates to drop below 6% in 2026 under baseline economic conditions. A sharper-than-expected recession or rapid disinflation could push them lower, but that scenario isn't widely predicted. Plan around the 6% to 6.8% range and treat anything lower as a welcome surprise."
+ - q: "Is 2026 a good time to buy a house?"
+ a: "That depends far more on your personal finances, job stability, and local market than on the rate environment. If you can comfortably afford the payment at current rates and plan to stay in the home for at least five to seven years, waiting for a better rate often costs more than it saves."
+ - q: "How do Federal Reserve rate cuts affect my mortgage rate in 2026?"
+ a: "Not as directly as most people expect. Fed rate cuts affect short-term borrowing costs. Your 30-year mortgage rate tracks the 10-year Treasury yield, which responds to inflation expectations and long-term growth outlooks. The Fed can cut rates while mortgage rates stay flat or even rise, as happened in late 2024."
+ - q: "Should I lock in a mortgage rate now or float into 2026?"
+ a: "If you're closing within 60 days, locking is generally the lower-risk move. Floating only makes sense if you have strong reason to believe rates are falling soon and you're comfortable with the possibility they move against you. Most buyers aren't in a position to absorb a 0.25% to 0.5% upward move."
+ - q: "What credit score do I need to get the best mortgage rate in 2026?"
+ a: "Conventional lenders typically reserve their best pricing tiers for borrowers at 760 and above. You can qualify with a lower score, but you'll pay for it in rate, points, or both. Getting to 760 or higher before you apply is one of the highest-return moves a borrower can make."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Real Estate Researcher"
@@ -31,12 +31,12 @@ That's the real question you're sitting with, isn't it? Not the number itself, b
 
 
 <div class="value-module">
-  <div class="vm-head">Rate Scenario Monthly Payment Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">Here's how different 2026 rate scenarios translate to actual monthly costs on common loan amounts, helping you quantify what the forecast spread means for your budget.</p>
-    <table><caption>Monthly Principal & Interest by Rate Scenario (30-Year Fixed)</caption><thead><tr><th>Loan Amount</th><th>6.0% Rate</th><th>6.4% Rate</th><th>6.8% Rate</th><th>Monthly Spread (Low to High)</th><th>30-Year Cost Difference</th></tr></thead><tbody><tr><td>$300,000</td><td>$1,799</td><td>$1,877</td><td>$1,956</td><td>$157</td><td>$56,520</td></tr><tr><td>$400,000</td><td>$2,398</td><td>$2,503</td><td>$2,608</td><td>$210</td><td>$75,600</td></tr><tr><td>$500,000</td><td>$2,998</td><td>$3,128</td><td>$3,260</td><td>$262</td><td>$94,320</td></tr><tr><td>$650,000</td><td>$3,897</td><td>$4,067</td><td>$4,238</td><td>$341</td><td>$122,760</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Rate Scenario Monthly Payment Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">Here's how different 2026 rate scenarios translate to actual monthly costs on common loan amounts, helping you quantify what the forecast spread means for your budget.</p>
+ <table><caption>Monthly Principal & Interest by Rate Scenario (30-Year Fixed)</caption><thead><tr><th>Loan Amount</th><th>6.0% Rate</th><th>6.4% Rate</th><th>6.8% Rate</th><th>Monthly Spread (Low to High)</th><th>30-Year Cost Difference</th></tr></thead><tbody><tr><td>$300,000</td><td>$1,799</td><td>$1,877</td><td>$1,956</td><td>$157</td><td>$56,520</td></tr><tr><td>$400,000</td><td>$2,398</td><td>$2,503</td><td>$2,608</td><td>$210</td><td>$75,600</td></tr><tr><td>$500,000</td><td>$2,998</td><td>$3,128</td><td>$3,260</td><td>$262</td><td>$94,320</td></tr><tr><td>$650,000</td><td>$3,897</td><td>$4,067</td><td>$4,238</td><td>$341</td><td>$122,760</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What the Forecasts Are Actually Saying

@@ -13,16 +13,16 @@ author_bio: "Ethan Chen is a real estate researcher who has spent years tracking
 slug: "high-balance-conforming-loan"
 affiliate_disclosure: true
 faqs:
-  - q: "Is a high-balance conforming loan available in every county?"
-    a: "No. High-balance conforming limits only apply in counties that the FHFA has designated as high-cost areas. In most of the country, the standard conforming limit is the ceiling, and anything above it goes straight to jumbo. You can look up your specific county's limit on the FHFA website."
-  - q: "Can I use a high-balance conforming loan for an investment property or second home?"
-    a: "Yes, but the pricing adjustments are steeper. Fannie and Freddie add significant LLPAs for non-owner-occupied properties, and that's on top of the high-balance surcharge. The rate difference between a primary residence and an investment property at these loan sizes can be 0.50% to 0.75% or more. Do the math carefully before assuming a high-balance conforming loan makes sense for that vacation home."
-  - q: "What's the minimum down payment on a high-balance conforming loan?"
-    a: "Technically you can put as little as 10% down, though at higher loan amounts most lenders prefer to see 20% to avoid the added risk layering of high LTV plus high loan balance. With less than 20% down you'll also be paying private mortgage insurance, which on a $900,000 loan can run $300 to $500 a month depending on your credit score and the insurer."
-  - q: "Will I get a better rate by going jumbo instead of high-balance conforming?"
-    a: "Sometimes, yes. In competitive markets, jumbo lenders actively price below conforming rates to attract high-income, high-asset borrowers. I've seen jumbo rates come in 0.125% to 0.25% below the high-balance conforming rate on the same day from different institutions. The catch is the stricter qualification standards and the lack of flexibility on things like gift funds or non-occupant co-borrowers. Shop both products and compare the total cost, not just the rate."
-  - q: "How often do the high-balance conforming loan limits change?"
-    a: "The FHFA adjusts them annually based on the House Price Index. In markets where home values have been flat or declining, the limits can stay the same or theoretically drop (though that's rare). In markets where prices have risen sharply, the limits tend to follow. The update for any given calendar year is typically announced in November of the prior year and takes effect January 1st."
+ - q: "Is a high-balance conforming loan available in every county?"
+ a: "No. High-balance conforming limits only apply in counties that the FHFA has designated as high-cost areas. In most of the country, the standard conforming limit is the ceiling, and anything above it goes straight to jumbo. You can look up your specific county's limit on the FHFA website."
+ - q: "Can I use a high-balance conforming loan for an investment property or second home?"
+ a: "Yes, but the pricing adjustments are steeper. Fannie and Freddie add significant LLPAs for non-owner-occupied properties, and that's on top of the high-balance surcharge. The rate difference between a primary residence and an investment property at these loan sizes can be 0.50% to 0.75% or more. Do the math carefully before assuming a high-balance conforming loan makes sense for that vacation home."
+ - q: "What's the minimum down payment on a high-balance conforming loan?"
+ a: "Technically you can put as little as 10% down, though at higher loan amounts most lenders prefer to see 20% to avoid the added risk layering of high LTV plus high loan balance. With less than 20% down you'll also be paying private mortgage insurance, which on a $900,000 loan can run $300 to $500 a month depending on your credit score and the insurer."
+ - q: "Will I get a better rate by going jumbo instead of high-balance conforming?"
+ a: "Sometimes, yes. In competitive markets, jumbo lenders actively price below conforming rates to attract high-income, high-asset borrowers. I've seen jumbo rates come in 0.125% to 0.25% below the high-balance conforming rate on the same day from different institutions. The catch is the stricter qualification standards and the lack of flexibility on things like gift funds or non-occupant co-borrowers. Shop both products and compare the total cost, not just the rate."
+ - q: "How often do the high-balance conforming loan limits change?"
+ a: "The FHFA adjusts them annually based on the House Price Index. In markets where home values have been flat or declining, the limits can stay the same or theoretically drop (though that's rare). In markets where prices have risen sharply, the limits tend to follow. The update for any given calendar year is typically announced in November of the prior year and takes effect January 1st."
 ---
 Most borrowers have never heard of a high-balance conforming loan until they actually need one. Then they're staring at two loan offers that look nearly identical, and nobody at the closing table can explain why one costs more than the other.
 
@@ -30,12 +30,12 @@ Let me fix that.
 
 
 <div class="value-module">
-  <div class="vm-head">High-Balance vs Standard Loan Cost Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">Here's how the rate premium on high-balance conforming loans translates to actual monthly and lifetime costs across typical loan amounts.</p>
-    <table><caption>Cost Impact of High-Balance Rate Premium (30-Year Fixed, Illustrative)</caption><thead><tr><th>Loan Amount</th><th>Standard Rate</th><th>High-Balance Rate (+0.20%)</th><th>Monthly Payment Difference</th><th>Total Interest Difference (30 yr)</th></tr></thead><tbody><tr><td>$850,000</td><td>6.50%</td><td>6.70%</td><td>+$114</td><td>+$41,040</td></tr><tr><td>$950,000</td><td>6.50%</td><td>6.70%</td><td>+$127</td><td>+$45,720</td></tr><tr><td>$1,100,000</td><td>6.50%</td><td>6.70%</td><td>+$147</td><td>+$52,920</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">High-Balance vs Standard Loan Cost Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">Here's how the rate premium on high-balance conforming loans translates to actual monthly and lifetime costs across typical loan amounts.</p>
+ <table><caption>Cost Impact of High-Balance Rate Premium (30-Year Fixed, Illustrative)</caption><thead><tr><th>Loan Amount</th><th>Standard Rate</th><th>High-Balance Rate (+0.20%)</th><th>Monthly Payment Difference</th><th>Total Interest Difference (30 yr)</th></tr></thead><tbody><tr><td>$850,000</td><td>6.50%</td><td>6.70%</td><td>+$114</td><td>+$41,040</td></tr><tr><td>$950,000</td><td>6.50%</td><td>6.70%</td><td>+$127</td><td>+$45,720</td></tr><tr><td>$1,100,000</td><td>6.50%</td><td>6.70%</td><td>+$147</td><td>+$52,920</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What a High-Balance Conforming Loan Actually Is

@@ -9,16 +9,16 @@ tags: ["your", "first", "home", "with", "down"]
 slug: "how-to-buy-your-first-home-with-no-down-payment-in"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I use gift money with a zero-down loan?"
-    a: "Yes, most zero-down programs allow gift funds for closing costs and in some cases for the funding fee or upfront MIP. VA loans and FHA loans both permit gifts from family members, though the lender will require a gift letter and may need documentation of the transfer. USDA is more restrictive, check program guidelines specific to the lender."
-  - q: "Do zero-down loans have higher interest rates?"
-    a: "VA loans generally don't carry a rate penalty relative to conventional loans with 20% down, sometimes they're actually lower. USDA rates are typically competitive. FHA rates are usually slightly higher than conventional, and the mortgage insurance adds to the effective cost. Credit union zero-down products vary; some price the rate slightly higher in lieu of PMI. Always get at least three loan estimates and compare the APR, not just the rate."
-  - q: "What if I find a home I love but it doesn't meet USDA property eligibility?"
-    a: "Then you'll need a different loan program for that property. USDA eligibility is tied to the property's location, not just your personal eligibility. It's a hard boundary. Run the address through the USDA eligibility map before you get emotionally attached."
-  - q: "Can I buy a multi-unit property with a zero-down loan?"
-    a: "VA loans allow purchases of up to four units if you occupy one as your primary residence, which is one of the more powerful features of the program. USDA is single-family only. FHA allows two-to-four units with 3.5% down (not zero), so combined with a DPA program covering that 3.5%, it's technically possible. The underwriting on multi-unit purchases is more complex regardless of program."
-  - q: "How long does the process take compared to a conventional purchase?"
-    a: "USDA loans add a processing step because they require approval from the USDA itself, not just the lender. That can add two to four weeks to your closing timeline, sometimes more if the USDA office is backed up. VA and FHA with DPA programs run closer to a standard 30-45 day close, though DPA programs sometimes have their own funding timelines. If you're in a competitive market, understand that sellers know USDA closings take longer, and it can affect your offer's appeal."
+ - q: "Can I use gift money with a zero-down loan?"
+ a: "Yes, most zero-down programs allow gift funds for closing costs and in some cases for the funding fee or upfront MIP. VA loans and FHA loans both permit gifts from family members, though the lender will require a gift letter and may need documentation of the transfer. USDA is more restrictive, check program guidelines specific to the lender."
+ - q: "Do zero-down loans have higher interest rates?"
+ a: "VA loans generally don't carry a rate penalty relative to conventional loans with 20% down, sometimes they're actually lower. USDA rates are typically competitive. FHA rates are usually slightly higher than conventional, and the mortgage insurance adds to the effective cost. Credit union zero-down products vary; some price the rate slightly higher in lieu of PMI. Always get at least three loan estimates and compare the APR, not just the rate."
+ - q: "What if I find a home I love but it doesn't meet USDA property eligibility?"
+ a: "Then you'll need a different loan program for that property. USDA eligibility is tied to the property's location, not just your personal eligibility. It's a hard boundary. Run the address through the USDA eligibility map before you get emotionally attached."
+ - q: "Can I buy a multi-unit property with a zero-down loan?"
+ a: "VA loans allow purchases of up to four units if you occupy one as your primary residence, which is one of the more powerful features of the program. USDA is single-family only. FHA allows two-to-four units with 3.5% down (not zero), so combined with a DPA program covering that 3.5%, it's technically possible. The underwriting on multi-unit purchases is more complex regardless of program."
+ - q: "How long does the process take compared to a conventional purchase?"
+ a: "USDA loans add a processing step because they require approval from the USDA itself, not just the lender. That can add two to four weeks to your closing timeline, sometimes more if the USDA office is backed up. VA and FHA with DPA programs run closer to a standard 30-45 day close, though DPA programs sometimes have their own funding timelines. If you're in a competitive market, understand that sellers know USDA closings take longer, and it can affect your offer's appeal."
 author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
@@ -33,12 +33,12 @@ Here's what the cheerful "no money down!" articles don't tell you: skipping the 
 
 
 <div class="value-module">
-  <div class="vm-head">Zero-Down True Cost Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">Here's what skipping the down payment actually costs you on a $350,000 home purchase, using illustrative 2026 rate assumptions.</p>
-    <table><caption>Total Cost Comparison: Zero Down vs. 5% Down on $350,000 Home</caption><thead><tr><th>Cost Factor</th><th>VA Loan (0% Down)</th><th>USDA Loan (0% Down)</th><th>Conventional (5% Down)</th></tr></thead><tbody><tr><td>Loan Amount</td><td>$350,000</td><td>$350,000</td><td>$332,500</td></tr><tr><td>Upfront Fee (rolled in)</td><td>$7,525 (2.15% funding fee)</td><td>$3,500 (1% guarantee fee)</td><td>$0</td></tr><tr><td>Monthly Principal + Interest*</td><td>$2,280</td><td>$2,254</td><td>$2,120</td></tr><tr><td>Monthly Insurance/Fee</td><td>$0 (no PMI)</td><td>$102 (0.35% annual)</td><td>$140 (PMI until 20% equity)</td></tr><tr><td>Total Monthly Payment</td><td>$2,280</td><td>$2,356</td><td>$2,260</td></tr><tr><td>Cash Needed at Closing**</td><td>$8,000–$12,000</td><td>$8,000–$12,000</td><td>$25,500–$29,500</td></tr><tr><td>Break-Even vs. Waiting to Save 5%</td><td>Worth it if home prices rise >2%/year</td><td>Worth it if rent exceeds mortgage gap</td><td>Baseline comparison</td></tr></tbody><tfoot><tr><td colspan="4">*Illustrative rates: VA 6.25%, USDA 6.5%, Conventional 6.5% (30-year fixed). Actual rates vary by credit, lender, and market conditions. **Includes estimated closing costs of $8,000–$12,000; conventional adds $17,500 down payment.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Zero-Down True Cost Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">Here's what skipping the down payment actually costs you on a $350,000 home purchase, using illustrative 2026 rate assumptions.</p>
+ <table><caption>Total Cost Comparison: Zero Down vs. 5% Down on $350,000 Home</caption><thead><tr><th>Cost Factor</th><th>VA Loan (0% Down)</th><th>USDA Loan (0% Down)</th><th>Conventional (5% Down)</th></tr></thead><tbody><tr><td>Loan Amount</td><td>$350,000</td><td>$350,000</td><td>$332,500</td></tr><tr><td>Upfront Fee (rolled in)</td><td>$7,525 (2.15% funding fee)</td><td>$3,500 (1% guarantee fee)</td><td>$0</td></tr><tr><td>Monthly Principal + Interest*</td><td>$2,280</td><td>$2,254</td><td>$2,120</td></tr><tr><td>Monthly Insurance/Fee</td><td>$0 (no PMI)</td><td>$102 (0.35% annual)</td><td>$140 (PMI until 20% equity)</td></tr><tr><td>Total Monthly Payment</td><td>$2,280</td><td>$2,356</td><td>$2,260</td></tr><tr><td>Cash Needed at Closing**</td><td>$8,000–$12,000</td><td>$8,000–$12,000</td><td>$25,500–$29,500</td></tr><tr><td>Break-Even vs. Waiting to Save 5%</td><td>Worth it if home prices rise >2%/year</td><td>Worth it if rent exceeds mortgage gap</td><td>Baseline comparison</td></tr></tbody><tfoot><tr><td colspan="4">*Illustrative rates: VA 6.25%, USDA 6.5%, Conventional 6.5% (30-year fixed). Actual rates vary by credit, lender, and market conditions. **Includes estimated closing costs of $8,000–$12,000; conventional adds $17,500 down payment.</td></tr></tfoot></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Programs That Actually Work in 2026

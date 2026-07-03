@@ -11,10 +11,7 @@ author_slug: "susan-taylor"
 author_title: "Credit Writer"
 author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
 slug: "hud-just-changed-14-fha-mortgage-rules-here-is-what-it-means-for-buyer"
-affiliate_disclosure: true
----
-
-Picture this: you're a first-time buyer, you've scraped together your 3.5% down payment, you've found a house that needs a little work, and you're trying to figure out why your FHA loan closing cost you $425 extra for an appraisal field review that your lender explained in exactly one sentence. You didn't push back because you didn't know you could. I've seen that scenario play out hundreds of times, and it's exactly the kind of friction that quietly drains money from buyers who can least afford it.
+affiliate_disclosure: true, Picture this: you're a first-time buyer, you've scraped together your 3.5% down payment, you've found a house that needs a little work, and you're trying to figure out why your FHA loan closing cost you $425 extra for an appraisal field review that your lender explained in exactly one sentence. You didn't push back because you didn't know you could. I've seen that scenario play out hundreds of times, and it's exactly the kind of friction that quietly drains money from buyers who can least afford it.
 
 On June 23, 2026, HUD announced 14 policy changes to the FHA single-family mortgage program, framed as part of National Homeownership Month and described by HUD as the latest in a wave of more than 150 streamlining actions under the Trump administration. Some of these changes will save you real money. Some are operational housekeeping that makes lenders' lives easier. And one glaring absence in the package has industry groups already pushing back. If you're using FHA financing this summer or planning to, here's what you actually need to know.
 
@@ -69,10 +66,10 @@ These 14 updates are real improvements, and 150-plus streamlining actions do add
 ## Sources
 
 - [HUD Slashes More Red Tape to Lower Costs, Improve Affordability](https://www.hud.gov/news/hud-no-26-051) (June 23, 2026)
-- [HUD rolls out 14 FHA single-family mortgage changes ,  HousingWire](https://www.housingwire.com/articles/hud-fha-14-changes/) (June 23, 2026)
-- [HUD trims FHA red tape; groups want MIP cut next ,  National Mortgage News](https://www.nationalmortgagenews.com/news/hud-trims-fha-red-tape-groups-want-mip-cut-next) (June 24, 2026)
-- [HUD continues FHA single-family streamlining with 14 new policy changes ,  Scotsman Guide](https://www.scotsmanguide.com/news/hud-continues-fha-single-family-streamlining-with-14-new-policy-changes/) (June 2026)
-- [FHA INFO Messages: Single Family Housing Industry News ,  HUD.gov](https://www.hud.gov/hud-partners/single-family-fha-info) (June 23, 2026)
+- [HUD rolls out 14 FHA single-family mortgage changes , HousingWire](https://www.housingwire.com/articles/hud-fha-14-changes/) (June 23, 2026)
+- [HUD trims FHA red tape; groups want MIP cut next , National Mortgage News](https://www.nationalmortgagenews.com/news/hud-trims-fha-red-tape-groups-want-mip-cut-next) (June 24, 2026)
+- [HUD continues FHA single-family streamlining with 14 new policy changes , Scotsman Guide](https://www.scotsmanguide.com/news/hud-continues-fha-single-family-streamlining-with-14-new-policy-changes/) (June 2026)
+- [FHA INFO Messages: Single Family Housing Industry News , HUD.gov](https://www.hud.gov/hud-partners/single-family-fha-info) (June 23, 2026)
 
 ## Helpful Resources
 
@@ -95,7 +92,7 @@ These 14 updates are real improvements, and 150-plus streamlining actions do add
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25) — Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25), Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.
 

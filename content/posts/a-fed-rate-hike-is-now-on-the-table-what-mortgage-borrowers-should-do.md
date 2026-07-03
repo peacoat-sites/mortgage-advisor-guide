@@ -11,10 +11,7 @@ author_slug: "jennifer-walsh"
 author_title: "Mortgage Writer"
 author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
 slug: "a-fed-rate-hike-is-now-on-the-table-what-mortgage-borrowers-should-do"
-affiliate_disclosure: true
----
-
-Most coverage of this moment focuses on what the Fed *might* do. The more pressing question is what mortgage borrowers should do right now, before July 28.
+affiliate_disclosure: true, Most coverage of this moment focuses on what the Fed *might* do. The more pressing question is what mortgage borrowers should do right now, before July 28.
 
 Here's the situation: the 30-year fixed rate hit 6.6% on July 1, up from under 6% as recently as April, according to Zillow data reported by U.S. News. That's a 60-plus basis point move in roughly 90 days. The CME FedWatch tool now prices a rate hike at the upcoming July 28-29 FOMC meeting at 27% probability. Not a guarantee. Not a coin flip. But real enough that any serious borrower needs to factor it in. May CPI came in at 4.2% annually, and the Fed's June projections showed most policymakers expect a hike will be necessary this year, not a cut. Chair Kevin Warsh has made no secret of the hawkish stance.
 
@@ -98,6 +95,6 @@ Borrowers who treat this as a theoretical policy discussion will look back at Ju
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

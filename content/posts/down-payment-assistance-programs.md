@@ -9,16 +9,16 @@ tags: ["down", "payment", "assistance", "programs"]
 slug: "down-payment-assistance-programs"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I use down payment assistance with a conventional loan?"
-    a: "Yes, some DPA programs are compatible with conventional loans, including Fannie Mae's HomeReady and Freddie Mac's Home Possible programs, which are specifically designed for lower-down-payment borrowers. Many DPA programs, however, are structured specifically for FHA loans. Ask your lender which loan types a specific program accepts before assuming compatibility."
-  - q: "Does receiving down payment assistance affect my mortgage interest rate?"
-    a: "It can. Programs that require you to use a specific lender or loan product may not offer the most competitive rates available. Some programs absorb part of the rate through a higher loan rate in exchange for the grant, a structure sometimes called a 'premium pricing' arrangement. Ask your lender directly whether the DPA requires a rate premium and what that premium is."
-  - q: "Can down payment assistance cover closing costs too?"
-    a: "Some programs allow DPA funds to be applied toward closing costs, not just the down payment. Others are restricted strictly to the down payment. Closing costs typically run 2% to 5% of the loan amount, so if you're short there as well, look specifically for programs that address both or ask about seller concessions as a parallel strategy."
-  - q: "What happens to the DPA if I sell my home before the forgiveness period ends?"
-    a: "If your assistance was structured as a forgivable loan with a five or ten-year forgiveness period and you sell before that period ends, you'll typically be required to repay a prorated portion of the assistance from your sale proceeds. The specific terms vary by program. Read your second mortgage agreement carefully before you sign, and factor this into your plans if you think there's any chance you'll move within the first several years."
-  - q: "Are down payment assistance programs taxable?"
-    a: "Generally, grant-based assistance that you don't repay may have tax implications, though the specifics depend on the program structure and how it's characterized. Forgivable loans are treated differently than outright grants in some cases. This is a question worth putting directly to a tax professional, not just your loan officer, before you close."
+ - q: "Can I use down payment assistance with a conventional loan?"
+ a: "Yes, some DPA programs are compatible with conventional loans, including Fannie Mae's HomeReady and Freddie Mac's Home Possible programs, which are specifically designed for lower-down-payment borrowers. Many DPA programs, however, are structured specifically for FHA loans. Ask your lender which loan types a specific program accepts before assuming compatibility."
+ - q: "Does receiving down payment assistance affect my mortgage interest rate?"
+ a: "It can. Programs that require you to use a specific lender or loan product may not offer the most competitive rates available. Some programs absorb part of the rate through a higher loan rate in exchange for the grant, a structure sometimes called a 'premium pricing' arrangement. Ask your lender directly whether the DPA requires a rate premium and what that premium is."
+ - q: "Can down payment assistance cover closing costs too?"
+ a: "Some programs allow DPA funds to be applied toward closing costs, not just the down payment. Others are restricted strictly to the down payment. Closing costs typically run 2% to 5% of the loan amount, so if you're short there as well, look specifically for programs that address both or ask about seller concessions as a parallel strategy."
+ - q: "What happens to the DPA if I sell my home before the forgiveness period ends?"
+ a: "If your assistance was structured as a forgivable loan with a five or ten-year forgiveness period and you sell before that period ends, you'll typically be required to repay a prorated portion of the assistance from your sale proceeds. The specific terms vary by program. Read your second mortgage agreement carefully before you sign, and factor this into your plans if you think there's any chance you'll move within the first several years."
+ - q: "Are down payment assistance programs taxable?"
+ a: "Generally, grant-based assistance that you don't repay may have tax implications, though the specifics depend on the program structure and how it's characterized. Forgivable loans are treated differently than outright grants in some cases. This is a question worth putting directly to a tax professional, not just your loan officer, before you close."
 author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
@@ -32,12 +32,12 @@ But here's what a lot of buyers don't know: down payment assistance programs exi
 ---
 
 <div class="value-module">
-  <div class="vm-head">DPA Program Types: Quick Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">Different assistance structures have distinct repayment terms, eligibility hurdles, and long-term costs, here's how they stack up.</p>
-    <table><thead><tr><th>Program Type</th><th>Typical Amount</th><th>Repayment Terms</th><th>DTI Impact</th><th>Best For</th><th>Watch Out For</th></tr></thead><tbody><tr><td>Outright Grant</td><td>$5,000–$15,000 or 3–5% of price</td><td>None, fully forgiven at closing</td><td>None</td><td>Buyers who meet strict income caps</td><td>Limited availability; often first-come, first-served funding</td></tr><tr><td>Forgivable Second Mortgage</td><td>3–5% of loan amount</td><td>Forgiven after 5–10 years of occupancy</td><td>Usually none (no monthly payment)</td><td>Buyers planning to stay long-term</td><td>Sell or refi early = full or prorated repayment due</td></tr><tr><td>Deferred Second Mortgage</td><td>Up to 5% of loan amount</td><td>Due when you sell, refi, or pay off first mortgage</td><td>Minimal (no monthly payment, but balance owed)</td><td>Buyers who need flexibility but can repay later</td><td>Balloon payment at sale can reduce net proceeds</td></tr><tr><td>Repayable Second Mortgage</td><td>Varies widely</td><td>Monthly payments, often at below-market rates</td><td>Increases DTI by payment amount</td><td>Buyers with income room who want lower total interest</td><td>Can push DTI over approval thresholds</td></tr><tr><td>Matched Savings (IDA)</td><td>$2,000–$8,000 typical match</td><td>None, you keep matched funds</td><td>None</td><td>Buyers with 12–24 months to save</td><td>Requires consistent deposits; early withdrawal forfeits match</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">DPA Program Types: Quick Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">Different assistance structures have distinct repayment terms, eligibility hurdles, and long-term costs, here's how they stack up.</p>
+ <table><thead><tr><th>Program Type</th><th>Typical Amount</th><th>Repayment Terms</th><th>DTI Impact</th><th>Best For</th><th>Watch Out For</th></tr></thead><tbody><tr><td>Outright Grant</td><td>$5,000–$15,000 or 3–5% of price</td><td>None, fully forgiven at closing</td><td>None</td><td>Buyers who meet strict income caps</td><td>Limited availability; often first-come, first-served funding</td></tr><tr><td>Forgivable Second Mortgage</td><td>3–5% of loan amount</td><td>Forgiven after 5–10 years of occupancy</td><td>Usually none (no monthly payment)</td><td>Buyers planning to stay long-term</td><td>Sell or refi early = full or prorated repayment due</td></tr><tr><td>Deferred Second Mortgage</td><td>Up to 5% of loan amount</td><td>Due when you sell, refi, or pay off first mortgage</td><td>Minimal (no monthly payment, but balance owed)</td><td>Buyers who need flexibility but can repay later</td><td>Balloon payment at sale can reduce net proceeds</td></tr><tr><td>Repayable Second Mortgage</td><td>Varies widely</td><td>Monthly payments, often at below-market rates</td><td>Increases DTI by payment amount</td><td>Buyers with income room who want lower total interest</td><td>Can push DTI over approval thresholds</td></tr><tr><td>Matched Savings (IDA)</td><td>$2,000–$8,000 typical match</td><td>None, you keep matched funds</td><td>None</td><td>Buyers with 12–24 months to save</td><td>Requires consistent deposits; early withdrawal forfeits match</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Down Payment Assistance Actually Is (And What It Isn't)

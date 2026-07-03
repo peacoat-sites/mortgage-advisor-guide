@@ -11,10 +11,7 @@ author_slug: "susan-taylor"
 author_title: "Credit Writer"
 author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
 slug: "ira-withdrawal-first-home"
-affiliate_disclosure: true
----
-
-You're sitting at a closing table, home of your dreams within reach, and your loan officer casually mentions you could pull from your IRA penalty-free to cover the down payment. Sounds like a lifeline. I've watched borrowers light up at that suggestion -- and then sign paperwork they didn't fully understand, only to get hit with a tax bill that genuinely shocked them.
+affiliate_disclosure: true, You're sitting at a closing table, home of your dreams within reach, and your loan officer casually mentions you could pull from your IRA penalty-free to cover the down payment. Sounds like a lifeline. I've watched borrowers light up at that suggestion, and then sign paperwork they didn't fully understand, only to get hit with a tax bill that genuinely shocked them.
 
 Here's what that loan officer probably didn't explain: "penalty-free" and "tax-free" are not the same thing. Not even close.
 
@@ -52,7 +49,7 @@ There's also the retirement math to consider, and I say this as someone who spen
 
 Check whether your state follows the federal exemption. Most do, but not all. Some states impose their own early withdrawal penalty on top of federal taxes, and a few don't recognize the first-home exception at all. Your CPA should confirm this before you touch anything.
 
-Timing the withdrawal to your closing matters. Take the money too early and you risk the 120-day clock expiring if the deal drags. Take it too late and you might be scrambling to get funds into escrow in time. Coordinate with your lender on when those funds need to be documented and sourced -- lenders will require a paper trail, and a large deposit hitting your account mid-transaction will trigger a sourcing letter at minimum.
+Timing the withdrawal to your closing matters. Take the money too early and you risk the 120-day clock expiring if the deal drags. Take it too late and you might be scrambling to get funds into escrow in time. Coordinate with your lender on when those funds need to be documented and sourced, lenders will require a paper trail, and a large deposit hitting your account mid-transaction will trigger a sourcing letter at minimum.
 
 One more thing: if you have a Roth IRA and you're choosing between tapping Roth contributions versus Roth earnings, use contributions first. You've already paid tax on them, the five-year rule doesn't apply to contributions, and you preserve your earnings for tax-free growth.
 

@@ -9,16 +9,16 @@ tags: ["credit", "score", "mortgage", "approval"]
 slug: "credit-score-for-mortgage-approval"
 affiliate_disclosure: true
 faqs:
-  - q: "What's the minimum credit score needed to buy a house?"
-    a: "It depends on the loan type. For conventional loans, the floor is generally 620. FHA loans allow as low as 500 with a 10% down payment, or 580 with 3.5% down, though many lenders set their own minimums higher. VA loans have no official minimum but most lenders want 580 to 620. Qualifying at the minimum doesn't mean you'll get favorable terms."
-  - q: "Can I get a mortgage with no credit history?"
-    a: "Possibly, through a process called non-traditional credit underwriting. Lenders look at 12 to 24 months of on-time rent payments, utility bills, and similar payment records to establish creditworthiness. FHA and some conventional programs allow this, but you'll need thorough documentation and it may limit your lender options."
-  - q: "How long does it take to improve a credit score for a mortgage?"
-    a: "It varies. Paying down high credit card balances can produce visible improvement within one to two billing cycles. Recovering from a recent missed payment takes longer, typically six to twelve months of consistent on-time payments before the impact softens enough to matter. A collection or bankruptcy takes years to fade."
-  - q: "Does getting pre-approved hurt my credit score?"
-    a: "A pre-approval involves a hard inquiry, which can reduce your score by a few points, typically in the range of 2 to 5 points. Multiple mortgage inquiries within a 14 to 45 day window (depending on the scoring model) are usually treated as a single inquiry, so shopping multiple lenders in a short period won't compound the damage."
-  - q: "Should I pay off all my debt before applying for a mortgage?"
-    a: "Not necessarily all of it. Installment debt like car loans or student loans affects your DTI more than your score in most cases. Revolving debt (credit cards) affects both. The priority is typically to get card balances below 30% of limits, stay current on everything, and make sure your DTI lands in an acceptable range. Completely zeroing out accounts before applying can sometimes hurt your credit mix and age metrics. Ask a qualified loan officer or financial advisor to look at your specific situation before making large payoffs."
+ - q: "What's the minimum credit score needed to buy a house?"
+ a: "It depends on the loan type. For conventional loans, the floor is generally 620. FHA loans allow as low as 500 with a 10% down payment, or 580 with 3.5% down, though many lenders set their own minimums higher. VA loans have no official minimum but most lenders want 580 to 620. Qualifying at the minimum doesn't mean you'll get favorable terms."
+ - q: "Can I get a mortgage with no credit history?"
+ a: "Possibly, through a process called non-traditional credit underwriting. Lenders look at 12 to 24 months of on-time rent payments, utility bills, and similar payment records to establish creditworthiness. FHA and some conventional programs allow this, but you'll need thorough documentation and it may limit your lender options."
+ - q: "How long does it take to improve a credit score for a mortgage?"
+ a: "It varies. Paying down high credit card balances can produce visible improvement within one to two billing cycles. Recovering from a recent missed payment takes longer, typically six to twelve months of consistent on-time payments before the impact softens enough to matter. A collection or bankruptcy takes years to fade."
+ - q: "Does getting pre-approved hurt my credit score?"
+ a: "A pre-approval involves a hard inquiry, which can reduce your score by a few points, typically in the range of 2 to 5 points. Multiple mortgage inquiries within a 14 to 45 day window (depending on the scoring model) are usually treated as a single inquiry, so shopping multiple lenders in a short period won't compound the damage."
+ - q: "Should I pay off all my debt before applying for a mortgage?"
+ a: "Not necessarily all of it. Installment debt like car loans or student loans affects your DTI more than your score in most cases. Revolving debt (credit cards) affects both. The priority is typically to get card balances below 30% of limits, stay current on everything, and make sure your DTI lands in an acceptable range. Completely zeroing out accounts before applying can sometimes hurt your credit mix and age metrics. Ask a qualified loan officer or financial advisor to look at your specific situation before making large payoffs."
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Mortgage Writer"
@@ -30,12 +30,12 @@ Your credit score is a three-digit number that can mean the difference between a
 ---
 
 <div class="value-module">
-  <div class="vm-head">Monthly Payment Impact by Credit Score</div>
-  <div class="vm-body">
-    <p class="vm-intro">This table shows how credit score tiers affect your actual monthly principal and interest payment on a $350,000 conventional 30-year fixed mortgage, using illustrative rates typical of LLPA pricing differences.</p>
-    <table><thead><tr><th>Credit Score Range</th><th>Illustrative Rate</th><th>Monthly P&I</th><th>Extra Cost vs. 760+</th><th>30-Year Interest Paid</th></tr></thead><tbody><tr><td>760+</td><td>6.50%</td><td>$2,212</td><td>-</td><td>$446,320</td></tr><tr><td>740–759</td><td>6.75%</td><td>$2,270</td><td>+$58/mo</td><td>$467,200</td></tr><tr><td>720–739</td><td>6.875%</td><td>$2,299</td><td>+$87/mo</td><td>$477,640</td></tr><tr><td>700–719</td><td>7.00%</td><td>$2,329</td><td>+$117/mo</td><td>$488,440</td></tr><tr><td>680–699</td><td>7.25%</td><td>$2,388</td><td>+$176/mo</td><td>$509,680</td></tr><tr><td>660–679</td><td>7.50%</td><td>$2,447</td><td>+$235/mo</td><td>$530,920</td></tr><tr><td>620–659</td><td>7.875%</td><td>$2,538</td><td>+$326/mo</td><td>$563,680</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Monthly Payment Impact by Credit Score</div>
+ <div class="vm-body">
+ <p class="vm-intro">This table shows how credit score tiers affect your actual monthly principal and interest payment on a $350,000 conventional 30-year fixed mortgage, using illustrative rates typical of LLPA pricing differences.</p>
+ <table><thead><tr><th>Credit Score Range</th><th>Illustrative Rate</th><th>Monthly P&I</th><th>Extra Cost vs. 760+</th><th>30-Year Interest Paid</th></tr></thead><tbody><tr><td>760+</td><td>6.50%</td><td>$2,212</td><td>-</td><td>$446,320</td></tr><tr><td>740–759</td><td>6.75%</td><td>$2,270</td><td>+$58/mo</td><td>$467,200</td></tr><tr><td>720–739</td><td>6.875%</td><td>$2,299</td><td>+$87/mo</td><td>$477,640</td></tr><tr><td>700–719</td><td>7.00%</td><td>$2,329</td><td>+$117/mo</td><td>$488,440</td></tr><tr><td>680–699</td><td>7.25%</td><td>$2,388</td><td>+$176/mo</td><td>$509,680</td></tr><tr><td>660–679</td><td>7.50%</td><td>$2,447</td><td>+$235/mo</td><td>$530,920</td></tr><tr><td>620–659</td><td>7.875%</td><td>$2,538</td><td>+$326/mo</td><td>$563,680</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Credit Score Do You Actually Need to Get a Mortgage?

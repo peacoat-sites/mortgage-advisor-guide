@@ -9,16 +9,16 @@ tags: ["mortgage", "points", "work", "they", "worth"]
 slug: "how-do-mortgage-points-work-and-are-they-worth-buying"
 affiliate_disclosure: true
 faqs:
-  - q: "How many points can you buy on a mortgage?"
-    a: "Most lenders cap discount points somewhere between 3 and 4 points, though the ceiling varies by loan type and lender guidelines. Buying more than 2 points is rare and usually only makes financial sense in very specific circumstances. Ask your lender what their maximum is and what rate reduction each additional point actually buys, since the reduction per point often diminishes after the first one."
-  - q: "Do mortgage points expire or disappear if you refinance?"
-    a: "Yes. When you refinance, you're taking out a new loan, and any points you paid on the original loan don't carry over. Whatever you paid is gone, and you start from scratch with the new loan's terms. This is why your expected time in the loan is the single most important factor in deciding whether to buy points."
-  - q: "Can you roll points into the loan instead of paying cash at closing?"
-    a: "Generally no, not with conventional or government-backed loans. Points are a closing cost, and while some closing costs can be rolled into certain loan types under certain conditions, discount points specifically are intended to be paid upfront. If a lender is offering to 'roll your points in,' read that contract carefully. You may actually be looking at a higher loan balance with a marginally better rate, which needs its own analysis."
-  - q: "Are discount points the same as an origination fee?"
-    a: "No, and this confusion trips people up all the time. Origination points (or origination fees) are what the lender charges for processing and making the loan. You pay them regardless of what rate you get. Discount points are optional and specifically purchase a rate reduction. Both appear on your Loan Estimate, sometimes on the same line, which is why you should ask your lender to break them apart explicitly."
-  - q: "Is buying points worth it in a high interest rate environment?"
-    a: "It depends entirely on your breakeven timeline and your refinance expectations. In a high-rate environment where many buyers expect rates to fall within a few years, buying points carries more risk because a refinance would wipe out the benefit before you've recovered the cost. That doesn't make it automatically wrong, but it does mean you should stress-test the decision against a scenario where you refinance in 24 to 36 months. If the answer still works, go for it."
+ - q: "How many points can you buy on a mortgage?"
+ a: "Most lenders cap discount points somewhere between 3 and 4 points, though the ceiling varies by loan type and lender guidelines. Buying more than 2 points is rare and usually only makes financial sense in very specific circumstances. Ask your lender what their maximum is and what rate reduction each additional point actually buys, since the reduction per point often diminishes after the first one."
+ - q: "Do mortgage points expire or disappear if you refinance?"
+ a: "Yes. When you refinance, you're taking out a new loan, and any points you paid on the original loan don't carry over. Whatever you paid is gone, and you start from scratch with the new loan's terms. This is why your expected time in the loan is the single most important factor in deciding whether to buy points."
+ - q: "Can you roll points into the loan instead of paying cash at closing?"
+ a: "Generally no, not with conventional or government-backed loans. Points are a closing cost, and while some closing costs can be rolled into certain loan types under certain conditions, discount points specifically are intended to be paid upfront. If a lender is offering to 'roll your points in,' read that contract carefully. You may actually be looking at a higher loan balance with a marginally better rate, which needs its own analysis."
+ - q: "Are discount points the same as an origination fee?"
+ a: "No, and this confusion trips people up all the time. Origination points (or origination fees) are what the lender charges for processing and making the loan. You pay them regardless of what rate you get. Discount points are optional and specifically purchase a rate reduction. Both appear on your Loan Estimate, sometimes on the same line, which is why you should ask your lender to break them apart explicitly."
+ - q: "Is buying points worth it in a high interest rate environment?"
+ a: "It depends entirely on your breakeven timeline and your refinance expectations. In a high-rate environment where many buyers expect rates to fall within a few years, buying points carries more risk because a refinance would wipe out the benefit before you've recovered the cost. That doesn't make it automatically wrong, but it does mean you should stress-test the decision against a scenario where you refinance in 24 to 36 months. If the answer still works, go for it."
 author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit Writer"
@@ -48,12 +48,12 @@ Let's say you're borrowing $400,000. One point costs $4,000. It drops your rate 
 $4,000 divided by $67 equals 59.7 months. Nearly five years.
 
 <div class="value-module">
-  <div class="vm-head">Breakeven Analysis: Worked Example</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this realistic scenario to see exactly how the breakeven math works before running your own numbers.</p>
-    <table><caption>Mortgage Points Breakeven Example: $320,000 Loan, 30-Year Fixed</caption><thead><tr><th>Scenario</th><th>No Points</th><th>1 Point Purchased</th></tr></thead><tbody><tr><td>Loan Amount</td><td>$320,000</td><td>$320,000</td></tr><tr><td>Interest Rate</td><td>7.00%</td><td>6.75%</td></tr><tr><td>Upfront Point Cost</td><td>$0</td><td>$3,200</td></tr><tr><td>Monthly Principal & Interest</td><td>$2,129</td><td>$2,076</td></tr><tr><td>Monthly Savings</td><td>-</td><td>$53</td></tr><tr><td>Breakeven Calculation</td><td>-</td><td>$3,200 ÷ $53 = 60 months</td></tr><tr><td><strong>Breakeven Point</strong></td><td>-</td><td><strong>5 years</strong></td></tr></tbody></table><ul><li><strong>Stay 7+ years:</strong> Points likely worth it, you save $53/month beyond breakeven</li><li><strong>Stay 3–5 years:</strong> Borderline, run exact numbers with your actual rate reduction</li><li><strong>Stay under 3 years:</strong> Points rarely make sense, you won't recoup the upfront cost</li><li><strong>Planning to refinance soon?</strong> Treat it like an early sale, breakeven resets</li><li><strong>Key variable:</strong> Confirm your lender's actual rate reduction per point (ranges from 0.125% to 0.375%)</li></ul>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Breakeven Analysis: Worked Example</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this realistic scenario to see exactly how the breakeven math works before running your own numbers.</p>
+ <table><caption>Mortgage Points Breakeven Example: $320,000 Loan, 30-Year Fixed</caption><thead><tr><th>Scenario</th><th>No Points</th><th>1 Point Purchased</th></tr></thead><tbody><tr><td>Loan Amount</td><td>$320,000</td><td>$320,000</td></tr><tr><td>Interest Rate</td><td>7.00%</td><td>6.75%</td></tr><tr><td>Upfront Point Cost</td><td>$0</td><td>$3,200</td></tr><tr><td>Monthly Principal & Interest</td><td>$2,129</td><td>$2,076</td></tr><tr><td>Monthly Savings</td><td>-</td><td>$53</td></tr><tr><td>Breakeven Calculation</td><td>-</td><td>$3,200 ÷ $53 = 60 months</td></tr><tr><td><strong>Breakeven Point</strong></td><td>-</td><td><strong>5 years</strong></td></tr></tbody></table><ul><li><strong>Stay 7+ years:</strong> Points likely worth it, you save $53/month beyond breakeven</li><li><strong>Stay 3–5 years:</strong> Borderline, run exact numbers with your actual rate reduction</li><li><strong>Stay under 3 years:</strong> Points rarely make sense, you won't recoup the upfront cost</li><li><strong>Planning to refinance soon?</strong> Treat it like an early sale, breakeven resets</li><li><strong>Key variable:</strong> Confirm your lender's actual rate reduction per point (ranges from 0.125% to 0.375%)</li></ul>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 Know you're moving in three years? Skip the points. Staying put for a decade and don't think rates will drop enough to refinance? That point might actually pay you back.

@@ -13,16 +13,16 @@ author_bio: "Maria Santos has coached hundreds of first-time buyers through the 
 slug: "how-much-are-mortgage-origination-fees-on-a-300k-loan"
 affiliate_disclosure: true
 faqs:
-  - q: "What is a typical origination fee on a $300,000 mortgage?"
-    a: "Most borrowers pay between 0.5% and 1% in origination fees, which works out to $1,500 to $3,000 on a $300,000 loan. Some lenders charge up to 1.5%, but anything above that on a conventional loan deserves a pointed question about what's included."
-  - q: "Are origination fees the same as closing costs?"
-    a: "No. Origination fees are one component of closing costs. Total closing costs on a $300,000 purchase typically run 2% to 5% of the loan amount, covering third-party services like the appraisal, title search, title insurance, recording fees, and prepaid items like homeowner's insurance. Origination is just the lender's portion."
-  - q: "Can I roll origination fees into the loan?"
-    a: "Sometimes, but it depends on the loan-to-value ratio and loan type. Rolling fees into the loan means you pay interest on them for the life of the loan. On a $3,000 origination fee folded into a 30-year loan at 7%, you'll pay roughly $2,150 in additional interest over the full term."
-  - q: "Do VA and FHA loans have origination fees?"
-    a: "Yes, though the structure differs. VA loans cap lender origination fees at 1% of the loan amount under current VA guidelines. FHA loans don't cap origination fees the same way, but lenders are required to disclose them fully on the Loan Estimate. FHA loans also carry a separate upfront mortgage insurance premium (1.75% of the loan) that's often confused with the origination fee."
-  - q: "Is a 'no-fee mortgage' ever a good deal?"
-    a: "Yes, specifically if you plan to sell or refinance within five to seven years. The rate premium built into a no-fee loan eventually costs more than the fee would have, but that break-even point is usually far enough out that short-term borrowers come out ahead. Run the math for your specific timeline before deciding."
+ - q: "What is a typical origination fee on a $300,000 mortgage?"
+ a: "Most borrowers pay between 0.5% and 1% in origination fees, which works out to $1,500 to $3,000 on a $300,000 loan. Some lenders charge up to 1.5%, but anything above that on a conventional loan deserves a pointed question about what's included."
+ - q: "Are origination fees the same as closing costs?"
+ a: "No. Origination fees are one component of closing costs. Total closing costs on a $300,000 purchase typically run 2% to 5% of the loan amount, covering third-party services like the appraisal, title search, title insurance, recording fees, and prepaid items like homeowner's insurance. Origination is just the lender's portion."
+ - q: "Can I roll origination fees into the loan?"
+ a: "Sometimes, but it depends on the loan-to-value ratio and loan type. Rolling fees into the loan means you pay interest on them for the life of the loan. On a $3,000 origination fee folded into a 30-year loan at 7%, you'll pay roughly $2,150 in additional interest over the full term."
+ - q: "Do VA and FHA loans have origination fees?"
+ a: "Yes, though the structure differs. VA loans cap lender origination fees at 1% of the loan amount under current VA guidelines. FHA loans don't cap origination fees the same way, but lenders are required to disclose them fully on the Loan Estimate. FHA loans also carry a separate upfront mortgage insurance premium (1.75% of the loan) that's often confused with the origination fee."
+ - q: "Is a 'no-fee mortgage' ever a good deal?"
+ a: "Yes, specifically if you plan to sell or refinance within five to seven years. The rate premium built into a no-fee loan eventually costs more than the fee would have, but that break-even point is usually far enough out that short-term borrowers come out ahead. Run the math for your specific timeline before deciding."
 ---
 
 Origination fees are one of those line items that can swing a $300,000 loan by thousands of dollars, and most borrowers have no idea they're negotiable until after they've already signed.
@@ -141,8 +141,8 @@ The fee on your Loan Estimate is a starting point for a conversation, not a fina
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

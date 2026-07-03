@@ -13,16 +13,16 @@ author_bio: "Ethan Chen is a real estate researcher who has spent years tracking
 slug: "investment-property-mortgage"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I use a conventional loan to buy a rental property?"
-    a: "Yes, conventional loans are available for 1-4 unit investment properties, as long as you meet the credit, down payment, reserve, and debt-to-income requirements. Expect a minimum 15-20% down payment and stronger credit requirements than a primary home loan."
-  - q: "Does rental income from the property I'm buying count toward my qualification?"
-    a: "Generally yes, but only at 75% of market rents per appraiser documentation, and some lenders are conservative with first-time investors who have no rental history on their tax returns. It helps, but it doesn't always solve a DTI problem on its own."
-  - q: "What credit score do I need for an investment property mortgage?"
-    a: "Most conventional lenders require a minimum of 680, with notably better rates and terms above 720. Below 680, you're likely looking at non-QM or portfolio loan options, which come with higher costs."
-  - q: "What is a DSCR loan and is it a good option?"
-    a: "A DSCR loan qualifies you based on whether the property's rental income covers its debt payments, not your personal income. It's a legitimate option for certain borrowers, particularly the self-employed, but it's a non-QM product with higher rates and fewer protections than a conventional loan."
-  - q: "How much cash do I need in reserves after closing?"
-    a: "Conventional guidelines typically require six months of reserves (covering the full PITIA payment) for the investment property. If you own other financed properties, you may need reserves against those too. Come to the table with more cash than you think you need."
+ - q: "Can I use a conventional loan to buy a rental property?"
+ a: "Yes, conventional loans are available for 1-4 unit investment properties, as long as you meet the credit, down payment, reserve, and debt-to-income requirements. Expect a minimum 15-20% down payment and stronger credit requirements than a primary home loan."
+ - q: "Does rental income from the property I'm buying count toward my qualification?"
+ a: "Generally yes, but only at 75% of market rents per appraiser documentation, and some lenders are conservative with first-time investors who have no rental history on their tax returns. It helps, but it doesn't always solve a DTI problem on its own."
+ - q: "What credit score do I need for an investment property mortgage?"
+ a: "Most conventional lenders require a minimum of 680, with notably better rates and terms above 720. Below 680, you're likely looking at non-QM or portfolio loan options, which come with higher costs."
+ - q: "What is a DSCR loan and is it a good option?"
+ a: "A DSCR loan qualifies you based on whether the property's rental income covers its debt payments, not your personal income. It's a legitimate option for certain borrowers, particularly the self-employed, but it's a non-QM product with higher rates and fewer protections than a conventional loan."
+ - q: "How much cash do I need in reserves after closing?"
+ a: "Conventional guidelines typically require six months of reserves (covering the full PITIA payment) for the investment property. If you own other financed properties, you may need reserves against those too. Come to the table with more cash than you think you need."
 ---
 
 Most people who walk into an investment property purchase think it works like buying a primary home. It doesn't. The mortgage is a different product, with different rules, and the gap between what a loan officer tells you upfront and what the underwriter actually requires can feel like a wall you didn't see coming.
@@ -108,6 +108,6 @@ If you want to go deeper on the financial modeling side before you start shoppin
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

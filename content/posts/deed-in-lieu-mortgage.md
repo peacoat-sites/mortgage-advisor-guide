@@ -13,19 +13,19 @@ author_bio: "Robert Kim focused his mortgage career on refinancing, helping home
 slug: "deed-in-lieu-mortgage"
 affiliate_disclosure: true
 faqs:
-  - q: "How does a deed in lieu affect my credit score?"
-    a: "Expect a significant drop, similar in magnitude to a foreclosure, typically ranging from 85 to 160 points depending on where your score starts. The event stays on your credit report for seven years. That said, some lenders view a deed in lieu slightly more favorably than a completed foreclosure when you apply for new credit down the line, particularly for a future mortgage."
-  - q: "Will I owe taxes after a deed in lieu?"
-    a: "Possibly. If the lender forgives any portion of the debt (the deficiency), the IRS may treat that forgiven amount as taxable income. Exceptions exist, including the insolvency exclusion, which applies if your debts exceed your assets at the time of the discharge. Talk to a CPA before you close, not after."
-  - q: "Can I do a deed in lieu if I have a second mortgage?"
-    a: "It's much harder. Junior lien holders have to either release their lien or be paid off for the title to transfer cleanly. Your first lender generally won't accept the deed if there are unresolved liens. In some cases, the first lender will negotiate with the junior lien holder directly, but don't count on it."
-  - q: "How long after a deed in lieu can I get another mortgage?"
-    a: "For a conventional loan, Fannie Mae guidelines currently require a four-year waiting period after a deed in lieu. FHA loans may allow as little as three years. There are some exceptions for extenuating circumstances. These timelines can change, so verify current guidelines with a HUD-approved housing counselor or lender when you're ready."
-  - q: "Is a deed in lieu better than a short sale?"
-    a: "Depends on your situation. A short sale can sometimes result in better credit outcomes and may provide more time in the home. But it requires finding a buyer, getting lender approval, and managing a drawn-out sale process. If you can't sell the property or don't want to go through that, a deed in lieu can be faster and more certain, assuming the lender agrees to it. Neither option is 'better' in the abstract."
+ - q: "How does a deed in lieu affect my credit score?"
+ a: "Expect a significant drop, similar in magnitude to a foreclosure, typically ranging from 85 to 160 points depending on where your score starts. The event stays on your credit report for seven years. That said, some lenders view a deed in lieu slightly more favorably than a completed foreclosure when you apply for new credit down the line, particularly for a future mortgage."
+ - q: "Will I owe taxes after a deed in lieu?"
+ a: "Possibly. If the lender forgives any portion of the debt (the deficiency), the IRS may treat that forgiven amount as taxable income. Exceptions exist, including the insolvency exclusion, which applies if your debts exceed your assets at the time of the discharge. Talk to a CPA before you close, not after."
+ - q: "Can I do a deed in lieu if I have a second mortgage?"
+ a: "It's much harder. Junior lien holders have to either release their lien or be paid off for the title to transfer cleanly. Your first lender generally won't accept the deed if there are unresolved liens. In some cases, the first lender will negotiate with the junior lien holder directly, but don't count on it."
+ - q: "How long after a deed in lieu can I get another mortgage?"
+ a: "For a conventional loan, Fannie Mae guidelines currently require a four-year waiting period after a deed in lieu. FHA loans may allow as little as three years. There are some exceptions for extenuating circumstances. These timelines can change, so verify current guidelines with a HUD-approved housing counselor or lender when you're ready."
+ - q: "Is a deed in lieu better than a short sale?"
+ a: "Depends on your situation. A short sale can sometimes result in better credit outcomes and may provide more time in the home. But it requires finding a buyer, getting lender approval, and managing a drawn-out sale process. If you can't sell the property or don't want to go through that, a deed in lieu can be faster and more certain, assuming the lender agrees to it. Neither option is 'better' in the abstract."
 ---
 
-A deed in lieu of foreclosure is one of those options that most borrowers don't even know exists until they're already drowning. And by then, a lot of loan officers still won't bring it up proactively — not because they're hiding it, but because it's genuinely complicated and most servicers would rather push you toward a modification or short sale first.
+A deed in lieu of foreclosure is one of those options that most borrowers don't even know exists until they're already drowning. And by then, a lot of loan officers still won't bring it up proactively, not because they're hiding it, but because it's genuinely complicated and most servicers would rather push you toward a modification or short sale first.
 
 So let me explain what it actually is, when it makes sense, and the landmines you need to watch for before you sign anything.
 
@@ -37,7 +37,7 @@ The basic concept is simple: you voluntarily hand the title of your home back to
 
 What most people don't realize is that "walking away" is doing a lot of heavy lifting in that sentence. Whether you're truly free depends entirely on what's negotiated in writing before you hand over that deed.
 
-I've seen borrowers complete a deed in lieu thinking they were done with the house, only to get a 1099-C from the lender a year later for the forgiven debt — which the IRS can treat as taxable income. As of July 2026, the tax treatment of forgiven mortgage debt is something you absolutely need to run by a CPA before signing. The rules have shifted over the years, and exceptions exist (insolvency, for example), but "I thought it was forgiven" is not a defense against a tax bill.
+I've seen borrowers complete a deed in lieu thinking they were done with the house, only to get a 1099-C from the lender a year later for the forgiven debt, which the IRS can treat as taxable income. As of July 2026, the tax treatment of forgiven mortgage debt is something you absolutely need to run by a CPA before signing. The rules have shifted over the years, and exceptions exist (insolvency, for example), but "I thought it was forgiven" is not a defense against a tax bill.
 
 The other thing a deed in lieu does NOT automatically eliminate: junior liens. Second mortgages, home equity lines of credit, HOA liens, mechanic's liens. If there are encumbrances on the title that the first lien holder hasn't cleared, many lenders won't even accept a deed in lieu. And if they do accept it, those junior lien holders may still come after you.
 
@@ -91,7 +91,7 @@ One more thing that surprises people: if you're married, both spouses typically 
 
 ## Sources
 
-- [Consumer Financial Protection Bureau (CFPB) — Owning a Home resource center](https://www.consumerfinance.gov/owning-a-home/): Official guidance on alternatives to foreclosure, including deeds in lieu and short sales.
+- [Consumer Financial Protection Bureau (CFPB), Owning a Home resource center](https://www.consumerfinance.gov/owning-a-home/): Official guidance on alternatives to foreclosure, including deeds in lieu and short sales.
 - [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/): Publishes guidelines for Fannie Mae and Freddie Mac servicers on loss mitigation and deed in lieu programs.
 - Fannie Mae Servicing Guide (current): Covers deed in lieu eligibility, deficiency waiver requirements, and relocation assistance provisions for conforming loans.
 - IRS Publication 4681 (current edition): Explains canceled debt income rules and exceptions, including insolvency and qualified principal residence exclusions.
@@ -127,6 +127,6 @@ The deed in lieu process has real costs: to your credit, potentially to your tax
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

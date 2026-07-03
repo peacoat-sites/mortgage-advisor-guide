@@ -9,16 +9,16 @@ tags: ["cash", "refinance", "home", "equity", "loan"]
 slug: "cash-out-refinance-vs-home-equity-loan-comparison"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I do a cash-out refinance if I already have a home equity loan?"
-    a: "Yes, but the home equity lender usually has to agree to remain in second position (called a 'subordination agreement') or the second lien has to be paid off at closing. Getting subordination isn't always guaranteed, and it adds a step and potential delay to the process."
-  - q: "How much equity do I need to qualify for either product?"
-    a: "Most lenders want you to keep at least 20% equity after the transaction, meaning your combined loan-to-value ratio shouldn't exceed 80%. Some lenders go up to 85% or even 90%, but pricing gets worse and private mortgage insurance may factor in on the refi side."
-  - q: "Is a home equity loan harder to get than a cash-out refi?"
-    a: "Not necessarily harder, but different. Home equity lenders are often stricter about combined LTV and may look at your existing mortgage payment history closely. Your credit score, income verification, and debt-to-income ratio are evaluated on both products. The research here is mixed on which is 'easier,' since it varies considerably by lender."
-  - q: "What happens to my home equity loan if I sell my house?"
-    a: "Both liens get paid off at closing from the sale proceeds. The first mortgage gets paid first, then the home equity loan. As long as you have enough equity to cover both balances plus selling costs, there's no problem."
-  - q: "Does a cash-out refinance hurt your credit score?"
-    a: "It typically causes a small, temporary dip, the same way any new mortgage application does. You'll see hard inquiries during the application process, and the new account will lower your average account age. Most borrowers see scores recover within a few months if everything else stays stable."
+ - q: "Can I do a cash-out refinance if I already have a home equity loan?"
+ a: "Yes, but the home equity lender usually has to agree to remain in second position (called a 'subordination agreement') or the second lien has to be paid off at closing. Getting subordination isn't always guaranteed, and it adds a step and potential delay to the process."
+ - q: "How much equity do I need to qualify for either product?"
+ a: "Most lenders want you to keep at least 20% equity after the transaction, meaning your combined loan-to-value ratio shouldn't exceed 80%. Some lenders go up to 85% or even 90%, but pricing gets worse and private mortgage insurance may factor in on the refi side."
+ - q: "Is a home equity loan harder to get than a cash-out refi?"
+ a: "Not necessarily harder, but different. Home equity lenders are often stricter about combined LTV and may look at your existing mortgage payment history closely. Your credit score, income verification, and debt-to-income ratio are evaluated on both products. The research here is mixed on which is 'easier,' since it varies considerably by lender."
+ - q: "What happens to my home equity loan if I sell my house?"
+ a: "Both liens get paid off at closing from the sale proceeds. The first mortgage gets paid first, then the home equity loan. As long as you have enough equity to cover both balances plus selling costs, there's no problem."
+ - q: "Does a cash-out refinance hurt your credit score?"
+ a: "It typically causes a small, temporary dip, the same way any new mortgage application does. You'll see hard inquiries during the application process, and the new account will lower your average account age. Most borrowers see scores recover within a few months if everything else stays stable."
 author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
@@ -31,12 +31,12 @@ I spent sixteen years on the underwriting side of both products, and there are t
 
 
 <div class="value-module">
-  <div class="vm-head">5-Year Cost Comparison: Real Numbers</div>
-  <div class="vm-body">
-    <p class="vm-intro">This worked example shows how a lower rate doesn't always mean lower total cost, closing costs and loan structure can flip the math.</p>
-    <table><caption>Scenario: $80,000 cash needed, $320,000 existing mortgage at 4.5%, 25 years remaining, home value $500,000</caption><thead><tr><th>Factor</th><th>Cash-Out Refinance</th><th>Home Equity Loan</th></tr></thead><tbody><tr><td>New loan amount</td><td>$400,000 (replaces existing)</td><td>$80,000 (second lien)</td></tr><tr><td>Interest rate (illustrative)</td><td>6.5%</td><td>8.25%</td></tr><tr><td>Loan term</td><td>30 years</td><td>15 years</td></tr><tr><td>Monthly payment</td><td>$2,528 (single payment)</td><td>$1,621 (original) + $775 = $2,396</td></tr><tr><td>Closing costs</td><td>$9,600 (2.4% of $400K)</td><td>$850</td></tr><tr><td>Interest paid in first 5 years</td><td>$122,840</td><td>$73,920 (original) + $28,100 (HELOAN) = $102,020</td></tr><tr><td>Total 5-year cost (payments + closing)</td><td>$161,280</td><td>$144,410</td></tr><tr><td>Net difference</td><td colspan="2"><strong>Home equity loan saves $16,870 over 5 years in this scenario</strong></td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">5-Year Cost Comparison: Real Numbers</div>
+ <div class="vm-body">
+ <p class="vm-intro">This worked example shows how a lower rate doesn't always mean lower total cost, closing costs and loan structure can flip the math.</p>
+ <table><caption>Scenario: $80,000 cash needed, $320,000 existing mortgage at 4.5%, 25 years remaining, home value $500,000</caption><thead><tr><th>Factor</th><th>Cash-Out Refinance</th><th>Home Equity Loan</th></tr></thead><tbody><tr><td>New loan amount</td><td>$400,000 (replaces existing)</td><td>$80,000 (second lien)</td></tr><tr><td>Interest rate (illustrative)</td><td>6.5%</td><td>8.25%</td></tr><tr><td>Loan term</td><td>30 years</td><td>15 years</td></tr><tr><td>Monthly payment</td><td>$2,528 (single payment)</td><td>$1,621 (original) + $775 = $2,396</td></tr><tr><td>Closing costs</td><td>$9,600 (2.4% of $400K)</td><td>$850</td></tr><tr><td>Interest paid in first 5 years</td><td>$122,840</td><td>$73,920 (original) + $28,100 (HELOAN) = $102,020</td></tr><tr><td>Total 5-year cost (payments + closing)</td><td>$161,280</td><td>$144,410</td></tr><tr><td>Net difference</td><td colspan="2"><strong>Home equity loan saves $16,870 over 5 years in this scenario</strong></td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Basic Mechanics (And Where They Already Diverge)

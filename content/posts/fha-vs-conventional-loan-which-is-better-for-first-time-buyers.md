@@ -9,16 +9,16 @@ tags: ["conventional", "loan", "which", "better", "first"]
 slug: "fha-vs-conventional-loan-which-is-better-for-first-time-buyers"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I switch from an FHA loan to a conventional loan later?"
-    a: "Yes. This is called a conventional refinance, and it's actually one of the most common reasons people refinance. If your credit improves and you've built enough equity, refinancing out of FHA into a conventional loan eliminates the lifetime MIP. Just make sure the math works after factoring in closing costs, which typically run 2% to 5% of the new loan amount."
-  - q: "Does FHA always have a lower interest rate than conventional?"
-    a: "Not always, though it often does for borrowers with lower credit scores. For borrowers with scores above 700 and stable income, conventional rates are frequently competitive with or better than FHA rates. Always get both quotes on the same day, since rates move daily."
-  - q: "Can I use an FHA loan to buy a fixer-upper?"
-    a: "There's actually an FHA product designed for exactly this called the 203(k) loan, which bundles the purchase price and renovation costs into one mortgage. It has its own requirements and a more involved process, but it's a legitimate option. Conventional alternatives include Fannie Mae's HomeStyle renovation loan."
-  - q: "What credit score do I actually need to get approved for a conventional loan?"
-    a: "Technically 620, but practically speaking, you'll get significantly better pricing at 680 and above. The difference in rate and PMI cost between a 640 score and a 720 score can be meaningful over the life of a loan."
-  - q: "Is FHA harder to get approved for than conventional?"
-    a: "In some ways, FHA is actually more forgiving. It allows higher debt-to-income ratios and lower credit scores. However, the property condition requirements mean the home you're buying has to pass a stricter appraisal. So it's not harder, just different, and the friction shows up in different places depending on your situation."
+ - q: "Can I switch from an FHA loan to a conventional loan later?"
+ a: "Yes. This is called a conventional refinance, and it's actually one of the most common reasons people refinance. If your credit improves and you've built enough equity, refinancing out of FHA into a conventional loan eliminates the lifetime MIP. Just make sure the math works after factoring in closing costs, which typically run 2% to 5% of the new loan amount."
+ - q: "Does FHA always have a lower interest rate than conventional?"
+ a: "Not always, though it often does for borrowers with lower credit scores. For borrowers with scores above 700 and stable income, conventional rates are frequently competitive with or better than FHA rates. Always get both quotes on the same day, since rates move daily."
+ - q: "Can I use an FHA loan to buy a fixer-upper?"
+ a: "There's actually an FHA product designed for exactly this called the 203(k) loan, which bundles the purchase price and renovation costs into one mortgage. It has its own requirements and a more involved process, but it's a legitimate option. Conventional alternatives include Fannie Mae's HomeStyle renovation loan."
+ - q: "What credit score do I actually need to get approved for a conventional loan?"
+ a: "Technically 620, but practically speaking, you'll get significantly better pricing at 680 and above. The difference in rate and PMI cost between a 640 score and a 720 score can be meaningful over the life of a loan."
+ - q: "Is FHA harder to get approved for than conventional?"
+ a: "In some ways, FHA is actually more forgiving. It allows higher debt-to-income ratios and lower credit scores. However, the property condition requirements mean the home you're buying has to pass a stricter appraisal. So it's not harder, just different, and the friction shows up in different places depending on your situation."
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Mortgage Writer"
@@ -30,12 +30,12 @@ Most first-time buyers walk in thinking they already know the answer. FHA loans 
 After sixteen years in the mortgage industry, I've watched borrowers pick the wrong product over and over again. Usually because a loan officer steered them toward whichever option was easier to close or paid a better commission. That's not cynicism. That's just how mortgage origination works. The loan officer willing to spend forty-five minutes explaining the long-term cost difference between FHA MIP and conventional PMI is rare. So here we are.
 
 <div class="value-module">
-  <div class="vm-head">FHA vs Conventional: 5-Year Cost Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">This worked example shows how total costs diverge over time for two identical borrowers with different loan choices.</p>
-    <table><caption><strong>Scenario:</strong> $350,000 home, $17,500 down (5%), 680 credit score, 6.5% rate (illustrative)</caption><thead><tr><th>Cost Category</th><th>FHA Loan</th><th>Conventional Loan</th></tr></thead><tbody><tr><td>Loan amount</td><td>$332,500</td><td>$332,500</td></tr><tr><td>Upfront mortgage insurance</td><td>$5,819 (1.75% financed into loan)</td><td>$0</td></tr><tr><td>Monthly mortgage insurance</td><td>$152/mo (0.55% MIP)</td><td>$183/mo (estimated PMI at 0.66%)</td></tr><tr><td>MI duration</td><td>Life of loan (30 years)</td><td>Until 78% LTV (~8 years auto-cancel)</td></tr><tr><td><strong>Total MI paid: Years 1–5</strong></td><td><strong>$14,939</strong> ($5,819 upfront + $9,120)</td><td><strong>$10,980</strong></td></tr><tr><td><strong>Total MI paid: Years 1–10</strong></td><td><strong>$24,059</strong></td><td><strong>$17,568</strong> (cancels ~year 8)</td></tr><tr><td><strong>Total MI paid: Life of loan</strong></td><td><strong>$60,539</strong></td><td><strong>$17,568</strong></td></tr><tr><td>Break-even point</td><td colspan="2">Conventional costs less if you keep the home 4+ years without refinancing</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">FHA vs Conventional: 5-Year Cost Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">This worked example shows how total costs diverge over time for two identical borrowers with different loan choices.</p>
+ <table><caption><strong>Scenario:</strong> $350,000 home, $17,500 down (5%), 680 credit score, 6.5% rate (illustrative)</caption><thead><tr><th>Cost Category</th><th>FHA Loan</th><th>Conventional Loan</th></tr></thead><tbody><tr><td>Loan amount</td><td>$332,500</td><td>$332,500</td></tr><tr><td>Upfront mortgage insurance</td><td>$5,819 (1.75% financed into loan)</td><td>$0</td></tr><tr><td>Monthly mortgage insurance</td><td>$152/mo (0.55% MIP)</td><td>$183/mo (estimated PMI at 0.66%)</td></tr><tr><td>MI duration</td><td>Life of loan (30 years)</td><td>Until 78% LTV (~8 years auto-cancel)</td></tr><tr><td><strong>Total MI paid: Years 1–5</strong></td><td><strong>$14,939</strong> ($5,819 upfront + $9,120)</td><td><strong>$10,980</strong></td></tr><tr><td><strong>Total MI paid: Years 1–10</strong></td><td><strong>$24,059</strong></td><td><strong>$17,568</strong> (cancels ~year 8)</td></tr><tr><td><strong>Total MI paid: Life of loan</strong></td><td><strong>$60,539</strong></td><td><strong>$17,568</strong></td></tr><tr><td>Break-even point</td><td colspan="2">Conventional costs less if you keep the home 4+ years without refinancing</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What You're Actually Choosing Between

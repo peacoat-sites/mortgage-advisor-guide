@@ -11,10 +11,7 @@ author_slug: "jennifer-walsh"
 author_title: "Mortgage Writer"
 author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
 slug: "gift-funds-for-down-payment-rules"
-affiliate_disclosure: true
----
-
-Someone called me last week, two days before their closing date, panicking because their lender had just flagged a $15,000 deposit in their bank account. It was a gift from her parents. She'd had it sitting there for six weeks. And nobody had told her she needed a gift letter.
+affiliate_disclosure: true, Someone called me last week, two days before their closing date, panicking because their lender had just flagged a $15,000 deposit in their bank account. It was a gift from her parents. She'd had it sitting there for six weeks. And nobody had told her she needed a gift letter.
 
 We got it sorted out, but it added stress nobody needs right before closing. And honestly, it's a situation I've seen play out dozens of times, because gift funds are one of those topics where borrowers assume everything will be fine until suddenly it isn't.
 
@@ -145,6 +142,6 @@ This is mortgage fraud territory. If an underwriter finds evidence that a gift i
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 
