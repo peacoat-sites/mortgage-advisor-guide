@@ -99,7 +99,5 @@
 {{- end }}
 
 {{/* title-font */}}
-{{- if eq .Section "posts" }}
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&display=swap">
-<style>.post-title{font-family:'Playfair Display', Georgia, serif;letter-spacing:-.01em}</style>
-{{- end }}
+<style>:root{--serif:'Playfair Display', Georgia, serif}.post-title{letter-spacing:-.01em}</style>
