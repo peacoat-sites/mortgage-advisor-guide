@@ -1,5 +1,6 @@
 ---
 title: "About Mortgage Advisor Guide"
+hide_title: true
 date: 2026-01-01
 draft: false
 description: "About Mortgage Advisor Guide,  meet Greg Callahan and learn how we help homebuyers navigate mortgages."
