@@ -1,5 +1,6 @@
 ---
 title: "Rent vs. Buy Calculator: Which Makes More Financial Sense?"
+hide_title: true
 date: 2026-06-10
 slug: "rent-vs-buy-calculator"
 description: "Compare the true cost of renting vs. buying a home over 5, 10, 15, or 20 years. Our calculator factors in equity, appreciation, taxes, and maintenance."
