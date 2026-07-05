@@ -1,5 +1,6 @@
 ---
 title: "DTI Ratio Calculator: Check Your Debt-to-Income Ratio Instantly"
+hide_title: true
 date: 2026-06-10
 slug: "debt-to-income-calculator"
 description: "Calculate your debt-to-income ratio in seconds. See your front-end and back-end DTI, understand what lenders look for, and learn how to improve your ratio."
