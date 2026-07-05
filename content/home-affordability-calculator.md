@@ -1,5 +1,6 @@
 ---
 title: "Home Affordability Calculator: How Much House Can You Afford?"
+hide_title: true
 date: 2026-06-10
 slug: "home-affordability-calculator"
 description: "Use our free home affordability calculator to estimate how much house you can afford based on your income, debts, and down payment. Get instant results."
