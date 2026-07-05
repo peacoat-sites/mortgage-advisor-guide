@@ -1,5 +1,6 @@
 ---
 title: "Refinance Break-Even Calculator: Is Refinancing Worth It?"
+hide_title: true
 date: 2026-06-10
 slug: "refinance-break-even-calculator"
 description: "Find your refinance break-even point in seconds. Enter your current loan, new rate, and closing costs to see exactly when refinancing starts saving you money."
