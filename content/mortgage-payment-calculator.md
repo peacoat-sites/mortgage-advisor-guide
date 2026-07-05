@@ -1,5 +1,6 @@
 ---
 title: "Mortgage Payment Calculator 2026,  Estimate Your Monthly Payment"
+hide_title: true
 description: "Calculate your exact monthly mortgage payment including principal, interest, taxes, and insurance. Instantly compare 15-year vs 30-year terms."
 date: 2026-05-21
 layout: "page"
