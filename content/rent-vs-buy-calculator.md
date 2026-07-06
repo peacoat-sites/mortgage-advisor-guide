@@ -6,7 +6,6 @@ slug: "rent-vs-buy-calculator"
 description: "Compare the true cost of renting vs. buying a home over 5, 10, 15, or 20 years. Our calculator factors in equity, appreciation, taxes, and maintenance."
 categories: ["Home Buying"]
 author: "Greg Callahan"
-image: ""
 image: "https://images.pexels.com/photos/27920274/pexels-photo-27920274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
