@@ -1,5 +1,5 @@
 ---
-title: "Ira Withdrawal First Home"
+title: "IRA Withdrawal First Home"
 date: 2026-06-19T17:33:38.240101+00:00
 draft: false
 description: "Learn how to withdraw from your IRA for a first home purchase, including limits, tax rules, and how to avoid the 10% early withdrawal penalty."
