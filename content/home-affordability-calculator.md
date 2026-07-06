@@ -6,7 +6,6 @@ slug: "home-affordability-calculator"
 description: "Use our free home affordability calculator to estimate how much house you can afford based on your income, debts, and down payment. Get instant results."
 categories: ["Home Buying"]
 author: "Greg Callahan"
-image: ""
 image: "https://images.pexels.com/photos/27920274/pexels-photo-27920274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
