@@ -7,6 +7,7 @@ description: "About Mortgage Advisor Guide,  meet Greg Callahan and learn how we
 layout: "about-page"
 author_slug: "ethan-chen"
 author_name: "Mortgage Advisor Guide"
+person_name: "Greg Callahan"
 ---
 
 ## About Mortgage Advisor Guide
