@@ -21,8 +21,8 @@ faqs:
    a: "Technically, there's no fixed loan limit the way FHA and conventional conforming loans have them. Your purchase price is effectively limited by what your income and DTI can support. However, the USDA does require that the loan amount not exceed the appraised value of the home, and the property must be modestly priced relative to the local market. In practice, most USDA buyers are purchasing homes in lower to mid price ranges, but the ceiling is determined by your financial profile, not an arbitrary number."
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
-author_title: "Mortgage Writer"
-author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+author_title: "Former Mortgage Underwriter"
+author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 
 ---
 Most people assume a zero-down mortgage is either a myth or a trap. Then they find out the USDA loan exists, and the first question is always the same: "Why hasn't anyone told me about this?" I've sat across from borrowers who had been renting for years, convinced they needed 20% saved before buying, only to discover they qualified for a 100% financed home purchase in a neighborhood they actually wanted to live in. The USDA Single Family Housing Guaranteed Loan Program is one of the most underused tools in American home financing, and if you're buying outside a major metro area, you owe it to yourself to understand it.

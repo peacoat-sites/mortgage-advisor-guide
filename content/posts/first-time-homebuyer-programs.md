@@ -21,8 +21,8 @@ faqs:
    a: "Sometimes. It depends on the loan type and how the program structures the assistance. FHA and conventional loans have limits on how much sellers can contribute toward closing costs based on your down payment percentage. Stacking seller concessions on top of DPA requires careful coordination to stay within those limits and avoid issues at the closing table. Your lender needs to map this out before you make an offer."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Real Estate Researcher"
-author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+author_title: "Housing Market Analyst"
+author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 
 ---
 You saved up for three years, kept your credit clean, and finally feel ready to buy a home. Then you sit down with a loan officer who rattles off a list of programs you've never heard of, hands you a stack of pamphlets, and sends you home more confused than when you walked in. That happens constantly, and it costs buyers real money. First-time homebuyer programs are among the most underused tools in residential lending. Some offer thousands of dollars in down payment assistance. Others knock a meaningful amount off your interest rate. But you have to know what exists, what you actually qualify for, and what strings come attached before you can use them wisely.

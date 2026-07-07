@@ -21,8 +21,8 @@ faqs:
    a: "This is one of the strongest cases for a 15-year loan, and I've seen it transform people's retirement security. Entering retirement without a mortgage payment dramatically reduces your monthly income requirement, which means you need a smaller nest egg to sustain your lifestyle. That said, the answer still depends on whether the higher payment compromises your retirement savings contributions in the years leading up to retirement. If you have to choose between making a 15-year payment and fully funding your retirement accounts, talk to a financial planner before you decide. That tradeoff deser"
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Real Estate Researcher"
-author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+author_title: "Housing Market Analyst"
+author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 
 ---
 A loan officer once slid two sheets across their desk in front of me. Same loan amount, same rate, two different timelines. The 30-year payment looked reasonable. The 15-year made me catch my breath. Most people grab the 30-year without thinking. I've watched it happen hundreds of times. But that four-second choice shapes your finances for the next two or three decades. It deserves better than four seconds.

@@ -21,8 +21,8 @@ faqs:
    a: "Not necessarily. In my experience, the rate difference between FHA and conventional loans is often small, sometimes as little as 0.125% to 0.25%. The bigger cost difference comes from the mortgage insurance structure. A borrower who qualifies for both should compare the total monthly payment and total interest paid over their expected ownership period, not just the stated interest rate."
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit Writer"
-author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+author_title: "Credit & Qualification Specialist"
+author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 
 ---
 You saved up $12,000, your credit score sits at 620, and the conventional loan officer just told you to come back when you have 20% down. Sound familiar? That scenario plays out in loan offices across the country every week, and it's exactly the situation FHA loans were designed to solve. But here's what most people miss: FHA loans aren't just a consolation prize for buyers who can't qualify for conventional financing. For the right borrower, they're a genuinely strategic choice. The key is understanding what you're actually getting, including the parts your loan officer might not volunteer.

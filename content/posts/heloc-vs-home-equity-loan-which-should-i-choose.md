@@ -21,8 +21,8 @@ faqs:
    a: "Usually, but check your agreement. Some HELOCs have an early termination fee if you close the line within the first two to three years of opening it. This is particularly common when the lender waived closing costs upfront as an incentive. That fee can run several hundred to a few thousand dollars, so read the disclosure before assuming you can exit cleanly."
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit Writer"
-author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+author_title: "Credit & Qualification Specialist"
+author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 
 ---
 My second year underwriting mortgages, a borrower came in furious. She'd taken out a home equity loan eighteen months earlier to renovate her kitchen, and now she needed another $15,000 for a bathroom she hadn't planned on. She had the equity. She had the income. But she had to go through a whole new loan application, pay closing costs again, and wait six weeks. "Why didn't anyone tell me I had options?" she asked. I didn't have a great answer for her.

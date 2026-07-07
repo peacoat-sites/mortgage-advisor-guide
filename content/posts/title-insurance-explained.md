@@ -21,8 +21,8 @@ faqs:
     a: "HUD-approved housing counselors can help you understand your options without trying to sell you anything. They're a genuinely useful resource, especially for first-time buyers who are processing a lot of new information at once. A real estate attorney in your state is also a strong option if the property history is complicated."
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit Writer"
-author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+author_title: "Credit & Qualification Specialist"
+author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 
 ---
 If you've ever sat at a closing table and watched a stack of documents slide across to you, you know the feeling: pages blur together, numbers swim, and somewhere in the middle of it all someone mentions "title insurance" like it's an obvious line item you've already thought through. Most people haven't. They nod, sign, and move on. Then, years later, some of them get a letter they never expected, from a creditor or an heir or a municipality, claiming some legal right to the property they thought they owned outright. That's the moment title insurance either saves them or doesn't.

@@ -21,8 +21,8 @@ faqs:
     a: "Yes, significantly. New construction timelines are notoriously unpredictable. Many builders have preferred lenders who offer extended lock programs, sometimes 90 days to a year, built specifically for their construction timelines. These extended locks typically cost more, and some programs require you to re-lock or pay a fee if construction runs long. Always read the lock agreement in full on a new construction deal. The terms are almost always more complicated than a standard purchase lock."
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
-author_title: "Mortgage Writer"
-author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+author_title: "Former Mortgage Underwriter"
+author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 
 ---
 You find your dream home, negotiate a great price, and lock in a 6.875% rate on a Tuesday. By Friday, rates jump to 7.25%. You just saved yourself roughly $180 a month on a $400,000 loan. That's not luck. That's a rate lock working exactly as it should. But I've also watched the opposite play out: borrowers who locked too early, paid extension fees they didn't budget for, and in a few cases, lost their locks entirely because they didn't understand the expiration rules. A rate lock is one of the most powerful tools in a mortgage transaction, and it's one of the least explained.

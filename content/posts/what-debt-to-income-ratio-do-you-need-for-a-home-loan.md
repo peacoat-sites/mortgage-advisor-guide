@@ -21,8 +21,8 @@ faqs:
    a: "Freddie Mac's home buying resources at myhome.freddiemac.com are genuinely solid and unbiased. For borrowers who want to do a deeper dive into the financial mechanics of mortgages, books like The Mortgage Encyclopedia by Jack Guttentag give you the technical foundation without the sales pitch. (This site may earn a commission on book purchases through affiliate links.)"
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit Writer"
-author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+author_title: "Credit & Qualification Specialist"
+author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 
 ---
 Most people walk into a lender's office convinced their credit score is everything. I used to hear it constantly. The borrower with a 760 who can't figure out why they got declined. What they never grasped is that lenders spend about 30 seconds glancing at that score before zeroing in on the number that actually matters: debt-to-income ratio. I've watched people with near-perfect credit get rejected and others with mediocre scores get approved, all because of DTI. If you haven't run a serious look at this number before applying for a mortgage, you're working backwards.

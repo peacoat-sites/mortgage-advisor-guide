@@ -8,7 +8,7 @@ image: "https://images.pexels.com/photos/8292885/pexels-photo-8292885.jpeg?auto=
 categories: ["Rates"]
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
-author_title: "Mortgage Writer"
+author_title: "Former Mortgage Underwriter"
 tags: ["mortgage rates", "30-year fixed", "15-year fixed", "federal reserve"]
 ---
 

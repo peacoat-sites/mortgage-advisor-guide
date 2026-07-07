@@ -21,8 +21,8 @@ faqs:
    a: "Sometimes, but not always. Under current tax law, interest on a home equity loan is deductible only if the loan proceeds are used to buy, build, or substantially improve the home securing the loan. Using the money for debt consolidation, a car, or college tuition doesn't qualify. Tax law changes, and your individual situation affects the calculation. Confirm the deductibility with a tax professional before factoring it into your decision."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Real Estate Researcher"
-author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+author_title: "Housing Market Analyst"
+author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 
 ---
 You've got $80,000 in home equity and a kitchen that looks like it hasn't been updated since the Clinton administration. A home equity loan sounds like the obvious move. But here's what most articles skip: the rate you see advertised and the rate you'll actually get can be worlds apart, and that gap costs thousands over the life of the loan. Before you call a lender, you need to understand what drives home equity loan rates, how they differ from other borrowing options, and what to actually watch for in the fine print.

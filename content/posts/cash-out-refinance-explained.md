@@ -21,8 +21,8 @@ faqs:
    a: "Typically 30 to 45 days from application to closing, though some lenders move faster and some take longer. Appraisal scheduling, title work, and underwriting volume are the biggest variables. Rushed timelines sometimes mean less thorough review, so don't let urgency push you into accepting terms you haven't fully evaluated."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Real Estate Researcher"
-author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+author_title: "Housing Market Analyst"
+author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 
 ---
 You've been paying your mortgage for eight years. Your home is worth $120,000 more than you owe. And your kitchen still has the laminate countertops and fluorescent lighting from 1994. A cash-out refinance sounds like the obvious answer, and your loan officer is enthusiastic. But before you sign anything, you need to understand exactly what you're trading away, because this product has real costs that often get buried under the excitement of a big check.

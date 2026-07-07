@@ -21,8 +21,8 @@ faqs:
    a: "In some ways, FHA is actually more forgiving. It allows higher debt-to-income ratios and lower credit scores. However, the property condition requirements mean the home you're buying has to pass a stricter appraisal. So it's not harder, just different, and the friction shows up in different places depending on your situation."
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
-author_title: "Mortgage Writer"
-author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+author_title: "Former Mortgage Underwriter"
+author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 
 ---
 Most first-time buyers walk in thinking they already know the answer. FHA loans are for people with bad credit. Conventional loans are for people who have their act together. That's backwards, and it costs people thousands.

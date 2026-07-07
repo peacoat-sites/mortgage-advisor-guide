@@ -5,8 +5,8 @@ layout: "author-page"
 hide_title: true
 author_name: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Real Estate Researcher"
-author_specialty: "Home Buying Process & Market Analysis"
+author_title: "Housing Market Analyst"
+author_specialty: "Home Buying Process & Market Trends"
 ---
 
-Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home.
+Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends.

@@ -8,8 +8,8 @@ categories: ["Getting Started"]
 tags: ["withdrawal", "first", "home"]
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit Writer"
-author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+author_title: "Credit & Qualification Specialist"
+author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 slug: "ira-withdrawal-first-home"
 affiliate_disclosure: true
 ---

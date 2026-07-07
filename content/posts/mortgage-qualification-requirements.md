@@ -21,8 +21,8 @@ faqs:
    a: "Yes, through VA loans (for eligible veterans and active-duty service members) and USDA loans (for properties in eligible rural and suburban areas). Some state and local housing finance agencies also offer down payment assistance programs that can effectively get you to zero out of pocket. These programs are worth researching before assuming you need to wait years to save a full down payment."
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit Writer"
-author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+author_title: "Credit & Qualification Specialist"
+author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 
 ---
 You fill out a mortgage application feeling reasonably confident. Good job, money in the bank, no major debt. Then the loan officer calls back and tells you that you don't qualify. No explanation that actually makes sense. Just a polite version of "no." This happens to thousands of people every year, and in most cases it's completely preventable. The problem isn't that borrowers are bad financial risks. The problem is that almost nobody explains what lenders are actually looking for before you apply.

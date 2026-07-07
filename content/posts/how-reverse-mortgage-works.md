@@ -21,8 +21,8 @@ faqs:
    a: "For most borrowers who don't have an immediate large expense, the line of credit is the more flexible and often more financially advantageous option over time. The growth feature on the unused portion is genuinely useful. The lump sum locks you into a fixed rate and starts compounding immediately on the full amount. The right answer depends on your specific situation, but I've rarely seen a financial planner make a compelling case for the lump sum unless there's a specific, pressing need driving it."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Real Estate Researcher"
-author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+author_title: "Housing Market Analyst"
+author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 
 ---
 You're 72, your house is paid off, and your monthly Social Security check covers groceries but not much else. Your financial advisor mentions a reverse mortgage. Your son-in-law says it's a scam. Your neighbor says it saved her retirement. Nobody explains exactly how the money moves, who owns what, or what the fine print actually says. That's the problem with most reverse mortgage coverage: it either cheerleads the product or dismisses it, and neither serves the person trying to make an actual decision.

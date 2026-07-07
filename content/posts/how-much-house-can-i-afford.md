@@ -21,8 +21,8 @@ faqs:
    a: "Lenders can use bonus or self-employment income if it's documented and consistent over a two-year history. A single large bonus won't typically count. Variable income that's been consistent and appears on two years of tax returns can be averaged and included. Just be careful about qualifying based on income you aren't certain will continue. Lenders verify history. They can't verify the future. Only you know whether that bonus is truly reliable or whether it was a one-time event."
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
-author_title: "Mortgage Writer"
-author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+author_title: "Former Mortgage Underwriter"
+author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 
 ---
 Most buyers walk into a lender's office knowing exactly one number: the pre-approval amount. They treat it like scripture. I've watched clients get pre-approved for $550,000 and immediately start touring homes at that ceiling, only to realize three months later that the monthly payment was quietly eating their financial life. A pre-approval tells you what a lender is willing to risk. It tells you almost nothing about what you can actually afford.

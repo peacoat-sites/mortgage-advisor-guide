@@ -21,8 +21,8 @@ faqs:
    a: "I'll be honest here too: yes, sometimes. For a borrower who is house-rich and cash-poor, has no heirs who need to inherit the home, wants to age in place, and fully understands the costs and obligations involved, a reverse mortgage can provide genuine financial relief and stability. The HECM line of credit strategy, in particular, has attracted serious attention from financial planners as a legitimate retirement income tool, not just a product of last resort. The key is that it has to be the right product for the right situation, with eyes fully open."
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
-author_title: "Mortgage Writer"
-author_bio: "Jennifer Walsh spent a decade as a licensed mortgage loan officer before shifting to consumer education. She watched too many borrowers walk into closings without understanding what they had signed, and decided to write the plain-language guides she wishes she could have handed every client. At Mortgage Advisor Guide, she covers the entire mortgage process, from pre-approval to closing."
+author_title: "Former Mortgage Underwriter"
+author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 
 ---
 You're 71, your house is paid off, and it's worth $420,000. Your Social Security check covers utilities and groceries, barely. Your neighbor mentions a reverse mortgage, and suddenly that late-night TV commercial product doesn't sound so sketchy anymore. Hold on though. Before you call that 800 number, you need to understand what you're actually signing, because a reverse mortgage is one of the most misunderstood financial products Americans encounter, and the gap between what borrowers think they're getting and what actually happens can be massive.

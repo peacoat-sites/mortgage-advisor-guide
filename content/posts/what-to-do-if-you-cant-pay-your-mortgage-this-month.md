@@ -21,8 +21,8 @@ faqs:
    a: "Call today. Seriously. Even if you're three or four months behind, you're likely still within the window where loss mitigation options exist. The servicer cannot begin the formal foreclosure sale until a loss mitigation application submitted on time has been evaluated. A HUD-approved housing counselor can help you determine exactly where you stand and what's still available to you."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Real Estate Researcher"
-author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+author_title: "Housing Market Analyst"
+author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 
 ---
 The call I dreaded most in my underwriting years wasn't from a loan officer or an auditor. It was the one that started, "I don't know what to do. I can't make this payment." I took a lot of those calls. And the single biggest mistake I watched borrowers make, over and over, was waiting too long to act because they were embarrassed or convinced things would work themselves out.

@@ -21,8 +21,8 @@ faqs:
    a: "Gross income is what you earn before taxes and deductions. Qualifying income is what a lender uses after applying their specific calculation rules. For W-2 employees, these numbers are often close. For self-employed borrowers, qualifying income can be significantly lower than gross revenue because lenders calculate from your net income after write-offs, then add back specific non-cash items. This is one of the most common surprises for self-employed applicants."
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit Writer"
-author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+author_title: "Credit & Qualification Specialist"
+author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 
 ---
 You filled out the application. You answered every question. You uploaded what felt like half your filing cabinet. And then the loan processor came back asking for something else, something you didn't expect, and now you're wondering if this whole process is designed to make you feel like you're doing it wrong. It's not. Mortgage income documentation is genuinely one of the most confusing parts of buying a home, and the confusion is rarely your fault. Lenders are required by law to verify that you can repay what you're borrowing, which sounds simple until you realize that "proving income" looks completely different depending on how you earn it.

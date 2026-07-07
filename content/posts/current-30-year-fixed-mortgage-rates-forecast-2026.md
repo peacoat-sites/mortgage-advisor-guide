@@ -21,8 +21,8 @@ faqs:
    a: "Conventional lenders typically reserve their best pricing tiers for borrowers at 760 and above. You can qualify with a lower score, but you'll pay for it in rate, points, or both. Getting to 760 or higher before you apply is one of the highest-return moves a borrower can make."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Real Estate Researcher"
-author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+author_title: "Housing Market Analyst"
+author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 
 ---
 Nobody knows exactly where mortgage rates are going in 2026. Not me, not the Fed, not the economists at Goldman Sachs who get paid very well to be wrong on a regular basis. What I *can* do is walk you through what the forecasts actually say, why they disagree with each other, and, more practically, how to think about the timing question if you're trying to decide whether to buy, wait, or refinance in the next 12 to 18 months.

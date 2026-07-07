@@ -21,8 +21,8 @@ faqs:
    a: "It depends on whether you had a trial modification made permanent or not. If the modification was permanent and you default again, the servicer may pursue foreclosure, and re-modification is possible but not guaranteed. Some investor guidelines allow only one modification in the life of a loan. This is why it's critical to be realistic about what payment you can truly sustain before agreeing to a modification offer. Accepting a payment that's still too high just delays the problem."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Real Estate Researcher"
-author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+author_title: "Housing Market Analyst"
+author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 
 ---
 You got the letter on a Tuesday. Maybe it was a job loss, a medical crisis, a divorce that split your household income in half. Whatever brought you here, you're now staring at a mortgage payment you can't make, and the fear is real. I've sat across from borrowers in exactly that position more times than I can count. But here's what most people don't realize: lenders have far more tools to help you than they ever voluntarily advertise. Loan modification isn't a last-ditch desperation move. It's a formal process with rules, timelines, and real outcomes, and understanding it before you call your servicer can mean the difference between keeping your home and losing it.

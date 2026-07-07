@@ -21,8 +21,8 @@ faqs:
    a: "Not exactly. Credit score requirements vary by product, but most non-QM programs want at least a 620 to 640 minimum, and better scores still get better pricing. What's different is that a recent credit event that would disqualify you entirely from conventional financing might be acceptable in non-QM, particularly if you have compensating factors like significant reserves or a large down payment."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Real Estate Researcher"
-author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+author_title: "Housing Market Analyst"
+author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 
 ---
 Most borrowers stop looking the moment a conventional lender says no. Don't. There's an entire mortgage category built specifically for people who don't fit Fannie Mae and Freddie Mac's playbook, and it's way bigger than most people realize.

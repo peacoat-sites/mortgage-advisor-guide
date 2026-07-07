@@ -21,8 +21,8 @@ faqs:
    a: "Yes. Conventional loans can be used for primary residences, second homes, and investment properties. The requirements tighten considerably for non-primary use. Investment properties typically require at least 15% to 25% down, a higher minimum credit score, and the underwriter will scrutinize your overall real estate portfolio and reserve requirements more closely. Expect higher rates for investment property loans compared to the same loan on a primary residence."
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit Writer"
-author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+author_title: "Credit & Qualification Specialist"
+author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 
 ---
 You walk into a lender's office, pre-approval letter in hand, convinced the hard part is over. Then the underwriter pulls your file and finds a collections account you forgot about, a debt-to-income ratio that's two points too high, and a down payment that came from your uncle's Venmo transfer with zero documentation. Suddenly the "easy" conventional loan feels anything but. I've watched that exact scenario play out hundreds of times, and in almost every case, the borrower had no idea these issues mattered until it was too late to fix them cleanly.

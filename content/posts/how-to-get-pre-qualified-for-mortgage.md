@@ -21,8 +21,8 @@ faqs:
    a: "It's a smart order of operations. Knowing your approximate price range helps your agent understand what to show you and signals to them that you're a serious buyer. Some buyer's agents won't invest serious time with clients who haven't at least started the lending conversation. Getting pre-qualified first, even informally, shows you've done your homework."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Real Estate Researcher"
-author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+author_title: "Housing Market Analyst"
+author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 
 ---
 You found the house. The listing went live at 8 a.m., and by noon your agent is texting that three offers are already on the table. You call back to ask what to do, and she says the same thing every agent says: "Do you have a pre-qual letter?" Without one, you're essentially showing up to a job interview with no resume. Pre-qualification is often the first real step in buying a home, yet most buyers treat it as an afterthought, something to grab quickly after they've already fallen in love with a property. That backward approach costs people houses every single year.

@@ -21,8 +21,8 @@ faqs:
    a: "The lender prepares your Closing Disclosure (CD), which must be delivered to you at least three business days before closing. Review every number on it carefully. Compare it against your Loan Estimate from earlier in the process. After the three-day waiting period, you proceed to closing, where you sign final documents, pay closing costs, and receive keys if it's a purchase. The loan funds, and you're officially a homeowner or refinancer."
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit Writer"
-author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+author_title: "Credit & Qualification Specialist"
+author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 
 ---
 You submitted your mortgage application on a Tuesday. By Thursday, you still haven't heard anything. By the following Monday, you're refreshing your email every 20 minutes, wondering if silence means something is wrong. The truth is, nothing may be wrong at all. You're just in underwriting, which is the part of the mortgage process that most borrowers know the least about and worry about the most.

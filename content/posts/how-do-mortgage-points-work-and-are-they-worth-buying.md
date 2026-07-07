@@ -21,8 +21,8 @@ faqs:
    a: "It depends entirely on your breakeven timeline and your refinance expectations. In a high-rate environment where many buyers expect rates to fall within a few years, buying points carries more risk because a refinance would wipe out the benefit before you've recovered the cost. That doesn't make it automatically wrong, but it does mean you should stress-test the decision against a scenario where you refinance in 24 to 36 months. If the answer still works, go for it."
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit Writer"
-author_bio: "Susan Taylor works at the intersection of credit health and mortgage eligibility, helping borrowers understand exactly what lenders look for and how to improve their position before applying. She has seen how small credit improvements can unlock significantly better rates. At Mortgage Advisor Guide, she covers credit scores, debt-to-income ratios, and getting mortgage-ready."
+author_title: "Credit & Qualification Specialist"
+author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 
 ---
 You're probably staring at your loan estimate right now, squinting at a line that says "Discount Points: 1.000 ($3,200)" and wondering if you just got offered a gift or walked into a trap. Your loan officer probably made it sound obvious: "buy the rate down" and save money every month. Here's what I'd tell you in that moment: pump the brakes. It's not a scam, but it's not always the deal it sounds like either.

@@ -21,8 +21,8 @@ faqs:
    a: "These are the same thing. 'Impound account' is simply the term used more commonly in western states like California, while 'escrow account' is the term used in most of the country. Both refer to the same mechanism: a servicer-managed account that collects funds for taxes and insurance as part of your monthly mortgage payment."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Real Estate Researcher"
-author_bio: "Ethan Chen is a real estate researcher who has spent years tracking market trends, title issues, and the property purchase process across multiple states. He brings an analytical approach to the home-buying conversation, focusing on the data and process steps that determine whether a purchase goes smoothly. At Mortgage Advisor Guide, he covers market analysis, property research, and the mechanics of buying a home."
+author_title: "Housing Market Analyst"
+author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 
 ---
 You close on your home, you're handed a stack of papers thicker than a phone book, and somewhere buried in there is a section about an escrow account that your loan officer breezes past in about forty-five seconds. A year later, your mortgage payment jumps by $180 a month and you have no idea why. Nobody warned you this could happen. Escrow confusion is one of the top reasons borrowers feel blindsided after closing, and it's almost entirely preventable with a little upfront understanding.
