@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Debt Income Calc",
+    "url": "/debt-to-income-calculator/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Affordability Calc",
+    "url": "/home-affordability-calculator/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Payment Calc",
+    "url": "/mortgage-payment-calculator/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Refinance Break Even",
+    "url": "/refinance-break-even-calculator/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Rent Vs Buy Calc",
+    "url": "/rent-vs-buy-calculator/",
+    "icon": "\ud83e\uddee"
+  }
+]
