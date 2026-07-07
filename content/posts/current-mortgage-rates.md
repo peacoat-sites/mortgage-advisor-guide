@@ -33,3 +33,13 @@ The benchmark also tells you which direction the wind is blowing. Mortgage rates
 Most rate pages online are either stale or quietly wired to a lead-generation form that shows you a teaser number to capture your contact details. This table is neither. It refreshes automatically from a public Federal Reserve dataset, it shows the same figure to everyone, and it links back to the source so you can verify it. Use it as a reference point, then get real quotes from at least three lenders before you commit.
 
 Jennifer Walsh writes about mortgage rates and home financing at Mortgage Advisor Guide, focused on helping borrowers read the market without the sales pitch.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+
