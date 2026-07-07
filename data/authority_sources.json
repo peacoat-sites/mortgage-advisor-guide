@@ -1,0 +1,22 @@
+[
+ {
+  "name": "Consumer Financial Protection Bureau",
+  "url": "https://www.consumerfinance.gov/",
+  "note": "Mortgage consumer protection"
+ },
+ {
+  "name": "U.S. Dept. of Housing and Urban Development (HUD)",
+  "url": "https://www.hud.gov/",
+  "note": "FHA and housing programs"
+ },
+ {
+  "name": "Federal Reserve",
+  "url": "https://www.federalreserve.gov/",
+  "note": "Interest-rate policy"
+ },
+ {
+  "name": "Freddie Mac",
+  "url": "https://www.freddiemac.com/",
+  "note": "Mortgage market data"
+ }
+]
