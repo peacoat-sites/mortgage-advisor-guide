@@ -5,7 +5,7 @@ date: 2026-06-10
 slug: "pmi-removal-tracker"
 description: "Find out exactly when you can stop paying PMI. Enter your loan balance, home value, and interest rate to see your PMI-free date."
 categories: ["mortgage-tools"]
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Private mortgage insurance runs you somewhere between $50 and $200 a month for most borrowers. The good news: you can request removal once your loan-to-value ratio drops to 80%, and federal law forces your lender to kill it automatically at 78%. That's the Homeowners Protection Act doing its job.
 
@@ -22,7 +22,7 @@ The calculator below shows exactly when you'll hit that threshold, and what thos
 | FHA (10%+ down) | N/A | Refinance to conventional | After 11 years or upon refinance | Refinance costs apply |
 | FHA (<10% down) | N/A | Refinance to conventional | No automatic removal | Refinance costs apply |
 
-**At 80% LTV:** Write to your lender requesting cancellation. They'll probably ask for a home appraisal (you pay for it, usually $300–$600) to verify your home's current value.
+**At 80% LTV:** Write to your lender requesting cancellation. They'll probably ask for a home appraisal (you pay for it, usually $300-$600) to verify your home's current value.
 
 **At 78% LTV:** Your lender has to cancel PMI automatically. No letter required. No negotiation. It's the law under the HPA, based on your original amortization schedule regardless of what happened to the housing market.
 

@@ -23,7 +23,7 @@ faqs:
     a: "Neither is guaranteed to work. The mortgage market reprices before and after Fed cuts. Your best bet is to refinance when your current rate is at least 0.5 percent higher than what's available, regardless of Fed timing. The cost of waiting usually outweighs any 'perfect' timing you might achieve."
   - q: "Do mortgage rates ever go down when the Fed raises rates?"
     a: "Yes, though it's unusual and brief. It happens when recession fears spike and investors move money into bonds, pushing long-term yields down faster than the Fed's short-term rate moves up. It's rare but it does occur. This is why you shouldn't assume Fed policy automatically means mortgage policy will move the same direction."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Right now, most people blame the Federal Reserve for their mortgage rate when they're shopping for a home. And they're not entirely wrong. But the mechanism is more subtle than "Fed raises rates, so your mortgage gets more expensive." It's not a direct line like that. Let me walk you through what's actually happening behind the scenes, because understanding this difference changes how you should time your move.
@@ -132,6 +132,6 @@ I made this mistake myself in my own refinance in 2021. I waited three months fo
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

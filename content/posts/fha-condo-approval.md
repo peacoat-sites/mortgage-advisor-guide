@@ -23,7 +23,7 @@ faqs:
     a: "Not directly. FHA rates are driven by your credit profile, loan amount, and broader market conditions, not by whether the project has full approval or went through SUA. What approval status does affect is which loan products are available to you, which can indirectly change your rate if you have to switch from FHA to conventional."
   - q: "What happens if the condo project's FHA approval expires after I close?"
     a: "Nothing. Your loan is already closed and FHA-insured. Approval expiration matters to future buyers trying to use FHA financing in that project, not to you. If you eventually sell and your buyer wants FHA, they'd need to check current approval status at that time."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most buyers shopping for a condo with an FHA loan don't realize the property itself has to be approved, not just them. That's the trap. You can have a 720 credit score, two years of clean tax returns, and a 3.5% down payment ready to go, and you can still get denied because the condo association failed to complete a form three years ago. I've watched this derail more closings than almost any other single issue in my underwriting career, and I'll be honest: a lot of loan officers don't flag it early enough because they're focused on the borrower file, not the property side.
@@ -127,7 +127,7 @@ First-time buyer in Chicago, pre-approved for FHA with 3.5% down, finds a 24-uni
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25) — Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25), Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.
 

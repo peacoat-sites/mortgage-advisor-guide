@@ -12,7 +12,7 @@ author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 slug: "what-the-new-housing-act-means-for-your-mortgage"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 If you've been trying to buy a home in 2026, you already know the frustration. Inventory is thin, prices are stubborn, and the mortgage process can feel designed to work against anyone who isn't already wealthy. So when Congress passed the 21st Century ROAD to Housing Act by margins that almost never happen anymore, 85-5 in the Senate on June 22 and 358-32 in the House on June 23, people noticed. The New York Times called it the most significant housing legislation since 1990. And then, two days later, President Trump canceled the signing ceremony, tying his objection to an unrelated voter ID bill. So here we are: a landmark housing bill sitting unsigned, with legal experts noting it could still become law if Congress remains in session. Whether or not you're tracking the political drama, the mortgage provisions in this bill deserve your full attention right now, before it takes effect.
@@ -88,6 +88,6 @@ The ROAD Act, if it becomes law, represents a genuine attempt to address problem
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

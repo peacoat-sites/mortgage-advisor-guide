@@ -12,9 +12,9 @@ author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
 slug: "what-the-iran-peace-deal-means-for-your-mortgage-rate"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
-If you've been watching mortgage rates tick down this week and wondering whether to finally make a move, you're not imagining the shift. Something real happened. On June 18, 2026, President Trump signed a preliminary peace agreement with Iran, kicking off a 60-day window of negotiations toward a final deal. Almost immediately, the Strait of Hormuz reopened, oil prices pulled back, and the 30-year fixed mortgage rate dropped to roughly 6.37%–6.56%, the lowest level in over a month, according to Yahoo Finance. For buyers who've been sitting on the sidelines through a brutal spring, this feels like a door cracking open. The question is how long it stays that way.
+If you've been watching mortgage rates tick down this week and wondering whether to finally make a move, you're not imagining the shift. Something real happened. On June 18, 2026, President Trump signed a preliminary peace agreement with Iran, kicking off a 60-day window of negotiations toward a final deal. Almost immediately, the Strait of Hormuz reopened, oil prices pulled back, and the 30-year fixed mortgage rate dropped to roughly 6.37%-6.56%, the lowest level in over a month, according to Yahoo Finance. For buyers who've been sitting on the sidelines through a brutal spring, this feels like a door cracking open. The question is how long it stays that way.
 
 ## Why a Geopolitical Deal Is Moving Your Mortgage Rate
 
@@ -39,7 +39,7 @@ Here's what I tell people when they're trying to read these signals: geopolitica
 
 ## What the Fed Is Actually Signaling
 
-New Fed Chair Kevin Warsh, who took over from Jerome Powell, chaired the June 16–17 FOMC meeting. The committee held rates steady for now, but Warsh's tone was notably cautious. Markets are no longer pricing in a rate cut in 2026. They're pricing in the possibility of a rate hike. That's a meaningful shift, and it creates a ceiling on how far mortgage rates can fall even if the Iran deal holds.
+New Fed Chair Kevin Warsh, who took over from Jerome Powell, chaired the June 16-17 FOMC meeting. The committee held rates steady for now, but Warsh's tone was notably cautious. Markets are no longer pricing in a rate cut in 2026. They're pricing in the possibility of a rate hike. That's a meaningful shift, and it creates a ceiling on how far mortgage rates can fall even if the Iran deal holds.
 
 You might wonder how a Fed that isn't cutting rates can coexist with falling mortgage rates. The answer is that mortgage rates can still dip when bond market sentiment improves in the short term. But if the Fed ultimately hikes again, Treasury yields will rise and take mortgage rates with them. The window this peace deal opened could close before a rate hike even happens, just from the market anticipating one.
 
@@ -51,7 +51,7 @@ Mortgage applications jumped 10.8% for the week ending June 5, according to MBA 
 
 More applications mean more competition for lenders' capacity, which can slow processing times and in some cases push rates back up slightly as lenders manage their pipelines. It also means more buyers competing for the same limited housing inventory. The rate drop is real, but the downstream effects on the market partially offset the advantage for individual buyers who wait even a few weeks.
 
-Mortgage Professional America made exactly this point: the relief is genuine, but buyers shouldn't expect a dramatic, sustained drop. The current range around 6.37%–6.56% may represent close to the ceiling of what this deal can deliver on its own, especially with the inflation data still unresolved.
+Mortgage Professional America made exactly this point: the relief is genuine, but buyers shouldn't expect a dramatic, sustained drop. The current range around 6.37%-6.56% may represent close to the ceiling of what this deal can deliver on its own, especially with the inflation data still unresolved.
 
 ## How to Think About Your Decision Right Now
 

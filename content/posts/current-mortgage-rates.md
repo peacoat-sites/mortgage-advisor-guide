@@ -10,7 +10,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 tags: ["mortgage rates", "30-year fixed", "15-year fixed", "federal reserve"]
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Rate shopping starts with knowing the benchmark. The table below pulls the national average 30-year and 15-year fixed rates straight from the Federal Reserve's published series, updated at the start of every month. These are not lender quotes. They are the baseline the whole market prices against, and knowing where they sit tells you whether the offer in front of you is competitive or padded.
@@ -41,6 +41,6 @@ Jennifer Walsh writes about mortgage rates and home financing at Mortgage Adviso
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

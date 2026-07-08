@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-
+lastmod: 2026-07-08
 ---
 You got your first mortgage statement in the mail, and there it was. A line item called "escrow" eating up hundreds of dollars every month that nobody actually explained. Not a little either. This exact moment of confusion has crossed my desk hundreds of times throughout my career. The good news: it's not an error on the statement. The less good news: escrow is something lenders deliberately downplay during sales conversations because it makes your total payment feel smaller when you're deciding whether to buy.
 
@@ -96,7 +96,7 @@ Here's what most people miss: even if you successfully waive escrow, the discipl
 | Cash flow flexibility | Lower (money is held) | Higher (you hold the funds) |
 | Interest earned on reserves | None (escrow doesn't earn interest in most states) | Yes, if funds are in a high-yield savings account |
 | Eligibility | Open to most borrowers | Typically requires 20%+ equity; not available on FHA loans |
-| Lender fee to waive | Sometimes (0.125%–0.25% of loan) | None after waiver is approved |
+| Lender fee to waive | Sometimes (0.125%-0.25% of loan) | None after waiver is approved |
 | Complexity for borrower | Low | Moderate to high |
 
 For most first-time buyers or anyone living paycheck to paycheck, escrow is the safer bet. The risk of blowing a property tax payment outweighs whatever benefit you'd get from holding your own reserves. For experienced homeowners with solid financial habits and real equity, waiving escrow and investing that float makes sense. Just know what you're signing up for.

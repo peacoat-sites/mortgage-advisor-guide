@@ -12,7 +12,7 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 slug: "iran-peace-deal-and-the-fed-what-borrowers-must-know-now"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 The Iran peace deal was supposed to be the rate relief borrowers had been waiting for. It wasn't. Rates dipped briefly after negotiators reached a tentative agreement in mid-June 2026, then climbed right back up. If you're watching mortgage rates and trying to time a move, here's what the headlines are missing: the Iran conflict was only one blade of the scissors cutting into affordability. The Fed is holding the other one.
@@ -72,7 +72,7 @@ The window between a tentative peace deal and a potential Fed hike is narrow and
 - [Mortgage Rate Predictions for July 2026](https://www.lendingtree.com/home/mortgage/rates/mortgage-interest-rates-forecast/) (July 1, 2026)
 - [U.S. Mortgage Rates Are Staying High](https://www.pbs.org/newshour/economy/u-s-mortgage-rates-are-staying-high-and-the-federal-reserve-can-do-little-about-it) (June 6, 2026)
 - [Continued Iran Conflict Raises Mortgage Rate Risk into Late 2026](https://www.housingwire.com/articles/iran-conflict-mortgage-rates/) (June 2026)
-- [Current Mortgage Rates: July 6–10, 2026](https://money.com/current-mortgage-rates/) (July 2, 2026)
+- [Current Mortgage Rates: July 6-10, 2026](https://money.com/current-mortgage-rates/) (July 2, 2026)
 
 ## Helpful Resources
 
@@ -95,6 +95,6 @@ The window between a tentative peace deal and a potential Fed hike is narrow and
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

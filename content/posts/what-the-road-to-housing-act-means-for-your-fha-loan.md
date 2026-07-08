@@ -12,9 +12,9 @@ author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 slug: "what-the-road-to-housing-act-means-for-your-fha-loan"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
-The 21st Century ROAD to Housing Act passed the House 396–13 on May 20, 2026, and is sitting on the president's desk waiting for a signature. Most coverage has focused on the institutional investor provisions, which is where the misleading headlines are concentrated. The more consequential changes, the ones that will actually affect real borrowers in the next 12 to 24 months, are buried in the FHA sections. Here's what those changes actually do, and what they don't.
+The 21st Century ROAD to Housing Act passed the House 396-13 on May 20, 2026, and is sitting on the president's desk waiting for a signature. Most coverage has focused on the institutional investor provisions, which is where the misleading headlines are concentrated. The more consequential changes, the ones that will actually affect real borrowers in the next 12 to 24 months, are buried in the FHA sections. Here's what those changes actually do, and what they don't.
 
 ## The Small-Dollar Mortgage Pilot Is Bigger Than It Sounds
 
