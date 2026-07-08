@@ -3,7 +3,7 @@ title: "How To Set Up Biweekly Mortgage Payments To Pay Off Faster"
 date: 2026-06-10T18:20:41.056348+00:00
 draft: false
 description: "Learn how to set up biweekly mortgage payments, save thousands in interest, and pay off your home years earlier with this simple step-by-step guide."
-image: "https://images.pexels.com/photos/760710/pexels-photo-760710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/760710.jpg"
 categories: ["Payments"]
 tags: ["biweekly", "mortgage", "payments", "faster"]
 slug: "how-to-set-up-biweekly-mortgage-payments-to-pay-off-faster"

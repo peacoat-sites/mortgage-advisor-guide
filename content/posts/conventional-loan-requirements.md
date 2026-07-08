@@ -3,7 +3,7 @@ title: "Conventional Loan Requirements"
 date: 2026-05-27T02:38:17.901977+00:00
 draft: false
 description: "Learn about conventional loan requirements including credit scores, down payments, debt-to-income ratios, and income verification to qualify for the best mortga"
-image: "https://images.pexels.com/photos/5816297/pexels-photo-5816297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5816297.jpg"
 categories: ["Loan Types"]
 tags: ["conventional", "loan", "requirements"]
 slug: "conventional-loan-requirements"

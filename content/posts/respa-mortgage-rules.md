@@ -3,7 +3,7 @@ title: "Respa Mortgage Rules"
 date: 2026-07-04T16:45:02.864221+00:00
 draft: false
 description: "Learn how RESPA mortgage rules protect homebuyers by regulating disclosures, settlement costs, and kickbacks to ensure fair and transparent home loans."
-image: "https://images.pexels.com/photos/7821513/pexels-photo-7821513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7821513.jpg"
 categories: ["Regulations"]
 tags: ["respa", "mortgage", "rules"]
 author: "Susan Taylor"

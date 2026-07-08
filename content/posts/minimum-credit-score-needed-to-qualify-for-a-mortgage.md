@@ -3,7 +3,7 @@ title: "Minimum Credit Score Needed To Qualify For A Mortgage"
 date: 2026-06-11T18:41:13.610841+00:00
 draft: false
 description: "Discover the minimum credit score needed to qualify for a mortgage, including requirements for FHA, VA, and conventional loans, plus tips to boost your score fa"
-image: "https://images.pexels.com/photos/13807424/pexels-photo-13807424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/13807424.jpg"
 categories: ["Qualification"]
 tags: ["minimum", "credit", "score", "needed", "qualify"]
 slug: "minimum-credit-score-needed-to-qualify-for-a-mortgage"

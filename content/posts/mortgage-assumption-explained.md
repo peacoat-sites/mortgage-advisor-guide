@@ -3,7 +3,7 @@ title: "Mortgage Assumption Explained"
 date: 2026-06-21T17:12:42.078463+00:00
 draft: false
 description: "Learn how mortgage assumption works, who qualifies, and how buyers can take over a sellers existing loan to potentially secure a lower interest rate."
-image: "https://images.pexels.com/photos/17682883/pexels-photo-17682883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/17682883.jpg"
 categories: ["Loan Types"]
 tags: ["mortgage", "assumption", "explained"]
 author: "Robert Kim"

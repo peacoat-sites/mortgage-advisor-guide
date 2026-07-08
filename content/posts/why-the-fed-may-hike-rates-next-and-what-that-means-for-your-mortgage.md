@@ -3,7 +3,7 @@ title: "Why the Fed May Hike Rates Next, and What That Means for Your Mortgage"
 date: 2026-07-05T16:47:50.464782+00:00
 draft: false
 description: "Wondering if the Fed will hike rates again? Learn how a potential rate increase could impact your mortgage payments and what steps you can take to prepare now."
-image: "https://images.pexels.com/photos/4386393/pexels-photo-4386393.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4386393.jpg"
 categories: ["trending"]
 tags: ["hike", "rates", "next,", "what", "that"]
 author: "Ethan Chen"

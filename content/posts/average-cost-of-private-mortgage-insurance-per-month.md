@@ -3,7 +3,7 @@ title: "Average Cost Of Private Mortgage Insurance Per Month"
 date: 2026-06-29T18:04:10.234328+00:00
 draft: false
 description: "Discover the average cost of private mortgage insurance per month, what affects your PMI rate, and how to reduce or eliminate this extra expense."
-image: "https://images.pexels.com/photos/33175673/pexels-photo-33175673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33175673.jpg"
 categories: ["Cost Factors"]
 tags: ["average", "cost", "private", "mortgage", "insurance"]
 author: "Jennifer Walsh"

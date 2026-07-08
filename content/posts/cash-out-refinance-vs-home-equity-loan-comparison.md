@@ -3,7 +3,7 @@ title: "Cash Out Refinance Vs Home Equity Loan Comparison"
 date: 2026-06-10T18:22:40.282373+00:00
 draft: false
 description: "Compare cash out refinance vs home equity loan to find the best way to tap your home equity. Discover rates, costs, pros and cons to make the right choice."
-image: "https://images.pexels.com/photos/7578864/pexels-photo-7578864.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7578864.jpg"
 categories: ["Refinancing"]
 tags: ["cash", "refinance", "home", "equity", "loan"]
 slug: "cash-out-refinance-vs-home-equity-loan-comparison"

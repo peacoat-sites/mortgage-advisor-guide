@@ -3,7 +3,7 @@ title: "HUD Just Changed 14 FHA Mortgage Rules. Here Is What It Means for Buyers
 date: 2026-06-29T18:02:17.008920+00:00
 draft: false
 description: "HUD has updated 14 FHA mortgage rules, impacting homebuyers nationwide. Learn what these changes mean for your loan eligibility, down payments, and approval pro"
-image: "https://images.pexels.com/photos/7734569/pexels-photo-7734569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7734569.jpg"
 categories: ["trending"]
 tags: ["just", "changed", "mortgage", "rules.", "here"]
 author: "Susan Taylor"

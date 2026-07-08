@@ -3,7 +3,7 @@ title: "Mortgage Down Payment Options"
 date: 2026-05-21T02:04:16.273662+00:00
 draft: false
 description: "Explore mortgage down payment options including conventional, FHA, VA, and USDA loans. Learn how much you need and find programs to help you buy your home soone"
-image: "https://images.pexels.com/photos/7680623/pexels-photo-7680623.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7680623.jpg"
 categories: ["Getting Started"]
 tags: ["mortgage", "down", "payment", "options"]
 slug: "mortgage-down-payment-options"

@@ -3,7 +3,7 @@ title: "How Do Mortgage Points Work And Are They Worth Buying"
 date: 2026-06-07T17:02:06.588500+00:00
 draft: false
 description: "Learn how mortgage points work, how much they cost, and whether buying points to lower your interest rate will actually save you money in the long run."
-image: "https://images.pexels.com/photos/30139520/pexels-photo-30139520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30139520.jpg"
 categories: ["Cost Factors"]
 tags: ["mortgage", "points", "work", "they", "worth"]
 slug: "how-do-mortgage-points-work-and-are-they-worth-buying"

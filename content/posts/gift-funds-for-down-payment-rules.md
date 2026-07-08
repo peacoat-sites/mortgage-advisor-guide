@@ -3,7 +3,7 @@ title: "Gift Funds For Down Payment Rules"
 date: 2026-06-27T16:49:19.749554+00:00
 draft: false
 description: "Learn gift fund rules for down payments including who can donate, how to document gifts, and lender requirements to close on your home successfully."
-image: "https://images.pexels.com/photos/27641070/pexels-photo-27641070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/27641070.jpg"
 categories: ["Getting Started"]
 tags: ["gift", "funds", "down", "payment", "rules"]
 author: "Jennifer Walsh"

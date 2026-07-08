@@ -3,7 +3,7 @@ title: "Trump Blocked the Housing Bill. What Happens to Buyers Now?"
 date: 2026-06-26T17:26:32.174242+00:00
 draft: false
 description: "Trump's veto of the housing bill leaves homebuyers facing uncertainty. Learn how this decision impacts mortgage rates, affordability, and what buyers can do nex"
-image: "https://images.pexels.com/photos/4488457/pexels-photo-4488457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4488457.jpg"
 categories: ["trending"]
 tags: ["trump", "blocked", "housing", "bill.", "what"]
 author: "Robert Kim"

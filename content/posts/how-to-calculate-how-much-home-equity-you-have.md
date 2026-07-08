@@ -3,7 +3,7 @@ title: "How To Calculate How Much Home Equity You Have"
 date: 2026-06-09T17:50:41.392830+00:00
 draft: false
 description: "Learn how to calculate your home equity by subtracting your mortgage balance from your home's current value, and discover ways to build and use it wisely."
-image: "https://images.pexels.com/photos/8293779/pexels-photo-8293779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8293779.jpg"
 categories: ["Home Equity"]
 tags: ["calculate", "much", "home", "equity", "have"]
 slug: "how-to-calculate-how-much-home-equity-you-have"

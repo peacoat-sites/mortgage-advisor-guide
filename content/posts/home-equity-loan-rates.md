@@ -3,7 +3,7 @@ title: "Home Equity Loan Rates"
 date: 2026-05-22T04:08:09.953277+00:00
 draft: false
 description: "Explore current home equity loan rates, compare lenders, and learn how your credit score and equity affect the rate you qualify for to save money on borrowing."
-image: "https://images.pexels.com/photos/34811873/pexels-photo-34811873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34811873.jpg"
 categories: ["Home Equity"]
 tags: ["home", "equity", "loan", "rates"]
 slug: "home-equity-loan-rates"

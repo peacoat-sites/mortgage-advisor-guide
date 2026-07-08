@@ -3,7 +3,7 @@ title: "Manufactured Home Mortgage"
 date: 2026-06-19T17:35:29.674805+00:00
 draft: false
 description: "Learn how manufactured home mortgages work, loan types available, lender requirements, and how to finance your manufactured home purchase with confidence."
-image: "https://images.pexels.com/photos/6048394/pexels-photo-6048394.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6048394.jpg"
 categories: ["Loan Types"]
 tags: ["manufactured", "home", "mortgage"]
 author: "Jennifer Walsh"

@@ -3,7 +3,7 @@ title: "What Is An Escrow Account On A Mortgage And How It Works"
 date: 2026-06-12T17:56:48.451064+00:00
 draft: false
 description: "Learn what an escrow account is on a mortgage, how it works, what it covers, and why lenders require it to manage your property taxes and insurance payments."
-image: "https://images.pexels.com/photos/7658352/pexels-photo-7658352.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7658352.jpg"
 categories: ["Payments"]
 tags: ["what", "escrow", "account", "mortgage", "works"]
 slug: "what-is-an-escrow-account-on-a-mortgage-and-how-it-works"

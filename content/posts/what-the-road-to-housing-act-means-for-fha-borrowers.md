@@ -3,7 +3,7 @@ title: "What the ROAD to Housing Act Means for FHA Borrowers"
 date: 2026-06-27T16:51:54.353722+00:00
 draft: false
 description: "Discover how the ROAD to Housing Act impacts FHA borrowers, including changes to loan limits, down payment options, and expanded eligibility that could help you"
-image: "https://images.pexels.com/photos/7841821/pexels-photo-7841821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7841821.jpg"
 categories: ["trending"]
 tags: ["what", "road", "housing", "means", "borrowers"]
 author: "Ethan Chen"

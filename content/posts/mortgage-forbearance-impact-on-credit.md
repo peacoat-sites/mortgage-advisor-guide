@@ -3,7 +3,7 @@ title: "Mortgage Forbearance Impact On Credit"
 date: 2026-06-22T19:01:14.850428+00:00
 draft: false
 description: "Learn how mortgage forbearance affects your credit score, what lenders report to bureaus, and steps to protect your credit during financial hardship."
-image: "https://images.pexels.com/photos/7014464/pexels-photo-7014464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7014464.jpg"
 categories: ["Hardship Options"]
 tags: ["mortgage", "forbearance", "impact", "credit"]
 author: "Jennifer Walsh"

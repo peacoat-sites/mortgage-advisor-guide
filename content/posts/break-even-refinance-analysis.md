@@ -3,7 +3,7 @@ title: "Break-Even Refinance Analysis"
 date: 2026-05-25T19:53:49.630706+00:00
 draft: false
 description: "Discover how break-even refinance analysis helps you determine when refinancing saves money by calculating how long it takes to recoup your closing costs."
-image: "https://images.pexels.com/photos/8293744/pexels-photo-8293744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8293744.jpg"
 categories: ["Refinancing"]
 tags: ["break-even", "refinance", "analysis"]
 slug: "break-even-refinance-analysis"

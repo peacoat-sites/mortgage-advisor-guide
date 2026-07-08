@@ -3,7 +3,7 @@ title: "What Is A USDA Rural Development Home Loan And Who Qualifies"
 date: 2026-07-06T18:01:11.694734+00:00
 draft: false
 description: "Learn what a USDA rural development home loan is, how it works, and whether you qualify based on income, location, and credit requirements."
-image: "https://images.pexels.com/photos/17645479/pexels-photo-17645479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/17645479.jpg"
 categories: ["Loan Types"]
 tags: ["what", "usda", "rural", "development", "home"]
 author: "Robert Kim"

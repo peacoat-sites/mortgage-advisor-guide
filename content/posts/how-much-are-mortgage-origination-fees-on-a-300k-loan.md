@@ -3,7 +3,7 @@ title: "How Much Are Mortgage Origination Fees On A 300K Loan"
 date: 2026-06-28T16:50:50.916859+00:00
 draft: false
 description: "Mortgage origination fees on a 300k loan typically range from 0.5% to 1%, meaning $1,500 to $3,000. Learn what affects these costs and how to negotiate."
-image: "https://images.pexels.com/photos/8293651/pexels-photo-8293651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8293651.jpg"
 categories: ["Cost Factors"]
 tags: ["much", "mortgage", "origination", "fees", "300k"]
 author: "Maria Santos"

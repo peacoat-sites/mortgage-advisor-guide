@@ -3,7 +3,7 @@ title: "Seller Financing Explained"
 date: 2026-06-23T17:34:05.321355+00:00
 draft: false
 description: "Seller financing lets buyers purchase property directly from owners without a bank. Learn how it works, pros and cons, and key contract terms."
-image: "https://images.pexels.com/photos/8293768/pexels-photo-8293768.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8293768.jpg"
 categories: ["Loan Types"]
 tags: ["seller", "financing", "explained"]
 author: "Robert Kim"

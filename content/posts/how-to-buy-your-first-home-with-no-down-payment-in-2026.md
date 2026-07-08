@@ -3,7 +3,7 @@ title: "How To Buy Your First Home With No Down Payment"
 date: 2026-06-05T12:21:08.579824+00:00
 draft: false
 description: "Learn how to buy your first home with no down payment in 2026. Explore top loan programs, grants, and tips to help first-time buyers achieve homeownership faste"
-image: "https://images.pexels.com/photos/8730048/pexels-photo-8730048.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8730048.jpg"
 categories: ["Getting Started"]
 tags: ["your", "first", "home", "with", "down"]
 slug: "how-to-buy-your-first-home-with-no-down-payment-in"

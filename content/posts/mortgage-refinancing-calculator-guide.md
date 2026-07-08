@@ -3,7 +3,7 @@ title: "Mortgage Refinancing Calculator Guide"
 date: 2026-05-18T00:01:21.622754+00:00
 draft: false
 description: "Discover how to use a mortgage refinancing calculator to compare rates, estimate savings, and decide if refinancing your home loan is the right financial move f"
-image: "https://images.pexels.com/photos/5877591/pexels-photo-5877591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5877591.jpg"
 categories: ["Refinancing"]
 tags: ["mortgage", "refinancing", "calculator", "guide"]
 slug: "mortgage-refinancing-calculator-guide"

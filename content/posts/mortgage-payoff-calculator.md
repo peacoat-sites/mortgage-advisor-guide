@@ -3,7 +3,7 @@ title: "Mortgage Payoff Calculator"
 date: 2026-06-20T17:12:13.185856+00:00
 draft: false
 description: "Use our mortgage payoff calculator to see how extra payments reduce your loan term and interest costs. Enter your balance, rate, and payment to get started."
-image: "https://images.pexels.com/photos/7821546/pexels-photo-7821546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7821546.jpg"
 categories: ["Payments"]
 tags: ["mortgage", "payoff", "calculator"]
 author: "Maria Santos"

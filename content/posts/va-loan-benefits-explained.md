@@ -3,7 +3,7 @@ title: "Va Loan Benefits Explained"
 date: 2026-05-26T07:51:03.889875+00:00
 draft: false
 description: "Discover the top VA loan benefits available to veterans and service members, including no down payment, competitive rates, and no private mortgage insurance req"
-image: "https://images.pexels.com/photos/8470057/pexels-photo-8470057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8470057.jpg"
 categories: ["Loan Types"]
 tags: ["loan", "benefits", "explained"]
 slug: "va-loan-benefits-explained"

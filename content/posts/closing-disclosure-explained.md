@@ -3,7 +3,7 @@ title: "Closing Disclosure Explained"
 date: 2026-05-26T00:22:23.638241+00:00
 draft: false
 description: "A closing disclosure explains the final loan terms and costs before settlement. Learn what each section means and what to review before signing your mortgage do"
-image: "https://images.pexels.com/photos/7731332/pexels-photo-7731332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7731332.jpg"
 categories: ["Closing"]
 tags: ["closing", "disclosure", "explained"]
 slug: "closing-disclosure-explained"

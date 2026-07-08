@@ -3,7 +3,7 @@ title: "High-Balance Conforming Loan"
 date: 2026-06-16T19:25:18.347667+00:00
 draft: false
 description: "Learn how high-balance conforming loans let borrowers in high-cost areas finance more with lower rates than jumbo loans while meeting Fannie Mae and Freddie Mac"
-image: "https://images.pexels.com/photos/8293750/pexels-photo-8293750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8293750.jpg"
 categories: ["Loan Types"]
 tags: ["high-balance", "conforming", "loan"]
 author: "Ethan Chen"

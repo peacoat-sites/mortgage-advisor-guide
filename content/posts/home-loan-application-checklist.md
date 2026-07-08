@@ -3,7 +3,7 @@ title: "Home Loan Application Checklist"
 date: 2026-05-29T01:59:43.809239+00:00
 draft: false
 description: "Get your home loan application approved faster with our complete checklist. Learn what documents and information lenders require before you apply."
-image: "https://images.pexels.com/photos/7979428/pexels-photo-7979428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7979428.jpg"
 categories: ["Getting Started"]
 tags: ["home", "loan", "application", "checklist"]
 slug: "home-loan-application-checklist"

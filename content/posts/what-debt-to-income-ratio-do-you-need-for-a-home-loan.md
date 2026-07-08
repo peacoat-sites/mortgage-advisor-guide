@@ -3,7 +3,7 @@ title: "What Debt To Income Ratio Do You Need For A Home Loan"
 date: 2026-06-02T12:56:18.548766+00:00
 draft: false
 description: "Find out what debt to income ratio you need to qualify for a home loan, why lenders care about it, and how to improve yours to boost approval chances."
-image: "https://images.pexels.com/photos/5942528/pexels-photo-5942528.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5942528.jpg"
 categories: ["Qualification"]
 tags: ["what", "debt", "income", "ratio", "need"]
 slug: "what-debt-to-income-ratio-do-you-need-for-a-home-loan"

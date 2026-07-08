@@ -3,7 +3,7 @@ title: "Portfolio Loan Mortgage"
 date: 2026-06-24T17:34:07.299265+00:00
 draft: false
 description: "A portfolio loan mortgage stays with the lender instead of being sold. Learn how it works, who qualifies, and when it makes sense for your home purchase."
-image: "https://images.pexels.com/photos/32045967/pexels-photo-32045967.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32045967.jpg"
 categories: ["Loan Types"]
 tags: ["portfolio", "loan", "mortgage"]
 author: "Susan Taylor"

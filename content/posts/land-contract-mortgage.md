@@ -3,7 +3,7 @@ title: "Land Contract Mortgage"
 date: 2026-06-17T18:08:34.196760+00:00
 draft: false
 description: "Learn how a land contract mortgage works, its benefits and risks for buyers and sellers, and how it compares to traditional home financing options."
-image: "https://images.pexels.com/photos/8293738/pexels-photo-8293738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8293738.jpg"
 categories: ["Loan Types"]
 tags: ["land", "contract", "mortgage"]
 author: "Susan Taylor"

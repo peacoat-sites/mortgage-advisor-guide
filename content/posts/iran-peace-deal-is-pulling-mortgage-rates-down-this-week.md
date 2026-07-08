@@ -3,7 +3,7 @@ title: "Iran Peace Deal Is Pulling Mortgage Rates Down This Week"
 date: 2026-06-16T19:27:39.057651+00:00
 draft: false
 description: "Iran peace deal eases global tensions, sending mortgage rates lower this week. Find out how this historic agreement could impact your home loan and what to do n"
-image: "https://images.pexels.com/photos/8293719/pexels-photo-8293719.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8293719.jpg"
 categories: ["trending"]
 tags: ["iran", "peace", "deal", "pulling", "mortgage"]
 author: "Maria Santos"

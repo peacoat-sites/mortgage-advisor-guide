@@ -3,7 +3,7 @@ title: "Are Mortgage Interest Payments Tax Deductible"
 date: 2026-06-11T18:38:56.097776+00:00
 draft: false
 description: "Wondering if mortgage interest is tax deductible in 2026? Learn the current rules, income limits, and how to maximize your home loan tax benefits this year."
-image: "https://images.pexels.com/photos/6928879/pexels-photo-6928879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6928879.jpg"
 categories: ["Taxes"]
 tags: ["mortgage", "interest", "payments", "deductible", "2026"]
 slug: "are-mortgage-interest-payments-tax-deductible-in"

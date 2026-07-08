@@ -3,7 +3,7 @@ title: "Mortgage Pre-Approval Process"
 date: 2026-05-22T23:05:21.756734+00:00
 draft: false
 description: "Get pre-approved for a mortgage with confidence. Learn step-by-step how the pre-approval process works, what lenders look for, and how to strengthen your applic"
-image: "https://images.pexels.com/photos/5816288/pexels-photo-5816288.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5816288.jpg"
 categories: ["Getting Started"]
 tags: ["mortgage", "pre-approval", "process"]
 slug: "mortgage-pre-approval-process"

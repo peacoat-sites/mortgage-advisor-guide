@@ -4,7 +4,7 @@ date: 2026-06-15
 draft: false
 slug: "current-mortgage-rates"
 description: "Live 30-year and 15-year mortgage rate benchmarks, refreshed monthly from Federal Reserve data, with a plain-English guide to reading them before you lock."
-image: "https://images.pexels.com/photos/8292885/pexels-photo-8292885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8292885.jpg"
 categories: ["Rates"]
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"

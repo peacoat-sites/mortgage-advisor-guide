@@ -3,7 +3,7 @@ title: "The ROAD to Housing Act Just Passed: What It Means for Buyers"
 date: 2026-06-24T17:36:42.947384+00:00
 draft: false
 description: "Discover what the ROAD to Housing Act means for homebuyers. Learn how this new legislation could impact affordability, availability, and your path to owning a h"
-image: "https://images.pexels.com/photos/7579201/pexels-photo-7579201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7579201.jpg"
 categories: ["trending"]
 tags: ["road", "housing", "just", "passed:", "what"]
 author: "Jennifer Walsh"

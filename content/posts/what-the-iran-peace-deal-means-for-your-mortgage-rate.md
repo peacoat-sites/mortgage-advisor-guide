@@ -3,7 +3,7 @@ title: "What the Iran Peace Deal Means for Your Mortgage Rate"
 date: 2026-06-18T18:21:16.227001+00:00
 draft: false
 description: "Discover how the Iran peace deal could impact U.S. mortgage rates, inflation, and oil prices, and what homebuyers and homeowners should know right now."
-image: "https://images.pexels.com/photos/29998475/pexels-photo-29998475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29998475.jpg"
 categories: ["trending"]
 tags: ["what", "iran", "peace", "deal", "means"]
 author: "Robert Kim"

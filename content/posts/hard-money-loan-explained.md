@@ -3,7 +3,7 @@ title: "Hard Money Loan Explained"
 date: 2026-06-28T16:53:25.040814+00:00
 draft: false
 description: "Learn how hard money loans work, who they are for, and when to use one. Discover rates, terms, and key benefits for real estate investors."
-image: "https://images.pexels.com/photos/8470844/pexels-photo-8470844.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8470844.jpg"
 categories: ["Loan Types"]
 tags: ["hard", "money", "loan", "explained"]
 author: "Robert Kim"

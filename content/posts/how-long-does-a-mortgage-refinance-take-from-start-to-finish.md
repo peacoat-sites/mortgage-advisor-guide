@@ -3,7 +3,7 @@ title: "How Long Does A Mortgage Refinance Take From Start To Finish"
 date: 2026-07-01T17:36:40.467393+00:00
 draft: false
 description: "Learn how long a mortgage refinance takes from start to finish, including each step of the process and tips to help speed up your closing timeline."
-image: "https://images.pexels.com/photos/8292830/pexels-photo-8292830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8292830.jpg"
 categories: ["Refinancing"]
 tags: ["long", "does", "mortgage", "refinance", "take"]
 author: "Susan Taylor"

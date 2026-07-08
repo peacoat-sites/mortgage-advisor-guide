@@ -3,7 +3,7 @@ title: "Mortgage Loan Modification Options"
 date: 2026-05-18T23:56:09.365714+00:00
 draft: false
 description: "Explore mortgage loan modification options to lower your monthly payments, reduce interest rates, and avoid foreclosure. Find the right solution to keep your ho"
-image: "https://images.pexels.com/photos/7841424/pexels-photo-7841424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7841424.jpg"
 categories: ["Hardship Options"]
 tags: ["mortgage", "loan", "modification", "options"]
 slug: "mortgage-loan-modification-options"

@@ -3,7 +3,7 @@ title: "What Trump's Mortgage Credit Order Means for Your Next Closing"
 date: 2026-06-23T17:32:25.112773+00:00
 draft: false
 description: "Trump signed an executive order aimed at lowering mortgage costs. Learn what changes to expect at closing, how it affects rates, and what homebuyers should know"
-image: "https://images.pexels.com/photos/8292849/pexels-photo-8292849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8292849.jpg"
 categories: ["trending"]
 tags: ["what", "trump's", "mortgage", "credit", "order"]
 author: "Maria Santos"

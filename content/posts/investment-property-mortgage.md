@@ -3,7 +3,7 @@ title: "Investment Property Mortgage"
 date: 2026-06-22T19:03:25.986413+00:00
 draft: false
 description: "Learn how investment property mortgages work, compare loan types, down payment requirements, and get tips to secure the best rate for your rental property."
-image: "https://images.pexels.com/photos/29799518/pexels-photo-29799518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29799518.jpg"
 categories: ["Loan Types"]
 tags: ["investment", "property", "mortgage"]
 author: "Ethan Chen"

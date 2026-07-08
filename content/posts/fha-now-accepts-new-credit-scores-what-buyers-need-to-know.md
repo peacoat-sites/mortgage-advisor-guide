@@ -3,7 +3,7 @@ title: "FHA Now Accepts New Credit Scores: What Buyers Need to Know"
 date: 2026-06-21T17:14:40.239633+00:00
 draft: false
 description: "FHA now accepts new credit scoring models, expanding homebuying opportunities. Learn how these changes affect your mortgage eligibility and what buyers should d"
-image: "https://images.pexels.com/photos/8293764/pexels-photo-8293764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8293764.jpg"
 categories: ["trending"]
 tags: ["accepts", "credit", "scores:", "what", "buyers"]
 author: "Susan Taylor"

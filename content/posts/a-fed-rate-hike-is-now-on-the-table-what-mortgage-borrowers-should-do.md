@@ -3,7 +3,7 @@ title: "A Fed Rate Hike Is Now on the Table: What Mortgage Borrowers Should Do"
 date: 2026-07-02T17:22:42.038108+00:00
 draft: false
 description: "Worried about a Fed rate hike and your mortgage? Learn what borrowers should do now to protect their finances and secure the best possible rate before costs ris"
-image: "https://images.pexels.com/photos/6590649/pexels-photo-6590649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6590649.jpg"
 categories: ["trending"]
 tags: ["rate", "hike", "table:", "what", "mortgage"]
 author: "Jennifer Walsh"

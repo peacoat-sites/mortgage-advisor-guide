@@ -3,7 +3,7 @@ title: "15 Year Vs 30 Year Mortgage Pros And Cons"
 date: 2026-06-08T18:17:54.634398+00:00
 draft: false
 description: "Comparing 15 vs 30 year mortgages? Discover the key pros and cons of each loan term to find the right option for your budget and financial goals."
-image: "https://images.pexels.com/photos/8815849/pexels-photo-8815849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8815849.jpg"
 categories: ["Loan Types"]
 tags: ["year", "year", "mortgage", "pros", "cons"]
 slug: "15-year-vs-30-year-mortgage-pros-and-cons"

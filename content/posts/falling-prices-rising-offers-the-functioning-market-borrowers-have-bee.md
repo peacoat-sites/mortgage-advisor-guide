@@ -3,7 +3,7 @@ title: "Falling Prices, Rising Offers: The Functioning Market Borrowers Have Bee
 date: 2026-07-03T17:07:55.646955+00:00
 draft: false
 description: "Discover how falling prices and rising offers are creating the ideal market conditions borrowers need. Learn what this means for your home buying power today."
-image: "https://images.pexels.com/photos/8293753/pexels-photo-8293753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8293753.jpg"
 categories: ["trending"]
 tags: ["falling", "prices,", "rising", "offers:", "functioning"]
 author: "Robert Kim"

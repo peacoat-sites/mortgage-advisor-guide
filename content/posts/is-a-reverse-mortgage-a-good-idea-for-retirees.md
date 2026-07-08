@@ -3,7 +3,7 @@ title: "Is A Reverse Mortgage A Good Idea For Retirees"
 date: 2026-06-26T17:28:42.401821+00:00
 draft: false
 description: "Discover if a reverse mortgage is right for you. Learn how it works, the pros and cons, and what retirees should consider before tapping home equity."
-image: "https://images.pexels.com/photos/8441812/pexels-photo-8441812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8441812.jpg"
 categories: ["Home Equity"]
 tags: ["reverse", "mortgage", "good", "idea", "retirees"]
 author: "Susan Taylor"

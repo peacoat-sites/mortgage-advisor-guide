@@ -3,7 +3,7 @@ title: "Mortgage Tax Benefits"
 date: 2026-06-17T18:06:30.751139+00:00
 draft: false
 description: "Discover key mortgage tax benefits including interest deductions, points, and PMI. Learn how homeownership can reduce your tax bill and save you money."
-image: "https://images.pexels.com/photos/7821671/pexels-photo-7821671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7821671.jpg"
 categories: ["Taxes"]
 tags: ["mortgage", "benefits"]
 author: "Robert Kim"

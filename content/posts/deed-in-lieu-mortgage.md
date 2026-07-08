@@ -3,7 +3,7 @@ title: "Deed In Lieu Mortgage"
 date: 2026-07-01T17:34:16.424292+00:00
 draft: false
 description: "Learn how a deed in lieu of foreclosure works, its pros and cons, and whether signing over your home to your lender is the right option for you."
-image: "https://images.pexels.com/photos/7735632/pexels-photo-7735632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7735632.jpg"
 categories: ["Hardship Options"]
 tags: ["deed", "lieu", "mortgage"]
 author: "Robert Kim"

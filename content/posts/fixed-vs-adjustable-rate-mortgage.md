@@ -1,6 +1,6 @@
 ---
 title: "Fixed vs. Adjustable Rate Mortgage: Which Is Right for You?"
-image: "https://images.pexels.com/photos/37685036/pexels-photo-37685036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37685036.jpg"
 date: 2026-05-27T17:30:33.621055+00:00
 slug: "fixed-vs-adjustable-rate-mortgage"
 description: "The choice between a fixed and adjustable rate mortgage depends on how long you plan to stay in the home. Here's how to decide."

@@ -3,7 +3,7 @@ title: "Mortgage Income Documentation"
 date: 2026-05-29T12:59:38.032108+00:00
 draft: false
 description: "Learn what mortgage income documentation lenders require, including pay stubs, tax returns, and bank statements, to get approved for a home loan."
-image: "https://images.pexels.com/photos/6928878/pexels-photo-6928878.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6928878.jpg"
 categories: ["Qualification"]
 tags: ["mortgage", "income", "documentation"]
 slug: "mortgage-income-documentation"

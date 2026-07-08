@@ -3,7 +3,7 @@ title: "Partial Claim Mortgage"
 date: 2026-07-05T16:50:06.105440+00:00
 draft: false
 description: "A partial claim mortgage lets homeowners defer missed payments to avoid foreclosure. Learn how it works, who qualifies, and how to apply today."
-image: "https://images.pexels.com/photos/8293742/pexels-photo-8293742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8293742.jpg"
 categories: ["Hardship Options"]
 tags: ["partial", "claim", "mortgage"]
 author: "Maria Santos"

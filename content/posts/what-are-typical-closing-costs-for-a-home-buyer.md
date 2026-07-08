@@ -3,7 +3,7 @@ title: "What Are Typical Closing Costs For A Home Buyer"
 date: 2026-06-06T16:54:33.353753+00:00
 draft: false
 description: "Learn what typical closing costs home buyers can expect, including loan fees, appraisals, and title insurance, usually totaling 2 to 5 percent of the home price"
-image: "https://images.pexels.com/photos/33008583/pexels-photo-33008583.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33008583.jpg"
 categories: ["Closing"]
 tags: ["what", "typical", "closing", "costs", "home"]
 slug: "what-are-typical-closing-costs-for-a-home-buyer"

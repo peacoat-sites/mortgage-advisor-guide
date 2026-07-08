@@ -4,7 +4,7 @@ title: "Mortgage Closing Costs Explained"
 date: 2026-05-22T21:07:46.663300+00:00
 draft: false
 description: "Learn what mortgage closing costs are, how much to expect, and which fees are negotiable. Get prepared before you close on your new home and avoid costly surpri"
-image: "https://images.pexels.com/photos/8292839/pexels-photo-8292839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8292839.jpg"
 categories: ["Cost Factors"]
 tags: ["mortgage", "closing", "costs", "explained"]
 slug: "mortgage-closing-costs-explained"

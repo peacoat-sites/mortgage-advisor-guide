@@ -3,7 +3,7 @@ title: "How To Get Pre-Qualified For Mortgage"
 date: 2026-05-25T15:48:01.080846+00:00
 draft: false
 description: "Get pre-qualified for a mortgage in simple steps. Learn requirements, documents needed, and how pre-qualification affects your home buying power today."
-image: "https://images.pexels.com/photos/9870227/pexels-photo-9870227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9870227.jpg"
 categories: ["Getting Started"]
 tags: ["pre-qualified", "mortgage"]
 slug: "how-to-get-pre-qualified-for-mortgage"

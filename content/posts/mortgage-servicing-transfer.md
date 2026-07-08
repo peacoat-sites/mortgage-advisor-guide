@@ -3,7 +3,7 @@ title: "Mortgage Servicing Transfer"
 date: 2026-07-02T17:24:38.719485+00:00
 draft: false
 description: "Learn what happens during a mortgage servicing transfer, your rights as a borrower, and how to ensure payments are handled correctly during the transition."
-image: "https://images.pexels.com/photos/7731402/pexels-photo-7731402.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7731402.jpg"
 categories: ["Getting Started"]
 tags: ["mortgage", "servicing", "transfer"]
 author: "Ethan Chen"

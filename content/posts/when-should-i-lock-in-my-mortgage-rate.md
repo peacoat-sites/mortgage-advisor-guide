@@ -3,7 +3,7 @@ title: "When Should I Lock In My Mortgage Rate"
 date: 2026-06-07T16:59:50.538856+00:00
 draft: false
 description: "Lock in your mortgage rate when rates are rising, your closing date is set, and you feel financially secure. Learn the best timing strategies to save thousands."
-image: "https://images.pexels.com/photos/8439700/pexels-photo-8439700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8439700.jpg"
 categories: ["Rates"]
 tags: ["when", "should", "lock", "mortgage", "rate"]
 slug: "when-should-i-lock-in-my-mortgage-rate"

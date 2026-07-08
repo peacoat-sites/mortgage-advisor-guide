@@ -3,7 +3,7 @@ title: "Non-Qm Mortgage Options"
 date: 2026-06-14T17:06:11.861681+00:00
 draft: false
 description: "Explore non-QM mortgage options for self-employed borrowers, investors, and those with unique financial profiles who don't qualify for conventional home loans."
-image: "https://images.pexels.com/photos/8292844/pexels-photo-8292844.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8292844.jpg"
 categories: ["Loan Types"]
 tags: ["non-QM", "mortgage", "options"]
 slug: "non-qm-mortgage-options"

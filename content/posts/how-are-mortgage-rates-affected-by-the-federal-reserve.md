@@ -3,7 +3,7 @@ title: "How Are Mortgage Rates Affected By The Federal Reserve"
 date: 2026-07-03T17:06:00.561791+00:00
 draft: false
 description: "Learn how Federal Reserve interest rate decisions directly impact mortgage rates, affecting home affordability and borrowing costs for homebuyers."
-image: "https://images.pexels.com/photos/36675777/pexels-photo-36675777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36675777.jpg"
 categories: ["Rates"]
 tags: ["mortgage", "rates", "affected", "federal", "reserve"]
 author: "Maria Santos"

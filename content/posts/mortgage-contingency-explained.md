@@ -3,7 +3,7 @@ title: "Mortgage Contingency Explained"
 date: 2026-07-04T16:47:00.016605+00:00
 draft: false
 description: "Learn what a mortgage contingency is, how it protects homebuyers, and what happens if financing falls through before closing on a house."
-image: "https://images.pexels.com/photos/7731323/pexels-photo-7731323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7731323.jpg"
 categories: ["Getting Started"]
 tags: ["mortgage", "contingency", "explained"]
 author: "Jennifer Walsh"

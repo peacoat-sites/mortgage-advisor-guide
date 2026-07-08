@@ -5,7 +5,7 @@ draft: false
 description: "Here is a meta description within the 140-155 character range:
 
 Learn why a landmark housing bill passed by Congress never became law and what its stalling at t"
-image: "https://images.pexels.com/photos/12446594/pexels-photo-12446594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12446594.jpg"
 categories: ["trending"]
 tags: ["housing", "bill", "that", "passed", "congress"]
 author: "Maria Santos"

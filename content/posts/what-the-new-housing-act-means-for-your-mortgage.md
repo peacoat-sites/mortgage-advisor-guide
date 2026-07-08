@@ -3,7 +3,7 @@ title: "What the New Housing Act Means for Your Mortgage"
 date: 2026-07-06T18:03:40.765273+00:00
 draft: false
 description: "Discover how the new Housing Act affects your mortgage payments, interest rates, and borrowing options. Learn what changes to expect and how to prepare your fin"
-image: "https://images.pexels.com/photos/34051043/pexels-photo-34051043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34051043.jpg"
 categories: ["trending"]
 tags: ["what", "housing", "means", "your", "mortgage"]
 author: "Susan Taylor"

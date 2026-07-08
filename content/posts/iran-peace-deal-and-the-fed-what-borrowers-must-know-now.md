@@ -3,7 +3,7 @@ title: "Iran Peace Deal and the Fed: What Borrowers Must Know Now"
 date: 2026-07-07T17:49:23.236971+00:00
 draft: false
 description: "Discover how an Iran peace deal and Fed policy shifts could impact interest rates and your borrowing costs. Stay informed and make smarter financial decisions t"
-image: "https://images.pexels.com/photos/7578880/pexels-photo-7578880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7578880.jpg"
 categories: ["trending"]
 tags: ["iran", "peace", "deal", "fed:", "what"]
 author: "Maria Santos"

@@ -3,7 +3,7 @@ title: "What To Do If You Cant Pay Your Mortgage This Month"
 date: 2026-06-08T18:15:54.897566+00:00
 draft: false
 description: "Struggling to pay your mortgage this month? Discover urgent steps to take, from contacting your lender to exploring forbearance options and avoiding foreclosure"
-image: "https://images.pexels.com/photos/34975557/pexels-photo-34975557.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34975557.jpg"
 categories: ["Hardship Options"]
 tags: ["what", "cant", "your", "mortgage", "this"]
 slug: "what-to-do-if-you-cant-pay-your-mortgage-this-month"

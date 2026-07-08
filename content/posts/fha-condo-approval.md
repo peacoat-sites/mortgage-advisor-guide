@@ -3,7 +3,7 @@ title: "FHA Condo Approval"
 date: 2026-07-07T17:46:44.589885+00:00
 draft: false
 description: "Learn how FHA condo approval works, why it matters for buyers and sellers, and how to check if a condo project meets FHA lending requirements."
-image: "https://images.pexels.com/photos/35707770/pexels-photo-35707770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35707770.jpg"
 categories: ["Loan Types"]
 tags: ["condo", "approval"]
 author: "Ethan Chen"

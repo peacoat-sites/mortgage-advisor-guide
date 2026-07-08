@@ -3,7 +3,7 @@ title: "Mortgage Approval Timeline"
 date: 2026-05-22T14:22:28.257810+00:00
 draft: false
 description: "Get approved for your mortgage faster. Learn the typical timeline from application to closing, key milestones, and how to speed up the process."
-image: "https://images.pexels.com/photos/8962683/pexels-photo-8962683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8962683.jpg"
 categories: ["Getting Started"]
 tags: ["mortgage", "approval", "timeline"]
 slug: "mortgage-approval-timeline"

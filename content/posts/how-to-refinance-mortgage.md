@@ -3,7 +3,7 @@ title: "How To Refinance Mortgage"
 date: 2026-05-22T07:56:42.075594+00:00
 draft: false
 description: "Learn how to refinance your mortgage step by step. Discover when to refinance, how to compare lenders, and ways to lower your rate and save money long term."
-image: "https://images.pexels.com/photos/8962686/pexels-photo-8962686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8962686.jpg"
 categories: ["Refinancing"]
 tags: ["refinance", "mortgage"]
 slug: "how-to-refinance-mortgage"

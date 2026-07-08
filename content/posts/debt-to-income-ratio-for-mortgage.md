@@ -3,7 +3,7 @@ title: "Debt To Income Ratio For Mortgage"
 date: 2026-05-21T21:28:12.496377+00:00
 draft: false
 description: "Debt to income ratio is a key metric lenders use to determine mortgage eligibility. Learn how it's calculated and how to improve yours for better loan approval "
-image: "https://images.pexels.com/photos/5466806/pexels-photo-5466806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5466806.jpg"
 categories: ["Qualification"]
 tags: ["debt", "income", "ratio", "mortgage"]
 slug: "debt-to-income-ratio-for-mortgage"

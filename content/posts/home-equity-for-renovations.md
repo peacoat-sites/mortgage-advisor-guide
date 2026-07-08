@@ -3,7 +3,7 @@ title: "Home Equity For Renovations"
 date: 2026-06-30T17:31:44.415953+00:00
 draft: false
 description: "Learn how to use home equity to fund renovations, boost property value, and choose the best loan option for your next home improvement project."
-image: "https://images.pexels.com/photos/7601075/pexels-photo-7601075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7601075.jpg"
 categories: ["Home Equity"]
 tags: ["home", "equity", "renovations"]
 author: "Ethan Chen"

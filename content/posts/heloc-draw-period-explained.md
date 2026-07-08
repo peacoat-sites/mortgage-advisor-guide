@@ -3,7 +3,7 @@ title: "Heloc Draw Period Explained"
 date: 2026-06-18T18:18:43.562418+00:00
 draft: false
 description: "Learn how the HELOC draw period works, how long it lasts, what payments look like, and how to make the most of your credit line before repayment begins."
-image: "https://images.pexels.com/photos/27254205/pexels-photo-27254205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/27254205.jpg"
 categories: ["Home Equity"]
 tags: ["heloc", "draw", "period", "explained"]
 author: "Maria Santos"

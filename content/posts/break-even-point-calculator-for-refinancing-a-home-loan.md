@@ -3,7 +3,7 @@ title: "Break Even Point Calculator For Refinancing A Home Loan"
 date: 2026-06-25T17:57:30.219220+00:00
 draft: false
 description: "Calculate your home loan refinance break even point instantly. See how long until savings offset closing costs and decide if refinancing makes financial sense."
-image: "https://images.pexels.com/photos/7578909/pexels-photo-7578909.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7578909.jpg"
 categories: ["Refinancing"]
 tags: ["break", "even", "point", "calculator", "refinancing"]
 author: "Ethan Chen"

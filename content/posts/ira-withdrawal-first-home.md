@@ -3,7 +3,7 @@ title: "IRA Withdrawal First Home"
 date: 2026-06-19T17:33:38.240101+00:00
 draft: false
 description: "Learn how to withdraw from your IRA for a first home purchase, including limits, tax rules, and how to avoid the 10% early withdrawal penalty."
-image: "https://images.pexels.com/photos/7578879/pexels-photo-7578879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7578879.jpg"
 categories: ["Getting Started"]
 tags: ["withdrawal", "first", "home"]
 author: "Susan Taylor"
