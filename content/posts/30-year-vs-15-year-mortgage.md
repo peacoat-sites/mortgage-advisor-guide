@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-
+lastmod: 2026-07-07
 ---
 A loan officer once slid two sheets across their desk in front of me. Same loan amount, same rate, two different timelines. The 30-year payment looked reasonable. The 15-year made me catch my breath. Most people grab the 30-year without thinking. I've watched it happen hundreds of times. But that four-second choice shapes your finances for the next two or three decades. It deserves better than four seconds.
 
@@ -58,6 +58,16 @@ The flexibility is tangible. With a 30-year, you can make extra principal paymen
 The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/owning-a-home/) has resources that walk you through evaluating loan products in the full context of your finances, not just interest rate isolation.
 
 ## Side-by-Side: How to Actually Compare These Loans
+
+| | 30-Year Fixed | 15-Year Fixed |
+|---|---|---|
+| Monthly payment | Lower | Higher |
+| Total interest paid | Significantly more | Significantly less |
+| Equity build speed | Slow | Fast |
+| Rate offered | Higher | Lower |
+| Payment flexibility | High | Low |
+| Financial cushion preserved | More | Less |
+| Best for | Variable income, other investments, budget-conscious buyers | High income, stable employment, debt-free buyers |
 
 You need real numbers before you can decide. Here's how to work through it:
 

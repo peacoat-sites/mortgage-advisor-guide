@@ -23,6 +23,7 @@ faqs:
    a: "A modification itself won't create a derogatory mark. The account stays current. However, some servicers add a comment code noting the modification, and future lenders may treat it as a risk signal depending on the loan type and their underwriting standards."
  - q: "How long does a forbearance stay on my credit report?"
    a: "The comment codes and notations a servicer adds during forbearance don't have a standard removal timeline the way a late payment (7 years) does. In practice, many notations fade into the background as your positive payment history builds back up. The bigger issue is that underwriters reviewing your full file can see the history regardless of how old it is."
+lastmod: 2026-07-07
 ---
 
 Most articles about mortgage forbearance and credit scores get the basic facts right and miss everything that actually matters. They'll tell you forbearance won't automatically tank your credit. True. They won't tell you what happens six months later when you apply for a new loan and the underwriter pulls your file.
@@ -31,7 +32,7 @@ That's where people get blindsided.
 
 ## What Forbearance Actually Does to Your Credit Report
 
-Under the CARES Act framework (still the standard model servicers follow), a properly documented forbearance agreement means your servicer should not report your account as delinquent to the credit bureaus during the forbearance period. Your account shows as "current." On paper, that sounds clean.
+Under the CARES Act framework (still the standard model servicers follow), a properly documented [forbearance agreement](/mortgage-forbearance-explained/) means your servicer should not report your account as delinquent to the credit bureaus during the forbearance period. Your account shows as "current." On paper, that sounds clean.
 
 Here's the catch: servicers can, and sometimes do, add a comment code to your tradeline. Something like "affected by natural disaster" or "forbearance plan." That notation doesn't directly lower your score. But it sits in your file like a flag, and every lender who pulls your credit sees it. Automated underwriting systems don't always penalize it. Human underwriters do.
 
@@ -41,13 +42,20 @@ The score itself may survive forbearance intact. The file tells a different stor
 
 ## The Exit Matters More Than the Entry
 
+| Exit Option | Credit Report Impact | Payment Structure | Best For |
+| --- | --- | --- | --- |
+| Lump-sum repayment | Cleanest; account remains current | All missed payments paid in one shot at end of forbearance | Borrowers with available funds; minimal credit friction |
+| Deferral | No late payment history; account stays current | Missed payments moved to end of loan | Credit preservation; note: deferred amount due at refinance or sale |
+| Loan modification | Signals debt restructuring under stress | Loan terms restructured; new notation possible | Borrowers needing permanent relief; conventional loans more forgiving than jumbo |
+| Repayment plan | Highest delinquency risk | Normal payment + portion of missed payments monthly | Budget-conscious borrowers only if numbers genuinely work |
+
 > **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
 Getting into forbearance is the easy part. Your servicer has a script for that call. Getting out cleanly is where borrowers make costly mistakes that echo for years.
 
-There are four typical exit options: a lump-sum repayment of all missed payments, a repayment plan spread over several months, a loan modification that restructures the terms, or a deferral that moves the missed payments to the end of the loan. Each one hits your credit report differently.
+There are four typical exit options: a lump-sum repayment of all missed payments, a repayment plan spread over several months, a [loan modification that restructures](/mortgage-loan-modification-options/) the terms, or a deferral that moves the missed payments to the end of the loan. Each one hits your credit report differently.
 
 A lump-sum repayment at the end of the forbearance period is the cleanest exit. If your account was reported as current throughout, and you pay everything owed in one shot, your credit file looks undisturbed. Most borrowers can't do this, which is fine. It's not the only good option.
 

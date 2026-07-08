@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-
+lastmod: 2026-07-07
 ---
 Most people think a credit score below 620 means the door's closed. You apply, get rejected, and wait years to try again. I believed that too, starting out. Then I spent sixteen years watching people with scores in the 500s close on homes while folks with 680s got turned away. The score matters, sure. But the full picture is messier, and far more hopeful, than most loan officers bother explaining.
 
@@ -41,6 +41,13 @@ Still, scores below 580 do shut off most conventional lending options. Here's wh
 
 ## Loan Programs That Work With Lower Credit Scores
 
+| Loan Type | Minimum Credit Score | Down Payment | Key Feature |
+| --- | --- | --- | --- |
+| FHA Loans | 500 (10% down); 580 (3.5% down) | 3.5%-10% | Federal backing; lender overlays common |
+| VA Loans | No official minimum (lenders typically 580-620) | 0% | For veterans/active-duty; favorable residual income rules |
+| USDA Loans | Typically 640 (manual underwriting possible below) | 0% | Geographic and income-restricted; 100% financing |
+| Non-QM Loans | As low as 500 | Varies | Outside QM guidelines; significantly higher rates/fees |
+
 > **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Most borrowers don't dig deep here because most loan officers only mention one or two options. There are actually several distinct paths.
@@ -57,7 +64,7 @@ Most borrowers don't dig deep here because most loan officers only mention one o
 
 The research on which compensating factors matter most is genuinely mixed, and it varies by loan type and lender. But after years of reading guidelines and watching underwriting decisions, a few things consistently move the needle.
 
-**Debt-to-income ratio (DTI)** might matter as much as your score. DTI is the percentage of your gross monthly income that goes toward debt payments, including the proposed mortgage. FHA generally allows up to 43% DTI, sometimes higher with strong compensating factors. If your score is low but your income is solid and your existing debts are minimal, that combination carries real weight. I've seen underwriters get creative for a borrower at 580 with a 32% DTI.
+**[Debt-to-income ratio (DTI)](/debt-to-income-ratio-for-mortgage/)** might matter as much as your score. DTI is the percentage of your gross monthly income that goes toward debt payments, including the proposed mortgage. FHA generally allows up to 43% DTI, sometimes higher with strong compensating factors. If your score is low but your income is solid and your existing debts are minimal, that combination carries real weight. I've seen underwriters get creative for a borrower at 580 with a 32% DTI.
 
 **Payment history in the last 12 to 24 months** is something underwriters examine separately from the summary score. A bankruptcy five years ago reads differently from a 90-day late payment six months ago. Showing that whatever happened is behind you, and that you've been on time since, matters more than most people realize.
 
@@ -71,7 +78,7 @@ The research on which compensating factors matter most is genuinely mixed, and i
 
 Don't just apply and hope. Work the variables first.
 
-**Step 1: Get your actual scores.** All three bureaus. Not the "educational" scores from free apps. Pull your official FICO scores, because that's what mortgage lenders use. AnnualCreditReport.com is the legitimate source for free reports. The scores themselves usually cost a small fee, but they're worth it.
+**Step 1: Get your actual scores.** All three bureaus. Not the "educational" scores from free apps. Pull your [official FICO scores](/credit-score-for-mortgage-approval/), because that's what mortgage lenders use. AnnualCreditReport.com is the legitimate source for free reports. The scores themselves usually cost a small fee, but they're worth it.
 
 **Step 2: Dispute errors.** About 25% of credit reports contain errors significant enough to affect a score, according to Federal Trade Commission research. Medical collections with wrong amounts, accounts that aren't yours, duplicate derogatory items. Dispute them. It's free and documented in the Fair Credit Reporting Act. A single successful dispute can move your score meaningfully.
 

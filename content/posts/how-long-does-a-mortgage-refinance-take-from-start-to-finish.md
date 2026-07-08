@@ -23,15 +23,25 @@ faqs:
    a: "No. It applies only to refinances of your primary residence. If you're refinancing a rental property or a second home, there's no rescission period and the lender can fund at closing. For primary residences, federal law requires lenders to wait three full business days after you sign before disbursing funds."
  - q: "What happens if my rate lock expires before the loan closes?"
    a: "You'll have two options: pay a lock extension fee (typically 0.125% to 0.25% of the loan amount per extension period) or let the rate float to whatever the current market rate is. Neither is good if you were counting on a specific rate. Ask your lender before you close who bears the cost if their timeline causes the lock to expire. Some lenders absorb that cost; many don't."
+lastmod: 2026-07-07
 ---
 
 Most borrowers assume a refinance is the "easy" version of getting a mortgage. You've done it before, the lender already knows the drill, and you're not buying anything new. Shouldn't it take a couple of weeks, tops?
 
 I thought the same thing, honestly, the first time I refinanced. I gave myself three weeks. I closed in 51 days and nearly lost my rate lock in the process. That experience taught me more about how this process actually works than 16 years of underwriting had, because when it's your own money on the line, you pay attention differently.
 
-The real answer to "how long does this take" is somewhere between 30 and 60 days for most borrowers, with 45 days being a reasonable planning assumption. But that range hides a lot. Streamline refinances can close in as little as 21 days. Cash-out refis during a busy rate market? I've seen those drag past 75 days. What determines where you fall in that range is almost never what borrowers expect.
+The real answer to "how long does this take" is somewhere between 30 and 60 days for most borrowers, with 45 days being a reasonable planning assumption. But that range hides a lot. [Streamline refinances](/streamline-refinance-options/) can close in as little as 21 days. Cash-out refis during a busy rate market? I've seen those drag past 75 days. What determines where you fall in that range is almost never what borrowers expect.
 
 ## The Stages, and Where Time Actually Gets Lost
+
+| Refinance Type | Timeline | Key Variables |
+| --- | --- | --- |
+| Streamline refinance | 21-27 days | No appraisal, reduced documentation, responsive borrower |
+| Rate-and-term refi (standard) | 27-45 days | Appraisal waiver, W-2 income, good credit, quick conditions response |
+| Cash-out refinance | 45-75 days | Full appraisal required, self-employed income, underwriting backlog, multiple condition rounds |
+| FHA Streamline | 22-28 days | Existing FHA loan, no new appraisal, pre-organized documents, fast underwriting |
+| Standard refi (no waiver) | 30-60 days | Full appraisal process, typical underwriting volume |
+| Busy rate market | 60-75+ days | High lender volume, appraisal delays (18+ days), underwriting backlog (10+ business days) |
 
 Here's what a standard refinance looks like broken into its real phases, not the marketing-friendly version:
 
@@ -53,7 +63,7 @@ Straightforward rate-and-term refi, salaried W-2 borrower, good credit, appraisa
 
 Cash-out refinance, self-employed borrower, lender ordered full appraisal, busy Q1 rate market → underwriting backlog of 12 business days, appraisal took 18 days, two rounds of conditions on business tax returns → closed in 63 days.
 
-FHA Streamline refinance (existing FHA loan, no new appraisal required, reduced documentation) → borrower pre-organized all documents, lender had 7-day underwriting turns → closed in 22 days.
+[FHA Streamline refinance](/streamline-refinance-options/) (existing FHA loan, no new appraisal required, reduced documentation) → borrower pre-organized all documents, lender had 7-day underwriting turns → closed in 22 days.
 
 ## What You Can Actually Control
 

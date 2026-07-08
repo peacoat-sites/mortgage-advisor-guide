@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-
+lastmod: 2026-07-07
 ---
 Your neighbor just mentioned she refinanced and cut her monthly payment by several hundred dollars. You're three years into a 30-year mortgage you took out when rates were near historic highs. Now you're wondering if you've been leaving money on the table.
 
@@ -32,6 +32,12 @@ Maybe you have. Or maybe refinancing right now would actually cost you more than
 Refinancing isn't free. It isn't automatic. It definitely isn't right for everyone. But when it's the right move at the right time, it can save you tens of thousands of dollars over the life of your loan, shorten your payoff timeline, or give you access to equity you've been building for years. Let me walk you through exactly how it works, what it costs, and how to decide if it makes sense for your specific situation.
 
 ## What Refinancing Actually Means (and What It Doesn't)
+
+| Refinance Type | Purpose | Effect on Loan Balance |
+| --- | --- | --- |
+| Rate-and-Term | Changes interest rate, loan term, or both | No change |
+| Cash-Out | Borrow more than currently owed | Increases |
+| Cash-In | Bring money to pay down balance | Decreases |
 
 A refinance replaces your existing mortgage with a brand-new loan. That's all it is. You're not modifying your current loan or getting a special deal from your lender. You're applying for a new mortgage, going through underwriting again, and paying closing costs again. The new loan pays off the old one, and you start fresh with new terms.
 
@@ -45,7 +51,7 @@ Here's the part that surprises almost every borrower I've worked with. Refinanci
 
 Those costs include lender origination fees, a new appraisal, title search and insurance, recording fees, prepaid interest, and possibly discount points if you're buying down your rate. Some lenders offer "no-closing-cost" refinances, but that's marketing speak. Those costs get rolled into the loan balance or absorbed into a higher interest rate. You're still paying them, just differently.
 
-This is why the break-even point calculation matters so much. It's how many months it takes for your monthly savings to recoup what you paid at closing.
+This is why the [break-even point calculation](/break-even-point-calculator-for-refinancing-a-home-loan/) matters so much. It's how many months it takes for your monthly savings to recoup what you paid at closing.
 
 **Simple break-even formula:**
 

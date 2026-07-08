@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-
+lastmod: 2026-07-07
 ---
 You find your dream home, negotiate a great price, and lock in a 6.875% rate on a Tuesday. By Friday, rates jump to 7.25%. You just saved yourself roughly $180 a month on a $400,000 loan. That's not luck. That's a rate lock working exactly as it should. But I've also watched the opposite play out: borrowers who locked too early, paid extension fees they didn't budget for, and in a few cases, lost their locks entirely because they didn't understand the expiration rules. A rate lock is one of the most powerful tools in a mortgage transaction, and it's one of the least explained.
 
@@ -38,6 +38,13 @@ What a lock isn't: it's not a guarantee that your loan will close. It's not prot
 Your job is to protect everything else: your credit score, your employment status, your debt load, your down payment amount. Change any of those significantly after locking, and a lender can reprice or even deny the loan outright. The lock covers the rate. Everything else is on you.
 
 ## Lock Periods: What the Options Actually Mean
+
+| Lock Period | Best Use Case | Typical Rate Adjustment | Realistic Timeline |
+| --- | --- | --- | --- |
+| 15-day | Refinances only (streamlined, documented) | Best rates | Not suitable for purchases |
+| 30-day | Purchases with complete files and appraised/waived properties | Baseline | Tight for standard transactions |
+| 45-day | Standard purchase transactions | +0.125% vs. 30-day | Industry default |
+| 60+ day | New construction, complex income, known delays | +0.125% to +0.25% vs. 30-day | Pricing premium applies |
 
 Most lenders offer lock periods of 15, 30, 45, or 60 days. Some will go to 90 days or longer, particularly for new construction. Here's what most loan officers won't tell you upfront: shorter locks usually come with better rates, and that difference can be real money.
 

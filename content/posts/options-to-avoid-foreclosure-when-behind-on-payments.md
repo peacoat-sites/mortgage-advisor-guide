@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-
+lastmod: 2026-07-07
 ---
 Being two months behind on your mortgage isn't a crisis yet. Three months is where lenders start the formal clock. Four months in with no contact? That's where I've watched borrowers lose options that were sitting right in front of them, unused, because nobody told them what to ask for.
 
@@ -60,6 +60,14 @@ If your loan is backed by Fannie Mae or Freddie Mac, ask specifically about the 
 One honest caveat: modifications typically extend the life of your loan, and the math on total interest paid over time gets uncomfortable. If you're 10 years into a 30-year mortgage and you get a new 30-year term, you've just added 10 years of payments. That's not necessarily wrong, but it should be a conscious decision, not a surprise.
 
 ## Reinstatement, Repayment Plans, and the Partial Claim
+
+| Option | Timeline | Best For | Key Consideration |
+| --- | --- | --- | --- |
+| Forbearance | Temporary pause | Short-term hardship (job loss, medical event, natural disaster) | Deferred payments still owed; does not erase debt |
+| Loan Modification | 30-90+ days | Permanent or long-term hardship | Extends loan term; increases total interest paid over life of loan |
+| Reinstatement | Immediate (if funds available) | Borrowers with lump sum available | Requires paying all missed payments, fees, and costs at once |
+| Repayment Plan | 6+ months | 1-2 months behind with stabilized income | Adds to regular payment; requires monthly budget cushion |
+| Partial Claim | Varies | Borrowers with FHA loans and temporary hardship | Program-specific eligibility rules |
 
 These three options are less discussed but genuinely useful depending on your situation.
 

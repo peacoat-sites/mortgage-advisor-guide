@@ -23,13 +23,13 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-
+lastmod: 2026-07-07
 ---
 You found the perfect house on a Tuesday. By Thursday, another buyer swept in with a pre-approval letter. No contingencies. No drama. Just a clean offer backed by paperwork that told the seller everything they needed to know. I've watched this scene dozens of times, and the buyers who walk away empty-handed always say the same thing: "I didn't think I needed to do that part yet." Pre-approval isn't something you handle after you find the house. It's the work you do so you're ready when the house finds you.
 
 ## What Pre-Approval Actually Means (and What It Doesn't)
 
-A lot of buyers confuse pre-qualification, pre-approval, and full loan commitment. They're not the same thing, and treating them as equivalent is one of the costlier mistakes I've seen.
+A lot of buyers confuse [pre-qualification](/how-to-get-pre-qualified-for-mortgage/), pre-approval, and full loan commitment. They're not the same thing, and treating them as equivalent is one of the costlier mistakes I've seen.
 
 Pre-qualification is the lightest touch. You tell a lender your income, debts, and assets. They run a quick calculation and hand you a number. No documents verified. No credit pull. It's basically a rough estimate based on your word, and any experienced seller's agent knows exactly how much that's worth.
 
@@ -73,13 +73,19 @@ If you want to get deeply organized, a home-buying workbook or financial plannin
 
 ## How Lenders Evaluate Your Application
 
+| Loan Type | Minimum Credit Score | Down Payment | DTI Limit | Key Notes |
+| --- | --- | --- | --- | --- |
+| Conventional (Fannie Mae/Freddie Mac) | 620 (competitive pricing: 740+) | 20% (lower = PMI required) | 45% (up to 50% in some cases) | Most common; rate depends on credit tier |
+| FHA | 580 (3.5% down) or 500 (10% down) | 3.5% to 10% | Varies | Lower score acceptance; mortgage insurance required |
+| Jumbo | Higher standards | Typically 10%+ | Tighter requirements | Exceeds FHFA conforming limits; stricter documentation |
+
 The lender's looking at five things, sometimes called the Five C's: capacity, capital, credit, collateral, and conditions. But in practical terms, what matters most in the pre-approval stage comes down to four numbers.
 
-**Debt-to-income ratio (DTI):** This is the big one. Your total monthly debt obligations divided by your gross monthly income. Most conventional loan programs want to see a total DTI at or below 45 percent, though some automated underwriting systems will approve borrowers up to 50 percent under the right circumstances. Your housing payment alone (principal, interest, taxes, and insurance) is your front-end DTI. Lenders watch both.
+**[Debt-to-income ratio (DTI)](/mortgage-qualification-requirements/):** This is the big one. Your total monthly debt obligations divided by your gross monthly income. Most conventional loan programs want to see a total DTI at or below 45 percent, though some automated underwriting systems will approve borrowers up to 50 percent under the right circumstances. Your housing payment alone (principal, interest, taxes, and insurance) is your front-end DTI. Lenders watch both.
 
 **Credit score:** For conventional loans backed by Fannie Mae or Freddie Mac, you'll generally need at least a 620, though competitive pricing usually requires 740 or higher. FHA loans accept scores down to 580 with 3.5 percent down, or as low as 500 with 10 percent down. These thresholds matter because every tier affects your rate.
 
-**Loan-to-value ratio (LTV):** How much you're borrowing compared to the property's value. Less money down means higher LTV means more risk for the lender. Put less than 20 percent down on a conventional loan and you'll pay private mortgage insurance (PMI) until you reach 20 percent equity.
+**Loan-to-value ratio (LTV):** How much you're borrowing compared to the property's value. Less money down means higher LTV means more risk for the lender. Put less than 20 percent down on a conventional loan and you'll pay [private mortgage insurance (PMI)](/mortgage-down-payment-options/) until you reach 20 percent equity.
 
 **Cash reserves:** After your down payment and closing costs, lenders want to see you're not wiped out. Two to six months of mortgage payments in reserve is a common benchmark, and some loan programs require it specifically.
 

@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-
+lastmod: 2026-07-07
 ---
 You already have the loan. You've been paying it for years. Your credit score has improved, rates have dropped, or both. So you think: refinance. Then you hit the wall. Paperwork, income verification, appraisals, the whole painful dance again. Here's what most coverage won't tell you: depending on your loan type, you might qualify for a streamline refinance that skips most of that friction. Not all of it, but most.
 
@@ -38,6 +38,12 @@ FHA calls it the FHA Streamline Refinance. VA calls it the Interest Rate Reducti
 What gets reduced varies. But across all three, you generally won't need to prove income, submit tax returns, or get a new appraisal. That alone removes hundreds of dollars in upfront costs and weeks of processing time.
 
 ## FHA Streamline Refinance: The Details That Matter
+
+| Program | Loan Type | Appraisal Required | Income Verification | Credit Check | Minimum Payment History | Net Tangible Benefit |
+| --- | --- | --- | --- | --- | --- | --- |
+| FHA Streamline | FHA | No (typically) | No (non-credit-qualifying) | No (non-credit-qualifying) | 6 months + 210 days | 0.5% reduction in rate + MIP |
+| VA IRRRL | VA | No | No | No | Current loan required | Lower rate or ARM→fixed |
+| USDA Streamlined Assist | USDA | No | No | No | 12 consecutive on-time | $50+ monthly P&I reduction |
 
 > **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -55,7 +61,7 @@ Here's the hard truth: FHA streamlines don't eliminate mortgage insurance premiu
 
 If you have a VA loan, the IRRRL is genuinely one of the most borrower-friendly refinance products available. No appraisal. No income verification. No employment check. You need a Certificate of Eligibility for the original VA loan, but you don't need a new one for the IRRRL.
 
-The requirements are tight but straightforward. The home must be your primary residence, though an exception exists if it was your primary residence when you originally obtained the VA loan and you've since moved. You must certify prior occupancy, not current occupancy. You need to demonstrate a net tangible benefit, typically a lower interest rate or a move from an ARM to a fixed rate. The new loan must reduce your monthly payment unless you're moving from an ARM to a fixed, in which case VA allows a payment increase.
+The requirements are tight but straightforward. The home must be your primary residence, though an exception exists if it was your primary residence when you originally obtained the VA loan and you've since moved. You must certify prior occupancy, not current occupancy. You need to demonstrate a net tangible benefit, typically a lower interest rate or a move from an ARM to a fixed rate. The new loan must [reduce your monthly payment](/when-does-it-make-sense-to-refinance-your-mortgage-in-2026/) unless you're moving from an ARM to a fixed, in which case VA allows a payment increase.
 
 The VA funding fee applies, currently 0.5% of the loan amount for IRRRLs. It can be rolled into the loan. Veterans with service-connected disabilities rated at 10% or higher are exempt.
 

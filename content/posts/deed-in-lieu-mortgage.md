@@ -23,9 +23,10 @@ faqs:
    a: "For a conventional loan, Fannie Mae guidelines currently require a four-year waiting period after a deed in lieu. FHA loans may allow as little as three years. There are some exceptions for extenuating circumstances. These timelines can change, so verify current guidelines with a HUD-approved housing counselor or lender when you're ready."
  - q: "Is a deed in lieu better than a short sale?"
    a: "Depends on your situation. A short sale can sometimes result in better credit outcomes and may provide more time in the home. But it requires finding a buyer, getting lender approval, and managing a drawn-out sale process. If you can't sell the property or don't want to go through that, a deed in lieu can be faster and more certain, assuming the lender agrees to it. Neither option is 'better' in the abstract."
+lastmod: 2026-07-07
 ---
 
-A deed in lieu of foreclosure is one of those options that most borrowers don't even know exists until they're already drowning. And by then, a lot of loan officers still won't bring it up proactively, not because they're hiding it, but because it's genuinely complicated and most servicers would rather push you toward a modification or short sale first.
+A deed in lieu of foreclosure is one of those options that most borrowers don't even know exists until they're already drowning. And by then, a lot of loan officers still won't bring it up proactively, not because they're hiding it, but because it's genuinely complicated and most servicers would rather push you toward a modification or [short sale](/short-sale-mortgage-impact/) first.
 
 So let me explain what it actually is, when it makes sense, and the landmines you need to watch for before you sign anything.
 
@@ -45,13 +46,23 @@ The other thing a deed in lieu does NOT automatically eliminate: junior liens. S
 
 ## When It Actually Makes Sense to Pursue This
 
+| Comparison Factor | Deed in Lieu | Foreclosure | Short Sale |
+| --- | --- | --- | --- |
+| Timeline | 90-180 days | Varies by state (months to over a year) | 3-6 months typically |
+| Credit Report Duration | 7 years | 7 years | 7 years |
+| Credit Score Impact | Significant (modest advantage vs. foreclosure) | Significant | Moderate to significant |
+| Deficiency Risk | Can be waived in writing | May apply (state-dependent) | Typically forgiven |
+| Borrower Control | High (negotiated terms) | Low (lender-initiated) | Moderate (requires buyer approval) |
+| Junior Lien Exposure | Risk if not cleared | Risk if not cleared | Risk if not cleared |
+| Relocation Assistance | Possible (negotiate) | None typically | None typically |
+
 > **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
 Not always. Let me be direct about that. A deed in lieu is the right move in a fairly specific set of circumstances.
 
-You're underwater on the home. You've exhausted forbearance. A loan modification isn't viable because the payment is unworkable even at a reduced rate. You don't have a buyer lined up for a short sale, or you simply don't have the emotional bandwidth for a multi-month short sale process with strangers walking through your house. You want this chapter to be over.
+You're underwater on the home. You've exhausted forbearance. A [loan modification isn't viable](/mortgage-loan-modification-options/) because the payment is unworkable even at a reduced rate. You don't have a buyer lined up for a short sale, or you simply don't have the emotional bandwidth for a multi-month short sale process with strangers walking through your house. You want this chapter to be over.
 
 In that scenario, a deed in lieu can actually be cleaner and faster than foreclosure, and in many cases the credit impact is slightly less severe than a completed foreclosure. Slightly. I want to be careful not to oversell this. Both events are major derogatory marks. The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) acknowledges that a deed in lieu, like a foreclosure, can remain on your credit report for seven years. The difference in credit score impact is real but modest, maybe 20 to 40 points depending on your overall profile. What it does give you is more control over the timeline.
 

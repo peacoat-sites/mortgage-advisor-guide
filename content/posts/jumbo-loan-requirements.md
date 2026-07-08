@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-
+lastmod: 2026-07-07
 ---
 You find a house you love. The price is $1.4 million. You have excellent credit, a substantial down payment, and a stable high income. You walk into the bank expecting smooth sailing. Then the loan officer explains that you're in "jumbo territory," and suddenly the conversation shifts. More documentation. Higher reserves. Stricter debt ratios. A different approval process entirely. A lot of borrowers are caught completely off guard by this, and it costs them time, deals, and sometimes the house itself.
 
@@ -39,7 +39,7 @@ This distinction matters before you start fantasizing about what you can afford.
 
 ## Credit Score Requirements for Jumbo Loans
 
-Forget the 620 minimum you may have heard about for conventional loans. Jumbo lenders typically want to see a credit score of at least 700, and most are more comfortable at 720 or above. Some portfolio lenders who specialize in high-balance loans will go down to 680, but you'll pay for it in rate, and the documentation requirements get even heavier.
+Forget the 620 minimum you may have heard about for conventional loans. Jumbo lenders typically want to see a credit score of at least 700, and most are more comfortable at 720 or above. Some [portfolio lenders who specialize](/portfolio-loan-mortgage/) in high-balance loans will go down to 680, but you'll pay for it in rate, and the documentation requirements get even heavier.
 
 Why the higher bar? The lender is on the hook. There's no government guarantee or agency backing here. A 760 score tells them you've handled credit responsibly for years. A 680 introduces meaningful uncertainty when you're asking to borrow $1.2 million.
 
@@ -47,7 +47,7 @@ Borrowers who believe they have excellent credit are often surprised by what sho
 
 ## Debt-to-Income Ratio: The Number That Can Kill Your Application
 
-This is where I've watched the most deals fall apart. Conventional loans allow debt-to-income (DTI) ratios up to 45%, sometimes 50% with compensating factors. Jumbo lenders are more conservative. Most want your total DTI, meaning all monthly debt obligations including the new mortgage payment divided by your gross monthly income, to come in at or below 43%. Many prefer 38% to 40%.
+This is where I've watched the most deals fall apart. [Conventional loans allow debt-to-income](/conventional-loan-requirements/) (DTI) ratios up to 45%, sometimes 50% with compensating factors. Jumbo lenders are more conservative. Most want your total DTI, meaning all monthly debt obligations including the new mortgage payment divided by your gross monthly income, to come in at or below 43%. Many prefer 38% to 40%.
 
 When you're borrowing $1 million or more, even a small percentage difference in DTI represents a significant change in qualifying income. A borrower with a $15,000 monthly gross income and a $6,000 mortgage payment is already at 40% DTI before counting car payments, student loans, or minimum credit card payments. Before you apply, understand how these ratios work. The full breakdown of [how debt-to-income ratio affects mortgage qualification](/debt-to-income-ratio-for-mortgage/) can help you calculate where you stand before the lender does.
 
@@ -55,7 +55,13 @@ Self-employed borrowers get an extra dose of scrutiny. Lenders typically average
 
 ## Down Payment and Reserves: How Much Cash You Actually Need
 
-Most jumbo lenders require at least 10% down, but 20% is far more common as a practical threshold. Below 20%, you're often looking at higher rates, additional conditions, or both. Some lenders won't touch jumbo loans with less than 20% at all. And unlike FHA or conventional loans, private mortgage insurance options for jumbos are limited, so a smaller down payment doesn't just mean PMI. It often means a materially worse loan structure overall.
+| Loan Type | Credit Score | DTI Limit | Down Payment | Reserves |
+| --- | --- | --- | --- | --- |
+| Conventional | 620+ | 45-50% | 3-5% | None typically required |
+| Jumbo | 700+ (720+ preferred) | 38-43% | 10-20% (20% common) | 6-18 months PITI |
+| FHA | 580+ | 43-50% | 3.5% | None typically required |
+
+Most jumbo lenders require at least 10% down, but 20% is far more common as a practical threshold. Below 20%, you're often looking at higher rates, additional conditions, or both. Some lenders won't touch jumbo loans with less than 20% at all. And unlike FHA or conventional loans, [private mortgage insurance options](/fha-vs-conventional-loan-which-is-better-for-first-time-buyers/) for jumbos are limited, so a smaller down payment doesn't just mean PMI. It often means a materially worse loan structure overall.
 
 Reserves are where borrowers who thought they had plenty of cash get blindsided. Jumbo lenders don't just want to know you can close. They want to know you can sustain the mortgage after closing. Standard reserve requirements run from 6 to 18 months of PITI (principal, interest, taxes, and insurance) in liquid or semi-liquid accounts. On a $1.2 million loan with a $7,500 monthly payment, 12 months of reserves means $90,000 sitting in verifiable accounts after your down payment and closing costs.
 

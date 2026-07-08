@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-
+lastmod: 2026-07-07
 ---
 You've got $80,000 in home equity and a major expense coming up. Maybe it's a kitchen remodel, a kid heading to college, or high-interest credit card debt you want to consolidate. You talk to your loan officer, and they mention two options almost in the same breath: a HELOC or a home equity loan. They make it sound interchangeable. It isn't. The difference between these two products can cost you thousands of dollars or, in some cases, save you thousands, depending entirely on how your situation actually unfolds. After 16 years of watching borrowers sign documents they didn't fully understand, I want to give you the real breakdown.
 
@@ -66,6 +66,17 @@ The downside is you're paying interest on the full amount from day one, even if 
 Closing costs matter too. Home equity loans typically carry closing costs similar to a first mortgage, often 2% to 5% of the loan amount. HELOCs may have lower upfront costs, though some lenders charge appraisal fees, origination fees, and annual maintenance fees. Always ask for the loan estimate documents for both products side by side.
 
 ## Side-by-Side Comparison: Which Fits Your Situation
+
+| Feature | HELOC | Home Equity Loan |
+|---|---|---|
+| Disbursement | Draw as needed (up to limit) | Lump sum at closing |
+| Interest Rate | Variable (tied to prime rate) | Fixed |
+| Monthly Payment | Interest-only during draw period; principal + interest during repayment | Fixed from day one |
+| Draw Period | Typically 10 years | N/A |
+| Repayment Period | Typically 10-20 years | Typically 5-30 years |
+| Closing Costs | Lower (may include appraisal, origination, annual maintenance fees) | 2-5% of loan amount |
+| Best For | Ongoing or uncertain expenses | Defined, one-time expenses |
+| Payment Predictability | Low (rate adjusts with prime) | High (fixed rate and payment) |
 
 Here's a clean comparison to cut through the noise:
 

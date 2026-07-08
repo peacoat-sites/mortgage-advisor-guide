@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-
+lastmod: 2026-07-07
 ---
 You close on your dream home in three days. The lender calls to confirm your homeowners insurance is in place. You give them the policy number, feeling prepared. Then they come back with a problem: your dwelling coverage limit is $180,000 but your loan balance is $340,000. The policy you bought doesn't meet their requirements, and closing is now in jeopardy. I've watched this scene play out more times than I'd like to admit. It's entirely avoidable once you understand what lenders actually require and why.
 
@@ -31,7 +31,7 @@ You close on your dream home in three days. The lender calls to confirm your hom
 
 Your lender requires homeowners insurance because they have a financial stake in your property. You borrowed $340,000, the house is the collateral, and if it burns down without coverage, their investment vanishes. The insurance requirement protects them first. Your protection is secondary.
 
-This is why lenders don't just want any policy. They want a policy that meets specific minimums, names them as a lienholder, and stays active for the life of the loan. The moment you let that policy lapse, even for 24 hours, you've technically violated your loan agreement. Most mortgage contracts give the lender the right to purchase insurance on your behalf at that point, which brings us to one of the more costly traps in homeownership: force-placed insurance.
+This is why lenders don't just want any policy. They want a policy that meets specific minimums, names them as a lienholder, and stays active for the life of the loan. The moment you let that policy lapse, even for 24 hours, you've technically violated your loan agreement. Most mortgage contracts give the lender the right to purchase insurance on your behalf at that point, which brings us to one of the more costly traps in homeownership: [force-placed insurance](/pmi-explained-mortgage/).
 
 ## The Dwelling Coverage Trap: What "Enough" Actually Means
 
@@ -67,7 +67,7 @@ I've seen clients discover force-placed insurance six months after a lapse they 
 
 ## How Escrow Accounts Factor Into the Insurance Requirement
 
-Most conventional loans with less than 20% down, and virtually all FHA and VA loans, require an escrow account. Your lender collects a monthly insurance premium cushion alongside your principal and interest payment, then pays your insurance company directly when the bill comes due. It removes the risk of a lapse due to a missed payment.
+Most conventional loans with less than 20% down, and virtually all FHA and VA loans, require an [escrow account](/mortgage-escrow-account-explained/). Your lender collects a monthly insurance premium cushion alongside your principal and interest payment, then pays your insurance company directly when the bill comes due. It removes the risk of a lapse due to a missed payment.
 
 The downside is real: your lender controls the timing and sometimes the selection of your coverage. If you switch insurers mid-year, you need to notify your lender's escrow department immediately. Otherwise they'll send a renewal payment to your old insurer. I've seen this create coverage gaps that triggered force-placed insurance despite the borrower doing everything right on their end.
 

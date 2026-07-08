@@ -12,6 +12,7 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 slug: "what-trumps-mortgage-credit-order-means-for-your-next-closing"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Picture this: you're three weeks from closing on a house you've been hunting for eight months, and your loan officer calls to say your appraisal came in low. The deal stalls. The seller gets nervous. You lose the house. I've seen this scenario play out dozens of times, and it's the kind of grinding, expensive friction that a sweeping executive order signed in March is now directly targeting.
 
@@ -33,7 +34,7 @@ What most people don't realize is that appraisal waivers already exist on a mean
 
 I've sat at more closing tables than I can count, and the ritual of signing your name 40 times in wet ink while a notary watches the clock is, to put it plainly, absurd. The technology to do this remotely and electronically has existed for years. The regulatory patchwork preventing it from becoming standard practice is what the executive order is now targeting.
 
-EO 14393 directs HUD, VA, USDA, and FHFA to eliminate unnecessary wet-signature requirements and standardize electronic signatures, e-notes, and remote online notarization across federally backed mortgage programs. According to analysis from Mayer Brown published March 27, 2026, this represents a significant push to harmonize closing standards that have varied wildly by agency, by state, and by investor.
+EO 14393 directs HUD, VA, USDA, and FHFA to eliminate unnecessary wet-signature requirements and standardize electronic signatures, e-notes, and [remote online notarization](/what-the-new-housing-act-means-for-your-mortgage/) across federally backed mortgage programs. According to analysis from Mayer Brown published March 27, 2026, this represents a significant push to harmonize closing standards that have varied wildly by agency, by state, and by investor.
 
 The practical timeline here matters. Standardization doesn't happen overnight. Lenders have to build systems, title companies have to adapt, and state laws have to align. But if you're closing on a refinance this fall rather than this June, there's a real possibility your experience looks meaningfully different, especially if you're using a lender that has already invested in remote online notarization infrastructure. Ask your loan officer what closing options they currently support. The answer tells you a lot about how forward-looking their operation is.
 
@@ -46,6 +47,13 @@ The order directs the CFPB to consider expanding the QM definition and to revise
 As noted by America's Credit Unions in their April 2026 regulatory analysis, the order also directs regulators to consider exempting small-mortgage loans from QM points-and-fees caps, which is significant for community banks and credit unions writing loans in rural markets and lower-price-point areas. These are exactly the institutions that have pulled back from mortgage lending in recent years because the compliance math doesn't work at loan sizes below $150,000.
 
 ## What None of This Changes Right Now
+
+| Change | Timeline | Current State | Potential Impact |
+| --- | --- | --- | --- |
+| Appraisal waivers expansion | Mid-July 2026 report; implementation TBD | Already exist for conforming loans with strong credit and equity | Reduce 1-3 week delays and $500-$800 costs for eligible buyers |
+| Electronic closing standardization | Summer 2026 directives; implementation fall 2026+ | Varies by agency, state, and lender | Replace wet-signature requirement; enable remote online notarization |
+| QM rule and TRID revision | Directives issued; rulemaking TBD | Tight QM box limits non-conforming borrowers | Expand eligibility for self-employed and complex-income borrowers; reduce non-material delay triggers |
+| Small-loan QM exemption | Under CFPB consideration | Currently subject to points-and-fees caps | Restore community bank and credit union lending in rural and lower-price markets |
 
 Here's where I'll be direct with you: as of June 2026, almost none of these changes are in effect yet. The FHFA report isn't even due until mid-July. Regulatory rulemaking, once a report is submitted, typically takes months to years to finalize. What you're looking at this summer is mostly signals and intentions, not implemented rules.
 

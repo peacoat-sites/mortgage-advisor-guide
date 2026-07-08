@@ -23,6 +23,7 @@ faqs:
    a: "Depends heavily on the project type and your local market. Exterior improvements and midrange kitchen updates tend to recover the most. High-end additions and luxury finishes in moderate markets often don't recoup their full cost at resale. If you're borrowing to build equity, run the math; if you're borrowing to improve how you live in the house, that's a different and perfectly valid calculus."
  - q: "Can I use a HELOC if I'm self-employed?"
    a: "Yes, but lenders will typically require two years of tax returns and may average your income across both years. If your income is variable or your write-offs are aggressive, your qualifying income may be lower than your actual earnings. This is an area where talking to a mortgage broker familiar with self-employed borrowers before you apply saves a lot of frustration."
+lastmod: 2026-07-07
 ---
 
 Most articles about using home equity for renovations spend three paragraphs explaining what equity is, as if you haven't been paying your mortgage for a decade. You know what equity is. What you probably don't know is which product actually makes sense for your situation, what the lenders won't tell you upfront, and where borrowers quietly wreck themselves on renovation projects every single year.
@@ -31,7 +32,13 @@ Let's fix that.
 
 ## The Three Products, Ranked by How Most People Should Actually Use Them
 
-You have three real options: a home equity loan (HEL), a home equity line of credit (HELOC), or a cash-out refinance. Every loan officer will explain how all three "work." Very few will tell you which one wins for renovations specifically.
+| Product | Best For | Draw Structure | Rate Type | Payment Shock Risk |
+| --- | --- | --- | --- | --- |
+| HELOC | Most renovations with phased disbursements | Draw as needed over 6-18 months | Variable | High at draw-to-repayment transition |
+| Home Equity Loan | Fixed-scope projects with locked contractor price | Lump sum upfront | Fixed | None |
+| Cash-Out Refinance | Rarely recommended currently | Lump sum upfront | Fixed | Rate replacement risk on entire mortgage |
+
+You have three real options: a [home equity loan](/heloc-vs-home-equity-loan-which-should-i-choose/) (HEL), a home equity line of credit (HELOC), or a cash-out refinance. Every loan officer will explain how all three "work." Very few will tell you which one wins for renovations specifically.
 
 Here's my honest ranking.
 
@@ -49,7 +56,7 @@ Here's my honest ranking.
 
 Variable rates are obvious. Here's what isn't.
 
-Draw periods and repayment periods are two completely different things, and the payment shock at the transition catches borrowers off guard more than almost anything else I saw in underwriting. A typical HELOC has a 10-year draw period where you pay interest only. Then the repayment period kicks in, usually 10 to 20 years, and suddenly you're paying principal plus interest on the full outstanding balance. I reviewed a file once where a borrower's monthly payment jumped from $380 to $1,140 on the same balance, purely from the draw-to-repayment transition. She didn't see it coming. Her loan officer had focused the entire closing conversation on the low initial rate.
+[Draw periods and repayment periods](/heloc-draw-period-explained/) are two completely different things, and the payment shock at the transition catches borrowers off guard more than almost anything else I saw in underwriting. A typical HELOC has a 10-year draw period where you pay interest only. Then the repayment period kicks in, usually 10 to 20 years, and suddenly you're paying principal plus interest on the full outstanding balance. I reviewed a file once where a borrower's monthly payment jumped from $380 to $1,140 on the same balance, purely from the draw-to-repayment transition. She didn't see it coming. Her loan officer had focused the entire closing conversation on the low initial rate.
 
 Ask your lender for the fully amortized payment at repayment start. Make them show you that number before you sign.
 

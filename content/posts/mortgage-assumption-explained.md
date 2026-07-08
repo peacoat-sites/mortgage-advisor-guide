@@ -23,9 +23,10 @@ faqs:
    a: "Plan for at least 45 to 90 days, sometimes longer. Servicers vary widely in how efficiently they process assumptions. Build that timeline into your purchase contract and communicate it clearly to all parties. A standard 30-day close is not realistic for most assumptions."
  - q: "Will assuming a mortgage affect my ability to get another loan later?"
    a: "An assumed mortgage will appear on your credit and count toward your debt-to-income ratio just like any other mortgage. For VA buyers substituting their entitlement, assuming a VA loan uses a portion of that entitlement just as originating a new VA loan would. If you later want to buy again using VA financing, check your remaining entitlement first."
+lastmod: 2026-07-07
 ---
 
-A borrower I worked with in the mid-2010s locked in a 30-year fixed at 3.25%. She's still in that house. And right now, with rates sitting comfortably above 6%, that loan is worth something most people haven't even thought to ask about.
+A borrower I worked with in the mid-2010s locked in a [30-year fixed](/30-year-vs-15-year-mortgage/) at 3.25%. She's still in that house. And right now, with rates sitting comfortably above 6%, that loan is worth something most people haven't even thought to ask about.
 
 You can take it with you when you sell. Or rather, the buyer can take it from you. That's mortgage assumption, and I've watched it go from an obscure footnote in loan documents to one of the most genuinely useful tools a buyer or seller can bring to a transaction.
 
@@ -34,6 +35,13 @@ Here's the frustrating part: most loan officers won't bring it up. Not because t
 So let's fix that.
 
 ## What Mortgage Assumption Actually Means
+
+| Loan Type | Assumable | Lender Approval Required | Rate Transfers | Key Consideration |
+| --- | --- | --- | --- | --- |
+| FHA | Yes | Yes | Yes | Buyer must qualify; balance gap may require second mortgage |
+| VA | Yes | Yes | Yes | Seller's entitlement may remain at risk if not formally released |
+| USDA | Yes | Yes | Yes | Buyer must qualify; balance gap may require second mortgage |
+| Conventional (Fannie Mae/Freddie Mac) | No | N/A | N/A | Almost universally not assumable |
 
 When you assume a mortgage, you're taking over someone else's existing loan. Their balance, their interest rate, their remaining term. You step into their shoes with the lender, and they step out. The original terms survive intact.
 

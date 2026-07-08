@@ -23,9 +23,9 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-
+lastmod: 2026-07-07
 ---
-You're sitting at the closing table, flipping through a stack of documents, and you spot a line item you don't recognize: "PMI premium, $187/month." Nobody mentioned this during your pre-approval call. Your loan officer brushes past it like it's nothing. But over the next seven years? That's more than $15,000 leaving your pocket for a product that protects the lender, not you. That's the reality of private mortgage insurance, and it catches buyers off guard every single day.
+You're sitting at the [closing](/mortgage-closing-costs-explained/) table, flipping through a stack of documents, and you spot a line item you don't recognize: "PMI premium, $187/month." Nobody mentioned this during your pre-approval call. Your loan officer brushes past it like it's nothing. But over the next seven years? That's more than $15,000 leaving your pocket for a product that protects the lender, not you. That's the reality of private mortgage insurance, and it catches buyers off guard every single day.
 
 ## What PMI Actually Is (and Who It Really Protects)
 
@@ -35,7 +35,7 @@ If you default on your loan, the PMI provider reimburses the lender for a portio
 
 So why does PMI exist at all? Lenders see loans with less than 20% down as higher risk. The data backs this up: borrowers with less equity in the game default at higher rates, especially when markets turn and equity evaporates overnight. PMI lets lenders transfer that risk to an insurance company instead of absorbing it themselves. And they pass the cost directly to you.
 
-PMI typically applies to conventional loans. FHA loans have their own version called mortgage insurance premium (MIP). VA and USDA loans use different fee structures entirely. If you're taking out a conventional loan and putting down less than 20%, you're almost certainly going to carry PMI.
+PMI typically applies to conventional loans. FHA loans have their own version called [mortgage insurance premium (MIP)](/mortgage-insurance-vs-life-insurance/). VA and USDA loans use different fee structures entirely. If you're taking out a conventional loan and putting down less than 20%, you're almost certainly going to carry PMI.
 
 ## How Much PMI Costs and What Drives the Price
 
@@ -43,13 +43,20 @@ PMI isn't one flat rate. It's calculated based on several variables, and the dif
 
 Your loan-to-value ratio (LTV) and credit score are the two big drivers. Lenders and PMI providers use these together to determine your rate. LTV is simple math: loan amount divided by the home's appraised value. Put down 10%, and your LTV is 90%. Put down 5%, and your LTV is 95%.
 
-Annual PMI premiums typically run somewhere between 0.2% and 2% of your original loan amount, though your actual rate depends on your specific lender, credit profile, and the PMI provider they choose. On a $350,000 loan at 0.5% annually, you're looking at $1,750 per year, or about $146 a month. Jump to 1.5% and that same loan costs $5,250 per year. That's $437 monthly stacked on top of principal, interest, taxes, and homeowners insurance.
+Annual PMI premiums typically run somewhere between 0.2% and 2% of your original loan amount, though your actual rate depends on your specific lender, credit profile, and the PMI provider they choose. On a $350,000 loan at 0.5% annually, you're looking at $1,750 per year, or about $146 a month. Jump to 1.5% and that same loan costs $5,250 per year. That's $437 monthly stacked on top of principal, interest, taxes, and [homeowners insurance](/homeowners-insurance-mortgage-requirement/).
 
 Borrowers with credit scores below 680 putting down only 5% sit at the expensive end of that range. A borrower with a 760+ score putting down 15% pays considerably less. The CFPB's [owning a home resources](https://www.consumerfinance.gov/owning-a-home/) include tools that show how your credit score affects loan costs across the board, including PMI. Spend some time with them before you start shopping.
 
 Here's something most borrowers miss: PMI rates vary between lenders because they use different PMI providers, and those providers file their own rate tables. Shop one lender, you see one PMI rate. Shop three or four lenders, you might find meaningfully different monthly costs.
 
 ## The Four Types of PMI You Might Encounter
+
+| PMI Type | How You Pay | Cancelable | Best For | Key Trade-off |
+| --- | --- | --- | --- | --- |
+| Borrower-paid PMI (BPMI) | Monthly premium added to mortgage payment | Yes, at 20% equity | Borrowers planning to stay 5+ years | Higher monthly payment |
+| Lender-paid PMI (LPMI) | Rolled into higher interest rate | No | Short-term holders (under 5 years) | Permanent rate increase for life of loan |
+| Single-premium PMI | Full cost paid upfront at closing | Not refundable | Borrowers with cash to deploy | Loss of prepaid insurance if you sell/refinance early |
+| Split-premium PMI | Partial upfront + smaller monthly premium | Yes | Borrowers with some cash but limited monthly budget | Moderate monthly payment with upfront cost |
 
 PMI doesn't come in just one flavor. Your loan officer may offer options, or they may default to one type without explaining the others exist.
 

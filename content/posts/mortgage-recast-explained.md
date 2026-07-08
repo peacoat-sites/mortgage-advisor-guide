@@ -23,6 +23,7 @@ faqs:
    a: "Saving on mortgage interest isn't a taxable event. What changes after a recast is that you're paying less interest each month, which means your potential mortgage interest deduction would also be smaller. Whether that matters to you depends on whether you're itemizing deductions. Worth a quick conversation with your tax preparer."
  - q: "What if my servicer doesn't offer recasting?"
    a: "You have a few options. You can continue making extra principal payments without recasting (your loan will pay off sooner, even if your required monthly payment doesn't change). Or, if reducing your monthly payment is the priority, refinancing may be worth considering despite the higher cost. Some borrowers also find that when they push their servicer, a recast option does exist but wasn't being offered proactively."
+lastmod: 2026-07-07
 ---
 Most borrowers have never heard of a mortgage recast. Their loan officer didn't mention it. The real estate agent definitely didn't. And that's frustrating, because for the right person in the right situation, it's genuinely one of the most underused tools available.
 
@@ -52,6 +53,16 @@ If your cash flow is tight and a lower required payment would give you breathing
 
 ## What a Recast Can't Do
 
+| Scenario | Recast | Refinance |
+| --- | --- | --- |
+| Typical fee | $150-$500 | 2-3% of loan balance (~$8,000-$12,000 on $400k) |
+| Interest rate | Stays the same | Can be lowered if rates have dropped |
+| Loan term | Stays the same | Usually resets to 30 years |
+| Monthly payment | Recalculated lower | May decrease if new rate is lower |
+| Appraisal required | No | Yes |
+| Best use case | Large lump-sum principal payment, keep current rate | Rates have dropped significantly |
+| Eligible loan types | Most conventional conforming loans | FHA, VA, conventional, jumbo (varies) |
+
 It won't lower your interest rate. If you're at 7.25% and rates have dropped, recasting does nothing for you. Refinancing is what you need.
 
 It also won't work on every loan type. FHA loans and VA loans are generally not eligible. Conventional loans serviced by most major lenders (loans conforming to [Federal Housing Finance Agency](https://www.fhfa.gov/) guidelines) typically are, but you have to check with your specific servicer because this isn't a federally mandated feature. It's a lender option, and not everyone offers it. Call first. Some servicers also have a minimum lump-sum requirement, often $5,000 to $10,000, before they'll recast.
@@ -62,7 +73,7 @@ Jumbo loans are all over the map. Some jumbo lenders embrace recasts. Others won
 
 If you're weighing a recast against a refinance, the math is straightforward. Refinancing today typically costs 2-3% of your loan balance in closing costs. On a $400,000 loan, that's $8,000 to $12,000 out of pocket, and you're usually resetting to a fresh 30-year term, which adds years of interest back. A recast at $250 in fees, with no term extension? It's not even a competition, assuming your current rate is acceptable.
 
-It gets more complicated when you're sitting on a large sum and deciding between recasting, refinancing, or investing the money. Be skeptical of anyone giving you a quick answer. Whether paying down your mortgage makes more financial sense than investing depends on your rate, risk tolerance, tax situation, and how close you are to retirement. Run both scenarios, and if they're close, talk to a fee-only financial planner.
+It gets more complicated when you're sitting on a large sum and deciding between recasting, refinancing, or investing the money. Be skeptical of anyone giving you a quick answer. Whether [paying down your mortgage](/how-to-set-up-biweekly-mortgage-payments-to-pay-off-faster/) makes more financial sense than investing depends on your rate, risk tolerance, tax situation, and how close you are to retirement. Run both scenarios, and if they're close, talk to a fee-only financial planner.
 
 A good mortgage amortization workbook shows exactly how your balance and payments shift under different scenarios. [This type of financial planning workbook on Amazon](https://www.amazon.com/s?k=mortgage+amortization+workbook) can help you map it out visually (note: the site may earn a commission from Amazon links).
 

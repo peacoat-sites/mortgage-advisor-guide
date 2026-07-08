@@ -23,9 +23,9 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-
+lastmod: 2026-07-07
 ---
-You saved up $12,000, your credit score sits at 620, and the conventional loan officer just told you to come back when you have 20% down. Sound familiar? That scenario plays out in loan offices across the country every week, and it's exactly the situation FHA loans were designed to solve. But here's what most people miss: FHA loans aren't just a consolation prize for buyers who can't qualify for conventional financing. For the right borrower, they're a genuinely strategic choice. The key is understanding what you're actually getting, including the parts your loan officer might not volunteer.
+You saved up $12,000, your credit score sits at 620, and the [conventional loan](/conventional-loan-requirements/) officer just told you to come back when you have 20% down. Sound familiar? That scenario plays out in loan offices across the country every week, and it's exactly the situation FHA loans were designed to solve. But here's what most people miss: FHA loans aren't just a consolation prize for buyers who can't qualify for conventional financing. For the right borrower, they're a genuinely strategic choice. The key is understanding what you're actually getting, including the parts your loan officer might not volunteer.
 
 ## What Is an FHA Loan and Who Backs It?
 
@@ -36,6 +36,12 @@ This program has been around since 1934, created specifically to open homeowners
 One thing to understand upfront: because the FHA is backing the loan, they set minimum standards. Your lender can be stricter if they want. This is called a "lender overlay," and it means two lenders offering FHA loans might have different effective requirements even though they're both technically FHA-approved. Shop around. Don't assume one rejection means you're out.
 
 ## FHA Loan Requirements: What You Actually Need to Qualify
+
+| Credit Score Range | Minimum Down Payment | FHA Eligibility |
+| --- | --- | --- |
+| 580 or above | 3.5% | Eligible |
+| 500 to 579 | 10% | Eligible |
+| Below 500 | N/A | Not eligible |
 
 > **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -63,7 +69,7 @@ FHA requires two years of employment history. It doesn't have to be the same emp
 
 **Property Requirements**
 
-The home itself has to meet FHA's minimum property standards. It must be your primary residence. FHA won't finance investment properties or vacation homes. The home also needs to pass an FHA appraisal, which is stricter than a conventional one. The appraiser checks both market value and basic habitability. Peeling paint, missing handrails, roof problems, structural issues, all of it can cause an FHA appraisal to fail. In my experience, sellers sometimes balk at FHA offers for exactly this reason, especially in competitive markets.
+The home itself has to meet FHA's minimum property standards. It must be your primary residence. FHA won't finance [investment properties](/investment-property-mortgage/) or vacation homes. The home also needs to pass an FHA appraisal, which is stricter than a conventional one. The appraiser checks both market value and basic habitability. Peeling paint, missing handrails, roof problems, structural issues, all of it can cause an FHA appraisal to fail. In my experience, sellers sometimes balk at FHA offers for exactly this reason, especially in competitive markets.
 
 ## Loan Limits: How Much Can You Actually Borrow?
 

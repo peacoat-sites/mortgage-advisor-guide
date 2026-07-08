@@ -5,6 +5,7 @@ date: 2026-06-10
 slug: "closing-cost-estimator"
 description: "Estimate your home closing costs by state and loan type. See an itemized breakdown of every fee before you close."
 categories: ["mortgage-tools"]
+lastmod: 2026-07-07
 ---
 Closing costs catch most buyers off guard. On a $400,000 purchase, you're looking at $8,000–$20,000 depending on your state, loan type, and what your specific lender decides to charge. The calculator below breaks it down line by line.
 
@@ -32,6 +33,12 @@ Closing costs catch most buyers off guard. On a $400,000 purchase, you're lookin
 - **Homeowner's insurance**, lenders require 12–14 months prepaid at closing.
 
 ## Loan-Type Differences
+
+| Loan Type | Upfront Insurance/Fee | Rate | Notes |
+| --- | --- | --- | --- |
+| FHA loans | Mortgage Insurance Premium (MIP) | 1.75% of loan amount | Can be rolled into the loan |
+| VA loans | Funding fee | 1.25-3.3% depending on down payment | First-time buyers with <5% down: 2.15%; disabled veterans exempt |
+| Conventional loans | PMI (if down payment <20%) | Varies by lender and credit profile | Required only if putting down less than 20% |
 
 **FHA loans** tack on an upfront mortgage insurance premium (MIP) of 1.75% of the loan amount. On a $350,000 loan that's $6,125, and you can roll it into the loan itself.
 

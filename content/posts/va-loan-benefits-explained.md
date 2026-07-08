@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-
+lastmod: 2026-07-07
 ---
 You served four years in the Army, separated honorably, and now you're sitting across from a loan officer who just told you to put 10% down on a $380,000 home. That's $38,000 out of pocket before closing costs, before moving expenses, before anything. What he didn't tell you is that you likely qualify for a loan that requires zero down, charges no private mortgage insurance, and carries one of the most competitive interest rates available to any borrower anywhere. That loan is the VA home loan, and after 16 years of reviewing mortgage files, I'm still amazed at how many eligible borrowers either don't know it exists or don't understand what it actually offers.
 
@@ -33,7 +33,7 @@ The VA loan isn't a loan from the government. That's the first misconception to 
 
 The program has been around since 1944, when the original GI Bill created it to help returning World War II veterans buy homes and build economic stability. Since then, it has helped over 28 million veterans and service members purchase homes, according to VA data.
 
-Three core features separate it from conventional or FHA loans: no down payment, no private mortgage insurance (PMI), and generally lower interest rates. Remove those three cost drivers and you're looking at a meaningfully different monthly payment and a dramatically lower barrier to entry.
+Three core features separate it from [conventional or FHA loans](/fha-vs-conventional-loan-which-is-better-for-first-time-buyers/): no down payment, no private mortgage insurance (PMI), and generally lower interest rates. Remove those three cost drivers and you're looking at a meaningfully different monthly payment and a dramatically lower barrier to entry.
 
 Here's what I want to be clear about: the VA loan is not a charity product or a risky exotic loan. It has some of the lowest default rates in the mortgage industry. Lenders who actively originate VA loans know this. It's a well-structured, well-regulated product that simply reflects the benefit Congress decided to give people who served.
 
@@ -41,7 +41,7 @@ Here's what I want to be clear about: the VA loan is not a charity product or a 
 
 Eligibility is the first question everyone has, and the answer is more accessible than most people think. The VA determines eligibility primarily through service history. You'll need to obtain a Certificate of Eligibility (COE), which the VA issues based on your discharge documents or active duty status.
 
-Here are the general service thresholds, though you should always confirm current requirements directly with the VA or a HUD-approved housing counselor:
+Here are the general service thresholds, though you should always confirm current requirements directly with the VA or a [HUD-approved housing counselor](/fha-loan-requirements-and-benefits/):
 
 - **Active duty:** Generally 90 continuous days of active service
 - **Wartime veterans:** 90 days of active service during a designated war period
@@ -54,6 +54,15 @@ The type of discharge matters. An honorable or general discharge typically quali
 You can apply for your COE online through the VA's eBenefits portal, through your lender, or by mailing VA Form 26-1880. Many VA-approved lenders can pull the COE electronically in minutes during the application process.
 
 ## The No-Down-Payment Benefit: Real Numbers, Real Impact
+
+| Loan Type | Down Payment (%) | Down Payment ($) | Monthly PMI Estimate | Upfront Cash Needed (Approx.) |
+|---|---|---|---|---|
+| Conventional (80/20) | 20% | $70,000 | None | $70,000+ closing costs |
+| Conventional (5% down) | 5% | $17,500 | ~$150-200/mo | $17,500+ closing costs |
+| FHA (3.5% down) | 3.5% | $12,250 | ~$150-175/mo (MIP) | $12,250+ closing costs |
+| VA Loan | 0% | $0 | None | Closing costs only |
+
+*Note: These figures are illustrative. Actual PMI, MIP, and closing cost amounts vary based on lender, credit score, loan term, and market conditions. Always get a Loan Estimate from your lender.*
 
 Let's put numbers around this because "no down payment" doesn't communicate what it actually means in your bank account.
 
@@ -82,7 +91,7 @@ For a first-time use with no down payment in 2024, the funding fee is 2.15% of t
 
 If you put 5% down, the fee drops to 1.5%. At 10% or more, it drops to 1.25%.
 
-Here's the critical exemption: veterans receiving VA disability compensation of any amount are exempt from the funding fee entirely. Surviving spouses of veterans who died in service are also exempt. If you're eligible for this exemption, the VA loan becomes even more financially compelling. Make sure your lender knows your disability status before closing.
+Here's the critical exemption: veterans receiving [VA disability compensation](/va-loan-benefits-and-eligibility-requirements-for-veterans/) of any amount are exempt from the funding fee entirely. Surviving spouses of veterans who died in service are also exempt. If you're eligible for this exemption, the VA loan becomes even more financially compelling. Make sure your lender knows your disability status before closing.
 
 Rolling the fee into the loan means you're financing it, which adds to your balance and your total interest cost over the life of the loan. Some borrowers prefer to pay it at closing instead. Run the math with your lender, or use a mortgage calculator to compare total cost scenarios. *(Disclosure: this site may earn a commission from qualifying purchases.)*
 

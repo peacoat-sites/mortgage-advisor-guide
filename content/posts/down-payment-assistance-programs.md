@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-
+lastmod: 2026-07-07
 ---
 You saved $8,000 and thought you were finally close. Then you ran the actual numbers and realized that a 20% down payment on a median-priced home in your area looks more like $60,000 or $70,000. That gap can feel crushing.
 
@@ -50,7 +50,7 @@ Second mortgages are more common. You borrow the down payment funds as a subordi
 
 Matched savings programs (sometimes called Individual Development Accounts) work differently. You save a set amount over time and the program matches your contribution, sometimes two or three dollars for every dollar you put in. They require patience but can build equity habits alongside the cash.
 
-Here's what loan officers sometimes skip over: second mortgage DPA adds to your total debt. It affects your debt-to-income ratio, one of the primary numbers underwriters use to approve or deny you. If a lender is pitching DPA as entirely free money with zero tradeoffs, ask hard questions about how the second mortgage payment (or deferred balance) factors into your DTI.
+Here's what loan officers sometimes skip over: second mortgage DPA adds to your total debt. It affects your [debt-to-income ratio](/mortgage-qualification-requirements/), one of the primary numbers underwriters use to approve or deny you. If a lender is pitching DPA as entirely free money with zero tradeoffs, ask hard questions about how the second mortgage payment (or deferred balance) factors into your DTI.
 
 ---
 
@@ -62,9 +62,9 @@ Most buyers assume they won't qualify. They're usually wrong.
 
 Income limits are the biggest filter. Most programs target low-to-moderate income households, but "moderate" is defined relative to your area's median income, not some national number. In a high-cost metro, a household earning $95,000 might still fall under 120% of area median income and qualify. The [Federal Housing Finance Agency](https://www.fhfa.gov/) publishes data on area median incomes that housing agencies use to set thresholds, and the numbers shift annually.
 
-First-time buyer requirements are common but not universal. The technical definition most programs use includes anyone who hasn't owned a primary residence in the past three years. Divorced? Rented for several years after selling? You may qualify as a "first-time buyer" again. This surprises people constantly.
+First-time buyer requirements are common but not universal. The technical definition most programs use includes anyone who hasn't owned a primary residence in the past three years. Divorced? Rented for several years after selling? You may qualify as a "[first-time buyer](/first-time-homebuyer-programs/)" again. This surprises people constantly.
 
-Credit score minimums vary by program and loan type. Many DPA programs pair with FHA loans, which have more flexible credit requirements than conventional loans. Some work with scores as low as 620, though the full picture of your credit still matters. A 620 with several recent late payments reads very differently to an underwriter than a 620 with a thin but clean history.
+Credit score minimums vary by program and loan type. Many DPA programs pair with [FHA loans](/how-to-get-a-mortgage-first-time-buyer/), which have more flexible credit requirements than conventional loans. Some work with scores as low as 620, though the full picture of your credit still matters. A 620 with several recent late payments reads very differently to an underwriter than a 620 with a thin but clean history.
 
 Other eligibility factors programs commonly evaluate:
 

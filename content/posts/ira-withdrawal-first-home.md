@@ -12,12 +12,18 @@ author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 slug: "ira-withdrawal-first-home"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 You're sitting at a closing table, home of your dreams within reach, and your loan officer casually mentions you could pull from your IRA penalty-free to cover the down payment. Sounds like a lifeline. I've watched borrowers light up at that suggestion, and then sign paperwork they didn't fully understand, only to get hit with a tax bill that genuinely shocked them.
 
 Here's what that loan officer probably didn't explain: "penalty-free" and "tax-free" are not the same thing. Not even close.
 
 ## What the IRS Actually Allows
+
+| IRA Type | Contributions | Earnings | First-Home Exemption | Best For |
+| --- | --- | --- | --- | --- |
+| Traditional IRA | Subject to income tax on withdrawal | Subject to income tax on withdrawal | $10,000 lifetime, penalty-free | Borrowers in lower tax brackets |
+| Roth IRA | Tax-free & penalty-free anytime | Tax-free & penalty-free if 5-year rule met | $10,000 lifetime, penalty-free | Borrowers wanting true tax-free access |
 
 The IRS gives first-time homebuyers a specific exemption from the 10% early withdrawal penalty on IRA distributions. You can take up to $10,000 lifetime from a traditional IRA before age 59½ for a "first-time home purchase" without owing that penalty. The $10,000 is a lifetime cap, not an annual one. Use $6,000 now, and you've got $4,000 left for the rest of your life, even if you buy another qualifying home decades from now.
 

@@ -12,7 +12,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-
+lastmod: 2026-07-07
 ---
 You already know the short sale saved you. What you might be wondering now is how badly it's going to cost you on the other side.
 
@@ -29,6 +29,13 @@ A short sale doesn't have its own special credit reporting category. What hits y
 Here's what matters more than the exact score drop: how quickly you rebuild. Someone who starts aggressively managing credit the month after the short sale closes, paying everything on time, keeping utilization low, can be in solid shape within two to three years. I've seen it happen. The credit recovery and the mortgage waiting period often run concurrently, which is actually good news.
 
 ## The Waiting Periods, Loan by Loan
+
+| Loan Type | Waiting Period | Down Payment Min | Extenuating Circumstances | Notes |
+| --- | --- | --- | --- | --- |
+| Conventional (Fannie Mae/Freddie Mac) | 4 years | Standard | 2 years with 10% down | Requires documentation of nonrecurring events |
+| FHA | 3 years | 3.5% | Not available | Most accessible after waiting period |
+| VA | 2 years | 0% (with entitlement) | N/A | Most borrower-friendly timeline |
+| USDA | 3 years | 0% | N/A | Limited to eligible rural areas |
 
 > **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

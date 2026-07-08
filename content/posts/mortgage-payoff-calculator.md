@@ -23,6 +23,7 @@ faqs:
    a: "It depends on your interest rate, your actual investment behavior, your tax situation, and your risk tolerance. For most people carrying a mortgage at today's rates, paying extra toward principal offers a guaranteed return equivalent to your mortgage rate. That's meaningful. But anyone with high-interest debt or unmaxed employer 401(k) matching should address those first."
  - q: "How do I find my exact remaining loan balance?"
    a: "Look at your most recent mortgage statement. The number labeled 'principal balance' or 'outstanding balance' is what you want. Don't use your original loan amount or an equity estimate from a real estate website. Those won't give you accurate results in a payoff calculator."
+lastmod: 2026-07-07
 ---
 
 You've probably landed here because you're staring at your mortgage statement, wondering what would actually happen if you paid an extra $200 a month. Or maybe you just got a bonus and you're trying to decide whether to throw it at the principal or put it in the market. Either way, you're asking exactly the right question, and a mortgage payoff calculator is the tool that can finally give you a real answer instead of a gut feeling.
@@ -51,7 +52,7 @@ Beyond the basics, here's what separates a useful calculator from a superficial 
 
 - **Extra monthly payment:** The most common scenario. You commit to paying an additional fixed amount every month.
 - **One-time lump sum:** You apply a windfall (a bonus, an inheritance, the sale of something) directly to principal on a specific date.
-- **Biweekly payments:** Instead of one monthly payment, you pay half your payment every two weeks. You end up making 26 half-payments per year, which equals 13 full payments instead of 12. That one extra payment per year has more impact than most people expect.
+- **[Biweekly payments](/how-to-set-up-biweekly-mortgage-payments-to-pay-off-faster/):** Instead of one monthly payment, you pay half your payment every two weeks. You end up making 26 half-payments per year, which equals 13 full payments instead of 12. That one extra payment per year has more impact than most people expect.
 
 Some calculators let you combine these scenarios. That's the one you want. [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) include some solid tools and explanations if you want to cross-reference what you're finding.
 
@@ -67,12 +68,19 @@ That said, if you have high-interest credit card debt, pay that first. Always. A
 
 ## Running the Numbers: A Practical Walkthrough
 
+| Scenario | Extra Payment | Timeline Impact | Interest Saved | Notes |
+| --- | --- | --- | --- | --- |
+| Baseline (no extra) | $0/month | 24 years | $0 | Minimum payments only |
+| Monthly extra | $300/month | ~5-6 years shorter | $60,000-$80,000 | Depends on exact loan terms |
+| Biweekly payments | 26 half-payments/year | 1+ year shorter | Varies | Equivalent to 13 full payments annually |
+| Lump sum + monthly | $5,000 today + $100/month | Compounded | Higher than monthly alone | Early lump sums have outsized impact |
+
 Open any mortgage payoff calculator (there are good free ones from major personal finance sites). Enter the following in this order:
 
 1. Your current principal balance (from your statement)
 2. Your interest rate (the actual rate on your loan, not the APR)
 3. The number of months remaining on your loan (if you have 18 years left, that's 216 months)
-4. Your current monthly principal and interest payment (not including taxes and insurance escrow)
+4. Your current monthly principal and interest payment (not including [taxes and insurance escrow](/what-is-an-escrow-account-on-a-mortgage-and-how-it-works/))
 
 Get your baseline payoff date first. Write it down. Then start experimenting.
 

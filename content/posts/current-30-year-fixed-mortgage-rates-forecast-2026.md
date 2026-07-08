@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-
+lastmod: 2026-07-07
 ---
 Nobody knows exactly where mortgage rates are going in 2026. Not me, not the Fed, not the economists at Goldman Sachs who get paid very well to be wrong on a regular basis. What I *can* do is walk you through what the forecasts actually say, why they disagree with each other, and, more practically, how to think about the timing question if you're trying to decide whether to buy, wait, or refinance in the next 12 to 18 months.
 
@@ -53,7 +53,7 @@ One thing forecasters broadly agree on: we're not going back to 3%. That window 
 
 Here's what I tell people when they panic after a Fed announcement: the Fed doesn't set your mortgage rate. The Federal Reserve controls the federal funds rate, an overnight lending rate between banks. Your 30-year mortgage rate is priced off a completely different instrument.
 
-What actually drives your rate is the yield on the 10-year U.S. Treasury note, plus a spread reflecting the additional risk of holding mortgage-backed securities. That spread typically runs 150 to 200 basis points above the 10-year Treasury. When the spread widens, which it did dramatically in 2022 and 2023, mortgage rates go up even if Treasury yields are flat.
+What actually drives your rate is the yield on the [10-year U.S. Treasury note](/current-mortgage-rates/), plus a spread reflecting the additional risk of holding mortgage-backed securities. That spread typically runs 150 to 200 basis points above the 10-year Treasury. When the spread widens, which it did dramatically in 2022 and 2023, mortgage rates go up even if Treasury yields are flat.
 
 This matters for 2026 forecasting because the Fed could cut its benchmark rate several more times and mortgage rates could barely budge. We saw a version of this in late 2024: the Fed cut rates, mortgage rates went up. Counterintuitive, but it happens when bond markets are pricing in stickier inflation or stronger-than-expected growth.
 
@@ -67,7 +67,7 @@ Refinancing costs money. Closing costs on a refinance typically run 2% to 3% of 
 
 So if you're planning to move in two years, a refinance at 6.5% might actually cost you money net. Most people skip this calculation because the lower rate *feels* like an obvious win.
 
-Add another complication: when you refinance, you typically reset your amortization clock. Three years into a 30-year loan and refinancing into a new 30-year means you've just added three years back onto your debt. The monthly payment looks better. The total interest paid over the life of the loan may not.
+Add another complication: [when you refinance](/when-should-i-lock-in-my-mortgage-rate/), you typically reset your amortization clock. Three years into a 30-year loan and refinancing into a new 30-year means you've just added three years back onto your debt. The monthly payment looks better. The total interest paid over the life of the loan may not.
 
 [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) include solid educational tools if you want to run these numbers yourself before sitting down with a lender. Spend 20 minutes there before anyone tries to sell you on a refi.
 

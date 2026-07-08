@@ -23,6 +23,7 @@ faqs:
     a: "Not directly. FHA rates are driven by your credit profile, loan amount, and broader market conditions, not by whether the project has full approval or went through SUA. What approval status does affect is which loan products are available to you, which can indirectly change your rate if you have to switch from FHA to conventional."
   - q: "What happens if the condo project's FHA approval expires after I close?"
     a: "Nothing. Your loan is already closed and FHA-insured. Approval expiration matters to future buyers trying to use FHA financing in that project, not to you. If you eventually sell and your buyer wants FHA, they'd need to check current approval status at that time."
+lastmod: 2026-07-07
 ---
 
 Most buyers shopping for a condo with an FHA loan don't realize the property itself has to be approved, not just them. That's the trap. You can have a 720 credit score, two years of clean tax returns, and a 3.5% down payment ready to go, and you can still get denied because the condo association failed to complete a form three years ago. I've watched this derail more closings than almost any other single issue in my underwriting career, and I'll be honest: a lot of loan officers don't flag it early enough because they're focused on the borrower file, not the property side.
@@ -39,11 +40,16 @@ The approved project list lives on HUD's Condo Project Search tool, which you ca
 
 ## The Two Paths to Approval, and Which One You'll Likely Use
 
+| Approval Path | Project Size Requirement | Owner-Occupancy Requirement | FHA Financing Concentration Limit | HOA Delinquency Threshold | Expiration Schedule |
+| --- | --- | --- | --- | --- | --- |
+| Full Project Approval | No minimum | No requirement | No limit | No requirement | Every 3 years |
+| Single Unit Approval (SUA) | At least 5 units | At least 50% | Maximum 35% | Maximum 15% (60+ days) | N/A |
+
 > **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
-**Full project approval** is exactly what it sounds like. The entire development goes through HUD review. Lenders or HOAs submit financials, insurance documents, occupancy data, and more. If approved, any unit in the project is eligible for FHA financing (assuming the borrower qualifies). Approvals expire every three years, which is where a lot of projects quietly fall off the list without anyone noticing until a buyer shows up with an FHA loan.
+**Full project approval** is exactly what it sounds like. The entire development goes through HUD review. Lenders or HOAs submit financials, insurance documents, occupancy data, and more. If approved, any unit in the project is eligible for [FHA financing](/fha-vs-conventional-loan-which-is-better-for-first-time-buyers/) (assuming the borrower qualifies). Approvals expire every three years, which is where a lot of projects quietly fall off the list without anyone noticing until a buyer shows up with an FHA loan.
 
 **Single Unit Approval** is the more practical tool today, and what surprised me when I dug into how lenders were actually using it is that many borrowers have never heard of it. Under SUA, a buyer can get FHA financing on an individual condo unit even when the project itself doesn't have full approval, provided the project meets certain baseline requirements. The main ones, as of July 2026:
 
@@ -57,7 +63,7 @@ There are more conditions, but those are the ones that kill deals most often. Th
 
 Here's a worked example from my own experience:
 
-Buyer in metropolitan Phoenix, solid FHA borrower, targets a 72-unit condo complex. The project isn't on the approved list. Loan officer checks SUA eligibility. Owner-occupancy rate: 44%. Doesn't meet the 50% threshold. → SUA denied. Buyer had to either switch to a conventional loan (which required a higher down payment she didn't have) or find a different property. She found a different property. It cost her six weeks.
+Buyer in metropolitan Phoenix, solid FHA borrower, targets a 72-unit condo complex. The project isn't on the approved list. Loan officer checks SUA eligibility. Owner-occupancy rate: 44%. Doesn't meet the 50% threshold. → SUA denied. Buyer had to either switch to a [conventional loan](/conventional-loan-requirements/) (which required a higher down payment she didn't have) or find a different property. She found a different property. It cost her six weeks.
 
 That six-week delay was entirely preventable if someone had run the project data at the beginning.
 

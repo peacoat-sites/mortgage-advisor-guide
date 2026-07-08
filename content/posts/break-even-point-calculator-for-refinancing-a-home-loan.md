@@ -12,10 +12,11 @@ author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 slug: "break-even-point-calculator-for-refinancing-a-home-loan"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 A borrower came to me once, practically beaming, because she'd locked in a rate that was a full percentage point lower than her current mortgage. She was ready to sign. I asked her one question: "How long are you planning to stay in the house?" She paused. "Maybe two years, three tops." She almost paid $6,200 in closing costs to save money she'd never actually see.
 
-That's what the break-even calculation is really for. Not the math itself, which takes about four minutes, but the moment it forces on you: do the numbers actually support doing this?
+That's what the [break-even calculation](/break-even-refinance-analysis/) is really for. Not the math itself, which takes about four minutes, but the moment it forces on you: do the numbers actually support doing this?
 
 Here's what I want to walk you through, because I've seen this decision get botched more often than almost any other in mortgage lending.
 
@@ -34,6 +35,12 @@ So if your closing costs are $5,000 and your new payment is $200 lower per month
 What most people don't realize is how heavily closing costs vary. Title fees, lender origination fees, appraisal (typically $400-$700 depending on your market), prepaid interest, escrow setup, recording fees. I've reviewed HUD-1 settlement statements where the numbers looked wildly different for nearly identical loan amounts, just because of how aggressively different lenders padded their line items. Always request a Loan Estimate and read every line.
 
 ## Running the Numbers Yourself
+
+| Scenario | Loan Balance | Current Rate | New Rate | Current Payment | New Payment | Monthly Savings | Closing Costs | Break-Even (months) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Example walkthrough | $350,000 | 7.25% | 6.25% | ~$2,480 | ~$2,155 | ~$325 | $7,000 | 22 |
+| Low savings scenario | $350,000 | 7.25% | 6.75% | ~$2,480 | ~$2,315 | ~$165 | $7,000 | 42+ |
+| Higher closing costs | $350,000 | 7.25% | 6.25% | ~$2,480 | ~$2,155 | ~$325 | $10,500 | 32 |
 
 > **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -67,7 +74,7 @@ I'd also push back on the common advice that "any savings is worth it." It's not
 
 ## The No-Cost Refinance Complication
 
-Some borrowers ask about no-cost refinances, which sound obviously better: no closing costs, lower rate, instant savings from month one.
+Some borrowers ask about [no-cost refinance](/how-to-refinance-mortgage/)s, which sound obviously better: no closing costs, lower rate, instant savings from month one.
 
 The catch is that "no cost" almost always means "costs rolled into the rate." You're taking a slightly higher rate than you'd get if you paid costs upfront. So instead of a sharp break-even cliff, you're looking at a gentler slope where the question becomes: is the rate premium over the life of the loan greater or smaller than what you'd have paid upfront?
 

@@ -23,6 +23,7 @@ faqs:
    a: "The note doesn't disappear. It becomes an asset of the seller's estate, and you'd make payments to whoever inherits or manages that estate. This is exactly why having a properly recorded mortgage or deed of trust matters: it protects you regardless of what happens on the seller's side."
  - q: "Is seller financing the same as a lease-option?"
    a: "No. A lease-option (or rent-to-own) is a rental agreement with an option to purchase later, and you don't build equity during the lease period unless the contract specifies otherwise. Seller financing is an actual sale with actual title transfer (except in a land contract). They're often confused, but the legal and financial implications are completely different."
+lastmod: 2026-07-07
 ---
 
 Most people assume that getting a mortgage means going through a bank. Full stop. That assumption costs some buyers real opportunities, and I've watched it happen more times than I'd like to count.
@@ -37,11 +38,11 @@ That said, this isn't a magic workaround. There's real risk on both sides, and m
 
 The seller and buyer negotiate a sale price, a down payment, an interest rate, and a loan term. Those get written into a promissory note, which is the buyer's legal promise to repay. Separately, a mortgage or deed of trust is recorded against the property, which gives the seller a security interest, meaning they can foreclose if you stop paying.
 
-Loan terms vary widely. Some seller-financed deals run 30 years, just like a conventional mortgage. Most don't. What you see far more often is a shorter amortization, say 20 or 25 years, with a balloon payment due at year 5 or 7. The buyer pays monthly as if the loan were fully amortizing, but at the end of the balloon period, the remaining balance comes due all at once. The assumption is that by then, the buyer will have improved their credit, grown their income, or built enough equity to refinance into a conventional loan.
+Loan terms vary widely. Some seller-financed deals run 30 years, just like a conventional mortgage. Most don't. What you see far more often is a shorter amortization, say 20 or 25 years, with a [balloon payment](/mortgage-assumption-explained/) due at year 5 or 7. The buyer pays monthly as if the loan were fully amortizing, but at the end of the balloon period, the remaining balance comes due all at once. The assumption is that by then, the buyer will have improved their credit, grown their income, or built enough equity to refinance into a conventional loan.
 
 That balloon structure is the single biggest risk for buyers. If you can't refinance when the balloon comes due, and the seller won't extend, you're facing foreclosure. This isn't theoretical. I've seen it happen.
 
-There are also hybrid structures. Land contracts (also called contracts for deed) are common in the Midwest: the buyer takes possession but the seller retains legal title until the loan is paid in full. The risk there is asymmetric and severe for buyers. If you miss a payment, in many states the seller can cancel the contract and keep everything you've paid. No foreclosure proceeding required. Read that again.
+There are also hybrid structures. [Land contracts](/land-contract-mortgage/) (also called contracts for deed) are common in the Midwest: the buyer takes possession but the seller retains legal title until the loan is paid in full. The risk there is asymmetric and severe for buyers. If you miss a payment, in many states the seller can cancel the contract and keep everything you've paid. No foreclosure proceeding required. Read that again.
 
 ## What Buyers Are Actually Getting
 
@@ -49,7 +50,7 @@ There are also hybrid structures. Land contracts (also called contracts for deed
 
 
 
-The appeal is speed and flexibility. No appraisal required by an outside lender. No weeks of waiting for underwriting. No debt-to-income ratio being computed against Freddie Mac guidelines. The seller can decide to lend based on whatever criteria they choose, including your job stability, your story, your track record with the property if you've been renting it from them.
+The appeal is speed and flexibility. No appraisal required by an outside lender. No weeks of waiting for underwriting. No [debt-to-income ratio](/conventional-loan-requirements/) being computed against Freddie Mac guidelines. The seller can decide to lend based on whatever criteria they choose, including your job stability, your story, your track record with the property if you've been renting it from them.
 
 Interest rates on seller-financed deals are typically above conventional market rates. That's the tradeoff for the flexibility. How much above? It depends entirely on negotiation, but don't expect the seller to charge you below what they could earn in a reasonably safe investment. They're taking on credit risk and holding an illiquid asset.
 

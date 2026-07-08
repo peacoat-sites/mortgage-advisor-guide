@@ -23,11 +23,12 @@ faqs:
     a: "The biggest practical difference is the down payment: USDA requires zero, FHA requires 3.5%. USDA also typically carries lower annual mortgage insurance costs. The trade-off is that USDA has property location requirements and household income caps; FHA has neither."
   - q: "Can I refinance out of a USDA loan later?"
     a: "Yes. Once you've built enough equity and your credit profile qualifies, refinancing into a conventional loan is a common and often smart move. It lets you eliminate the USDA annual fee entirely if you've reached 80% loan-to-value."
+lastmod: 2026-07-07
 ---
 
 Most coverage of USDA loans focuses on two things: "zero down payment" and "rural areas." That's accurate the way a weather forecast that says "partly cloudy" is accurate. Technically true, almost useless without context.
 
-Here's what actually matters: the USDA Rural Development Single Family Housing Guaranteed Loan Program is one of the most underutilized loan products in the country, and it's being skipped by borrowers who almost certainly qualify. I've reviewed files where buyers paid PMI on an FHA loan for years when a USDA loan would have saved them real money from day one. That's not their fault. Most loan officers don't specialize in USDA, so they don't push it.
+Here's what actually matters: the USDA Rural Development Single Family Housing Guaranteed Loan Program is one of the most underutilized loan products in the country, and it's being skipped by borrowers who almost certainly qualify. I've reviewed files where buyers paid PMI on an [FHA loan](/fha-loan-requirements-and-benefits/) for years when a USDA loan would have saved them real money from day one. That's not their fault. Most loan officers don't specialize in USDA, so they don't push it.
 
 Let me fix that.
 
@@ -61,11 +62,17 @@ This is the part most explainers write badly. Income limits for the Guaranteed p
 
 Important nuance: USDA counts all household income, not just the borrowers on the loan. If your adult child lives with you and earns income, that counts. This catches people off guard. I've seen files get flagged at the last minute because a college-age dependent had a part-time job nobody thought to document.
 
-Credit requirements are more flexible than conventional loans. Most lenders want a 640+ credit score for streamlined processing through USDA's automated system. Below that, your file goes to manual underwriting, which adds time and scrutiny but doesn't automatically mean denial. Debt-to-income ratios can stretch to 41% on the back end, sometimes higher with compensating factors.
+Credit requirements are more flexible than [conventional loans](/conventional-loan-requirements/). Most lenders want a 640+ credit score for streamlined processing through USDA's automated system. Below that, your file goes to manual underwriting, which adds time and scrutiny but doesn't automatically mean denial. Debt-to-income ratios can stretch to 41% on the back end, sometimes higher with compensating factors.
 
 You must also be a U.S. citizen, a qualified noncitizen, or a U.S. national. And the home has to be your primary residence. No investment properties, no second homes.
 
 ## The Cost Structure: Zero Down Doesn't Mean Zero Fees
+
+| Loan Type | Upfront Fee | Annual Fee | Notes |
+| --- | --- | --- | --- |
+| USDA Guaranteed | 1% of loan amount | 0.35% of outstanding balance | Rolled into loan; $70/month on $240k loan |
+| FHA | 1.75% upfront MIP | 0.55%-1.05% annually | Varies by term and LTV; removable at 20% equity |
+| Conventional PMI | Varies | Varies | Cancels at 80% LTV |
 
 Here's where I'd slow down if this were your file on my desk.
 

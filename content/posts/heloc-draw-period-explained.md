@@ -23,6 +23,7 @@ faqs:
    a: "Only if you use the funds to buy, build, or substantially improve the home that secures the line. Using HELOC funds for anything else, including debt consolidation or personal expenses, generally means the interest isn't deductible. Tax rules here are specific to your situation, so confirm with a CPA before counting on a deduction."
  - q: "What's the difference between a HELOC draw period and a home equity loan?"
    a: "A home equity loan gives you a lump sum upfront with fixed payments from day one. There's no draw period because you borrow everything at once. A HELOC is a revolving line with flexible draws and (usually) interest-only payments during the draw phase. Which is better depends on whether you need flexibility or certainty, and honestly, if you know exactly how much you need and want predictable payments, the home equity loan is the underrated choice."
+lastmod: 2026-07-07
 ---
 Most articles about HELOCs spend three paragraphs explaining what a home equity line of credit *is*, then bury the part that actually trips people up in a single vague sentence near the bottom. The draw period is where borrowers get comfortable, sometimes dangerously so, and it deserves a real explanation.
 
@@ -30,7 +31,16 @@ Here's what you're actually signing up for.
 
 ## What the Draw Period Is (and Isn't)
 
-A HELOC has two phases. The draw period comes first, typically lasting 10 years, though some lenders offer 5-year or 15-year draws. During this window, you can borrow against your credit line, pay it down, and borrow again, much like a credit card backed by your house. The repayment period follows, usually another 10 to 20 years, and that's when you pay back whatever you actually used.
+| Scenario | Draw Period | Repayment Period | Notes |
+| --- | --- | --- | --- |
+| Typical duration | 10 years | 10-20 years | Some lenders offer 5-year or 15-year draws |
+| Payment type | Interest-only (typical minimum) | Fully amortizing | Principal + interest |
+| Rate structure | Variable (usually) | Fixed or variable | Variable tied to prime rate; fixed-rate advances available |
+| $80,000 borrowed at 8.5% | ~$567/month | ~$990/month (15-year amort.) | Illustrates payment shock |
+| Annual maintenance fee | $50-$100 (some lenders) | Varies by lender | May apply even if unused |
+| Available credit | Revolving (repay to reaccess) | Non-revolving | Once repayment begins, credit line typically closes |
+
+A HELOC has two phases. The draw period comes first, typically lasting 10 years, though some lenders offer 5-year or 15-year draws. During this window, you can borrow against your credit line, pay it down, and borrow again, much like a credit card backed by your house. The [repayment period](/heloc-repayment-explained/) follows, usually another 10 to 20 years, and that's when you pay back whatever you actually used.
 
 The draw period feels generous. Most lenders only require interest payments during it, which is exactly where borrowers get into trouble.
 

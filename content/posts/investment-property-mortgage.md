@@ -23,6 +23,7 @@ faqs:
    a: "A DSCR loan qualifies you based on whether the property's rental income covers its debt payments, not your personal income. It's a legitimate option for certain borrowers, particularly the self-employed, but it's a non-QM product with higher rates and fewer protections than a conventional loan."
  - q: "How much cash do I need in reserves after closing?"
    a: "Conventional guidelines typically require six months of reserves (covering the full PITIA payment) for the investment property. If you own other financed properties, you may need reserves against those too. Come to the table with more cash than you think you need."
+lastmod: 2026-07-07
 ---
 
 Most people who walk into an investment property purchase think it works like buying a primary home. It doesn't. The mortgage is a different product, with different rules, and the gap between what a loan officer tells you upfront and what the underwriter actually requires can feel like a wall you didn't see coming.
@@ -45,7 +46,7 @@ Down payments are where a lot of first-time investors get caught. Conventional l
 
 Here's what I tell people: you can have a strong credit score and still get declined for an investment property loan. The qualifying criteria are just different enough from primary home underwriting to trip people up.
 
-**Credit score.** You'll typically need a minimum of 680 to qualify for conventional investment property financing. 720 or above gets you meaningfully better pricing. Below 680, your options narrow fast, and you're likely looking at portfolio lenders or hard money, which I'll get to.
+**Credit score.** You'll typically need a minimum of 680 to qualify for conventional investment property financing. 720 or above gets you meaningfully better pricing. Below 680, your options narrow fast, and you're likely looking at portfolio lenders or [hard money](/hard-money-loan-explained/), which I'll get to.
 
 **Reserves.** This is the one that surprises people most. Most conventional investors are required to show six months of housing payment reserves for the investment property after closing, sometimes more if you already own other financed properties. That means liquid assets sitting in a verifiable account. Retirement funds sometimes count (at a discount), but the money needs to actually exist. I've seen borrowers come to the table having scraped together exactly enough for the down payment and closing costs, not realizing they also need to demonstrate reserve capacity. That deal dies.
 
@@ -55,9 +56,16 @@ Here's what I tell people: you can have a strong credit score and still get decl
 
 ## Loan Types Worth Knowing
 
+| Loan Type | Interest Rate Range | Down Payment | Best For | Key Limitation |
+| --- | --- | --- | --- | --- |
+| Conventional (Fannie Mae/Freddie Mac) | Prime + 0.5-0.875% | 15-25% | 1-4 unit residential | Requires strong income & reserves |
+| DSCR (Non-QM) | Higher than conventional | 20-25%+ | Self-employed, complex income | Fewer consumer protections |
+| Hard Money | 9-13% | 20-30%+ | Fix-and-flip, distressed property | Short terms (12-24 mo.); refinance required |
+| FHA/VA | N/A | N/A | Owner-occupancy only | Cannot be used for pure investment purchases |
+
 Conventional financing through Fannie Mae or Freddie Mac is still the most common path for individual investors buying 1-4 unit residential properties. [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) can give you a clearer picture of how conforming loans work, even for investment purposes.
 
-DSCR loans (Debt Service Coverage Ratio loans) have become genuinely popular over the last several years, and I think the appeal is understandable. Rather than qualifying you based on your personal income, these loans qualify the property based on whether the rental income covers the debt. A DSCR of 1.0 means the rent equals the payment; most lenders want 1.1 to 1.25. These are non-QM (non-qualified mortgage) products, which means higher rates, typically larger down payments, and fewer consumer protections. But for self-employed borrowers or investors whose personal income is complicated, they can be a legitimate tool. Just know what you're buying.
+[DSCR loans](/non-qm-mortgage-options/) (Debt Service Coverage Ratio loans) have become genuinely popular over the last several years, and I think the appeal is understandable. Rather than qualifying you based on your personal income, these loans qualify the property based on whether the rental income covers the debt. A DSCR of 1.0 means the rent equals the payment; most lenders want 1.1 to 1.25. These are non-QM (non-qualified mortgage) products, which means higher rates, typically larger down payments, and fewer consumer protections. But for self-employed borrowers or investors whose personal income is complicated, they can be a legitimate tool. Just know what you're buying.
 
 Hard money loans serve a specific purpose: fast acquisition, usually for fix-and-flip or properties in poor condition that won't qualify for conventional appraisal. The rates (often 9-13% currently) and short terms (12-24 months) make them dangerous as a long-term hold strategy. Use them for what they're designed for, then refinance out if you're holding the property.
 

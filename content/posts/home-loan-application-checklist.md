@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-
+lastmod: 2026-07-07
 ---
 You're sitting across from a loan officer, folder in hand, feeling prepared. Then they ask for your past two years of W-2s, your most recent 30 days of pay stubs, statements for every bank account you own, and proof of any gift funds you're using toward the down payment. You hand over three of the five items and watch their expression shift. That moment, scrambling through your phone and email looking for documents you didn't know you needed, is exactly what this guide prevents.
 
@@ -45,9 +45,9 @@ A mortgage application isn't complicated. It's thorough. Lenders are required to
 **Misconception**: Most people think a 20% down payment is always required to qualify for a home loan. **Reality**: According to the Federal Reserve and Fannie Mae data, over 60% of home loans originated in 2024 had down payments below 20%. FHA loans allow as little as 3.5% down, while VA and USDA loans offer 0% down options for eligible borrowers. Even conventional loans frequently close with 5-10% down payments. The 20% threshold primarily affects mortgage insurance requirements, not eligibility, buyers with smaller down payments simply pay PMI (private mortgage insurance) until reaching 20% equity, making homeownership accessible far earlier than the traditional benchmark suggests.
 
 
-Before you resent the paperwork, understand what's driving it. Since the Dodd-Frank Act tightened lending standards after the 2008 housing crisis, lenders are legally required to verify a borrower's ability to repay. This is called the Ability-to-Repay rule, and it puts the burden of proof on you.
+Before you resent the paperwork, understand what's driving it. Since the Dodd-Frank Act tightened lending standards after the 2008 housing crisis, lenders are legally required to verify a borrower's ability to repay. This is called the [Ability-to-Repay rule](/mortgage-qualification-requirements/), and it puts the burden of proof on you.
 
-Your loan file gets reviewed not just by the loan officer, but by an underwriter, and often a second underwriter if the loan is going to Fannie Mae or Freddie Mac. Each set of eyes is looking for inconsistencies. A large deposit in your checking account that doesn't match your documented income? That triggers a paper trail request. A gap in employment? You'll need a written explanation. A name that's spelled slightly differently on two documents? Believe it or not, that can cause delays.
+Your loan file gets reviewed not just by the loan officer, but by an [underwriter](/mortgage-underwriting-process/), and often a second underwriter if the loan is going to Fannie Mae or Freddie Mac. Each set of eyes is looking for inconsistencies. A large deposit in your checking account that doesn't match your documented income? That triggers a paper trail request. A gap in employment? You'll need a written explanation. A name that's spelled slightly differently on two documents? Believe it or not, that can cause delays.
 
 I've seen borrowers with excellent credit and plenty of assets lose weeks of time simply because they couldn't document where a $4,000 deposit came from three months earlier. The scrutiny is real.
 

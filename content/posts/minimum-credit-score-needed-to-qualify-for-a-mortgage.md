@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-
+lastmod: 2026-07-07
 ---
 Your credit score is not a verdict on you as a person. I've had to remind myself to say that out loud in underwriting reviews, because the number on the screen can feel deeply personal when it determines whether someone gets approved for a home loan. If you're here because you pulled your score and felt your stomach drop a little, you're in exactly the right place.
 
@@ -32,6 +32,13 @@ Here's what I tell people who come to me with score anxiety: lenders don't use o
 Let me give you the honest version.
 
 ## What the Actual Minimums Look Like by Loan Type
+
+| Loan Type | Minimum Credit Score (Program) | Typical Lender Overlay | Down Payment (at minimum score) |
+| --- | --- | --- | --- |
+| FHA | 500-579 | 620-640 | 10% (at 500-579); 3.5% (at 580+) |
+| Conventional (Fannie Mae/Freddie Mac) | 620 | 620 | Varies by LTV |
+| VA | None (published) | 580-620 | 0% |
+| USDA | None (published) | 640 (typical) | Varies by eligibility |
 
 The single most confusing thing about credit score requirements is that they vary dramatically depending on which loan program you're applying for. There's no one national answer.
 
@@ -47,11 +54,11 @@ The single most confusing thing about credit score requirements is that they var
 
 > **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-I saw this constantly in underwriting: a borrower with a 650 score who looked great on paper, and a borrower with a 720 score who had problems I couldn't ignore. Credit score is an input, not the whole application.
+I saw this constantly in underwriting: a borrower with a 650 score who looked great on paper, and a borrower with a 720 score who had problems I couldn't ignore. [Credit score is an input](/credit-score-for-mortgage-approval/), not the whole application.
 
-Lenders are simultaneously evaluating your debt-to-income ratio (DTI), the stability and history of your income, your assets and reserves, and the property itself. A 620 score paired with a 28% DTI, two years of W-2 employment at the same company, and 10% down is a very different application than a 620 score with a 48% DTI, six months at a new job, and the minimum 3.5% down. Both borrowers technically "qualify" on paper at many lenders. Only one of them is likely to sail through underwriting without hiccups.
+Lenders are simultaneously evaluating your [debt-to-income ratio (DTI)](/debt-to-income-ratio-for-mortgage/), the stability and history of your income, your assets and reserves, and the property itself. A 620 score paired with a 28% DTI, two years of W-2 employment at the same company, and 10% down is a very different application than a 620 score with a 48% DTI, six months at a new job, and the minimum 3.5% down. Both borrowers technically "qualify" on paper at many lenders. Only one of them is likely to sail through underwriting without hiccups.
 
-The DTI conversation is the one I wish more people had before they applied. Your front-end DTI is your proposed housing payment divided by your gross monthly income. Your back-end DTI includes all monthly debt payments. FHA allows back-end DTI up to 57% in some cases with compensating factors, though I'd encourage serious caution at those levels because the math on your actual monthly cash flow can get uncomfortable fast. Conventional loans are generally stricter, usually capping around 45-50%.
+The [DTI conversation](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/) is the one I wish more people had before they applied. Your front-end DTI is your proposed housing payment divided by your gross monthly income. Your back-end DTI includes all monthly debt payments. FHA allows back-end DTI up to 57% in some cases with compensating factors, though I'd encourage serious caution at those levels because the math on your actual monthly cash flow can get uncomfortable fast. Conventional loans are generally stricter, usually capping around 45-50%.
 
 [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) have a solid explanation of how DTI and credit work together during the qualification process, and it's written in plain enough language that it's worth spending 20 minutes there before you talk to a lender.
 

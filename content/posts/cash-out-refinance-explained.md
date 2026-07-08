@@ -23,11 +23,17 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-
+lastmod: 2026-07-07
 ---
 You've been paying your mortgage for eight years. Your home is worth $120,000 more than you owe. And your kitchen still has the laminate countertops and fluorescent lighting from 1994. A cash-out refinance sounds like the obvious answer, and your loan officer is enthusiastic. But before you sign anything, you need to understand exactly what you're trading away, because this product has real costs that often get buried under the excitement of a big check.
 
 ## What a Cash-Out Refinance Actually Is
+
+| Loan Type | Maximum LTV | Key Characteristic |
+| --- | --- | --- |
+| Conventional | 80% | Standard conforming loans |
+| FHA | 80% | Government-backed option |
+| VA | 90% | Available for eligible veterans |
 
 A cash-out refinance replaces your existing mortgage with a brand-new, larger loan. The difference between your old loan balance and the new loan amount gets paid to you in cash at closing. That's it.
 
@@ -49,7 +55,7 @@ Then there's the rate question. Cash-out refinances typically carry a slightly h
 
 The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) recommends calculating your break-even point before refinancing: how long will it take for your savings to outweigh the closing costs you paid? For a cash-out refi where you're pulling equity for a specific purpose rather than lowering your payment, this calculation gets more nuanced. Check our full breakdown of [mortgage closing costs explained](/mortgage-closing-costs-explained/) to make sure you're accounting for every line item.
 
-Here's something people constantly miss: if your current rate is 3.25% and today's rates are 6.5%, a cash-out refinance is going to cost you significantly more per month even before you account for the higher balance. I've talked to homeowners who did the math and realized a home equity loan or HELOC was far cheaper, because it let them keep their existing low-rate first mortgage intact.
+Here's something people constantly miss: if your current rate is 3.25% and today's rates are 6.5%, a cash-out refinance is going to cost you significantly more per month even before you account for the higher balance. I've talked to homeowners who did the math and realized a [home equity loan or HELOC](/cash-out-refinance-vs-home-equity-loan-comparison/) was far cheaper, because it let them keep their existing low-rate first mortgage intact.
 
 ## When a Cash-Out Refinance Makes Sense
 

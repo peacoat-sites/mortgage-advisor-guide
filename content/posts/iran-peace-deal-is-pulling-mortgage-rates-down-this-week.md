@@ -12,10 +12,17 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 slug: "iran-peace-deal-is-pulling-mortgage-rates-down-this-week"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Something unusual happened in the mortgage market on June 15, 2026, and most homebuyers completely missed it. President Trump announced a tentative peace agreement with Iran, the Strait of Hormuz reopened, and within hours, 30-year mortgage rates quietly dropped to their lowest point in a month. If you've been waiting on the sidelines for a better moment to buy or refinance, this week just handed you one. Whether it sticks around is the real question, and I'll be straight with you: it's messier than any headline suggests.
 
 ## What the Iran Deal Actually Did to Rates
+
+| Scenario | Rate | Monthly Payment ($450k loan) | Action |
+| --- | --- | --- | --- |
+| Peak war-era spike (May 19) | 6.75% | baseline | Hold |
+| Post-deal low (June 15) | 6.56% | ~$55 less/month | Lock if under contract |
+| Refi break-even threshold | ~5.56-5.81% | savings exceed closing costs | Consider refi |
 
 Here's what most people overlook. Mortgage rates don't track the Fed directly. They track the 10-year Treasury yield, which moves on inflation expectations, and inflation expectations track energy prices more closely than almost anything else.
 

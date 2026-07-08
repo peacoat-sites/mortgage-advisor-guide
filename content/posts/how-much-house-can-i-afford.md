@@ -23,13 +23,21 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-
+lastmod: 2026-07-07
 ---
-Most buyers walk into a lender's office knowing exactly one number: the pre-approval amount. They treat it like scripture. I've watched clients get pre-approved for $550,000 and immediately start touring homes at that ceiling, only to realize three months later that the monthly payment was quietly eating their financial life. A pre-approval tells you what a lender is willing to risk. It tells you almost nothing about what you can actually afford.
+Most buyers walk into a lender's office knowing exactly one number: the [pre-approval amount](/mortgage-pre-approval-process/). They treat it like scripture. I've watched clients get pre-approved for $550,000 and immediately start touring homes at that ceiling, only to realize three months later that the monthly payment was quietly eating their financial life. A pre-approval tells you what a lender is willing to risk. It tells you almost nothing about what you can actually afford.
 
 Those are two very different questions, and confusing them is the single most expensive mistake in home buying.
 
 ## The Numbers Lenders Use (And Why They're Not Enough)
+
+| Housing Cost Component | Typical Annual Range | Notes |
+| --- | --- | --- |
+| Property taxes | Varies by location | $2,000-$10,000+ annually on $400,000 home depending on state |
+| Homeowner's insurance | $1,000-$3,000 | Higher in coastal, flood-prone, or hurricane areas |
+| Private mortgage insurance (PMI) | 0.5%-1.5% of loan amount annually | Required if down payment < 20%; added to monthly payment |
+| HOA dues | $0-$400+/month | Depends on community; no variation with market |
+| Maintenance reserve | ~1% of home value | $333/month on $400,000 home (conservative estimate) |
 
 When a lender evaluates your application, they're focused on ratios. Specifically, your debt-to-income ratio, or DTI. Two versions matter.
 

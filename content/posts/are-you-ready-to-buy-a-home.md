@@ -9,7 +9,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-
+lastmod: 2026-07-07
 ---
 Buying a home is one of the biggest moves most people ever make, and "Am I ready?" rarely has a simple yes-or-no answer. It's less about hitting one magic number and more about how your habits, plans, and life stage all line up at the same time.
 
@@ -17,7 +17,7 @@ This quick quiz walks you through seven honest questions about your timing, your
 
 {{< quiz >}}
 
-However you scored, remember this is a self-reflection tool to help you think clearly, not a verdict. Your readiness can shift once you have a plan and the right people backing you up. Check out our beginner home-buying guides for what comes next. When you're ready to talk real numbers, loop in a licensed lender who can work through your full financial picture.
+However you scored, remember this is a self-reflection tool to help you think clearly, not a verdict. Your readiness can shift once you have a plan and the right people backing you up. Check out our [beginner home-buying guides](/conventional-loan-requirements/) for what comes next. When you're ready to talk real numbers, loop in a licensed lender who can work through your full financial picture.
 
 ---
 

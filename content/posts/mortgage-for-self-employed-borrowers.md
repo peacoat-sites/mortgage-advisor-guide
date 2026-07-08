@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-
+lastmod: 2026-07-07
 ---
 You run your own business, your accountant is brilliant at minimizing your taxable income, and you just got turned down for a mortgage. Sound familiar? This trap catches self-employed borrowers every single time. The same tax strategy that saves you thousands in April becomes the thing that kills your loan application in June. After 16 years underwriting loans, I can tell you that self-employed borrowers aren't riskier than W-2 employees. They just need to understand a completely different rulebook before walking into a lender's office.
 
@@ -38,6 +38,17 @@ Lenders define self-employed as owning 25% or more of a business or receiving in
 The core issue is stability. Lenders want to see that your income isn't a one-year anomaly. Two years of self-employment history is the standard minimum for most conventional loans. Some lenders will consider one year if the income increased and you've got a strong track record in the same field, but that's rare.
 
 ## The Documentation Reality: What You'll Actually Need
+
+| Document Type | Purpose | Quantity Required |
+| --- | --- | --- |
+| Personal federal tax returns | Income verification and identity | 2 years |
+| Business tax returns (S-corp/partnership) | Pass-through income documentation | 2 years |
+| K-1 schedules | Pass-through income detail | As applicable |
+| Year-to-date profit-and-loss statement | Current income verification | 1 (CPA-prepared) |
+| Business bank statements | Income source verification | 12-24 months |
+| Personal bank statements | Financial stability verification | 2-3 months |
+| Business license or proof of existence | Business legitimacy | 1 |
+| 4506-C form | IRS tax transcript authorization | 1 |
 
 > **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

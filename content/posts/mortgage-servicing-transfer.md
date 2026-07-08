@@ -23,6 +23,7 @@ faqs:
    a: "There's no legal limit on how many times servicing rights can be sold. Some loans are transferred multiple times over their life. Each time, the same RESPA notice requirements apply."
  - q: "My new servicer says I owe a different amount than what I had before. What do I do?"
    a: "Start by requesting a complete payment history and current payoff statement from both the old and new servicer. Compare them. Small discrepancies sometimes come from how interest accrued during the transition days. Larger differences, especially involving your escrow balance, may indicate a data error and warrant a formal Qualified Written Request. Don't pay a disputed amount without getting something in writing explaining the calculation."
+lastmod: 2026-07-07
 ---
 
 Your loan closes on a Friday. By the following Tuesday, you've already forgotten half the paperwork you signed. Then, three weeks later, you get a letter in the mail from a company you've never heard of, telling you to start sending your mortgage payments to them instead of the lender you spent weeks working with. And your first instinct is: *is this a scam?*
@@ -37,7 +38,7 @@ Your lender and your servicer are not always the same entity, and that's where t
 
 A lot of borrowers assume the bank that approved their loan is the same institution they'll have a relationship with for the next 30 years. Sometimes that's true. More often, it isn't. The mortgage market has a secondary market structure where lenders frequently sell the servicing rights to your loan, sometimes within days of closing. The underlying terms of your mortgage don't change at all, but the company you interact with does.
 
-This is completely legal and fully disclosed in your closing documents, specifically in a document called the Servicing Disclosure Statement. I'll admit something here: I spent years in this industry before I really sat down and read one of those disclosures carefully from a borrower's perspective. The language is dense, and most people sign it without registering what it actually means for their future experience.
+This is completely legal and fully disclosed in your closing documents, specifically in a document called the [Servicing Disclosure Statement](/home-loan-application-checklist/). I'll admit something here: I spent years in this industry before I really sat down and read one of those disclosures carefully from a borrower's perspective. The language is dense, and most people sign it without registering what it actually means for their future experience.
 
 ## What Has to Happen (By Law) When Your Loan Gets Transferred
 

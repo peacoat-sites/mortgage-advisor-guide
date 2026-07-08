@@ -23,9 +23,9 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-
+lastmod: 2026-07-07
 ---
-Most people walk into a lender's office convinced their credit score is everything. I used to hear it constantly. The borrower with a 760 who can't figure out why they got declined. What they never grasped is that lenders spend about 30 seconds glancing at that score before zeroing in on the number that actually matters: debt-to-income ratio. I've watched people with near-perfect credit get rejected and others with mediocre scores get approved, all because of DTI. If you haven't run a serious look at this number before applying for a mortgage, you're working backwards.
+Most people walk into a lender's office convinced their [credit score](/credit-score-for-mortgage-approval/) is everything. I used to hear it constantly. The borrower with a 760 who can't figure out why they got declined. What they never grasped is that lenders spend about 30 seconds glancing at that score before zeroing in on the number that actually matters: debt-to-income ratio. I've watched people with near-perfect credit get rejected and others with mediocre scores get approved, all because of DTI. If you haven't run a serious look at this number before applying for a mortgage, you're working backwards.
 
 ## What Debt-to-Income Ratio Actually Means (And How Lenders Calculate It)
 
@@ -42,6 +42,14 @@ When a loan officer quotes you a DTI limit, they're talking about the back-end r
 The math itself is simple. Add all monthly minimum debt payments plus your estimated new housing payment. Divide by your gross monthly income. Multiply by 100. If your gross income is $7,000 a month, your new housing payment is $1,800, and you have $500 in other debts, your back-end DTI is ($1,800 + $500) / $7,000 = 32.8%.
 
 ## The DTI Thresholds by Loan Type: What the Guidelines Actually Say
+
+| Loan Type | Back-End DTI Ceiling | Front-End Ratio | Notes |
+| --- | --- | --- | --- |
+| Conventional (Fannie Mae/Freddie Mac) | 45% (up to 50% with compensating factors) | Not specified | Automated approval possible up to 50% with strong credit, reserves, or large down payment |
+| FHA | 43% standard (up to 50% automated) | 31% | Mortgage insurance premiums apply for life of loan |
+| VA | No hard ceiling (cautious above 41%) | Not specified | Residual income calculation used as alternative approval factor |
+| USDA | ~41% | ~29% | Compensating factors may apply |
+| Jumbo | 43% or below (many prefer 38-40%) | Not specified | Portfolio lender standards; less flexibility with larger loan amounts |
 
 > **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -69,9 +77,9 @@ The practical takeaway: 43% isn't a hard wall. It's more like a speed limit with
 
 Here's the step-by-step to run this number yourself before a lender does.
 
-**Step 1: Calculate your gross monthly income.** If you're salaried, divide your annual salary by 12. If you're hourly, use average weekly hours times your hourly rate times 52, then divide by 12. Self-employed or variable income? Lenders typically average the last two years of tax returns, using net income after business deductions, not gross receipts. This catches a lot of self-employed borrowers off guard.
+**Step 1: Calculate your gross monthly income.** If you're salaried, divide your annual salary by 12. If you're hourly, use average weekly hours times your hourly rate times 52, then divide by 12. Self-employed or variable income? Lenders typically average the last two years of tax returns, using net income after business deductions, not gross receipts. This catches a lot of [self-employed borrowers](/how-to-get-a-mortgage-when-self-employed/) off guard.
 
-**Step 2: Pull your current monthly debt obligations.** Head to AnnualCreditReport.com, grab your credit report, and list every minimum monthly payment. Be honest. Include the car payment, student loan minimums (even on income-driven repayment, lenders use 1% of the balance if the payment is $0), credit card minimums, and any other installment or revolving debt.
+**Step 2: Pull your current monthly debt obligations.** Head to AnnualCreditReport.com, grab your credit report, and list every minimum monthly payment. Be honest. Include the car payment, [student loan minimums](/mortgage-with-student-loans/) (even on income-driven repayment, lenders use 1% of the balance if the payment is $0), credit card minimums, and any other installment or revolving debt.
 
 **Step 3: Estimate your new housing payment.** A mortgage calculator gets you close, but remember to include taxes and insurance. Most calculators show only principal and interest. Property taxes vary wildly by location. In parts of Texas, property taxes can add $500-$800/month to a mortgage on a $400,000 home. Ignoring this is one of the biggest budgeting mistakes I saw from first-time buyers.
 

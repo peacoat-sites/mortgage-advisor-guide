@@ -14,6 +14,7 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 slug: "the-housing-bill-that-passed-congress-but-stalled-at-the-white-house"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been watching mortgage rates hover above 6.5% and waiting for some signal that relief is coming, this week probably felt like a cruel joke. Congress passed what Fortune called "the most significant housing bill in decades," and then the signing ceremony was canceled hours before it was supposed to happen.
 
@@ -46,6 +47,14 @@ The risk is a pocket veto. If Congress adjourns before that 10-day window closes
 The veto-proof margins matter most if Congress stays in session and Trump sends the bill back with a formal veto. In that case, both chambers almost certainly have the votes to override. But that's a different procedural path than the quiet automatic-enactment route, and it takes more political energy to execute.
 
 ## The FHA Changes That Are Already Taking Effect
+
+| Item | Cost/Timeline | Impact | Source |
+| --- | --- | --- | --- |
+| FHA appraisal field review | $425 per review | Eliminates unnecessary charge for FHA borrowers | HUD announcement, June 23, 2026 |
+| Industry savings from appraisal change | $3.3 million annually | Reduces transaction friction for FHA loans | HUD estimate |
+| 30-year fixed mortgage rate | ~6.55% | Baseline for buyer affordability decisions | U.S. News, June 30, 2026 |
+| Senate vote on 21st Century ROAD Act | 85-5 | Exceeds two-thirds veto override threshold | June 22, 2026 |
+| House vote on 21st Century ROAD Act | 358-32 | Exceeds two-thirds veto override threshold | June 23, 2026 |
 
 Here's something that got buried under the signing-ceremony drama: HUD announced 14 separate FHA policy changes on June 23, 2026, and these don't require Trump's signature on anything. They're already in motion.
 

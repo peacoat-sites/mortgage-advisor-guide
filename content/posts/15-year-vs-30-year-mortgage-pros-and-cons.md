@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-
+lastmod: 2026-07-07
 ---
 Most people treat this decision like a math problem. They pull up a mortgage calculator, see that the 15-year saves them $80,000 in interest, and start mentally patting themselves on the back for being so financially disciplined. What they miss is that the 15-year mortgage is also one of the fastest ways to wreck your financial flexibility, and I've watched it happen more times than I'd like to count.
 
@@ -59,7 +59,7 @@ There's also the rate advantage. Because you're paying principal down so aggress
 
 Then there's the psychological weight of debt. Some people genuinely cannot relax carrying a 30-year obligation. They lose sleep over it. They feel financially exposed. If that's you, the peace of mind from an accelerated payoff is worth something real, even if it doesn't show up in a spreadsheet.
 
-What surprised me, though, is how often the 15-year borrowers I worked with were stretching to qualify. They'd get approved at the outer limit of their debt-to-income ratio, which meant there was nothing left over when anything went wrong. One layoff, one HVAC replacement, one divorce proceeding, and suddenly the "responsible" choice was driving them toward a late payment or a modification request.
+What surprised me, though, is how often the 15-year borrowers I worked with were stretching to qualify. They'd get approved at the outer limit of their [debt-to-income ratio](/conventional-loan-requirements/), which meant there was nothing left over when anything went wrong. One layoff, one HVAC replacement, one divorce proceeding, and suddenly the "responsible" choice was driving them toward a late payment or a modification request.
 
 ## Where the 30-Year Actually Wins
 

@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-
+lastmod: 2026-07-07
 ---
 You're sitting at the kitchen table with a mailer promising you could "save hundreds every month" by refinancing. The number's tempting. Your current rate feels high compared to what friends mention casually. So you find an online calculator, plug in some numbers, and get a monthly savings figure that makes you want to call a lender right now. I've watched this exact moment blow up more times than I can count, not because the calculator was broken, but because the borrower didn't know which numbers to trust, which fields actually mattered, and what the tool quietly skipped over. A refinancing calculator is powerful. It's also massively misused. Let's change that.
 
@@ -57,6 +57,15 @@ Most people open a calculator before they have real inputs, then make decisions 
 
 ## How to Actually Use a Refinancing Calculator: A Step-by-Step Walkthrough
 
+| Scenario Element | Current Loan | Refinanced Loan |
+| --- | --- | --- |
+| Remaining Balance | $280,000 | $280,000 |
+| Interest Rate | 7.1% | 6.4% |
+| Loan Term | 264 months (22 years remaining) | 360 months (30 years) |
+| Closing Costs | N/A | $7,200 |
+| Monthly Payment Savings | N/A | ~$140 |
+| Break-Even Point | N/A | ~51 months (4+ years) |
+
 Real scenario: $280,000 remaining balance, 30-year mortgage with 22 years left, current rate 7.1%. You got a quote for a new 30-year loan at 6.4% with $7,200 closing costs.
 
 **Step 1:** Open a refinancing calculator. Freddie Mac's [MyHome by Freddie Mac](https://myhome.freddiemac.com/) links to solid tools and educational content that give you broader context.
@@ -67,7 +76,7 @@ Real scenario: $280,000 remaining balance, 30-year mortgage with 22 years left, 
 
 **Step 4:** Enter closing costs as a separate field. Most calculators have this. If yours doesn't, find a better one.
 
-**Step 5:** Look at three outputs together, not just monthly payment. You need: monthly payment difference, break-even point in months, and total interest over each loan's full life.
+**Step 5:** Look at three outputs together, not just monthly payment. You need: monthly payment difference, [break-even point in months](/break-even-point-calculator-for-refinancing-a-home-loan/), and total interest over each loan's full life.
 
 **Step 6:** Run it again using your actual planned stay. Some calculators let you set a sell date and show net savings or loss at that point. That's your decision number.
 

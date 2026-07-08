@@ -23,6 +23,7 @@ faqs:
    a: "Modular homes are built in sections in a factory but installed on permanent foundations and titled as real property from the start. They're financed exactly like site-built homes, same products, same rates. Manufactured homes are built on a steel chassis, originally titled as personal property, and require the extra steps to qualify for real property financing. Don't let a seller or agent blur this distinction."
  - q: "Can I refinance a chattel loan into a real property mortgage later?"
    a: "Sometimes, yes. If you subsequently purchase the land, permanently affix the home, and retire the title into the deed (a process called 'titling as real property'), you may be able to refinance into a conventional or government-backed mortgage. The process varies by state and has real costs, but if it substantially lowers your rate, it can be worth doing. Get legal help with the title conversion; it's not a DIY process."
+lastmod: 2026-07-07
 ---
 
 Most people assume financing a manufactured home works roughly like financing any other home. Get a loan, make monthly payments, done. What I found when I spent time in this corner of the mortgage market is that the rules are almost entirely different, the product options are narrower, and the mistakes borrowers make here are expensive in ways they don't see coming until closing day.
@@ -32,6 +33,15 @@ I'll be honest: even with 16 years in underwriting, manufactured housing financi
 That distinction is where this whole conversation has to start.
 
 ## Real Property vs. Personal Property: The Most Expensive Line in the File
+
+| Loan Type | Real Property | Personal Property (Chattel) |
+| --- | --- | --- |
+| Interest Rate Premium | Competitive with site-built homes | 1.5-3 percentage points higher |
+| Typical Loan Term | 30 years | 15-20 years |
+| Consumer Protections | RESPA applies | Not subject to RESPA |
+| Foundation Requirements | Permanent foundation required | Not required |
+| Land Ownership | Must own land | Can lease land in community |
+| Home Title Status | Title retired into deed | Title remains active |
 
 When a manufactured home is permanently affixed to land that you own, and the title to the home has been retired into the deed, it's classified as real property. You can get a conventional mortgage on it, potentially a government-backed loan, and rates that are competitive with what you'd see on a site-built home.
 
@@ -47,13 +57,13 @@ That's an important thing to flag before you talk to any lender. Ask specificall
 
 
 
-FHA, VA, and USDA loans can all be used on manufactured homes, but the eligibility requirements are tighter than most people expect.
+[FHA, VA, and USDA loans](/fha-loan-requirements-and-benefits/) can all be used on manufactured homes, but the eligibility requirements are tighter than most people expect.
 
 For an FHA Title II loan (the one that finances both the home and land together as real property), the home must have been built after June 15, 1976, when HUD's construction and safety standards went into effect. It has to be at least 400 square feet. It must be on a permanent foundation. And critically, it can't have ever been used as a rental property or moved from its original installation site. That last one disqualifies a lot of homes.
 
 FHA also offers Title I loans for manufactured homes as personal property, including homes on leased land, but the loan limits are low (currently around $92,904 for just the home, $23,226 for just the lot, or $105,532 for both), which makes them useful in a narrow band of scenarios.
 
-VA loans for manufactured homes are available but extremely lender-specific. The VA guarantees them, but most VA-approved lenders don't actually offer them. I've seen borrowers with excellent VA entitlement and strong credit get turned away by five or six lenders before finding one willing to originate a manufactured home VA loan. If you're a veteran going this route, start your search with lenders that advertise manufactured home VA loans specifically.
+[VA loans for manufactured homes](/va-loan-benefits-and-eligibility-requirements-for-veterans/) are available but extremely lender-specific. The VA guarantees them, but most VA-approved lenders don't actually offer them. I've seen borrowers with excellent VA entitlement and strong credit get turned away by five or six lenders before finding one willing to originate a manufactured home VA loan. If you're a veteran going this route, start your search with lenders that advertise manufactured home VA loans specifically.
 
 USDA loans are available for manufactured homes in eligible rural areas, also with real property and permanent foundation requirements. Worth checking if you're in a qualifying area, because USDA rates can be very competitive.
 

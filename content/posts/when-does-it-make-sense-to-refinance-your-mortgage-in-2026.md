@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-
+lastmod: 2026-07-07
 ---
 Most people refinance at exactly the wrong time, for exactly the wrong reason. I've watched borrowers lock in a "great deal" that cost them an extra $14,000 over the life of their loan because nobody bothered to explain the break-even math before they signed.
 
@@ -39,9 +39,15 @@ What struck me, looking at the numbers from the past two years, is how many borr
 
 ## The Break-Even Calculation That Loan Officers Rush Past
 
+| Scenario | Loan Balance | Closing Costs | Monthly Savings | Break-Even Period | Refinance Decision |
+| --- | --- | --- | --- | --- | --- |
+| Strong candidate (2022-2023 rate lock) | $320,000 | $6,400 (2%) | $210 | ~30 months | Yes, if staying 3+ years |
+| Same balance, longer timeline | $320,000 | $6,400 (2%) | $210 | ~30 months | No, if selling in 18 months |
+| Lower balance, no-closing-cost option | $280,000 | $0 (rate-embedded) | $140 | Extended via higher rate | Reassess vs. traditional refi |
+
 > **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-Here's the one number that actually tells you whether to refinance: your break-even month.
+Here's the one number that actually tells you whether to refinance: your [break-even month](/break-even-point-calculator-for-refinancing-a-home-loan/).
 
 It's simple. Refinancing costs money upfront, typically 2% to 5% of the loan balance in closing costs (origination fees, title insurance, appraisal, recording fees, and so on). Your lower monthly payment saves you money every month. Divide the cost by the monthly savings, and you get the number of months you need to stay in the home before the refinance actually pays off.
 
@@ -55,9 +61,9 @@ Run this too: if you're resetting a 30-year clock, calculate total interest paid
 
 If you bought or refinanced between mid-2022 and late 2023, you almost certainly have a rate north of 6.5%, possibly above 7%. That's the cohort with the most to gain if their credit profile has held steady or improved. A solid credit score (720+), meaningful remaining equity, and stable income makes this a straightforward case to at least run the numbers.
 
-Cash-out refinances are a separate beast. Yes, home values in many markets are still elevated compared to five years ago, which means real equity exists. But you're replacing a debt with a larger debt, at a rate that may or may not pencil out depending on what you're doing with the cash. Using equity to fund a high-return home renovation with documented comps? That can be rational. Using it to consolidate credit card debt that will likely creep back up? I've watched that play out badly more times than I want to count.
+[Cash-out refinances](/cash-out-refinance-explained/) are a separate beast. Yes, home values in many markets are still elevated compared to five years ago, which means real equity exists. But you're replacing a debt with a larger debt, at a rate that may or may not pencil out depending on what you're doing with the cash. Using equity to fund a high-return home renovation with documented comps? That can be rational. Using it to consolidate credit card debt that will likely creep back up? I've watched that play out badly more times than I want to count.
 
-Borrowers with adjustable-rate mortgages are in a different position entirely. If you took a 5/1 or 7/1 ARM in 2019 or 2020, your initial fixed period may have already ended or will soon. Depending on where your caps land and where the index is tracking, locking into a fixed rate can be strong right now, even if the math isn't as obviously favorable as the 2021 refi boom.
+Borrowers with [adjustable-rate mortgages](/streamline-refinance-options/) are in a different position entirely. If you took a 5/1 or 7/1 ARM in 2019 or 2020, your initial fixed period may have already ended or will soon. Depending on where your caps land and where the index is tracking, locking into a fixed rate can be strong right now, even if the math isn't as obviously favorable as the 2021 refi boom.
 
 ## The Credit and Equity Reality Check
 

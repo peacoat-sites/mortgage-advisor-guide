@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-
+lastmod: 2026-07-07
 ---
 You're 71, your house is paid off, and it's worth $420,000. Your Social Security check covers utilities and groceries, barely. Your neighbor mentions a reverse mortgage, and suddenly that late-night TV commercial product doesn't sound so sketchy anymore. Hold on though. Before you call that 800 number, you need to understand what you're actually signing, because a reverse mortgage is one of the most misunderstood financial products Americans encounter, and the gap between what borrowers think they're getting and what actually happens can be massive.
 
@@ -31,7 +31,7 @@ You're 71, your house is paid off, and it's worth $420,000. Your Social Security
 
 Here's what most people get wrong: it's still a loan. Not the government handing you money. Not a grant. It's debt secured by your home, and it has to be repaid, usually when you die, sell the house, or move out permanently.
 
-The main type is the Home Equity Conversion Mortgage, or HECM. Federally insured through FHA, it accounts for the vast majority of reverse mortgages originated in the U.S. There are also proprietary reverse mortgages (sometimes called "jumbo" reverse mortgages) from private lenders for higher-value homes, and a much smaller category called single-purpose reverse mortgages offered by some state and local agencies.
+The main type is the Home Equity Conversion Mortgage, or HECM. Federally insured through FHA, it accounts for the vast majority of reverse mortgages originated in the U.S. There are also [proprietary reverse mortgages](/jumbo-loan-requirements/) (sometimes called "jumbo" reverse mortgages) from private lenders for higher-value homes, and a much smaller category called single-purpose reverse mortgages offered by some state and local agencies.
 
 With a HECM, you borrow against the equity you've built. Instead of making monthly payments to a lender, the lender makes payments to you, or you draw from a credit line, or you take a lump sum. The loan balance grows over time as interest accrues. No monthly payment is required while you live in the home as your primary residence.
 
@@ -43,7 +43,7 @@ You must be at least 62 years old. If you have a spouse or co-borrower on the lo
 
 You must own your home outright or have substantial equity in it. Any existing mortgage gets paid off at closing with the reverse mortgage proceeds, which reduces how much cash you actually walk away with. I've seen clients shocked to discover that their $200,000 reverse mortgage resulted in only $60,000 in usable cash after paying off their existing $140,000 mortgage balance.
 
-The home must be your primary residence. You can't use a rental property or vacation home. Single-family homes, FHA-approved condos, and certain multi-family properties (up to four units, with you living in one) generally qualify.
+The home must be your primary residence. You can't use a rental property or vacation home. Single-family homes, [FHA-approved condos](/fha-condo-approval/), and certain multi-family properties (up to four units, with you living in one) generally qualify.
 
 Before closing, HUD requires independent counseling with a HUD-approved housing counselor. This isn't optional. It's not a formality either. A good counselor will walk you through alternatives, run your specific numbers, and make sure you understand what you're signing. [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) are available nationwide, and many sessions cost under $125. That might be the best $125 you spend in this entire process.
 
@@ -51,9 +51,17 @@ You also have to keep paying property taxes, homeowner's insurance, and maintain
 
 ## How the Money Actually Gets to You
 
+| HECM Disbursement Method | Payment Structure | Interest Rate Type | Best For |
+| --- | --- | --- | --- |
+| Lump Sum | All proceeds upfront at closing | Fixed | Immediate large expenses; disciplined money managers |
+| Monthly Payments (Term) | Equal fixed payments for set number of years | Adjustable | Predictable income stream for defined period |
+| Monthly Payments (Tenure) | Equal payments for life, as long as in home | Adjustable | Lifetime income supplement; longevity planning |
+| Line of Credit | Draw as needed; unused portion grows over time | Adjustable | Flexibility; delayed access increases available credit |
+| Combination | Mix of upfront payments and credit line | Adjustable | Customized approach; some immediate + future access |
+
 There are several ways to receive proceeds from a HECM, and the choice has real consequences.
 
-**Lump sum:** You get all available proceeds upfront. This option typically comes with a fixed interest rate, which sounds appealing, but the fixed-rate lump sum product generally gives you access to less total equity over time compared to other options. It also puts a large sum in your hands at once, which creates complications if you're not a disciplined money manager.
+**Lump sum:** You get all available proceeds upfront. This option typically comes with a [fixed interest rate](/fixed-vs-adjustable-rate-mortgage/), which sounds appealing, but the fixed-rate lump sum product generally gives you access to less total equity over time compared to other options. It also puts a large sum in your hands at once, which creates complications if you're not a disciplined money manager.
 
 **Monthly payments:** You can receive equal monthly payments for a fixed term, or for as long as you live in the home (called a "tenure" payment). Tenure payments are calculated based on your age, current interest rates, and home value.
 

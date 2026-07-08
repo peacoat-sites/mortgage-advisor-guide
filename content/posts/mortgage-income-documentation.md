@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-
+lastmod: 2026-07-07
 ---
 You filled out the application. You answered every question. You uploaded what felt like half your filing cabinet. And then the loan processor came back asking for something else, something you didn't expect, and now you're wondering if this whole process is designed to make you feel like you're doing it wrong. It's not. Mortgage income documentation is genuinely one of the most confusing parts of buying a home, and the confusion is rarely your fault. Lenders are required by law to verify that you can repay what you're borrowing, which sounds simple until you realize that "proving income" looks completely different depending on how you earn it.
 
@@ -31,7 +31,7 @@ You filled out the application. You answered every question. You uploaded what f
 
 After the 2008 financial crisis, the mortgage industry got reshaped by the Ability-to-Repay standard, part of the Dodd-Frank Act. Lenders now have a legal obligation to make a reasonable, good-faith determination that you can actually pay back what you borrow. They can't just take your word for it.
 
-What they're really calculating when they review your documents is your Debt-to-Income ratio, or DTI. This is the percentage of your gross monthly income that goes toward monthly debt payments, including the new mortgage. Most conventional loans want to see a DTI at or below 43%, though some loan programs allow higher with compensating factors. A lower DTI tells an underwriter you've got enough breathing room in your budget to handle a mortgage payment even if something goes sideways.
+What they're really calculating when they review your documents is your [Debt-to-Income ratio, or DTI](/debt-to-income-ratio-for-mortgage/). This is the percentage of your gross monthly income that goes toward monthly debt payments, including the new mortgage. Most conventional loans want to see a DTI at or below 43%, though some loan programs allow higher with compensating factors. A lower DTI tells an underwriter you've got enough breathing room in your budget to handle a mortgage payment even if something goes sideways.
 
 The documentation isn't about distrust. It's about building a paper trail that tells a consistent story. Your job is to make sure the story makes sense from the outside looking in.
 
@@ -54,7 +54,7 @@ Overtime, bonuses, and commission income get treated differently than base salar
 
 ## Self-Employed and Freelance Borrowers: Prepare to Document Everything
 
-I've sat across from self-employed borrowers who earn more than most of their salaried neighbors and still struggled to qualify. Why? Because tax strategy that's smart for your CPA can be a liability on a mortgage application.
+I've sat across from [self-employed borrowers](/how-to-get-a-mortgage-when-self-employed/) who earn more than most of their salaried neighbors and still struggled to qualify. Why? Because tax strategy that's smart for your CPA can be a liability on a mortgage application.
 
 Self-employed borrowers, generally defined as owning 25% or more of a business, face the most extensive documentation requirements. Here's what you're typically looking at:
 

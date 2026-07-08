@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-
+lastmod: 2026-07-07
 ---
 Most borrowers stop looking the moment a conventional lender says no. Don't. There's an entire mortgage category built specifically for people who don't fit Fannie Mae and Freddie Mac's playbook, and it's way bigger than most people realize.
 
@@ -35,17 +35,24 @@ When I was underwriting at a regional bank in the early 2010s, we barely touched
 
 Brokers will tell you non-QM loans are "for the self-employed." That's true but incomplete. A freelancer pulling in $180,000 in annual deposits while her tax return shows $42,000 after deductions? Classic non-QM borrower. But it goes much further.
 
-Real estate investors with multiple financed properties routinely hit conventional loan caps, and products like Debt-Service Coverage Ratio (DSCR) loans evaluate the rental income, not the borrower's personal income. Foreign nationals buying U.S. property. Borrowers with a recent credit event, a bankruptcy discharged 13 months ago, or a short sale three years back. High-net-worth retirees with substantial assets but minimal reportable income. All of these hit walls with conventional underwriting. Non-QM was built around them.
+Real estate investors with multiple financed properties routinely hit conventional loan caps, and products like Debt-Service Coverage Ratio (DSCR) loans evaluate the rental income, not the borrower's personal income. Foreign nationals buying U.S. property. Borrowers with a recent credit event, a bankruptcy discharged 13 months ago, or a short sale three years back. High-net-worth retirees with substantial assets but minimal reportable income. All of these hit walls with [conventional underwriting](/conventional-loan-requirements/). Non-QM was built around them.
 
 What they share is a real ability to repay that doesn't show up neatly in a pay stub. The underwriting isn't loose; it's just different.
 
 ## The Main Product Types You'll Encounter
 
+| Loan Product | Income Calculation Method | Key Use Case | Down Payment Range | Primary Trade-off |
+| --- | --- | --- | --- | --- |
+| Bank Statement | 12-24 month average with 30-50% expense factor applied | Self-employed, freelancers, variable income | 20-30% | Qualifying income often lower than expected |
+| DSCR (Debt-Service Coverage Ratio) | Property rental income divided by mortgage payment (1.0+ ratio target) | Real estate investors, rental properties | 20-30% | Personal income irrelevant; higher rates at ratios below 1.0 |
+| Asset-Depletion | Total liquid assets divided by 60-120 months | High-net-worth retirees, minimal reportable income | 20-30% | Requires substantial asset reserves |
+| Recent Credit Event | Traditional income + time-since-event requirement | Post-bankruptcy, foreclosure, short sale borrowers | Variable | Rates 1-3% higher than conventional |
+
 > **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Bank statement loans are the most common. Instead of tax returns, the lender pulls 12 or 24 months of personal or business bank statements and calculates a deposit average as your qualifying income. Here's the thing: most lenders apply an expense factor, somewhere between 30% and 50%, to business deposits before counting them as income. You deposit $20,000 a month? They might count only $12,000 to $14,000. Borrowers are regularly shocked when their qualifying income comes back lower than expected.
 
-DSCR loans work differently. The lender looks at whether the property's projected monthly rent (or actual rent on an existing lease) covers the mortgage payment, aiming for a 1.0 ratio or higher. Some lenders will go to 0.75, but you'll pay for that flexibility in rate. Your personal income is basically irrelevant. I've seen real estate investors close DSCR loans with nothing but a lease and an appraisal.
+DSCR loans work differently. The lender looks at whether the property's projected monthly rent (or actual rent on an existing lease) covers the mortgage payment, aiming for a 1.0 ratio or higher. Some lenders will go to 0.75, but you'll pay for that flexibility in rate. Your personal income is basically irrelevant. I've seen [real estate investors](/investment-property-mortgage/) close DSCR loans with nothing but a lease and an appraisal.
 
 Asset-depletion loans matter if you're sitting on liquid wealth. The lender takes your total qualifying assets, subtracts down payment and reserves, and divides the remainder by a set number of months (typically 60 to 120) to create a monthly income figure. A borrower with $1.2 million in a brokerage account, no job, and no Social Security could qualify for a substantial mortgage on that calculation alone.
 

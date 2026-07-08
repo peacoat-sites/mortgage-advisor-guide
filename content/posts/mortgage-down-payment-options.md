@@ -23,11 +23,20 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-
+lastmod: 2026-07-07
 ---
 Most people believe you need 20% down to buy a house. That single myth keeps more qualified buyers on the sidelines than almost anything else. I've sat across from borrowers with solid income, clean credit, and real savings who had talked themselves out of homeownership because they were chasing a number they didn't actually need. The reality is that today's mortgage market offers down payment options ranging from zero to 20% and beyond, each with its own set of tradeoffs, costs, and qualifying requirements. Understanding those differences isn't just useful. It's the difference between buying a home this year and waiting three more years for a savings target you may not need.
 
 ## The Down Payment Spectrum: What Your Options Actually Look Like
+
+| Down Payment Option | Minimum Down Payment | PMI Required | Best For | Key Consideration |
+| --- | --- | --- | --- | --- |
+| VA Loan | 0% | No | Eligible veterans, active-duty, surviving spouses | No PMI; covers ~97% of U.S. land mass |
+| USDA Loan | 0% | No | Rural and suburban area buyers | Covers roughly 97% of country's land mass |
+| Conventional (HomeReady/Home Possible) | 3% | Yes (reduced) | First-time, low-to-moderate income | Income-sensitive eligibility |
+| FHA Loan | 3.5% (580+ credit) or 10% (<580 credit) | Yes (MIP for life if <10% down) | First-time buyers, credit rebuilding | MIP sticks around; requires refinance to remove |
+| Conventional Standard | 5-10% | Yes | Most conventional borrowers | PMI cancels at 20% equity |
+| Conventional | 20% | No | All borrowers | Eliminates PMI; may offer rate discount |
 
 Let's start with a full picture. You have more paths than you probably know about.
 
@@ -57,7 +66,7 @@ FHA loans work differently. The mortgage insurance premium (MIP) on FHA loans st
 
 ## Down Payment Assistance Programs: The Money Sitting on the Table
 
-This is the category most borrowers don't know exists. Down payment assistance (DPA) programs run through federal, state, county, and municipal levels, and many go underused every year simply because borrowers don't ask.
+This is the category most borrowers don't know exists. [Down payment assistance (DPA) programs](/down-payment-assistance-programs/) run through federal, state, county, and municipal levels, and many go underused every year simply because borrowers don't ask.
 
 These programs typically take one of three forms:
 
@@ -101,7 +110,7 @@ Lenders often want to see two to six months of mortgage payments in savings afte
 Get a loan estimate showing your monthly payment at 5% down versus 10% down versus 20% down. Ask the lender what PMI costs at each level. Then calculate how long it would take to save the difference between those down payment amounts. If it takes 18 months to save the extra 5%, factor in what home prices in your market might do in that time.
 
 **Step 4: Look into DPA programs before you close.**
-Ask your loan officer: "What down payment assistance programs am I eligible for?" A good officer will know. If they don't, contact a HUD-approved housing counselor and ask the same question.
+Ask your loan officer: "What down payment assistance programs am I eligible for?" A good officer will know. If they don't, contact a [HUD-approved housing counselor](/how-to-get-a-mortgage-first-time-buyer/) and ask the same question.
 
 **Step 5: Consider the rate impact.**
 Lenders price risk. A higher down payment typically earns a slightly better rate, especially in the conventional market. The rate difference between 5% and 20% down can be meaningful over 30 years. Get loan estimates at multiple down payment levels and compare the total cost of each scenario over your expected holding period.

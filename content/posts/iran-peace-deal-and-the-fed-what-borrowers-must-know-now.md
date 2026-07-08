@@ -12,6 +12,7 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 slug: "iran-peace-deal-and-the-fed-what-borrowers-must-know-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 The Iran peace deal was supposed to be the rate relief borrowers had been waiting for. It wasn't. Rates dipped briefly after negotiators reached a tentative agreement in mid-June 2026, then climbed right back up. If you're watching mortgage rates and trying to time a move, here's what the headlines are missing: the Iran conflict was only one blade of the scissors cutting into affordability. The Fed is holding the other one.
@@ -40,11 +41,17 @@ That is the "higher-for-longer" scenario made explicit. Anyone waiting for a ret
 
 ## The Supply Side Is Actually Better
 
-One thing that's genuinely improved, and gets less attention than it deserves: the inventory picture. Realtor.com's June 2026 housing report shows home prices are 2.5% lower year-over-year, and active listings are nearly 2% higher. That's a real shift after years of near-historic inventory shortages. Sellers are more negotiable. Days on market have stretched. Concessions are back.
+One thing that's genuinely improved, and gets less attention than it deserves: [the inventory picture](/falling-prices-rising-offers-the-functioning-market-borrowers-have-bee/). Realtor.com's June 2026 housing report shows home prices are 2.5% lower year-over-year, and active listings are nearly 2% higher. That's a real shift after years of near-historic inventory shortages. Sellers are more negotiable. Days on market have stretched. Concessions are back.
 
 This matters for borrowers because affordability is a two-variable problem. Rate is one variable. Purchase price is the other. A buyer who gets a seller to reduce the price by $15,000 on a $400,000 home has effectively offset a meaningful chunk of what a higher rate costs them over time. Locking in a rate buydown using seller-paid points is another tool that's more available now than it was in 2022 or 2023, when sellers laughed at such requests. The market has shifted enough to have that conversation.
 
 ## What to Do Before July 28
+
+| Scenario | Action | Rationale |
+| --- | --- | --- |
+| Purchase-ready with home found | Rate lock (45-60 day) or float with eyes open | 50-50 odds on July 28 hike; certainty vs. potential savings |
+| Still searching for property | Obtain underwritten pre-approval | Speed is leverage in volatile market with motivated sellers |
+| Considering a refinance | Model break-even at current 6.6% rate | Only pursue if payback is <30 months; don't gamble on hypothetical lower rates |
 
 The FOMC meeting on July 28-29 is the most consequential short-term event for borrowers right now. Here's how to think about it practically.
 

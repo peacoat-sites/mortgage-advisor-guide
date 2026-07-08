@@ -23,6 +23,7 @@ faqs:
    a: "High rates are a symptom, not the definition. What makes a loan predatory is the combination of terms designed to trap you, lack of transparent disclosure, and targeting of borrowers who lack realistic alternatives. A high-rate loan with clear terms and a borrower who genuinely understands what they're signing is a bad deal. It's not necessarily predatory."
  - q: "Do predatory lenders only target people with bad credit?"
    a: "No. Equity is often the real target. A borrower with a 620 credit score and $300,000 in home equity is extremely attractive to certain bad actors. Plenty of predatory loans have been sold to people with good credit who simply weren't paying close enough attention, or who trusted a referral source they shouldn't have. The most useful thing I can tell you is this: a legitimate lender survives scrutiny. They welcome questions, they put things in writing, and they don't need you to decide today. Any pressure that works against your ability to think clearly is working against you."
+lastmod: 2026-07-07
 ---
 
 Most people who get trapped in a predatory loan didn't see it coming. That's not because they were careless. It's because the people who design these products are very, very good at making them look reasonable until you're already signed.
@@ -51,7 +52,7 @@ You get a quote for 6.5%. You come to closing and the paperwork says 7.1%. The l
 
 But watch for a pattern of small changes that each seem explainable individually. This is called "bait and switch," and it's one of the most common predatory tactics I saw during my time working near the subprime corridor. Each change is small enough that walking away feels irrational. Together, they add up to a meaningfully worse loan.
 
-The federal Truth in Lending Act requires a Loan Estimate within three business days of your application, and a Closing Disclosure at least three business days before closing. Those aren't formalities. Compare them line by line. If the origination charges, the interest rate, or the loan terms shifted between those two documents without a documented change in your application (you switched from a 30-year to a 15-year, say, or your appraised value came in low), ask for a written explanation. If the answer is vague, that's your answer.
+The [federal Truth in Lending Act](/respa-mortgage-rules/) requires a Loan Estimate within three business days of your application, and a Closing Disclosure at least three business days before closing. Those aren't formalities. Compare them line by line. If the origination charges, the interest rate, or the loan terms shifted between those two documents without a documented change in your application (you switched from a 30-year to a 15-year, say, or your appraised value came in low), ask for a written explanation. If the answer is vague, that's your answer.
 
 ## The Products Designed to Trap You
 

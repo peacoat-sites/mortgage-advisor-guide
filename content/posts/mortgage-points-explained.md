@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-
+lastmod: 2026-07-07
 ---
 You're sitting across from a loan officer with a three-inch stack of closing documents in front of you. Somewhere near the top of the loan estimate is a line that says "Discount Points: 1.000 ($4,200)." They mention it briefly, say it'll lower your rate, then move on. If you don't stop them right there and ask what that actually means for your loan, you've just agreed to pay thousands of dollars without understanding what you're buying. I've watched it happen more times than I'd like.
 
@@ -92,6 +92,13 @@ Before you layer points into an ARM, read through [fixed vs. adjustable rate mor
 ---
 
 ## Comparing Points Across Different Loan Types
+
+| Loan Type | Points Allowed | Origination Points Permitted | Tax Deductibility | Key Consideration |
+| --- | --- | --- | --- | --- |
+| Conventional | Yes | Yes | Yes | Most flexible; fully negotiable |
+| FHA | Yes | Yes | Yes | Must factor MIP costs into break-even calculation |
+| VA | Yes | No | Yes (typically) | Cleaner conversation; VA lenders cannot charge origination points |
+| Jumbo | Yes | Yes | Yes | Lender discretion higher; rate reduction per point varies |
 
 Not all loan products treat points the same way. This distinction matters.
 

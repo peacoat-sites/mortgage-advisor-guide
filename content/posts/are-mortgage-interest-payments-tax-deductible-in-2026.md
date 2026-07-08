@@ -23,9 +23,9 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-
+lastmod: 2026-07-07
 ---
-The mortgage interest deduction has survived more "this is definitely its last year" predictions than I can count. Here we are in 2026, and it's still alive, still useful for a specific slice of homeowners, and still wildly misunderstood by almost everyone who thinks they're getting it.
+The [mortgage interest deduction](/mortgage-tax-benefits/) has survived more "this is definitely its last year" predictions than I can count. Here we are in 2026, and it's still alive, still useful for a specific slice of homeowners, and still wildly misunderstood by almost everyone who thinks they're getting it.
 
 Let me tell you what most coverage skips: the deduction doesn't help you unless you're already itemizing, and most American households stopped doing that after the Tax Cuts and Jobs Act of 2017 nearly doubled the standard deduction. If you bought a $400,000 home in 2024 with a 7% rate, your annual mortgage interest in year one is roughly $27,000. The 2026 standard deduction for married filing jointly is $30,000 (indexed for inflation from the 2025 figure of $29,200). Do the math. You'd need significant property taxes, charitable donations, or state income taxes stacked on top of that mortgage interest just to clear the itemizing threshold. Millions of homeowners never do.
 

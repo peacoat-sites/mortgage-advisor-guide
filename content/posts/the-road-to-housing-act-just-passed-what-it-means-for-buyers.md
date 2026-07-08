@@ -12,10 +12,22 @@ author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 slug: "the-road-to-housing-act-just-passed-what-it-means-for-buyers"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been watching home prices from the sidelines, wondering whether the math will ever work in your favor, this week brought news worth paying attention to. On June 23, 2026, the Senate passed the 21st Century ROAD to Housing Act with overwhelming bipartisan support, sending it to President Trump's desk. Only five senators voted against it, all Republicans. The House had passed its version back on May 20. This is the most significant federal housing legislation in a very long time, and if you're a first-time buyer, a renter hoping to eventually own, or just someone frustrated by what homes cost right now, here's what it actually does.
 
 ## The Part Everyone's Talking About: The Institutional Investor Ban
+
+| Metric | Figure | Source/Context |
+| --- | --- | --- |
+| Institutional investors with 1,000+ homes | ~500,000 properties | National data cited in article |
+| Percentage of U.S. housing stock | ~0.34% | Calculated from national figures |
+| Institutional investor concentration in Jacksonville, FL | 20%+ of single-family rentals | Local market example |
+| Median U.S. home price (current) | $403,000 | Article statement |
+| Median U.S. home price (2011) | ~$227,000 | Article statement |
+| Price increase 2011-present | 77% | Article calculation |
+| Household income needed to afford median home | $116,780 | Redfin estimate cited |
+| Penalty per violation (institutional investor ban) | Up to $1,000,000 or 3× purchase price | Whichever is greater |
 
 The headline provision bans "large institutional investors," defined as entities with investment control of 350 or more single-family homes, from purchasing additional single-family properties. The penalties are serious: up to $1,000,000 per violation or three times the purchase price, whichever is greater. That's not a fine that companies can quietly factor into a business model and move on. It's designed to stop the behavior entirely.
 
@@ -39,11 +51,11 @@ The law does try to address supply through other provisions, which I'll get to i
 
 ## The Less-Discussed Provisions That Could Actually Move the Needle
 
-Here's what I tell people who read past the investor ban headline: the supply-side provisions in this bill could matter more over the long run.
+Here's what I tell people who read past the investor ban headline: the [supply-side provisions](/what-the-new-housing-act-means-for-your-mortgage/) in this bill could matter more over the long run.
 
 The law streamlines NEPA environmental reviews for housing construction. NEPA reviews have been one of the most consistent friction points in getting new residential projects built, particularly in higher-density or infill development contexts. Faster environmental review doesn't guarantee more homes get built, but it does lower one of the structural costs and delays that developers cite constantly.
 
-The bill also updates FHA multifamily mortgage loan limits. This is technical, but it's real: higher limits mean more multifamily projects can access FHA-backed financing, which is often the path to making lower- and middle-income rental projects pencil out financially. More multifamily supply, over time, eases pressure on the single-family market by giving renters viable alternatives to buying.
+The bill also updates [FHA multifamily mortgage loan limits](/what-the-road-to-housing-act-means-for-fha-borrowers/). This is technical, but it's real: higher limits mean more multifamily projects can access FHA-backed financing, which is often the path to making lower- and middle-income rental projects pencil out financially. More multifamily supply, over time, eases pressure on the single-family market by giving renters viable alternatives to buying.
 
 Perhaps the most interesting lever is the provision tying some CDBG (Community Development Block Grant) funding to housing production output. In plain terms, localities that aren't building enough housing could see federal community development dollars reduced. That's a meaningful incentive for cities and counties that have historically used zoning and permitting as a quiet wall against new construction. It won't transform every reluctant suburb overnight, but it's a structural nudge that could reshape local conversations about housing production over the next several years.
 

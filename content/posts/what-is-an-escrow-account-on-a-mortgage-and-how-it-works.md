@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-
+lastmod: 2026-07-07
 ---
 Most homebuyers sign their closing documents, see the line item for "escrow account," and nod like they understand it. They don't. And honestly, neither did I when I started in underwriting. I had to sit with a processor named Renée who drew it on a whiteboard in about 90 seconds and suddenly the whole thing clicked.
 
@@ -62,6 +62,14 @@ There's also the escrow shortage scenario. If the servicer underestimated what y
 The flip side: if there's a surplus (your account has more than the allowable cushion), RESPA requires the servicer to refund anything over $50. These refund checks tend to arrive at random and confuse people who've forgotten what they're for.
 
 ## Do You Have to Have an Escrow Account?
+
+| Loan Type | Escrow Required? | Notes |
+| --- | --- | --- |
+| Conventional (20%+ down) | Optional | May waive with fee; escrow waiver fee sometimes priced as fraction of point |
+| Conventional (< 20% down) | Required | Typically mandatory until equity threshold reached |
+| FHA | Required | No option to waive; spelled out in loan terms |
+| VA | Required | No option to waive; spelled out in loan terms |
+| USDA | Required | No option to waive; spelled out in loan terms |
 
 Not always. This is one of the most common questions I got from borrowers, and the answer is genuinely situation-dependent.
 

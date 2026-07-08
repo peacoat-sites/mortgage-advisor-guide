@@ -23,6 +23,7 @@ faqs:
     a: "Neither is guaranteed to work. The mortgage market reprices before and after Fed cuts. Your best bet is to refinance when your current rate is at least 0.5 percent higher than what's available, regardless of Fed timing. The cost of waiting usually outweighs any 'perfect' timing you might achieve."
   - q: "Do mortgage rates ever go down when the Fed raises rates?"
     a: "Yes, though it's unusual and brief. It happens when recession fears spike and investors move money into bonds, pushing long-term yields down faster than the Fed's short-term rate moves up. It's rare but it does occur. This is why you shouldn't assume Fed policy automatically means mortgage policy will move the same direction."
+lastmod: 2026-07-07
 ---
 
 Right now, most people blame the Federal Reserve for their mortgage rate when they're shopping for a home. And they're not entirely wrong. But the mechanism is more subtle than "Fed raises rates, so your mortgage gets more expensive." It's not a direct line like that. Let me walk you through what's actually happening behind the scenes, because understanding this difference changes how you should time your move.
@@ -40,6 +41,13 @@ Your mortgage rate, on the other hand, is set by mortgage lenders and is influen
 The Fed does buy and sell these mortgage-backed securities as part of their broader policy tools. When they buy them, they push rates down. When they step back, rates tend up. But they're not setting your mortgage rate directly. Other factors move that market too: inflation expectations, international bond markets, geopolitical events, even housing inventory.
 
 ## The Indirect Path from Fed Decisions to Your Mortgage
+
+| Scenario | Fed Action | Market Signal | Mortgage Rate Movement | Borrower Outcome |
+| --- | --- | --- | --- | --- |
+| Late 2023 | Fed holds rates steady | Investors expect future rate cuts | 10-year Treasury yield falls | Rates decline 7.2% → 6.8% (~$200-250/month savings on $400k loan) |
+| Rate hike announcement | Fed raises rates | Inflation concerns, higher yields demanded | Mortgage rates rise quickly | Same loan product rises 6.10% → 6.35% within 24 hours |
+| Strong jobs report | Fed policy unchanged | Economic strength signals, rates stay higher longer | Mortgage rates rise | Rates move up despite no Fed action |
+| Weak jobs data | Fed policy unchanged | Economic softening signals | Mortgage rates fall | Rates move down despite no Fed action |
 
 > **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -59,7 +67,7 @@ The Fed controls short-term rates. Mortgage rates are tied to longer-term yields
 
 Here's a worked example to show you why this distinction matters:
 
-**Scenario**: In late 2023, the Fed had just finished raising rates and signaled they'd hold steady. Many borrowers thought "great, rates are done climbing." But the 10-year Treasury yield actually fell because investors believed the Fed would eventually cut rates in 2024 to support the economy. Mortgage rates declined from 7.2 percent to 6.8 percent even though Fed policy hadn't budged. Borrowers who waited instead of locking in at 7.2 percent saved about 40 basis points ($200 to $250 per month on a $400,000 loan), but only because they understood that Fed pause didn't mean rates were stuck.
+**Scenario**: In late 2023, the Fed had just finished raising rates and signaled they'd hold steady. Many borrowers thought "great, rates are done climbing." But the [10-year Treasury yield actually fell](/current-30-year-fixed-mortgage-rates-forecast-2026/) because investors believed the Fed would eventually cut rates in 2024 to support the economy. Mortgage rates declined from 7.2 percent to 6.8 percent even though Fed policy hadn't budged. Borrowers who waited instead of locking in at 7.2 percent saved about 40 basis points ($200 to $250 per month on a $400,000 loan), but only because they understood that Fed pause didn't mean rates were stuck.
 
 The Federal Housing Finance Agency (FHFA) publishes historical data on mortgage rates and can show you this relationship in real time. If you pull up their weekly data alongside the Fed's policy announcements, you'll see moments where they diverge.
 

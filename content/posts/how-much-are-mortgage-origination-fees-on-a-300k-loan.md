@@ -23,6 +23,7 @@ faqs:
    a: "Yes, though the structure differs. VA loans cap lender origination fees at 1% of the loan amount under current VA guidelines. FHA loans don't cap origination fees the same way, but lenders are required to disclose them fully on the Loan Estimate. FHA loans also carry a separate upfront mortgage insurance premium (1.75% of the loan) that's often confused with the origination fee."
  - q: "Is a 'no-fee mortgage' ever a good deal?"
    a: "Yes, specifically if you plan to sell or refinance within five to seven years. The rate premium built into a no-fee loan eventually costs more than the fee would have, but that break-even point is usually far enough out that short-term borrowers come out ahead. Run the math for your specific timeline before deciding."
+lastmod: 2026-07-07
 ---
 
 Origination fees are one of those line items that can swing a $300,000 loan by thousands of dollars, and most borrowers have no idea they're negotiable until after they've already signed.
@@ -33,7 +34,7 @@ Let's fix that.
 
 The term "origination fee" gets used loosely, and that's intentional. Lenders bundle different charges under that label depending on what they want you to see. At its core, an origination fee is what the lender charges for making the loan: processing your application, underwriting it, and getting the thing to the closing table. It's compensation for work performed.
 
-What it is not: your appraisal, your title insurance, your prepaid homeowner's insurance, or your escrow setup costs. Those are third-party fees. Origination is strictly the lender's own charge.
+What it is not: your appraisal, your title insurance, your prepaid homeowner's insurance, or your escrow setup costs. Those are [third-party fees](/mortgage-closing-costs-explained/). Origination is strictly the lender's own charge.
 
 The confusion happens because some lenders split the origination fee into sub-line items: an "application fee," an "underwriting fee," a "processing fee," sometimes a "lender fee" and a "funding fee" sitting right next to each other. Pull them all together and you've got the true origination charge. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) reports this as one of the most commonly misunderstood components of mortgage pricing, and that's a polite way of saying borrowers routinely get confused on purpose.
 
@@ -44,6 +45,12 @@ On a $300,000 loan, origination fees typically run between 0.5% and 1.5% of the 
 Start with a clean Loan Estimate comparison before you talk to a second lender: [compare mortgage calculators and home-buying guides on Amazon](https://www.amazon.com/s?k=mortgage+home+buying+guide&tag=thehomestory09-20) *(the site may earn a commission)* to find tools that help you read the numbers yourself.
 
 ## How the Math Actually Works on a $300K Loan
+
+| Scenario | Loan Amount | Origination Fee | Interest Rate | Monthly Payment Impact | Break-Even Timeline |
+| --- | --- | --- | --- | --- | --- |
+| Standard 1% origination fee | $300,000 | $3,000 (1%) | 6.875% | Baseline | N/A |
+| No origination fee with rate bump | $300,000 | $0 | 7.125% | +$52/month | ~58 months (4.8 years) |
+| Discount points in origination | $300,000 | $6,000 (1% origination + 1% point) | 6.625% | -$72/month | ~42 months (3.5 years) |
 
 > **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

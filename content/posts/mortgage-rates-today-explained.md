@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-
+lastmod: 2026-07-07
 ---
 You checked the rate on your lender's website Monday morning. By Wednesday afternoon, it had moved. Not by much, maybe a quarter of a point, but enough to change your monthly payment by $80 and your total interest cost by nearly $30,000 over the life of a 30-year loan. That's not a rounding error. That's a car payment. Mortgage rates aren't static numbers sitting on a sign at a dealership. They move every single business day, sometimes multiple times a day, and most borrowers have no idea why.
 
@@ -37,7 +37,7 @@ A mortgage rate is the interest a lender charges you to borrow money to buy a ho
 
 The **interest rate** is the base cost of borrowing. The **APR (Annual Percentage Rate)** is the fuller picture. It includes the interest rate *plus* lender fees, origination charges, mortgage points, and certain other costs rolled into a single annualized figure. Two lenders can quote you the same 7.00% rate. One might have an APR of 7.18%. The other might sit at 7.42%. That gap reflects the fees baked into the loan. Always compare APR, not just the rate, when you're shopping.
 
-The rate you're quoted is also not a universal number. It's personalized. A borrower with a 760 credit score, 20% down, a 30-year fixed loan, and a single-family primary residence will get a different rate than someone with a 680 score, 5% down, a condo, and an investment property intent. Every one of those variables shifts the lender's risk calculation, and that shift shows up in the rate.
+The [rate you're quoted](/mortgage-rate-lock-explained/) is also not a universal number. It's personalized. A borrower with a 760 credit score, 20% down, a 30-year fixed loan, and a single-family primary residence will get a different rate than someone with a 680 score, 5% down, a condo, and an investment property intent. Every one of those variables shifts the lender's risk calculation, and that shift shows up in the rate.
 
 ---
 
@@ -47,7 +47,7 @@ The rate you're quoted is also not a universal number. It's personalized. A borr
 
 Mortgage rates don't come out of thin air, and they're not set by the Federal Reserve, which is one of the most persistent misconceptions I hear. The Fed controls the federal funds rate, which is an overnight lending rate between banks. It influences mortgage rates indirectly, mostly through its effect on inflation expectations and bond markets, but the connection isn't direct.
 
-Mortgage rates, especially for 30-year fixed loans, track most closely with the **10-year U.S. Treasury yield**. When investors feel nervous about economic growth and pile into the safety of Treasury bonds, bond prices rise and yields fall. Mortgage rates tend to follow. When the economy looks strong and investors move money out of bonds into riskier assets like stocks, yields rise. So do mortgage rates. That's why you'll see rates spike after a strong jobs report or a higher-than-expected inflation print.
+Mortgage rates, especially for 30-year fixed loans, track most closely with the **[10-year U.S. Treasury yield](/current-mortgage-rates/)**. When investors feel nervous about economic growth and pile into the safety of Treasury bonds, bond prices rise and yields fall. Mortgage rates tend to follow. When the economy looks strong and investors move money out of bonds into riskier assets like stocks, yields rise. So do mortgage rates. That's why you'll see rates spike after a strong jobs report or a higher-than-expected inflation print.
 
 There's also something called the **mortgage-backed securities (MBS) market** that most borrowers never hear about. Lenders bundle individual mortgages into securities and sell them to investors. The price those investors are willing to pay affects the rates lenders can profitably offer. When MBS prices fall, rates go up. It's another layer of market mechanics running quietly beneath the surface of every rate quote you receive.
 
@@ -56,6 +56,16 @@ The Federal Housing Finance Agency (FHFA) plays a role too, particularly through
 ---
 
 ## Fixed vs. Adjustable: The Decision That Shapes Everything
+
+| Loan Type | Rate Tendency | Best Suited For |
+|---|---|---|
+| 30-year fixed | Highest among fixed products | Long-term stability seekers |
+| 15-year fixed | Lower than 30-year, higher payment | Borrowers who can afford higher monthly payments |
+| 5/1 ARM | Often starts lower than fixed | Those planning to sell or refinance within 5 years |
+| 7/1 ARM | Lower than 30-year fixed at origination | Shorter-horizon buyers with rate-risk tolerance |
+| FHA loan | Competitive rate, but includes MIP | Borrowers with lower credit scores or down payments |
+| VA loan | Often lowest available rate | Eligible veterans and active-duty military |
+| Jumbo loan | Can be higher or lower depending on market | Loan amounts above conforming limits |
 
 When you see "mortgage rates today," you're usually looking at a headline 30-year fixed rate. But that's just one product. The rate landscape includes 15-year fixed loans, 20-year fixed loans, 5/1 ARMs, 7/1 ARMs, 10/1 ARMs, FHA loans, VA loans, jumbo loans, and others. Each one prices differently.
 

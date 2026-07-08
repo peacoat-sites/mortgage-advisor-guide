@@ -12,6 +12,7 @@ author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 slug: "a-fed-rate-hike-is-now-on-the-table-what-mortgage-borrowers-should-do"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most coverage of this moment focuses on what the Fed *might* do. The more pressing question is what mortgage borrowers should do right now, before July 28.
 
@@ -49,11 +50,17 @@ ARMs can make sense for borrowers who have a clear, credible exit strategy: sell
 
 ## Refinancers Should Stop Waiting for a Better Entry Point
 
+| Scenario | Initial Rate | New Rate | Monthly Savings | Closing Costs | Break-Even Timeline |
+| --- | --- | --- | --- | --- | --- |
+| Refinance from 2023-2024 loan | 7.25% | 6.6% | $180 | $4,500 | 25 months |
+| 25 basis point rate increase impact | - | +0.25% | -$65-70 | - | Per month |
+| Median payment (May 2026) | - | - | - | - | $2,198/month |
+
 If you took out a loan at 7% or above in 2023 or 2024 and have been holding out for rates to fall back below 6%, the Fannie Mae and MBA forecasts should end that waiting game. Mid-6% is, apparently, the new normal for 2026.
 
 The break-even math still applies. If refinancing from 7.25% to 6.6% saves you $180 per month and costs $4,500 in closing costs, you're at break-even in 25 months. If you plan to stay in the home past that, the refi makes sense today, at today's rate. If you're waiting for 6%, you're betting against two major institutional forecasters and a Fed that has clearly shifted its posture.
 
-I'm not suggesting anyone make a panicked decision. Consult a HUD-approved housing counselor or a fee-only mortgage advisor before you act, particularly if you're weighing an ARM or a cash-out refi. The fine print in those products has a way of clarifying things quickly.
+I'm not suggesting anyone make a panicked decision. Consult a [HUD-approved housing counselor](/hud-just-changed-14-fha-mortgage-rules-here-is-what-it-means-for-buyer/) or a fee-only mortgage advisor before you act, particularly if you're weighing an ARM or a cash-out refi. The fine print in those products has a way of clarifying things quickly.
 
 What I am saying is that "waiting for rates to drop" has a real cost that's often invisible until the window closes.
 

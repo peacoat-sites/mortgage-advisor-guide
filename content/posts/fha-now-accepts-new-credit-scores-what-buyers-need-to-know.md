@@ -12,6 +12,7 @@ author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 slug: "fha-now-accepts-new-credit-scores-what-buyers-need-to-know"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most people assume their credit score is their credit score. One number, one fate. What I've spent the last week digging into suggests that assumption is about to get a lot more complicated, and for millions of potential homebuyers, that's genuinely good news.
 
@@ -20,6 +21,12 @@ On April 22, 2026, HUD Secretary Scott Turner announced that FHA would begin acc
 If you're a first-time buyer, a recent immigrant, a young worker with limited credit history, or someone who mostly pays cash and carries little traditional debt, you need to understand what this actually means before you walk into a lender's office.
 
 ## What's Actually Changing, and Why It Matters
+
+| Credit Scoring Model | Data Approach | Key Benefit for Thin-File Borrowers | FHA Acceptance Status (as of June 2026) |
+| --- | --- | --- | --- |
+| Classic FICO | Snapshot of current state | Established standard; 30+ years in mortgage lending | Active (existing standard) |
+| VantageScore 4.0 | Trended data over time | Scores borrowers with limited credit history; sees payment trajectory | Announced; implementation guidance pending |
+| FICO Score 10T | Trended data over time | Scores borrowers with limited credit history; incorporates 24-month payment patterns | Announced; implementation guidance pending |
 
 Classic FICO has been the gold standard in mortgage lending since the early 1990s. It works reasonably well for borrowers with thick credit files, meaning people who have years of revolving accounts, installment loans, and documented repayment behavior. The problem is that an estimated 40 million Americans are essentially invisible to Classic FICO. They pay rent on time. They pay utilities. They may even have a steady income and savings. But because they haven't carried the right mix of credit products for long enough, Classic FICO either can't score them or scores them poorly.
 

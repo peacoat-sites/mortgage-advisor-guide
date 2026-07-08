@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-
+lastmod: 2026-07-07
 ---
 You submitted your mortgage application feeling confident. Good credit score, steady job, money in the bank. Then the loan officer calls and says you've been denied. The reason? Your debt-to-income ratio is too high.
 
@@ -42,6 +42,14 @@ The second is your **back-end DTI**, which is what most people mean when they sa
 Here's a concrete example. Say your gross monthly income is $7,000. Your proposed housing payment is $1,800. You also have a $400 car payment and $300 in minimum credit card payments. Your back-end DTI is ($1,800 + $400 + $300) / $7,000, which equals 35.7%. That number determines whether you get approved, at what terms, and sometimes whether you need to shop for a different loan product entirely.
 
 ## The DTI Limits That Actually Matter by Loan Type
+
+| Loan Type | Front-End Max | Back-End Max | Notes |
+|-----------|--------------|-------------|-------|
+| Conventional | 28% (guideline) | 45-50% | Higher DTI needs compensating factors |
+| FHA | 31% (guideline) | 43-50% | Flexible via automated underwriting |
+| VA | No hard cap | ~41% (lender overlay) | Residual income also evaluated |
+| USDA | 29% | 41% | Exceptions available |
+| Jumbo | Not specified | 38-43% | Stricter private lender standards |
 
 Different loan programs have different tolerance levels. Knowing where the hard lines are saves you weeks of wasted time chasing the wrong product.
 
@@ -63,7 +71,7 @@ Don't wait for a lender to tell you your number. Calculate it yourself first.
 Use pre-tax income. If you're salaried, divide your annual salary by 12. If you're hourly, multiply your hourly wage by average weekly hours, then by 52, then divide by 12. Self-employed or variable income borrowers will have lenders average the last two years of tax returns. Bonuses and overtime only count if they're consistent and documented.
 
 **Step 2: List every minimum monthly debt payment.**
-Pull your credit report at AnnualCreditReport.com and write down the minimum payment for every account. Don't use your current balances or what you typically pay. Use the minimum required payment as reported. Student loans get tricky: if your loans are in deferment, many programs still count 0.5% to 1% of the outstanding balance as a monthly payment.
+Pull your credit report at AnnualCreditReport.com and write down the minimum payment for every account. Don't use your current balances or what you typically pay. Use the minimum required payment as reported. [Student loans get tricky](/mortgage-with-student-loans/): if your loans are in deferment, many programs still count 0.5% to 1% of the outstanding balance as a monthly payment.
 
 **Step 3: Estimate your new housing payment.**
 Include principal and interest at the rate you expect, plus property taxes (ask the listing agent or check the county assessor's site), homeowners insurance (roughly $100 to $200 per month for most single-family homes, though it varies by location), and any HOA fees.

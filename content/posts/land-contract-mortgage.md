@@ -23,6 +23,7 @@ faqs:
    a: "Almost always yes, though the amount is negotiated rather than dictated by lending guidelines. Sellers typically want somewhere between 5% and 20%, but there's no industry standard. A larger down payment often means better terms, but it also means more equity at risk if the deal goes wrong."
  - q: "Can I get homeowner's insurance on a land contract property?"
    a: "Yes, and you absolutely should. Most insurers will write a policy for a buyer with equitable title. Make sure the policy names both you and the seller (as the legal title holder) appropriately, and keep documentation that you're current on your premiums."
+lastmod: 2026-07-07
 ---
 Maybe you've been turned down by a traditional lender. Maybe your credit score took a hit a few years back, or you're self-employed and your tax returns make your income look like origami. Whatever the reason, a land contract might have come up in conversation, and right now you're probably somewhere between intrigued and a little nervous. That's completely reasonable.
 
@@ -32,7 +33,7 @@ So let's get into it.
 
 ## What a Land Contract Actually Is (And Isn't)
 
-A land contract, also called a contract for deed or installment sale agreement depending on your state, is an arrangement where the seller finances the purchase directly. You make payments to the seller, you occupy the home, but here's the part that surprises most people: the seller keeps the legal title until you've paid off the agreed purchase price, or sometimes until you refinance into a conventional mortgage.
+A land contract, also called a contract for deed or installment sale agreement depending on your state, is an arrangement where the [seller finances the purchase directly](/seller-financing-explained/). You make payments to the seller, you occupy the home, but here's the part that surprises most people: the seller keeps the legal title until you've paid off the agreed purchase price, or sometimes until you refinance into a conventional mortgage.
 
 That distinction matters enormously. With a traditional mortgage, you get the deed at closing. With a land contract, the deed doesn't transfer until some future condition is met. In the meantime, you hold what's called "equitable title," which gives you the right to occupy and benefit from the property, but not the full legal ownership.
 
@@ -44,7 +45,7 @@ The seller sets everything: the purchase price, the interest rate, the down paym
 
 > **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-Land contracts show up most often in three situations: buyers who can't qualify for a conventional loan right now, rural or distressed properties that are hard to finance through traditional channels, and sellers who want to generate installment income rather than take a lump sum. When all three conditions align, a land contract can genuinely help everyone involved.
+Land contracts show up most often in three situations: buyers who can't qualify for a [conventional loan](/conventional-loan-requirements/) right now, rural or distressed properties that are hard to finance through traditional channels, and sellers who want to generate installment income rather than take a lump sum. When all three conditions align, a land contract can genuinely help everyone involved.
 
 You might be wondering whether lenders look down on land contract history when you eventually try to refinance. Honestly, it depends. If you've made 24 months of on-time payments and the transaction was structured cleanly, a lot of lenders will count that payment history positively. What they want to see is a written contract, clear payment records, and proof that you've been maintaining the property. Keep every receipt and every bank statement from day one.
 

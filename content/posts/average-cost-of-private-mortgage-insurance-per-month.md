@@ -23,6 +23,7 @@ faqs:
    a: "You can request cancellation once your loan balance drops to 80% of the original purchase price, assuming your payment history is clean. If your home has appreciated, you may be able to request an earlier cancellation with a new appraisal, typically for loans that are at least two years old."
  - q: "Does PMI protect me as the borrower?"
    a: "No. PMI protects the lender if you default. It provides zero direct benefit to you. The sole reason to pay it is because it's the cost of entry for getting a loan with less than 20% down, and for many buyers, that tradeoff makes sense."
+lastmod: 2026-07-07
 ---
 
 Nobody tells you what PMI actually costs until you're three days from closing and staring at a loan estimate that suddenly looks different than you expected.
@@ -49,6 +50,14 @@ What surprised me when I compared quotes from multiple private mortgage insurers
 
 ## The Credit Score Factor Most People Underestimate
 
+| Credit Score Range | PMI Pricing Tier | Typical Annual Rate | Monthly Cost (on $350K loan) |
+| --- | --- | --- | --- |
+| Below 640 | Brutal | 1.25%+ | $365+ |
+| 640-679 | Expensive | 1.0%-1.25% | $291-$365 |
+| 680-719 | Moderate | 0.75%-1.0% | $219-$291 |
+| 720-759 | Better | 0.55%-0.75% | $160-$219 |
+| 760+ | Best Available | 0.5%-0.60% | $145-$175 |
+
 > **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -65,7 +74,7 @@ The credit score tiers that matter most for PMI pricing are generally: below 640
 
 Here's where I get a little skeptical, because this product drove me crazy as an underwriter.
 
-Lender-paid PMI (LPMI) is when your lender covers the mortgage insurance premium in exchange for a slightly higher interest rate on your loan. It gets marketed as "no PMI" sometimes, which is technically true in the sense that there's no separate line item on your statement. But you're absolutely still paying for that insurance, just baked into your rate forever.
+[Lender-paid PMI (LPMI)](/mortgage-closing-costs-explained/) is when your lender covers the mortgage insurance premium in exchange for a slightly higher interest rate on your loan. It gets marketed as "no PMI" sometimes, which is technically true in the sense that there's no separate line item on your statement. But you're absolutely still paying for that insurance, just baked into your rate forever.
 
 With borrower-paid PMI (BPMI), you can cancel it once you hit 20% equity. With LPMI, you can't. The higher rate is permanent unless you refinance. If you're planning to sell or refinance within five years, LPMI can make mathematical sense. If you're staying in the home for 10+ years, borrower-paid PMI almost always wins. Run the numbers both ways before you let a loan officer steer you toward "no PMI" as if it's obviously better.
 

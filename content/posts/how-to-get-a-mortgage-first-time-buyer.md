@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-
+lastmod: 2026-07-07
 ---
 Most first-time buyers walk into a lender's office convinced the mortgage process starts with finding a house. It doesn't. By the time you've fallen in love with a property, made an offer, and started negotiating, the financial decisions that actually determine what you can afford and what you'll pay have already been made, or should have been. I've watched borrowers lose houses, overpay by tens of thousands in interest, or get stuck in loan products they didn't fully understand, all because they started too late or in the wrong order.
 
@@ -46,6 +46,13 @@ Cash matters more than people expect. Your down payment is only part of it. You'
 ---
 
 ## Understand the Loan Types Actually Available to You
+
+| Loan Type | Min. Down Payment | Credit Score Min. | Mortgage Insurance | Best For |
+|---|---|---|---|---|
+| Conventional (Fannie/Freddie) | 3% | 620 | Required below 20% down; cancellable | Strong credit borrowers |
+| FHA | 3.5% (580+ score) | 580 | Required for life of loan (if <10% down) | Lower credit or limited down payment |
+| VA | 0% | No official minimum (lenders vary) | None | Eligible veterans and service members |
+| USDA | 0% | 640 recommended | Annual fee required | Rural/suburban areas, income limits apply |
 
 The loan type you choose has a bigger long-term impact than most first-timers realize. Here's a practical breakdown of the main options:
 

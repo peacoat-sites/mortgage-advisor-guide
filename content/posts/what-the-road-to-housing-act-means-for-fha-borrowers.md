@@ -12,10 +12,21 @@ author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 slug: "what-the-road-to-housing-act-means-for-fha-borrowers"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 The same week Congress passed what the Bipartisan Policy Center called the largest housing affordability legislation in decades, HUD quietly rolled out 14 separate FHA policy changes that most buyers haven't heard about yet. Both things happened on June 22-23, 2026. Both affect FHA borrowers. And right now, one of them is already in effect while the other is sitting on the President's desk with an uncertain future. If you're trying to buy a home with an FHA loan, or you've been priced out and are waiting for conditions to shift, you need to understand what changed, what's coming, and what's genuinely still unknown.
 
 ## The Affordability Context Nobody Wants to Say Out Loud
+
+| Metric | Timeline | Figure |
+| --- | --- | --- |
+| Annual household income needed to afford median-priced home | End of 2025 | $120,800 |
+| Listings affordable to households earning ≤$75,000 | March 2026 | 23% |
+| Listings affordable to households earning ≤$75,000 | March 2019 | 49% |
+| Current FHA annual mortgage insurance premium (10%+ down) | 2026 | 0.55% |
+| Monthly MIP cost on $300,000 loan | 2026 | $137.50 |
+| Annual MIP cost on $300,000 loan | 2026 | $1,650 |
+| Estimated annual appraisal savings across FHA industry | 2026 | $3.3 million |
 
 Here's the number that reframed everything for me when I looked at this week's data: Harvard's Joint Center for Housing Studies found that as of the end of 2025, a household needed $120,800 in annual income just to afford a median-priced home. And in March 2026, only 23% of listings were affordable to households earning $75,000 or less. In March 2019, that number was 49%. That's not a gradual squeeze. That's a collapse of the entry-level market in about seven years.
 
@@ -37,13 +48,13 @@ The catch: none of this matters until Trump signs the bill. He canceled his sign
 
 ## The 14 HUD Changes That Are Already in Effect
 
-This is where things get practical, because HUD's June 23 announcement doesn't require a presidential signature. These 14 FHA Single Family policy changes went through the administrative process and they're active now.
+This is where things get practical, because [HUD's June 23 announcement](/hud-just-changed-14-fha-mortgage-rules-here-is-what-it-means-for-buyer/) doesn't require a presidential signature. These 14 FHA Single Family policy changes went through the administrative process and they're active now.
 
 The changes cover the full loan lifecycle, from origination through servicing. A few are genuinely useful for borrowers and loan officers. The streamlining of appraisal field reviews, which HUD estimates will save roughly $3.3 million per year across the industry, is mostly a back-office efficiency gain, but efficiency in the appraisal process has real effects on closing timelines. The expansion of contractor draw schedules under the 203(k) rehabilitation loan program is more directly borrower-facing. The 203(k) has always been a powerful but administratively burdensome product, and anything that makes contractors more willing to participate in that program is worth noting.
 
 The permanent elimination of the HUD-92900-B homebuyer disclosure form sounds like bureaucratic housekeeping, and it mostly is, but it's part of a broader pattern. HUD reports that these 14 changes bring the total number of streamlining actions under the current administration to more than 150. That's a real volume of regulatory cleanup, whatever you think of the politics behind it.
 
-What's notably absent from all of it: any change to mortgage insurance premiums. The Community Home Lenders of America has been explicit that MIP reduction is the next step that would actually move the needle for borrowers, per National Mortgage News coverage from June 24. FHA's annual MIP for most borrowers is currently 0.55% on loans with down payments of 10% or more, and higher for smaller down payments on certain loan terms. On a $300,000 loan, that's $1,650 per year, or $137.50 per month, added to your payment for the life of the loan in many cases. That number doesn't change under anything announced this week.
+What's notably absent from all of it: any change to [mortgage insurance premiums](/what-the-road-to-housing-act-means-for-your-fha-loan/). The Community Home Lenders of America has been explicit that MIP reduction is the next step that would actually move the needle for borrowers, per National Mortgage News coverage from June 24. FHA's annual MIP for most borrowers is currently 0.55% on loans with down payments of 10% or more, and higher for smaller down payments on certain loan terms. On a $300,000 loan, that's $1,650 per year, or $137.50 per month, added to your payment for the life of the loan in many cases. That number doesn't change under anything announced this week.
 
 ## The Investor Restriction Provision: Real, But Don't Overestimate It
 

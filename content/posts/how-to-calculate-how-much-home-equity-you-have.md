@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-
+lastmod: 2026-07-07
 ---
 You probably already know you have equity in your home. What you might not know is exactly how much, or whether the number you're thinking of is accurate. That gap matters more than most people realize, especially if you're considering refinancing, taking out a home equity loan, or just trying to nail down your actual net worth.
 
@@ -51,6 +51,12 @@ If you have a second mortgage, a home equity line of credit (HELOC), or any othe
 
 ## The Trickier Side: Figuring Out What Your Home Is Actually Worth
 
+| Valuation Method | Cost | Accuracy | Best For | Key Limitation |
+| --- | --- | --- | --- | --- |
+| Automated Valuation Model (AVM) | Free | Often substantial error (can be $50,000+ off) | Rough ballpark only | Algorithm-based, ignores unique property features |
+| Comparative Market Analysis (CMA) | Free (from agent) | More reliable than AVM | Planning to borrow or refinance within 6+ months | Not an official appraisal |
+| Certified Appraisal | $400-$700+ | Gold standard | Major financial decisions, refinancing, home equity loans | Most expensive option |
+
 This is where things get genuinely complicated, and where I want you to slow down.
 
 You have several options for estimating your home's current market value, and they're not all equal.
@@ -59,9 +65,9 @@ You have several options for estimating your home's current market value, and th
 
 **Comparative Market Analysis (CMA)** is what a real estate agent provides, usually for free if they're hoping to earn your business. A good agent will pull genuinely comparable recent sales in your neighborhood and give you a more thoughtful estimate than any algorithm can. It still isn't an appraisal, but it's a useful data point, especially if the agent has recent experience selling homes nearby.
 
-**A certified appraisal** is the gold standard. A licensed appraiser physically inspects your property, compares it to recent sales, and produces a written report. It typically costs between $400 and $700 for a standard single-family home, sometimes more in high-cost markets. If you're making a major financial decision based on your equity, this is money well spent. Lenders will order their own appraisal anyway when you apply for a home equity loan or refinance, but knowing the number ahead of time prevents surprises.
+**A certified appraisal** is the gold standard. A licensed appraiser physically inspects your property, compares it to recent sales, and produces a written report. It typically costs between $400 and $700 for a standard single-family home, sometimes more in high-cost markets. If you're making a major financial decision based on your equity, this is money well spent. Lenders will order their own appraisal anyway when you apply for a [home equity loan or refinance](/home-equity-loan-rates/), but knowing the number ahead of time prevents surprises.
 
-Here's what I tell people who ask which method to use. If you're just curious, an AVM is fine. If you're planning to borrow against your equity or refinance in the next six months, spend the money on a real appraisal or at least get a CMA from two different agents and see where they land.
+Here's what I tell people who ask which method to use. If you're just curious, an AVM is fine. If you're planning to [borrow against your equity](/home-equity-for-renovations/) or refinance in the next six months, spend the money on a real appraisal or at least get a CMA from two different agents and see where they land.
 
 ## A Worked Example, Step by Step
 
@@ -75,7 +81,7 @@ Step 3: Do the math. $440,000 minus $261,400 equals $178,600 in equity.
 
 Step 4: Calculate your loan-to-value ratio (LTV). Divide your mortgage balance by the estimated value: $261,400 divided by $440,000 is roughly 59.4%. Your LTV is about 59%, which also means you have about 41% equity. Lenders look at LTV constantly, so it's worth understanding both ways to express the same number.
 
-This matters because most lenders won't let you borrow against all of your equity. A typical home equity loan or HELOC will let you borrow up to a combined loan-to-value (CLTV) of 80% to 85%, meaning you need to keep at least 15% to 20% equity in the home after the new debt is added. Some lenders go higher, but expect a rate penalty for it.
+This matters because most lenders won't let you borrow against all of your equity. A typical [home equity loan or HELOC](/heloc-vs-home-equity-loan/) will let you borrow up to a combined loan-to-value (CLTV) of 80% to 85%, meaning you need to keep at least 15% to 20% equity in the home after the new debt is added. Some lenders go higher, but expect a rate penalty for it.
 
 ## Why Your Equity Number Can Change Without You Doing Anything
 

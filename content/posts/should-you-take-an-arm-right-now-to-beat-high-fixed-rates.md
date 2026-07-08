@@ -12,6 +12,7 @@ author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 slug: "should-you-take-an-arm-right-now-to-beat-high-fixed-rates"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 30-year fixed rates hit 6.6% on June 15, 2026. A 5-year ARM was sitting at 5.76%. That's 84 basis points cheaper, which works out to roughly $150 a month on a typical purchase. ARM applications surged 113% year-over-year. The math looks good on paper.
 
@@ -43,7 +44,7 @@ Here's where ARMs get dangerous: the buyer who takes one because they can't qual
 
 ## The "Buy Now, Refinance Later" Bet
 
-MBA chief economist Mike Fratantoni noted that mortgage applications rebounded 10.8% for the week ending June 5, with purchase apps up 7%. Some of that's seasonal. Some is buyers rushing to close before rates climb further. The "buy now, refinance later" logic goes like this: lock your purchase price today, take the ARM, and refinance into a fixed rate once the Fed starts cutting.
+MBA chief economist Mike Fratantoni noted that mortgage applications rebounded 10.8% for the week ending June 5, with purchase apps up 7%. Some of that's seasonal. Some is buyers rushing to close before rates climb further. The "buy now, refinance later" logic goes like this: lock your purchase price today, take the ARM, and refinance into a fixed rate once [the Fed starts cutting](/a-fed-rate-hike-is-now-on-the-table-what-mortgage-borrowers-should-do/).
 
 Timing's the killer. The Fed's June 16-17 meeting happened with 4.2% inflation on the table. Their target is 2%. They're not cutting in that environment. Most forecasters don't see relief until late 2026 at the earliest, and HousingWire is flagging Iran-risk that could push it further.
 
@@ -51,13 +52,19 @@ A 5-year ARM bought in summer 2026 adjusts in summer 2031. If rates are lower by
 
 ## How to Read the Actual ARM Document
 
+| ARM Structure | Initial Cap | Periodic Cap | Lifetime Cap | Borrower Impact |
+| --- | --- | --- | --- | --- |
+| 5/2/5 | 5% | 2% per year | 5% above start rate | Higher initial jump, lower ongoing risk |
+| 2/2/5 | 2% | 2% per year | 5% above start rate | Lower initial jump, better for first adjustment |
+| Example: 5.76% start | - | - | 10.76% ceiling | Maximum payment risk at lifetime cap |
+
 Ask your lender for the ARM Disclosure and the loan note before underwriting gets heavy. Hunt for four numbers: the initial rate, the index, the margin, and the caps (written as initial/periodic/lifetime, like 2/2/5).
 
 A 5/2/5 cap structure means: maximum 5% jump at first adjustment, then 2% each year after, 5% lifetime ceiling above your start rate. A 2/2/5 is better for borrowers at that first adjustment. Lenders don't volunteer this breakdown. Ask point-blank.
 
 Also ask what the index is today and what your rate would be if the loan adjusted right now. That tells you whether the teaser rate is genuinely cheap or whether the margin is baked high enough to wipe out your savings at the first reset.
 
-The ARM-to-fixed spread is real today. For the right borrower, it's worth considering. But "the right borrower" is a specific person, and the current macro picture, persistent inflation, an unresolved geopolitical mess, a Fed with no room to cut quickly, makes that refinance window shakier than a spreadsheet suggests. Talk to an independent mortgage advisor before you commit, not just the loan officer with a closing date in mind.
+The ARM-to-fixed spread is real today. For the right borrower, it's worth considering. But "the right borrower" is a specific person, and the current macro picture, persistent inflation, an unresolved geopolitical mess, a Fed with no room to cut quickly, makes that refinance window shakier than a spreadsheet suggests. Talk to an [independent mortgage advisor](/what-the-iran-peace-deal-means-for-your-mortgage-rate/) before you commit, not just the loan officer with a closing date in mind.
 
 ## Sources
 

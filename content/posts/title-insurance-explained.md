@@ -23,9 +23,9 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-
+lastmod: 2026-07-07
 ---
-If you've ever sat at a closing table and watched a stack of documents slide across to you, you know the feeling: pages blur together, numbers swim, and somewhere in the middle of it all someone mentions "title insurance" like it's an obvious line item you've already thought through. Most people haven't. They nod, sign, and move on. Then, years later, some of them get a letter they never expected, from a creditor or an heir or a municipality, claiming some legal right to the property they thought they owned outright. That's the moment title insurance either saves them or doesn't.
+If you've ever sat at a [closing](/what-are-typical-closing-costs-for-a-home-buyer/) table and watched a stack of documents slide across to you, you know the feeling: pages blur together, numbers swim, and somewhere in the middle of it all someone mentions "title insurance" like it's an obvious line item you've already thought through. Most people haven't. They nod, sign, and move on. Then, years later, some of them get a letter they never expected, from a creditor or an heir or a municipality, claiming some legal right to the property they thought they owned outright. That's the moment title insurance either saves them or doesn't.
 
 ## What Title Insurance Actually Is (And What It's Not)
 
@@ -55,9 +55,14 @@ In practice, the most common culprits are:
 - **Probate issues**: A previous owner died and their estate was handled improperly. An overlooked heir surfaces years later with a legitimate legal claim.
 - **Fraudulent deeds**: This one's growing. Deed fraud, where someone forges a property transfer without the owner's knowledge, has increased as public records moved online and became easier to exploit.
 
-A title search before closing should catch many of these. But title searches aren't perfect. They depend on the quality of public records and the thoroughness of the searcher. Insurance covers what the search misses.
+A [title search before closing](/mortgage-title-search-process/) should catch many of these. But title searches aren't perfect. They depend on the quality of public records and the thoroughness of the searcher. Insurance covers what the search misses.
 
 ## What Owner's Title Insurance Actually Covers
+
+| Policy Type | Protects | Coverage Duration | Covers Loan Payoff | Typical Cost |
+| --- | --- | --- | --- | --- |
+| Lender's Title Insurance | Mortgage lender's financial interest | Until loan is paid off | Yes | Generally cheaper |
+| Owner's Title Insurance | Property owner's equity and ownership rights | As long as owner or heirs own property | No | Higher premium; simultaneous issue discount available |
 
 You're buying legal defense and financial protection, bundled together.
 

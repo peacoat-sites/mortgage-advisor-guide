@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-
+lastmod: 2026-07-07
 ---
 The tax return is the enemy of the self-employed borrower. I say that after sixteen years of watching otherwise strong candidates get rejected, delayed, or strong-armed into bad loan terms because their Schedule C made them look broke on paper even when they had $15,000 a month hitting their business checking account.
 
@@ -47,6 +47,13 @@ This is one of the few areas where having a good mortgage broker actually pays o
 
 ## The Bank Statement Loan: When Conventional Doesn't Work
 
+| Loan Type | Interest Rate Premium | Down Payment | Reserve Requirements | Best For |
+| --- | --- | --- | --- | --- |
+| Conventional | Baseline | 5-20% | 2-6 months housing payment | Self-employed 2+ years, strong tax returns |
+| Bank Statement (Non-QM) | +0.75 to +1.5% | 10-20%+ | Varies by lender | Aggressive write-offs, consistent deposits |
+| Jumbo | Varies | 10-20%+ | 12 months+ housing payment | High loan amounts, self-employed |
+| Jumbo + Self-Employed | Varies | 10-20%+ | 12 months housing payment | High loan amounts with income documentation challenges |
+
 > **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 There's a whole category of loan products built specifically for borrowers who can't qualify the traditional way. Bank statement loans, sometimes called Non-QM (non-qualified mortgage) loans, let you use 12 or 24 months of business or personal bank statement deposits as your income documentation instead of tax returns.
@@ -63,9 +70,9 @@ Self-employed borrowers face a higher bar than W-2 borrowers in one specific are
 
 This makes sense from the lender's perspective. Your income fluctuates. A bad quarter happens. They want proof you can absorb it.
 
-Your credit score matters as much as it does for any borrower. A score above 740 gets you the best pricing. Below 680, your options narrow and you're paying for it in rate. If you're self-employed with a thin credit file (common if you've charged business expenses on business cards rather than personal ones), that's something to fix 12 months before you plan to buy.
+[Your credit score](/credit-score-for-mortgage-approval/) matters as much as it does for any borrower. A score above 740 gets you the best pricing. Below 680, your options narrow and you're paying for it in rate. If you're self-employed with a thin credit file (common if you've charged business expenses on business cards rather than personal ones), that's something to fix 12 months before you plan to buy.
 
-Debt-to-income ratio is the other critical factor. Your monthly debt obligations divided by your qualifying monthly income has to stay below 45% on most conventional loans, 43% on many. Car payments, student loans, credit card minimums, and your proposed new mortgage payment all count. This is where self-employed borrowers get surprised: they thought the income side was the only problem, then discovered a student loan or a business credit card (if it's in their personal name) was pushing their DTI over the limit.
+[Debt-to-income ratio](/debt-to-income-ratio-for-mortgage/) is the other critical factor. Your monthly debt obligations divided by your qualifying monthly income has to stay below 45% on most conventional loans, 43% on many. Car payments, student loans, credit card minimums, and your proposed new mortgage payment all count. This is where self-employed borrowers get surprised: they thought the income side was the only problem, then discovered a student loan or a business credit card (if it's in their personal name) was pushing their DTI over the limit.
 
 ## Preparation: What to Do 12-24 Months Before You Apply
 

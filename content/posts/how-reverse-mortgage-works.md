@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-
+lastmod: 2026-07-07
 ---
 You're 72, your house is paid off, and your monthly Social Security check covers groceries but not much else. Your financial advisor mentions a reverse mortgage. Your son-in-law says it's a scam. Your neighbor says it saved her retirement. Nobody explains exactly how the money moves, who owns what, or what the fine print actually says. That's the problem with most reverse mortgage coverage: it either cheerleads the product or dismisses it, and neither serves the person trying to make an actual decision.
 
@@ -39,6 +39,13 @@ To qualify, you need to be at least 62 years old, own your home outright or have
 
 ## How the Money Actually Flows
 
+| Disbursement Method | Payment Structure | Best For | Key Consideration |
+| --- | --- | --- | --- |
+| Lump Sum | One upfront payment | Immediate large expense | Fixed rate only; interest compounds on full amount from day one |
+| Tenure (Monthly) | Fixed payments for life | Predictable income stream | Payments continue even if loan balance exceeds home value (non-recourse) |
+| Term (Monthly) | Fixed payments for set years | Time-limited needs | Payments stop after term ends |
+| Line of Credit | Draw as needed | Strategic flexibility | Unused portion grows at loan's interest + insurance rate over time |
+
 This is where most articles wave their hands. Let's be specific.
 
 Your borrowing limit, called the principal limit, depends on three things: your age (or the younger spouse's age if you're a couple), your home's appraised value, and current interest rates. Older age plus higher home value plus lower interest rates equals more cash available. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) sets conforming loan limits that affect the HECM ceiling, which is why homes worth several million dollars might steer you toward proprietary products instead.
@@ -47,7 +54,7 @@ You have four ways to take the money:
 
 **Lump sum:** One upfront payment, available only with a fixed interest rate. You get certainty but you're borrowing the maximum immediately, so interest starts compounding on the full amount from day one.
 
-**Monthly payments (tenure):** Fixed monthly checks for as long as you live in the home. Think of it as converting equity into a personal annuity. The payments continue even if the loan balance eventually exceeds your home's value, because HECM is non-recourse.
+**Monthly payments (tenure):** Fixed monthly checks for as long as you live in the home. Think of it as converting equity into a personal annuity. The payments continue even if the loan balance eventually exceeds your home's value, because HECM is [non-recourse](/reverse-mortgage-explained/).
 
 **Monthly payments (term):** Fixed payments for a set number of years. Predictable. Has an end date.
 

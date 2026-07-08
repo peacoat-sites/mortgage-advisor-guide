@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-
+lastmod: 2026-07-07
 ---
 Nobody tells you the real number until you're three days from closing.
 
@@ -36,6 +36,18 @@ The short answer: most home buyers pay between 2% and 5% of the loan amount in c
 What surprised me when I first started breaking these down was just how many distinct line items get lumped under "closing costs." It's not one fee. It's closer to fifteen or twenty. Some are negotiable. Some are fixed by law. Some come from your lender, some go to third parties, and a few are technically prepaid expenses rather than fees at all.
 
 ## The Two Big Buckets: Lender Fees vs. Third-Party Costs
+
+| Cost Category | Typical Range | Notes |
+| --- | --- | --- |
+| Origination/Processing/Underwriting Fees | 0.5%-1% of loan amount, or $1,000-$1,500 flat | Lender fees; most negotiable |
+| Discount Points | 1% of loan amount per point | Reduces rate by ~0.25%; depends on how long you keep the loan |
+| Title Insurance & Related Costs | $1,500-$3,000 | Includes search, exam, settlement fee, and both lender's and owner's policies |
+| Appraisal | $400-$700 | Standard single-family home |
+| Homeowner's Insurance (prepaid) | $1,200-$2,400/year | 12 months at closing + 2 months to escrow |
+| Prepaid Interest | ~$1,000 | Example: $350,000 loan at 7%, closing mid-month |
+| Property Tax Escrow (prepaid) | $1,000-$5,000+ | Varies by local tax rate and payment cycle |
+| Transfer Taxes | 0%-2%+ of purchase price | State-dependent; can be substantial in NY, MD, PA |
+| **Total Closing Costs (% of loan)** | **2%-5% of loan amount** | Realistic range: 3%-4% in most markets |
 
 Here's how I always explain this to borrowers: your closing costs come from two fundamentally different places, and you have different amounts of leverage over each.
 

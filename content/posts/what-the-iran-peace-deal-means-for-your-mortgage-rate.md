@@ -12,10 +12,18 @@ author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
 slug: "what-the-iran-peace-deal-means-for-your-mortgage-rate"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been watching mortgage rates tick down this week and wondering whether to finally make a move, you're not imagining the shift. Something real happened. On June 18, 2026, President Trump signed a preliminary peace agreement with Iran, kicking off a 60-day window of negotiations toward a final deal. Almost immediately, the Strait of Hormuz reopened, oil prices pulled back, and the 30-year fixed mortgage rate dropped to roughly 6.37%–6.56%, the lowest level in over a month, according to Yahoo Finance. For buyers who've been sitting on the sidelines through a brutal spring, this feels like a door cracking open. The question is how long it stays that way.
 
 ## Why a Geopolitical Deal Is Moving Your Mortgage Rate
+
+| Event | Date | 30-Year Fixed Rate | Context |
+| --- | --- | --- | --- |
+| Pre-conflict baseline | February 2026 | ~6.00% | Before Iran conflict began |
+| Peak rate (worst) | May 19, 2026 | 6.75% | During Strait of Hormuz tension |
+| Post-peace deal | June 18, 2026 | 6.37%-6.56% | After preliminary agreement signed |
+| Premium vs. baseline | June 2026 | +0.37-0.56% | Still elevated despite relief |
 
 This connection might feel abstract, so let me walk through it. Mortgage rates don't move in lockstep with the Fed funds rate. They track the 10-year Treasury yield, and Treasury yields move on inflation expectations. When the Iran conflict began in late February 2026 and the Strait of Hormuz became a pressure point, oil markets tightened. Energy prices surged. That fed directly into inflation data, and spooked bond investors pushed yields higher. Mortgage rates followed. At their worst, they hit 6.75% on May 19.
 
@@ -49,9 +57,9 @@ Mortgage Professional America made exactly this point: the relief is genuine, bu
 
 I'm not going to tell you this is the moment to buy, because that depends on your finances, your timeline, and your local market. What I can tell you is how I'd frame the decision if you were sitting across from me.
 
-The rate drop is real and it's happening now. The factors that could reverse it, sticky inflation, potential Fed action, and the 60-day uncertainty of whether a preliminary deal becomes a final one, are also real. A preliminary agreement is not a permanent treaty. If talks break down over the next two months, oil markets could tighten again and rates could climb back toward those May highs.
+The rate drop is real and it's happening now. The factors that could reverse it, sticky inflation, [potential Fed action](/why-the-fed-may-hike-rates-next-and-what-that-means-for-your-mortgage/), and the 60-day uncertainty of whether a preliminary deal becomes a final one, are also real. A preliminary agreement is not a permanent treaty. If talks break down over the next two months, oil markets could tighten again and rates could climb back toward those May highs.
 
-If you're close to ready, meaning you have your finances in order, your down payment set, and you've been waiting primarily on rates, this window is worth taking seriously. Talk to a lender this week, not next week. Get a rate lock conversation going. Understand what the lock period covers and what happens if your closing timeline extends. Ask specifically about float-down provisions, which let you capture a lower rate if rates drop further before you close. Not every lender offers them, but it's worth asking.
+If you're close to ready, meaning you have your finances in order, your down payment set, and you've been waiting primarily on rates, this window is worth taking seriously. Talk to a lender this week, not next week. Get a rate lock conversation going. Understand what the lock period covers and what happens if your closing timeline extends. Ask specifically about [float-down provisions](/should-you-take-an-arm-right-now-to-beat-high-fixed-rates/), which let you capture a lower rate if rates drop further before you close. Not every lender offers them, but it's worth asking.
 
 If you're not close to ready, don't let a one-month low push you into a decision you're not financially prepared for. A half-point on rate matters. A purchase you can't actually sustain matters more.
 

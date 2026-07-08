@@ -23,8 +23,9 @@ faqs:
    a: "Sometimes, yes. In competitive markets, jumbo lenders actively price below conforming rates to attract high-income, high-asset borrowers. I've seen jumbo rates come in 0.125% to 0.25% below the high-balance conforming rate on the same day from different institutions. The catch is the stricter qualification standards and the lack of flexibility on things like gift funds or non-occupant co-borrowers. Shop both products and compare the total cost, not just the rate."
  - q: "How often do the high-balance conforming loan limits change?"
    a: "The FHFA adjusts them annually based on the House Price Index. In markets where home values have been flat or declining, the limits can stay the same or theoretically drop (though that's rare). In markets where prices have risen sharply, the limits tend to follow. The update for any given calendar year is typically announced in November of the prior year and takes effect January 1st."
+lastmod: 2026-07-07
 ---
-Most borrowers have never heard of a high-balance conforming loan until they actually need one. Then they're staring at two loan offers that look nearly identical, and nobody at the closing table can explain why one costs more than the other.
+Most borrowers have never heard of a [high-balance conforming loan](/jumbo-loan-requirements/) until they actually need one. Then they're staring at two loan offers that look nearly identical, and nobody at the closing table can explain why one costs more than the other.
 
 Let me fix that.
 
@@ -62,7 +63,7 @@ On a $950,000 loan, a 0.25% rate bump costs you roughly $140 to $165 more per mo
 
 Here's where it gets confusing, and loan officers don't always clear it up.
 
-A jumbo loan exceeds the conforming limit for your county. In a standard market that's anything over $806,500. In a high-cost area it's anything over the local high-cost limit. Jumbo loans don't get sold to Fannie or Freddie. They stay on the lender's books or go to private investors. That means:
+A [jumbo loan](/jumbo-loan-requirements/) exceeds the conforming limit for your county. In a standard market that's anything over $806,500. In a high-cost area it's anything over the local high-cost limit. Jumbo loans don't get sold to Fannie or Freddie. They stay on the lender's books or go to private investors. That means:
 
 - Underwriting is stricter (higher reserve requirements, more income paperwork)
 - Rates can be higher than high-balance conforming, or sometimes lower when jumbo investors are hungry

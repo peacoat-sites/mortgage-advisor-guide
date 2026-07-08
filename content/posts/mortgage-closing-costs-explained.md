@@ -1,4 +1,5 @@
 ---
+
 title: "Mortgage Closing Costs Explained"
 date: 2026-05-22T21:07:46.663300+00:00
 draft: false
@@ -24,6 +25,7 @@ author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 
+lastmod: 2026-07-07
 ---
 You've found the house. You've locked your rate. You've started packing boxes. Then the Closing Disclosure lands in your inbox and you see a number that stops you cold: $9,400 in closing costs on top of your down payment. Nobody warned you it would be this much. I've watched this exact moment knock buyers sideways for sixteen years, and it's almost always preventable with a little preparation.
 
@@ -43,7 +45,7 @@ Let me walk through the items you'll actually see on your Loan Estimate and Clos
 
 **Origination fee or loan origination charge:** This is the lender's fee for creating the loan. It's sometimes expressed as a percentage of the loan amount (1% is common, though it varies) or as a flat dollar amount. Don't assume the first number you see is fixed. This is negotiable.
 
-**Discount points:** These are optional prepaid interest you pay upfront to buy down your interest rate. One point equals 1% of the loan amount. Whether paying points makes financial sense depends entirely on how long you plan to keep the loan. Run the break-even math before agreeing to anything.
+**[Discount points](/how-do-mortgage-points-work-and-are-they-worth-buying/):** These are optional prepaid interest you pay upfront to buy down your interest rate. One point equals 1% of the loan amount. Whether paying points makes financial sense depends entirely on how long you plan to keep the loan. Run the break-even math before agreeing to anything.
 
 **Appraisal fee:** The lender requires an independent appraisal to confirm the property is worth what you're borrowing. You'll typically pay this upfront before closing, and it's rarely refundable even if the deal falls through.
 
@@ -57,9 +59,9 @@ Let me walk through the items you'll actually see on your Loan Estimate and Clos
 
 **Prepaid interest:** You'll owe interest for the days between your closing date and the end of the month. Close on the 28th and you owe three days of interest. Close on the 2nd and you owe twenty-eight days. Scheduling your closing date strategically can reduce this charge, though it won't eliminate it.
 
-**Homeowners insurance prepaid and escrow:** Lenders typically require one year of homeowners insurance paid upfront at closing, plus an initial escrow deposit. The deposit is usually two to three months of insurance and property tax payments.
+**[Homeowners insurance prepaid and escrow](/homeowners-insurance-mortgage-requirement/):** Lenders typically require one year of homeowners insurance paid upfront at closing, plus an initial escrow deposit. The deposit is usually two to three months of insurance and property tax payments.
 
-**Property tax escrow:** Similar to insurance, you'll often need to fund your escrow account with a few months of property taxes at closing. This varies based on when taxes are due in your jurisdiction.
+**[Property tax escrow](/property-tax-escrow-mortgage/):** Similar to insurance, you'll often need to fund your escrow account with a few months of property taxes at closing. This varies based on when taxes are due in your jurisdiction.
 
 ## How to Compare Loan Estimates the Right Way
 

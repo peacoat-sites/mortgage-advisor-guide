@@ -23,11 +23,12 @@ faqs:
    a: "The lender can foreclose. Hard money lenders are often faster to foreclose than conventional banks because the asset is the whole basis of the deal. Most will offer extensions (for a fee) before going that route, but you shouldn't count on that. Always have a backup exit strategy before you take the loan."
  - q: "Is hard money lending regulated?"
    a: "Partially. Hard money lenders must be licensed in most states as mortgage brokers or lenders, and consumer protection laws apply if the loan is on an owner-occupied property. But for investment properties, regulation is much lighter than for conventional mortgages. There's no FHFA oversight, no GSE backing, and no standardized disclosure requirements. You're operating more on contract law than consumer protection law, which is exactly why you should have a real estate attorney review the loan documents before you sign."
+lastmod: 2026-07-07
 ---
 
 Hard money loans get a bad reputation they only half deserve.
 
-Yes, they're expensive. Yes, they can wreck you if you misuse them. But I've also watched hard money loans save deals that conventional financing would have killed, and I've seen borrowers use them intelligently to build serious real estate portfolios. The problem isn't the product. The problem is that most people walking into a hard money loan don't fully understand what they're agreeing to until they're already committed.
+Yes, they're expensive. Yes, they can wreck you if you misuse them. But I've also watched hard money loans save deals that [conventional financing](/conventional-loan-requirements/) would have killed, and I've seen borrowers use them intelligently to build serious real estate portfolios. The problem isn't the product. The problem is that most people walking into a hard money loan don't fully understand what they're agreeing to until they're already committed.
 
 Let me fix that.
 
@@ -35,13 +36,18 @@ Let me fix that.
 
 ## What a Hard Money Loan Actually Is
 
+| Loan Type | Interest Rate | Origination Fees | Down Payment | Typical Term | Primary Use Case |
+| --- | --- | --- | --- | --- | --- |
+| Hard Money | 9-15% annually | 2-5 points (2-5%) | 10-15% (sometimes 5-10%) | 6-24 months | Fix-and-flip, auctions, distressed properties |
+| Conventional Mortgage | Typically 6-7% | 0.5-1.5 points | 20% standard | 15-30 years | Primary residence, long-term holds |
+
 **"You need 20% down for a hard money loan"**: Most people assume hard money lenders require substantial down payments like traditional banks. But hard money lenders actually operate on asset-based lending, not credit scores. In practice, down payments typically range from 10-30%, with many lenders accepting 10-15% for borrowers with strong exit strategies. A 2023 survey by the National Hard Money Lenders Association found that 68% of hard money loans closed with less than 20% down. The real determinant isn't a fixed percentage, it's the property's after-repair value (ARV) and your ability to demonstrate a clear exit plan, whether that's a fix-and-flip or rental conversion.
 
 
 **"You need 20% down for a hard money loan"**: Most people assume hard money lenders demand substantial down payments like traditional banks. But hard money lenders typically require only 10-15% down, with some accepting as low as 5-10% depending on the property and borrower profile. According to the Hard Money Lenders Association, 65% of hard money loans close with down payments under 15%, compared to the 20% conventional standard. This flexibility is precisely why hard money appeals to real estate investors who lack liquid capital but have strong exit strategies, the lower barrier to entry accelerates deal velocity without requiring six months of savings.
 
 
-Here's what I tell people who come to me confused about hard money: forget everything you think you know about how loans are underwritten. With a conventional mortgage, the lender is primarily buying into *you*. Your credit score, your debt-to-income ratio, your employment history, your tax returns. Two years of W-2s, sometimes three. The asset matters, but you're the collateral in the practical sense.
+Here's what I tell people who come to me confused about hard money: forget everything you think you know about how loans are underwritten. With a conventional mortgage, the lender is primarily buying into *you*. Your credit score, your [debt-to-income ratio](/conventional-loan-requirements/), your employment history, your tax returns. Two years of W-2s, sometimes three. The asset matters, but you're the collateral in the practical sense.
 
 Hard money flips that entirely. The lender is buying into the property. Specifically, the property's value relative to how much you're borrowing. The single most important number in any hard money deal is the loan-to-value ratio, or LTV, and most hard money lenders will cap out somewhere between 65% and 75% of the property's current value, or its after-repair value (ARV) in the case of a fix-and-flip.
 

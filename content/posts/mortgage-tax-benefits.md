@@ -23,6 +23,7 @@ faqs:
    a: "Technically yes: less interest paid means less potential deduction. But this concern is usually overstated. You're spending a dollar in interest to save roughly 22 to 37 cents in taxes depending on your bracket. Paying off the mortgage saves you the other 63 to 78 cents. The math generally favors payoff if that's your goal."
  - q: "Are mortgage tax benefits the same in every state?"
    a: "No. Some states have their own mortgage interest deductions that mirror federal rules; others don't. A handful of states have no income tax at all, making the federal deduction the only one available. Always check your specific state's rules."
+lastmod: 2026-07-07
 ---
 Most people overestimate what mortgage tax benefits will actually do for their finances. They sign at closing half-convinced that the government is effectively subsidizing their homeownership, and then April rolls around wondering why their refund didn't spike. Here's the short version: mortgage tax benefits are real, they're worth understanding, but the way they're typically explained sells borrowers a fantasy.
 
@@ -30,7 +31,7 @@ Let me give you the accurate version instead.
 
 ## The Mortgage Interest Deduction: What It Actually Does
 
-The mortgage interest deduction (MID) lets you deduct the interest you pay on a home loan from your federal taxable income, up to $750,000 of mortgage debt (for loans originated after December 15, 2017). On a $600,000 loan at 7%, you might pay roughly $41,000 in interest in year one. If you're in the 24% tax bracket, deducting that saves you around $9,840 in taxes.
+The [mortgage interest deduction](/are-mortgage-interest-payments-tax-deductible-in-2026/) (MID) lets you deduct the interest you pay on a home loan from your federal taxable income, up to $750,000 of mortgage debt (for loans originated after December 15, 2017). On a $600,000 loan at 7%, you might pay roughly $41,000 in interest in year one. If you're in the 24% tax bracket, deducting that saves you around $9,840 in taxes.
 
 Sounds great, right? Here's where it falls apart: you only get this benefit if you itemize deductions on Schedule A, and itemizing only makes sense if your total deductions exceed the standard deduction. For 2025, the standard deduction is $15,000 for single filers and $30,000 for married couples filing jointly.
 
@@ -39,6 +40,11 @@ Do the math on your own situation before you assume you're getting anything. A m
 This is the conversation most loan officers skip entirely.
 
 ## Who Actually Benefits
+
+| Situation | Mortgage Interest | Other SALT Deductions | Total Itemizable | Standard Deduction | Benefit? |
+| --- | --- | --- | --- | --- | --- |
+| Married couple (example) | $18,000 | $5,000 | $23,000 | $30,000 | No |
+| High-income, large loan | $41,000+ | $10,000+ | $51,000+ | $30,000 | Yes |
 
 The deduction skews heavily toward higher-income borrowers with larger loans. That's precisely why it gets criticized. The borrowers most likely to itemize are those with mortgage balances well above $400,000, significant state income taxes (especially in California, New York, New Jersey, or Illinois), or other deductible expenses that push them over the standard deduction threshold.
 

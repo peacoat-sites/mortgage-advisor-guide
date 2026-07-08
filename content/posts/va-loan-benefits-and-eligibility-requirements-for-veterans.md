@@ -23,13 +23,21 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-
+lastmod: 2026-07-07
 ---
 Most veterans I've worked with had no idea how good their VA loan benefit actually is until they sat across from me at the underwriting table and I started walking them through the numbers. By that point, some of them had already spent months shopping conventional loans, worrying about down payments they didn't have, or paying for PMI quotes they'd never needed to pay in the first place. That frustration is completely avoidable, and that's why I want to lay this out clearly.
 
 The VA home loan benefit is, without exaggeration, the single most powerful mortgage product available in the U.S. residential market. I've underwritten thousands of loans across my career and I'll stand behind that claim.
 
 ## Who Actually Qualifies (It's More Inclusive Than You Think)
+
+| Service Period | Minimum Service Requirement | Notes |
+| --- | --- | --- |
+| World War II through Vietnam era | 90 continuous days | |
+| August 2, 1990 to present (Gulf War era) | 24 continuous months | 90 days if discharged for service-connected disability or hardship |
+| Peacetime before August 1, 1990 | 181 continuous days | |
+| National Guard and Reserve | 90 days active-duty under Title 10 orders | OR 6 years Selected Reserve/National Guard service |
+| Active duty service members (current) | 90 continuous days | |
 
 Eligibility is where most people stop reading or start assuming they don't qualify. Don't do that yet.
 
@@ -51,13 +59,13 @@ Your first step is obtaining your Certificate of Eligibility (COE), which you ca
 
 No down payment is the headline, and it deserves to be. On a $400,000 home, a conventional borrower putting down 5% is coming to the table with $20,000 in cash. A VA borrower can come with zero. That's not a technicality. That's a life-changing difference for the majority of working veterans who are still building assets in their 30s and 40s.
 
-But here's what often gets glossed over: no private mortgage insurance. With a conventional loan, if you put down less than 20%, you're paying PMI. On that same $400,000 loan, PMI might run you somewhere in the range of $100 to $200 a month depending on your credit score and lender. That's money going to an insurance company, not toward your equity. VA loans don't have it. Period.
+But here's what often gets glossed over: [no private mortgage insurance](/fha-vs-conventional-loan-which-is-better-for-first-time-buyers/). With a conventional loan, if you put down less than 20%, you're paying PMI. On that same $400,000 loan, PMI might run you somewhere in the range of $100 to $200 a month depending on your credit score and lender. That's money going to an insurance company, not toward your equity. VA loans don't have it. Period.
 
 The VA also caps what lenders can charge in closing costs and prohibits certain fees entirely. Lenders can't charge you for attorney fees, settlement costs above a 1% origination fee, and a handful of other line items that routinely inflate closing disclosures on conventional loans. That doesn't mean VA loans are free to close, but the consumer protections on fees are real.
 
 Competitive interest rates are another genuine advantage. Because VA loans are guaranteed by the federal government, lenders take on less risk, and that typically translates into rates that are at or below what you'd see on a comparable conventional loan. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) tracks loan-level data across product types, and VA loan rates have consistently come in favorably relative to conventional products for qualified borrowers.
 
-There's also the question of loan limits. Since the Blue Water Navy Vietnam Veterans Act of 2020, veterans with full entitlement (meaning they've either never used a VA loan or have paid off a previous one and restored their entitlement) have no maximum loan amount. The VA will back a loan of any size, though the lender still determines whether you qualify based on your income and credit. Veterans with remaining (partial) entitlement may still face limits tied to conforming loan limits in their county.
+There's also the question of loan limits. Since the Blue Water Navy Vietnam Veterans Act of 2020, veterans with full entitlement (meaning they've either never used a VA loan or have paid off a previous one and restored their entitlement) have no maximum loan amount. The VA will back a loan of any size, though the lender still determines whether you qualify based on your income and credit. Veterans with remaining (partial) entitlement may still face limits tied to [conforming loan limits](/high-balance-conforming-loan/) in their county.
 
 One more thing I want to flag: the VA's foreclosure avoidance assistance program. When I was underwriting during the 2008-2009 crash, I watched conventional borrowers lose homes that VA borrowers with identical financial situations were able to keep, in part because the VA actively works with servicers on behalf of struggling borrowers. That's a real safety net most people don't even know exists.
 

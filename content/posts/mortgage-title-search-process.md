@@ -23,9 +23,9 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-
+lastmod: 2026-07-07
 ---
-You're three weeks from closing, the movers are booked, and your loan officer calls to say the title search turned up a lien from a contractor who worked on the house six years ago. The seller swears they never hired anyone by that name. Suddenly your closing date is a memory and you're learning, the hard way, what a title search actually does. I've seen this exact scenario play out more times than I can count, and almost every time, the buyer had no idea what a title search was until it became their problem.
+You're three weeks from [closing](/closing-disclosure-explained/), the movers are booked, and your loan officer calls to say the title search turned up a lien from a contractor who worked on the house six years ago. The seller swears they never hired anyone by that name. Suddenly your closing date is a memory and you're learning, the hard way, what a title search actually does. I've seen this exact scenario play out more times than I can count, and almost every time, the buyer had no idea what a title search was until it became their problem.
 
 Let's fix that before it happens to you.
 
@@ -71,11 +71,16 @@ The timeline varies by state, market, and property complexity, but here's how it
 
 5. **Defects are cleared.** If issues are found, the title company works with the seller, their attorney, or any lienholders to resolve them. This might mean paying off a lien, obtaining a lien release, filing a corrective deed, or in complex cases, going through a quiet title lawsuit.
 
-6. **Title insurance is issued.** Once the title is clear, the title company issues a title insurance policy at closing.
+6. **Title insurance is issued.** Once the title is clear, the title company issues a [title insurance](/title-insurance-explained/) policy at closing.
 
 The whole process typically takes one to three weeks for a straightforward property. A complicated history, a rural parcel with older records, or an estate sale can push that timeline out significantly.
 
 ## Title Insurance: The Part People Skip Reading
+
+| Policy Type | Protects | Required? | Covers |
+| --- | --- | --- | --- |
+| Lender's Title Insurance | Your mortgage lender | Yes | Lender's financial interest in the property |
+| Owner's Title Insurance | You, the buyer | Optional | Your legal costs and losses up to purchase price if title defects surface after closing |
 
 Title insurance is a one-time premium paid at closing. There are two types, and they're not interchangeable.
 
@@ -89,7 +94,7 @@ Premiums vary by state and purchase price. On a $350,000 home in most states, ow
 
 ## Who Pays for the Title Search, and Can You Shop Around?
 
-This is where buyers leave money on the table. Title-related fees, including the search, examination, and insurance premiums, are legitimate closing costs, but they are not fixed. Depending on your state, you may have the legal right to shop for your own title company.
+This is where buyers leave money on the table. Title-related fees, including the search, examination, and insurance premiums, are legitimate [closing costs](/what-are-typical-closing-costs-for-a-home-buyer/), but they are not fixed. Depending on your state, you may have the legal right to shop for your own title company.
 
 The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) has pushed for greater transparency in title fee competition, and in many markets you can compare quotes from multiple title companies. On a higher-priced home, that comparison can translate to real savings.
 

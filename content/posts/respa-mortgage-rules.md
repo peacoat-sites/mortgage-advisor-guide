@@ -23,6 +23,7 @@ faqs:
     a: "Under RESPA's servicing rules (Section 6), if you send a 'qualified written request' to your servicer about your escrow account or any other servicing issue, they must acknowledge it within five business days and provide a substantive response within 30 business days (extendable to 45 in complex cases). Send it certified mail and keep a copy."
   - q: "Is the affiliated business arrangement disclosure meaningful, or is it just paperwork?"
     a: "It's meaningful if you read it. The AfBA disclosure tells you that the person referring you to a service provider has a financial interest in that company. Legally, you must still be allowed to use a different provider. Practically, it's your signal to get a competing quote. Even a $200 difference in title insurance premiums on a $400,000 purchase is worth one phone call."
+lastmod: 2026-07-07
 ---
 
 RESPA is one of those laws that gets mentioned constantly in mortgage paperwork and explained almost never. Your loan officer hands you a three-page "Special Information Booklet" at application, you set it on the kitchen counter, and it stays there until you recycle it three months after closing. That's exactly how the industry prefers it.
@@ -48,6 +49,12 @@ I'll be honest: during my years underwriting loans, I saw the edges of these rul
 If someone on your transaction team is steering you hard toward a specific service provider, ask them directly whether they have a financial relationship with that company. Under RESPA, they have to tell you.
 
 ## Your Loan Estimate and Closing Disclosure: RESPA's Paper Trail
+
+| Cost Category | Tolerance Rule | Details |
+| --- | --- | --- |
+| Lender fees (origination, points, application) | Zero tolerance | Cannot increase at all between Loan Estimate and Closing Disclosure |
+| Third-party services selected by lender (e.g., appraisals) | 10% tolerance | Can increase up to 10% in aggregate across category |
+| Services you can shop independently (title insurance, settlement agent) | No tolerance limit | Can vary freely |
 
 > **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

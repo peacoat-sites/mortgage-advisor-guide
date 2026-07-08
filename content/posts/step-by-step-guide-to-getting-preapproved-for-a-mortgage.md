@@ -23,11 +23,11 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-
+lastmod: 2026-07-07
 ---
 Most preapproval guides tell you to "gather your documents and contact a lender." That's about as useful as telling someone to "buy low, sell high." What they skip is the sequence, the friction points, and the three or four places where borrowers quietly torpedo their own applications before they've even found a house.
 
-Sixteen years of underwriting taught me exactly where that happens. Let's actually fix it.
+Sixteen years of [underwriting](/mortgage-underwriting-process/) taught me exactly where that happens. Let's actually fix it.
 
 ## Before You Talk to a Single Lender
 
@@ -47,13 +47,23 @@ The four pillars of your file are income, assets, credit, and property (the last
 
 **Income:** Lenders want a two-year history of stable income. W-2 employees generally have it easy. Self-employed borrowers get evaluated on a two-year average of net income after deductions, which is why the self-employed person earning $150,000 gross but writing off $90,000 in business expenses qualifies as if they make $60,000. If you just started a new job, you may still be fine, but switching from salaried to commission-based right before applying can complicate things significantly.
 
-**Assets:** You'll need to document where your down payment and reserves are coming from. Lenders want to see 60 days of bank statements, and they will ask about every large deposit that isn't a paycheck. "I sold a car" requires a bill of sale. "My parents gave me money" requires a gift letter. Account for your money before you apply.
+**Assets:** You'll need to document where your down payment and reserves are coming from. Lenders want to see 60 days of bank statements, and they will ask about every large deposit that isn't a paycheck. "I sold a car" requires a bill of sale. "My parents gave me money" requires a [gift letter](/gift-funds-for-down-payment-rules/). Account for your money before you apply.
 
 **Credit:** Most conventional loans want a 620 minimum; for the best pricing on a conventional loan, you want to be at 740 or above. FHA loans allow scores as low as 580 with 3.5% down. The spread between a 680 and a 740 score isn't just approval versus denial. It's a meaningful difference in your interest rate that compounds over 30 years.
 
 **Debt-to-income ratio (DTI):** This is the one nobody explains clearly. Your DTI is total monthly debt payments divided by gross monthly income. Most conventional loans cap it at 45%, and some go to 50% with compensating factors. If your gross income is $8,000 a month and your total debts including the new mortgage would be $3,600, that's a 45% DTI. Right at the edge? Paying off a car loan before applying can shift your qualifying power significantly.
 
 ## The Document List (Actually Complete This Time)
+
+| Component | W-2 Employees | Self-Employed | Renters | Notes |
+| --- | --- | --- | --- | --- |
+| W-2s | Past 2 years | N/A | Past 2 years | Required for income verification |
+| Pay stubs | Last 30 days | N/A | Last 30 days | Current income documentation |
+| Tax returns | Past 2 years (all schedules) | Past 2 years + business returns | Past 2 years (all schedules) | Self-employed add YTD P&L |
+| Bank statements | 60 days (every account) | 60 days (every account) | 60 days (every account) | All pages required, even blank ones |
+| Landlord contact | Only if renting | Only if renting | Required | For rental history verification |
+| Additional docs | Government ID, SSN | Government ID, SSN, business returns | Government ID, SSN | Self-employed: separate income sources |
+| Other income docs | As applicable | Lease/award letters | As applicable | Rental income, alimony, disability, distributions |
 
 Here's what a standard preapproval requires. Missing one of these causes delay.
 

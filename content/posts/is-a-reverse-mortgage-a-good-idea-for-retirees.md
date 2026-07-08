@@ -23,6 +23,7 @@ faqs:
    a: "It depends on your age, the home's appraised value, current interest rates, and the HECM lending limit set by the FHA (which adjusts annually). Older borrowers with higher-value homes generally qualify for more. Expect the available amount to be significantly less than your full equity, not a dollar-for-dollar conversion."
  - q: "Do I need to see a counselor before getting a reverse mortgage?"
    a: "Yes, and this is required by law, not optional. Before a HECM can close, you must complete a counseling session with an independent HUD-approved counselor who has no financial stake in the transaction. Take this seriously. It's one of the best protections built into the program, and a good counselor will help you ask questions you hadn't thought to ask."
+lastmod: 2026-07-07
 ---
 
 You've probably been thinking about this for a while. Maybe a neighbor mentioned it, or you caught an ad during the evening news, or your financial advisor brought it up and you weren't sure what to think. Reverse mortgages have been sold to retirees as a lifeline and dismissed by skeptics as a trap, and the truth is more complicated than either version.
@@ -57,7 +58,7 @@ You must pay property taxes and homeowner's insurance. This sounds obvious, but 
 
 Only one spouse needs to be 62 to qualify, but if the borrowing spouse dies first and the non-borrowing spouse is under 62 and not on the loan, the situation gets complicated. Surviving-spouse protections have improved since federal rule changes went into effect, but the rules are specific and you should understand them precisely before signing anything. This is not a situation where you want to figure it out later.
 
-The payout structure matters, too. You can receive funds as a lump sum, a monthly payment, a line of credit, or some combination. The line of credit option is, in my opinion, the most flexible and often the most underused. The available credit actually grows over time at the same rate as your interest charges, which means waiting to draw on it can increase what's available to you. Most people don't know that.
+The payout structure matters, too. You can receive funds as a lump sum, a monthly payment, a line of credit, or some combination. The [line of credit option](/heloc-draw-period-explained/) is, in my opinion, the most flexible and often the most underused. The available credit actually grows over time at the same rate as your interest charges, which means waiting to draw on it can increase what's available to you. Most people don't know that.
 
 ## A Contrarian Take Worth Considering
 

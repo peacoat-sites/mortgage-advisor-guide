@@ -12,6 +12,7 @@ author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 slug: "what-the-road-to-housing-act-means-for-your-fha-loan"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 The 21st Century ROAD to Housing Act passed the House 396–13 on May 20, 2026, and is sitting on the president's desk waiting for a signature. Most coverage has focused on the institutional investor provisions, which is where the misleading headlines are concentrated. The more consequential changes, the ones that will actually affect real borrowers in the next 12 to 24 months, are buried in the FHA sections. Here's what those changes actually do, and what they don't.
 
@@ -29,7 +30,7 @@ If you're a first-time buyer looking at a $90,000 starter home in a market like 
 
 
 
-This one is genuinely useful and underreported. The bill expands FHA property improvement loans, essentially the Title I program, to cover accessory dwelling unit construction. ADUs, garage apartments, basement units, backyard cottages, have become the practical answer to multigenerational housing and supplemental rental income in markets where new construction is priced out of reach.
+This one is genuinely useful and underreported. The bill expands [FHA property improvement loans](/hud-just-changed-14-fha-mortgage-rules-here-is-what-it-means-for-buyer/), essentially the Title I program, to cover accessory dwelling unit construction. ADUs, garage apartments, basement units, backyard cottages, have become the practical answer to multigenerational housing and supplemental rental income in markets where new construction is priced out of reach.
 
 The problem until now has been financing. Conventional renovation loans exist but require substantial equity and creditworthiness that many existing homeowners don't have. The FHA expansion opens a different path. According to Better's May 2026 summary of the bill, this could unlock ADU financing for a meaningful segment of homeowners who wouldn't qualify for HELOC-based or conventional renovation products.
 
@@ -39,11 +40,11 @@ If you own a home and have been sketching out an ADU, this is worth tracking ser
 
 ## Manufactured Housing: The Chassis Rule Is Gone
 
-The elimination of the permanent chassis requirement for FHA-backed manufactured housing is a bigger structural change than it appears on the surface. The permanent chassis requirement was a relic that effectively excluded a category of factory-built homes from FHA financing, limiting buyer options and suppressing demand in a segment that serves lower-income buyers heavily. Removing it, combined with increased FHA loan limits for manufactured homes, broadens the financing universe for this product type.
+The elimination of the permanent chassis requirement for [FHA-backed manufactured housing](/fha-now-accepts-new-credit-scores-what-buyers-need-to-know/) is a bigger structural change than it appears on the surface. The permanent chassis requirement was a relic that effectively excluded a category of factory-built homes from FHA financing, limiting buyer options and suppressing demand in a segment that serves lower-income buyers heavily. Removing it, combined with increased FHA loan limits for manufactured homes, broadens the financing universe for this product type.
 
 The Terner Center at UC Berkeley flagged manufactured housing financing reform as a top federal housing policy priority in its March 2026 preview, noting that regulatory barriers at the federal level had been a persistent chokepoint. This change addresses one of those chokepoints directly.
 
-What it doesn't fix: manufactured home loans still carry higher rates than site-built home loans on average, the secondary market for manufactured home paper remains thinner, and title issues with homes on leased land are still complicated. The chassis rule elimination is progress, not transformation. If you're considering a manufactured home purchase, the FHA path just got clearer, but you should still compare FHA against Fannie Mae's MH Advantage program and Freddie Mac's CHOICEHome product. One size doesn't fit every situation, and an independent mortgage broker who works with multiple investors is worth talking to.
+What it doesn't fix: manufactured home loans still carry higher rates than site-built home loans on average, the secondary market for manufactured home paper remains thinner, and title issues with homes on leased land are still complicated. The chassis rule elimination is progress, not transformation. If you're considering a manufactured home purchase, the FHA path just got clearer, but you should still compare FHA against Fannie Mae's MH Advantage program and Freddie Mac's CHOICEHome product. One size doesn't fit every situation, and an [independent mortgage broker](/what-the-new-housing-act-means-for-your-mortgage/) who works with multiple investors is worth talking to.
 
 ## The Investor Ban Headline Is Almost Certainly Not What You Think
 

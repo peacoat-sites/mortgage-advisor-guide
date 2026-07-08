@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-
+lastmod: 2026-07-07
 ---
 The call I dreaded most in my underwriting years wasn't from a loan officer or an auditor. It was the one that started, "I don't know what to do. I can't make this payment." I took a lot of those calls. And the single biggest mistake I watched borrowers make, over and over, was waiting too long to act because they were embarrassed or convinced things would work themselves out.
 
@@ -45,6 +45,15 @@ Before you call, get a few things ready. A rough explanation of why you can't pa
 
 ## The options your servicer will actually offer you
 
+| Option | Timeline | When It Applies | Key Consideration |
+| --- | --- | --- | --- |
+| Repayment Plan | Immediate | 1-2 missed payments, temporary hardship | Catch up over time with regular payment plus extra |
+| Forbearance | Immediate | Temporary hardship (COVID-era common) | Deferred amount must be resolved when period ends |
+| Loan Modification | 2-5 months | Permanent income reduction | Changes loan terms; requires formal application and documentation |
+| Partial Claim | Varies | FHA loans primarily | Less common; servicer may cover missed payments |
+| Principal Deferral | Varies | Permanent hardship | Deferred amount may be moved to loan end |
+| Short Sale or Deed-in-Lieu | Varies | Deciding to exit home | Last resort; less damaging than foreclosure |
+
 > **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 This is where things get genuinely complicated, and where loan officers sometimes oversimplify. The options available to you depend on what kind of loan you have, how far behind you are, and whether your hardship is temporary or permanent.
@@ -53,9 +62,9 @@ This is where things get genuinely complicated, and where loan officers sometime
 
 **Repayment plans** are different. You've missed one or two payments and can afford to catch up over time. A repayment plan lets you pay your regular mortgage plus a little extra each month until you're current. Simple. Genuinely helpful if your hardship was truly short-term.
 
-**Loan modification** is the heavy-duty option that actually changes the terms of your loan. Typically by extending the repayment period, reducing the interest rate, or rolling the missed amounts into the principal. It's not fast, it requires a formal application, documentation of income and hardship, and review by the servicer or investor. I've seen modifications take two to five months from application to approval. But for borrowers facing a genuinely permanent income reduction, it can be the difference between keeping the home and losing it.
+**[Loan modification](/mortgage-loan-modification-options/)** is the heavy-duty option that actually changes the terms of your loan. Typically by extending the repayment period, reducing the interest rate, or rolling the missed amounts into the principal. It's not fast, it requires a formal application, documentation of income and hardship, and review by the servicer or investor. I've seen modifications take two to five months from application to approval. But for borrowers facing a genuinely permanent income reduction, it can be the difference between keeping the home and losing it.
 
-There are also less common options: partial claims (common with FHA loans), principal deferral, and in worst-case scenarios, short sales or deeds-in-lieu of foreclosure if you've decided to exit the home. Those are last resorts, but they're not as catastrophic as foreclosure on your credit report.
+There are also less common options: [partial claims](/partial-claim-mortgage/) (common with FHA loans), principal deferral, and in worst-case scenarios, short sales or deeds-in-lieu of foreclosure if you've decided to exit the home. Those are last resorts, but they're not as catastrophic as foreclosure on your credit report.
 
 Here's what most people don't realize. You have the right to apply for loss mitigation before a servicer can initiate foreclosure, assuming you apply within a certain timeline. The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) has clear rules on this: if a complete loss mitigation application is submitted more than 37 days before a foreclosure sale, the servicer generally cannot proceed until the application has been fully evaluated. Knowing that changes the calculus on when to ask for help.
 

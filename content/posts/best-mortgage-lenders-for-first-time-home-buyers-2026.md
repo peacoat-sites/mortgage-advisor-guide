@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-
+lastmod: 2026-07-07
 ---
 You've found the house. The offer got accepted. And now your loan officer is rattling off terms like "LTV ratio," "PMI," "points," and "DTI" like you've been in the mortgage business for twenty years. Meanwhile, you're nodding along and quietly panicking, wondering if you're about to sign the most expensive document of your life without really understanding it. I've seen this exact scenario play out hundreds of times across my career, and the single biggest mistake I watched first-time buyers make wasn't choosing the wrong neighborhood or overpaying by ten thousand dollars. It was walking into the lender selection process completely unprepared, then settling for the first pre-approval letter they received because they didn't know what "better" even looked like.
 
@@ -49,6 +49,12 @@ A few concrete things to look for:
 **Communication that doesn't require a law degree.** Ask early: who will be my point of contact after I submit my application? If the answer is "a processing team," find out how you'll reach them and how fast they respond. Loan timelines are unforgiving. A lender who goes dark during underwriting can cost you your rate lock or your closing date.
 
 ## The Main Types of Lenders and What They're Each Good At
+
+| Lender Type | Best For | Key Advantage | Main Trade-off |
+| --- | --- | --- | --- |
+| Big National Banks | Existing customers, bundled accounts | Loyalty discounts, brand recognition | Stricter underwriting overlays, less flexibility for thin credit |
+| Credit Unions | Members seeking competitive rates | Lower fees, more flexibility, portfolio holding | Limited to members, fewer locations |
+| Online/Direct Lenders | Tech-comfortable buyers | Faster process, transparent fees, easy comparison | Less in-person support, self-directed experience |
 
 > **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -106,7 +112,7 @@ Not every lender with a polished website and good Trustpilot reviews is the righ
 
 **Downplaying the total cost of PMI.** If you're putting less than 20% down on a conventional loan, you'll pay PMI. That cost should be clearly shown in your Loan Estimate. If a lender is marketing a low rate without prominently disclosing PMI, ask them to add it to your monthly payment breakdown.
 
-**Unfamiliarity with local assistance programs.** If you ask a lender about down payment assistance in your area and they have no idea what programs exist, that's a signal they may not specialize in first-time buyer transactions. You can lose thousands of dollars in grant money simply by working with the wrong lender.
+**Unfamiliarity with local assistance programs.** If you ask a lender about [down payment assistance](/down-payment-assistance-programs/) in your area and they have no idea what programs exist, that's a signal they may not specialize in first-time buyer transactions. You can lose thousands of dollars in grant money simply by working with the wrong lender.
 
 ---
 

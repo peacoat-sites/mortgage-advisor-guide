@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-
+lastmod: 2026-07-07
 ---
 Most people refinance because their loan officer told them the new rate was "great." I've watched borrowers roll $6,000 in closing costs into a loan that lowered their payment by $80 a month, never once asking how long it would take to actually come out ahead. The answer, in that case, was 75 months. Six and a quarter years. And they sold the house in four. They didn't save money. They lost it.
 
@@ -58,6 +58,13 @@ The fix is to look at a true savings comparison. You need to compare these three
 A mortgage amortization calculator can do this in about two minutes. If you're not sure where to find one, a [home-buying reference guide](https://www.amazon.com/s?k=home+buying+mortgage+guide&tag=contentportfo-20) that includes amortization worksheets can be worth having on hand (note: this site may earn a commission on purchases).
 
 ## How to Run a Proper Break-Even Calculation: Step by Step
+
+| Scenario | Closing Costs | Monthly Savings | Break-Even |
+|---|---|---|---|
+| Rate drop of 0.5% | $4,200 | $95/mo | 44 months |
+| Rate drop of 1.0% | $4,800 | $190/mo | 25 months |
+| Rate drop of 1.5% | $5,500 | $285/mo | 19 months |
+| No-closing-cost refi | $0 (rolled in) | $40/mo | Ongoing higher balance |
 
 Here's the version I'd use with a client sitting across the table.
 

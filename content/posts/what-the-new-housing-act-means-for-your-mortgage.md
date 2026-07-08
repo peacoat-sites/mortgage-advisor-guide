@@ -12,6 +12,7 @@ author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 slug: "what-the-new-housing-act-means-for-your-mortgage"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 If you've been trying to buy a home in 2026, you already know the frustration. Inventory is thin, prices are stubborn, and the mortgage process can feel designed to work against anyone who isn't already wealthy. So when Congress passed the 21st Century ROAD to Housing Act by margins that almost never happen anymore, 85-5 in the Senate on June 22 and 358-32 in the House on June 23, people noticed. The New York Times called it the most significant housing legislation since 1990. And then, two days later, President Trump canceled the signing ceremony, tying his objection to an unrelated voter ID bill. So here we are: a landmark housing bill sitting unsigned, with legal experts noting it could still become law if Congress remains in session. Whether or not you're tracking the political drama, the mortgage provisions in this bill deserve your full attention right now, before it takes effect.
@@ -22,7 +23,7 @@ Here's something most borrowers don't realize: if you're trying to buy a home pr
 
 The ROAD Act addresses this directly. According to the Bipartisan Policy Center's analysis of the final bill, it creates a new FHA small-dollar mortgage pilot program aimed specifically at expanding access to home loans under $100,000, targeting first-time and lower-income buyers. It also directs the CFPB to study and reform the compensation rules for mortgage loan originators on these loans and to adjust the points-and-fee thresholds that have made sub-$100,000 mortgages a dead zone for lenders.
 
-This matters more than people give it credit for. There are entire markets, mostly in the Midwest and South, where perfectly livable homes sit in the $50,000 to $90,000 range and buyers can't get financing. Cash buyers and institutional investors have been scooping them up for years precisely because conventional financing won't touch them. A functioning FHA small-dollar program could genuinely change who gets to own those homes.
+This matters more than people give it credit for. There are entire markets, mostly in the Midwest and South, where perfectly livable homes sit in the $50,000 to $90,000 range and buyers can't get financing. Cash buyers and [institutional investors](/falling-prices-rising-offers-the-functioning-market-borrowers-have-bee/) have been scooping them up for years precisely because conventional financing won't touch them. A functioning FHA small-dollar program could genuinely change who gets to own those homes.
 
 ## What the Investor Restriction Means for Inventory (and for You)
 
@@ -40,9 +41,9 @@ Still, the signal this sends to the market is meaningful. Institutional single-f
 
 Here's what I tell people who have gone through FHA closings: the appraisal is often where things go sideways, and not because the house is a problem. It's because there aren't enough qualified appraisers to keep up with demand, FHA deals require specific certifications, and scheduling delays can push closing timelines out by weeks.
 
-The ROAD Act takes this on. It overhauls licensing and training standards for FHA-approved appraisers and, importantly, authorizes grants to grow the appraisal workforce. This is the kind of provision that gets zero headlines but could quietly improve the homebuying experience for hundreds of thousands of FHA borrowers over the next several years. Fewer delays. More competitive timelines compared to conventional loans. Reduced risk of a deal falling apart because you couldn't get an appraiser scheduled before rate lock expiration.
+The ROAD Act takes this on. It overhauls licensing and training standards for FHA-approved appraisers and, importantly, authorizes grants to grow the appraisal workforce. This is the kind of provision that gets zero headlines but could quietly improve the homebuying experience for hundreds of thousands of FHA borrowers over the next several years. Fewer delays. More competitive timelines compared to conventional loans. Reduced risk of a deal falling apart because you couldn't get an appraiser scheduled before [rate lock expiration](/a-fed-rate-hike-is-now-on-the-table-what-mortgage-borrowers-should-do/).
 
-It won't happen immediately. Training pipelines take time. But if you're a first-time buyer planning to use FHA financing, this is a structural improvement to a process that has genuinely needed it.
+It won't happen immediately. Training pipelines take time. But if you're a first-time buyer planning to use [FHA financing](/what-the-road-to-housing-act-means-for-fha-borrowers/), this is a structural improvement to a process that has genuinely needed it.
 
 ## What You Should Actually Do Right Now
 

@@ -12,6 +12,7 @@ author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
 slug: "falling-prices-rising-offers-the-functioning-market-borrowers-have-bee"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 For three years, the housing market was a seller's playground. Inventory dried up. Buyers competed in bidding wars. Homes routinely sold for 5 to 7 percent above asking price. It was brutal.
@@ -33,6 +34,15 @@ Now, for the first time in 26 months, homes are spending the same amount of time
 The data backs this up. First-time buyers now represent 35 percent of sales in June 2026. That's significant. These are people who were essentially locked out for three years. They couldn't compete in bidding wars. They couldn't outmuscle investors and cash buyers. Now they're coming back, which suggests they're seeing real opportunity again.
 
 ## Why Rates Are the Real Story Here
+
+| Metric | Timeline | Status |
+| --- | --- | --- |
+| Median asking prices | Year-over-year (June 2026) | Down 2.5% (steepest decline since 2017) |
+| Pending sales trend | Seven consecutive months through June 2026 | Climbing |
+| Days on market | Current vs. one year ago | Same duration (no longer sitting) |
+| First-time buyer share | June 2026 | 35% of sales |
+| Expected mortgage rates | Near-term (June 2026 forward) | 6.4-6.6% |
+| Time since seller's market ended | Current date | 26 months since market shift |
 
 > **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

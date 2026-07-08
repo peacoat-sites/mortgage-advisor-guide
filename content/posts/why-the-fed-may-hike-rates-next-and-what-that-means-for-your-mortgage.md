@@ -12,6 +12,7 @@ author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 slug: "why-the-fed-may-hike-rates-next-and-what-that-means-for-your-mortgage"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 You locked in your rate sheet three weeks ago, did a quick mental calculation, and thought the worst was behind you. Then June 17 happened, and suddenly the loan officer who'd been talking about "upcoming cuts" got very quiet.
@@ -27,6 +28,15 @@ Why is the spread so wide? Lender uncertainty, mostly. When investors aren't sur
 I've seen borrowers get blindsided by this timing issue more times than I can count. They get a pre-approval rate quote, wait three weeks, and then wonder why the number changed when "the Fed didn't do anything."
 
 ## The Warsh Factor: Why This Chair Matters More Right Now
+
+| Scenario | 30-Year Fixed Rate | Median Monthly Payment | Key Driver |
+| --- | --- | --- | --- |
+| Early June 2026 | 6.3%-6.4% | ~$2,100 (estimated) | Pre-June 17 FOMC expectations |
+| June 17, 2026 FOMC Hold | 3.5%-3.75% (Fed funds) | - | Nine committee members signal hike possibility |
+| July 2, 2026 | 6.658% | - | Post-FOMC hawkish repricing |
+| May 2026 Median | - | $2,198 | MBA reported baseline |
+| May + 0.25% rate increase | - | $2,278-$2,298 | $80-$100 monthly increase |
+| Early July 2026 (7 weeks) | ~6.5% | - | Freddie Mac persistence signal |
 
 > **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

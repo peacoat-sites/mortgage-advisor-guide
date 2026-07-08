@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-
+lastmod: 2026-07-07
 ---
 A low appraisal doesn't kill a deal. It just changes the math in ways most buyers aren't prepared for, and that panic is exactly what sellers and listing agents count on.
 
@@ -35,7 +35,7 @@ Here's what you need to know before you make any decisions.
 
 Your lender doesn't care what you agreed to pay for the house. They only care what a licensed appraiser says the property is worth, because that's what they're lending against. If you're buying a home for $420,000 and the appraisal comes in at $395,000, the lender will base your loan on $395,000. That $25,000 gap? It's your problem now.
 
-On a conventional loan with a 20% down payment, that shift can blow the whole thing up. You were planning to put down $84,000 (20% of $420,000) and borrow $336,000. Now the lender will only loan up to 80% of $395,000, which is $316,000. To keep the deal at the original purchase price, you'd need to cover that extra $20,000 out of pocket in addition to your original down payment. That's $20,000 you may not have sitting around.
+On a conventional loan with a 20% [down payment](/mortgage-down-payment-options/), that shift can blow the whole thing up. You were planning to put down $84,000 (20% of $420,000) and borrow $336,000. Now the lender will only loan up to 80% of $395,000, which is $316,000. To keep the deal at the original purchase price, you'd need to cover that extra $20,000 out of pocket in addition to your original down payment. That's $20,000 you may not have sitting around.
 
 Here's the thing most people don't realize: a low appraisal isn't a verdict. It's an opening move.
 
@@ -49,9 +49,15 @@ Here's the thing most people don't realize: a low appraisal isn't a verdict. It'
 
 **Request a reconsideration of value (ROV).** This is a formal process where you challenge the appraisal with documented evidence: recent comparable sales the appraiser didn't include, errors in square footage or condition, renovations that weren't properly credited. Your lender submits this on your behalf. ROVs don't always work. Appraisers don't love being challenged and they don't have to change their number, but I've seen them succeed when there was a clear factual error or when the buyer's agent found a legitimately comparable sale within the same 90-day window that the appraiser somehow missed. It costs nothing to try before you do anything else.
 
-**Walk away using your appraisal contingency.** If your contract includes an appraisal contingency (and it absolutely should), a low appraisal gives you the right to exit the contract and get your earnest money back. Full stop. If you waived that contingency in a competitive bidding situation, you're in a harder spot. Talk to a real estate attorney before you do anything.
+**Walk away using your [appraisal contingency](/mortgage-contingency-explained/).** If your contract includes an appraisal contingency (and it absolutely should), a low appraisal gives you the right to exit the contract and get your earnest money back. Full stop. If you waived that contingency in a competitive bidding situation, you're in a harder spot. Talk to a real estate attorney before you do anything.
 
 ## The Loan Type Matters More Than People Think
+
+| Loan Type | Appraisal Outcome | Key Consideration |
+| --- | --- | --- |
+| Conventional | Based on Fannie Mae/Freddie Mac guidelines | More flexibility to restructure; PMI and LTV ratios differ from government loans |
+| FHA | Appraisal "sticks" for 120 days | Low appraisal attaches to property; impacts future FHA buyers; sellers may disfavor FHA offers |
+| VA | Certificate of Reasonable Value issued | Designed to protect veteran from overpaying; easier exit if seller won't renegotiate; Tidewater notice available pre-appraisal |
 
 Not all low appraisals hit you the same way. The loan product you're using changes the equation significantly.
 

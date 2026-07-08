@@ -12,6 +12,7 @@ author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 slug: "gift-funds-for-down-payment-rules"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Someone called me last week, two days before their closing date, panicking because their lender had just flagged a $15,000 deposit in their bank account. It was a gift from her parents. She'd had it sitting there for six weeks. And nobody had told her she needed a gift letter.
 
@@ -73,6 +74,12 @@ What most people don't realize is that underwriters are looking at the full 60-d
 The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) has solid plain-language guidance on what mortgage lenders can and can't ask for during underwriting, which is worth reading if you feel like your lender is asking for more than seems reasonable.
 
 ## Conventional vs. FHA: The One Difference That Actually Matters
+
+| Loan Type | Down Payment Source | Gift Eligibility | Documentation Required |
+| --- | --- | --- | --- |
+| Conventional (Fannie Mae/Freddie Mac) | Partial gift allowed; borrower must contribute own funds if down payment < 20% | Family members, domestic partners, fiancés | Gift letter + proof of donor withdrawal + proof of receipt |
+| FHA | Up to 100% gift allowed | Family members, close friends with defined interest | Gift letter + proof of donor withdrawal + proof of receipt |
+| VA/USDA | Gift funds generally allowed | Similar to FHA; verify with loan officer | Gift letter + proof of donor withdrawal + proof of receipt |
 
 For FHA loans, 100% of your down payment can come from gift funds. The minimum down payment is 3.5%, and every dollar of it can be a gift. That's genuinely borrower-friendly, and it's one of the underrated advantages of FHA that loan officers don't always highlight upfront.
 

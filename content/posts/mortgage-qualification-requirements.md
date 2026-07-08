@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-
+lastmod: 2026-07-07
 ---
 You fill out a mortgage application feeling reasonably confident. Good job, money in the bank, no major debt. Then the loan officer calls back and tells you that you don't qualify. No explanation that actually makes sense. Just a polite version of "no." This happens to thousands of people every year, and in most cases it's completely preventable. The problem isn't that borrowers are bad financial risks. The problem is that almost nobody explains what lenders are actually looking for before you apply.
 
@@ -71,11 +71,19 @@ For conventional loans, most lenders want back-end DTI at or below 43%. Some aut
 
 Here's a concrete example. Say your gross income is $7,000 per month. A 43% DTI means your total monthly debt load, including the new mortgage, can't exceed $3,010. If you're already paying $400 for a car and $300 in student loans, that leaves $2,310 for your mortgage payment. At current rate levels, that caps your buying power considerably. Many first-time buyers are shocked to discover their car payment is quietly strangling their homebuying budget.
 
-The fix, in most cases, is paying down debt before applying. Not after. Before.
+The fix, in most cases, is [paying down debt before applying](/how-much-house-can-i-afford/). Not after. Before.
 
 ---
 
 ## Loan Types and How Qualification Requirements Differ
+
+| Loan Type | Min. Credit Score | Min. Down Payment | DTI Limit | Mortgage Insurance |
+|---|---|---|---|---|
+| Conventional (standard) | 620 | 3% | ~43-50% | Required if < 20% down (PMI) |
+| FHA | 580 (3.5% down) / 500 (10% down) | 3.5% | ~43-57% | Required for life of loan (if < 10% down) |
+| VA | No official minimum (lenders ~620) | 0% | No hard cap (~41% guideline) | None (funding fee applies) |
+| USDA | 640 (most lenders) | 0% | ~41% | Yes (upfront and annual fee) |
+| Jumbo | 700-720+ | 10-20%+ | ~43% | Varies by lender |
 
 Not all mortgages are created equal, and the requirements shift significantly depending on which product you're applying for.
 

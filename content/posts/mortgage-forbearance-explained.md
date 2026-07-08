@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-
+lastmod: 2026-07-07
 ---
 You missed a mortgage payment last week. Maybe it was one, maybe two. Your phone's started ringing from numbers you recognize but don't want to answer. You're not irresponsible. Something broke: a job loss, medical crisis, divorce, natural disaster. The mortgage just feels biggest right now, scariest. If that's you, read this carefully. The options available to you are better than you think, and silence is the worst move you can make.
 
@@ -39,7 +39,7 @@ Here's what I tell people: forbearance is your servicer saying "we see you're in
 
 What happens to them depends on your forbearance plan and loan type. Some plans require a lump-sum repayment the moment forbearance ends. Others tack the missed payments onto the end of your loan. Others spread the catch-up across a set number of months after forbearance closes. These are very different outcomes, and most homeowners don't ask which one applies until it's almost too late.
 
-One more critical distinction: forbearance isn't deferment, and it's not loan modification. Deferment typically moves missed payments to the end of your loan without interest accruing on them (common with federally backed loans). Modification permanently changes your loan terms, usually the interest rate or repayment period. Forbearance is the first conversation, not the final solution.
+One more critical distinction: forbearance isn't deferment, and it's not [loan modification](/mortgage-loan-modification-options/). Deferment typically moves missed payments to the end of your loan without interest accruing on them (common with federally backed loans). Modification permanently changes your loan terms, usually the interest rate or repayment period. Forbearance is the first conversation, not the final solution.
 
 ---
 

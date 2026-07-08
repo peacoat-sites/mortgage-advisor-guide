@@ -12,12 +12,19 @@ author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
 slug: "trump-blocked-the-housing-bill-what-happens-to-buyers-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 The bill passed 85–5 in the Senate. Then 358–32 in the House. Two chambers, bipartisan consensus so lopsided it barely qualifies as a vote. Then, the morning of June 24, Trump posted on Truth Social canceling the signing ceremony, tying the bill's fate to the SAVE AMERICA ACT and leaving everyone who'd been watching that ceremony, buyers, sellers, housing advocates, mortgage lenders, staring at their screens.
 
 Most coverage treated this as political drama. It is also a housing market problem, arriving at the worst possible moment.
 
 ## What the Bill Actually Does (and Why the Institutional Investor Piece Matters)
+
+| Market | Investor-Owned Single-Family Home Growth (2018-2024) |
+| --- | --- |
+| Dallas | 177% |
+| Phoenix | 114% |
+| Jacksonville, Florida | 20%+ of all single-family rentals (2026) |
 
 The 21st Century ROAD to Housing Act contains a lot of provisions, but the one that generated the most heat from buyers is the ban on large institutional investors purchasing single-family homes. That provision isn't just symbolic. A 2026 GAO analysis found investors own more than 20% of single-family rental homes in cities like Jacksonville, Florida. In Dallas and Phoenix, investor-owned single-family homes surged 177% and 114% respectively between 2018 and 2024. That's not the market adjusting. That's the market getting hoarded.
 
@@ -59,7 +66,7 @@ Peak summer homebuying season typically runs through July, with contract activit
 
 Don't wait for the political situation to resolve. The 10-business-day constitutional window will pass before August, and even optimistic legal outcomes won't produce overnight market changes. If you're planning to buy this summer, make your decision based on the market that exists, not the one that might exist after legislative and legal uncertainty sorts itself out.
 
-Get your FHA pre-approval locked in and ask your loan officer specifically about the updated 203(k) draw schedule if you're looking at homes that need work. Understand that the institutional investor ban, even if it eventually takes effect, doesn't retroactively change the competitive dynamics of any specific transaction you're in today.
+Get your FHA pre-approval locked in and ask your loan officer specifically about [the updated 203(k) draw schedule](/what-the-road-to-housing-act-means-for-your-fha-loan/) if you're looking at homes that need work. Understand that the institutional investor ban, even if it eventually takes effect, doesn't retroactively change the competitive dynamics of any specific transaction you're in today.
 
 If you're a first-time buyer in a high-investor market like Jacksonville, Dallas, or Phoenix, talk to an agent who can identify properties that institutional buyers are less likely to target: smaller price points, homes needing cosmetic work, neighborhoods where investor economics are thinner. It's not a perfect workaround, but it's a real one.
 

@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-
+lastmod: 2026-07-07
 ---
 My second year underwriting mortgages, a borrower came in furious. She'd taken out a home equity loan eighteen months earlier to renovate her kitchen, and now she needed another $15,000 for a bathroom she hadn't planned on. She had the equity. She had the income. But she had to go through a whole new loan application, pay closing costs again, and wait six weeks. "Why didn't anyone tell me I had options?" she asked. I didn't have a great answer for her.
 
@@ -53,7 +53,7 @@ The difference is in the *structure* of how you access and repay the money.
 
 A home equity loan is a lump sum. You borrow $50,000, you get $50,000 wired to your account, and you start repaying it immediately on a fixed schedule, usually over 10 to 30 years. The interest rate is fixed for the life of the loan, so your payment doesn't change. That's it.
 
-A HELOC (Home Equity Line of Credit) works like a credit card backed by your home. The lender approves you for a credit limit, say $75,000, and you draw from it as you need it during a "draw period," typically 10 years. You pay interest only on what you've actually borrowed. When the draw period ends, you enter the repayment period, usually another 10 to 20 years, where you pay down principal plus interest. Most HELOCs carry a variable interest rate, which is where a lot of borrowers get surprised.
+A HELOC (Home Equity Line of Credit) works like a credit card backed by your home. The lender approves you for a credit limit, say $75,000, and you draw from it as you need it during a "draw period," typically 10 years. You pay interest only on what you've actually borrowed. When the draw period ends, [you enter the repayment period](/heloc-repayment-explained/), usually another 10 to 20 years, where you pay down principal plus interest. Most HELOCs carry a variable interest rate, which is where a lot of borrowers get surprised.
 
 That's the structural difference. Now here's where it actually matters.
 

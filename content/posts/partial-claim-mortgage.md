@@ -23,6 +23,7 @@ faqs:
     a: "Yes, but the partial claim typically must be paid off at closing unless HUD agrees to subordinate it. HUD will sometimes allow subordination for rate-and-term refinances where you're not pulling out equity. Cash-out refinances are harder to get approved for subordination. Talk to a HUD-approved housing counselor before assuming either outcome."
   - q: "What happens to the partial claim if I sell my home?"
     a: "The balance is paid from sale proceeds at closing, just like any other lien on the property. Your title company will identify it and include it in the payoff figures. Since no interest has accrued, you repay exactly the original amount HUD advanced."
+lastmod: 2026-07-07
 ---
 
 Most borrowers have never heard of a partial claim until they're already in trouble. That's a problem.
@@ -37,7 +38,7 @@ A partial claim is a zero-interest, deferred-payment loan that HUD (the Departme
 
 That structure is worth sitting with for a second, because it's genuinely unusual in the mortgage world. No monthly payment. No interest accruing. Just a subordinate lien that gets repaid when you eventually exit the property. For a borrower who's had a temporary financial setback, that's a meaningful lifeline.
 
-What surprised me the first time I reviewed a partial claim file was how clean the mechanics were compared to, say, a loan modification with a balloon payment. The deferred amount doesn't grow. HUD caps the total at 30% of the unpaid principal balance of the original mortgage. So if you owed $280,000 on your FHA loan when you went delinquent, the maximum partial claim HUD could issue is $84,000. That cap exists for a reason: this program wasn't designed to rescue borrowers from years of delinquency, it's designed to bridge a gap.
+What surprised me the first time I reviewed a partial claim file was how clean the mechanics were compared to, say, a [loan modification](/mortgage-loan-modification-options/) with a balloon payment. The deferred amount doesn't grow. HUD caps the total at 30% of the unpaid principal balance of the original mortgage. So if you owed $280,000 on your FHA loan when you went delinquent, the maximum partial claim HUD could issue is $84,000. That cap exists for a reason: this program wasn't designed to rescue borrowers from years of delinquency, it's designed to bridge a gap.
 
 As of July 2026, partial claims remain a core tool in HUD's loss mitigation waterfall, available exclusively for FHA-insured loans. If you have a conventional loan, VA loan, or USDA loan, this specific program doesn't apply to you. Different agencies have their own equivalent programs, but the mechanics vary significantly.
 
@@ -53,7 +54,7 @@ Here's where a lot of borrowers get tripped up: you don't apply for a partial cl
 
 The general sequence looks like this:
 
-**Step 1.** You miss payments and contact your servicer about hardship options. Or your servicer contacts you. Either way, this conversation has to happen.
+**Step 1.** You miss payments and contact your servicer about [hardship options](/options-to-avoid-foreclosure-when-behind-on-payments/). Or your servicer contacts you. Either way, this conversation has to happen.
 
 **Step 2.** The servicer evaluates whether you qualify. To get a partial claim, you generally need to demonstrate that the hardship causing your delinquency has been resolved or is resolving, that you can resume your regular mortgage payment going forward, and that you're between 1 and 12 months delinquent. Being current isn't the goal, but you also can't be more than 12 months behind.
 
@@ -82,6 +83,17 @@ Keep a copy of the promissory note and subordinate deed. Put it somewhere you'll
 ---
 
 ## Partial Claims vs. Loan Modifications: Which Is Better?
+
+| Aspect | Partial Claim | Loan Modification |
+| --- | --- | --- |
+| Interest Rate | 0% | Varies; typically reduced |
+| Monthly Payment | None (deferred) | Resumed, often lower |
+| Maximum Amount | 30% of unpaid principal balance | No set cap |
+| Lien Type | Subordinate (second) | Incorporated into first mortgage |
+| Delinquency Window | 1-12 months | Varies by program |
+| Repayment Trigger | Sale, refinance, or payoff of first mortgage | Ongoing monthly payments |
+| Loan Type Eligible | FHA only | Conventional, VA, USDA, FHA |
+| Best For | Temporary hardship resolved | Permanent income reduction |
 
 The honest answer is: it depends, and the research here is genuinely mixed on long-term outcomes. But I can give you a practical framework.
 

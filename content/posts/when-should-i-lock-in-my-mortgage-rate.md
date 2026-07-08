@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-
+lastmod: 2026-07-07
 ---
 Most borrowers ask the wrong question. They spend hours watching rate trackers and refreshing mortgage news sites, waiting for the perfect moment to lock, as if they're trying to time the stock market. The real question isn't "when will rates be lowest?" It's "when do I need certainty, and what does certainty cost me?"
 
@@ -37,9 +37,16 @@ A rate lock is a written commitment from your lender that a specific interest ra
 
 The part loan officers often skim past: lock agreements have expiration dates, and if your loan doesn't close in time, you're exposed. Either your lock expires and you float back to market rates, or you pay to extend it. Extensions aren't free. Depending on the lender, a one-week extension might run you 0.125% to 0.25% of the loan amount. On a $400,000 mortgage, that's $500 to $1,000 for a week's buffer.
 
-There's also a float-down provision some lenders offer. A float-down lets you lock today but capture a lower rate if rates drop before closing. Sounds perfect, right? It costs extra, usually 0.5% to 1% of the loan amount upfront, and comes with conditions: rates typically have to fall by a minimum threshold (often 0.25% or more) before the provision kicks in. It's not always worth it. If you're already comfortable with your rate and your closing timeline is tight, you might be paying for an option you'll never use.
+There's also a [float-down provision](/mortgage-rate-lock-explained/) some lenders offer. A float-down lets you lock today but capture a lower rate if rates drop before closing. Sounds perfect, right? It costs extra, usually 0.5% to 1% of the loan amount upfront, and comes with conditions: rates typically have to fall by a minimum threshold (often 0.25% or more) before the provision kicks in. It's not always worth it. If you're already comfortable with your rate and your closing timeline is tight, you might be paying for an option you'll never use.
 
 ## When to Lock: The Honest Answer
+
+| Scenario | Lock Period | Typical Cost vs. 30-Day | Best For | Risk |
+| --- | --- | --- | --- | --- |
+| Standard purchase | 30-45 days | Baseline | On-time closings, tight timelines | Lock expires if closing delays |
+| Purchase with buffer | 60 days | +0.125% to +0.25% | Contingencies, appraisal delays | Higher rate cost, extension fees if needed |
+| New construction | 90-360 days | Significantly higher | Homes not yet completed | Expensive carry cost, rate risk if market falls |
+| Refinance (floating) | Flexible | Lower upfront | Rate shopping, market monitoring | Rate could move up before locking |
 
 Lock when you have a signed purchase contract and a realistic closing date you trust.
 
@@ -53,11 +60,11 @@ New construction breaks all the standard advice. If you're buying a home that wo
 
 ## The Market Timing Trap
 
-A borrower I counseled a few years back decided not to lock in early March because he was certain rates were about to fall. He'd read several articles saying the Fed was likely to cut. He floated for three weeks. By the time he closed, his rate had moved up 0.375%. On a 30-year fixed at $350,000, that added roughly $80 a month to his payment. Over the life of the loan, that's over $28,000 in extra interest, not accounting for any potential refinancing down the road.
+A borrower I counseled a few years back decided not to lock in early March because he was certain rates were about to fall. He'd read several articles saying the [Fed was likely to cut](/how-are-mortgage-rates-affected-by-the-federal-reserve/). He floated for three weeks. By the time he closed, his rate had moved up 0.375%. On a 30-year fixed at $350,000, that added roughly $80 a month to his payment. Over the life of the loan, that's over $28,000 in extra interest, not accounting for any potential refinancing down the road.
 
 He wasn't foolish. He was doing exactly what smart, financially literate people do: confusing Fed policy predictions with mortgage rate behavior.
 
-The Fed doesn't set mortgage rates. It sets the federal funds rate, which influences short-term borrowing costs. Mortgage rates are tied more tightly to the 10-year Treasury yield and to mortgage-backed securities markets, which price in inflation expectations, global capital flows, and investor appetite for risk. Sometimes mortgage rates move in the same direction as Fed policy. Sometimes they move ahead of it. Occasionally they move in the opposite direction entirely.
+The Fed doesn't set mortgage rates. It sets the federal funds rate, which influences short-term borrowing costs. Mortgage rates are tied more tightly to the [10-year Treasury yield](/current-mortgage-rates/) and to mortgage-backed securities markets, which price in inflation expectations, global capital flows, and investor appetite for risk. Sometimes mortgage rates move in the same direction as Fed policy. Sometimes they move ahead of it. Occasionally they move in the opposite direction entirely.
 
 Watching Fed meeting calendars as a proxy for rate direction is about as reliable as watching weather forecasts three weeks out.
 
