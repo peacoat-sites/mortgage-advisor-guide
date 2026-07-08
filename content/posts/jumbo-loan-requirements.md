@@ -1,5 +1,5 @@
 ---
-title: "Jumbo Loan Requirements"
+title: "What Lenders Really Look For in Jumbo Loan Applications"
 date: 2026-05-29T08:16:52.541877+00:00
 draft: false
 description: "Jumbo loan requirements vary by lender but typically include strong credit scores, significant down payments, and detailed financial documentation for approval."
@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You find a house you love. The price is $1.4 million. You have excellent credit, a substantial down payment, and a stable high income. You walk into the bank expecting smooth sailing. Then the loan officer explains that you're in "jumbo territory," and suddenly the conversation shifts. More documentation. Higher reserves. Stricter debt ratios. A different approval process entirely. A lot of borrowers are caught completely off guard by this, and it costs them time, deals, and sometimes the house itself.
 

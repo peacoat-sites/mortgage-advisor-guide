@@ -1,5 +1,5 @@
 ---
-title: "15 Year Vs 30 Year Mortgage Pros And Cons"
+title: "15-Year vs 30-Year Mortgages: Which Fits Your Budget"
 date: 2026-06-08T18:17:54.634398+00:00
 draft: false
 description: "Comparing 15 vs 30 year mortgages? Discover the key pros and cons of each loan term to find the right option for your budget and financial goals."
@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people treat this decision like a math problem. They pull up a mortgage calculator, see that the 15-year saves them $80,000 in interest, and start mentally patting themselves on the back for being so financially disciplined. What they miss is that the 15-year mortgage is also one of the fastest ways to wreck your financial flexibility, and I've watched it happen more times than I'd like to count.
 

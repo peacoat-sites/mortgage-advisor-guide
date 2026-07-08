@@ -1,5 +1,5 @@
 ---
-title: "Respa Mortgage Rules"
+title: "RESPA Rules Every Mortgage Lender Must Know"
 date: 2026-07-04T16:45:02.864221+00:00
 draft: false
 description: "Learn how RESPA mortgage rules protect homebuyers by regulating disclosures, settlement costs, and kickbacks to ensure fair and transparent home loans."
@@ -23,7 +23,7 @@ faqs:
     a: "Under RESPA's servicing rules (Section 6), if you send a 'qualified written request' to your servicer about your escrow account or any other servicing issue, they must acknowledge it within five business days and provide a substantive response within 30 business days (extendable to 45 in complex cases). Send it certified mail and keep a copy."
   - q: "Is the affiliated business arrangement disclosure meaningful, or is it just paperwork?"
     a: "It's meaningful if you read it. The AfBA disclosure tells you that the person referring you to a service provider has a financial interest in that company. Legally, you must still be allowed to use a different provider. Practically, it's your signal to get a competing quote. Even a $200 difference in title insurance premiums on a $400,000 purchase is worth one phone call."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 RESPA is one of those laws that gets mentioned constantly in mortgage paperwork and explained almost never. Your loan officer hands you a three-page "Special Information Booklet" at application, you set it on the kitchen counter, and it stays there until you recycle it three months after closing. That's exactly how the industry prefers it.

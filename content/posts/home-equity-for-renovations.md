@@ -1,5 +1,5 @@
 ---
-title: "Home Equity For Renovations"
+title: "Tap Your Home's Equity To Fund Major Renovations"
 date: 2026-06-30T17:31:44.415953+00:00
 draft: false
 description: "Learn how to use home equity to fund renovations, boost property value, and choose the best loan option for your next home improvement project."
@@ -23,7 +23,7 @@ faqs:
    a: "Depends heavily on the project type and your local market. Exterior improvements and midrange kitchen updates tend to recover the most. High-end additions and luxury finishes in moderate markets often don't recoup their full cost at resale. If you're borrowing to build equity, run the math; if you're borrowing to improve how you live in the house, that's a different and perfectly valid calculus."
  - q: "Can I use a HELOC if I'm self-employed?"
    a: "Yes, but lenders will typically require two years of tax returns and may average your income across both years. If your income is variable or your write-offs are aggressive, your qualifying income may be lower than your actual earnings. This is an area where talking to a mortgage broker familiar with self-employed borrowers before you apply saves a lot of frustration."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most articles about using home equity for renovations spend three paragraphs explaining what equity is, as if you haven't been paying your mortgage for a decade. You know what equity is. What you probably don't know is which product actually makes sense for your situation, what the lenders won't tell you upfront, and where borrowers quietly wreck themselves on renovation projects every single year.

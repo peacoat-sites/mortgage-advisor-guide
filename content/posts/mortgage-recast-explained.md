@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Recast Explained"
+title: "Mortgage Recast: Lower Payments Without Refinancing"
 date: 2026-06-15T19:37:41.035300+00:00
 draft: false
 description: "Learn how a mortgage recast lowers your monthly payment by re-amortizing your loan after a lump sum payment, without refinancing or changing your rate."
@@ -23,7 +23,7 @@ faqs:
    a: "Saving on mortgage interest isn't a taxable event. What changes after a recast is that you're paying less interest each month, which means your potential mortgage interest deduction would also be smaller. Whether that matters to you depends on whether you're itemizing deductions. Worth a quick conversation with your tax preparer."
  - q: "What if my servicer doesn't offer recasting?"
    a: "You have a few options. You can continue making extra principal payments without recasting (your loan will pay off sooner, even if your required monthly payment doesn't change). Or, if reducing your monthly payment is the priority, refinancing may be worth considering despite the higher cost. Some borrowers also find that when they push their servicer, a recast option does exist but wasn't being offered proactively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most borrowers have never heard of a mortgage recast. Their loan officer didn't mention it. The real estate agent definitely didn't. And that's frustrating, because for the right person in the right situation, it's genuinely one of the most underused tools available.
 

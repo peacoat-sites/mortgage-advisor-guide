@@ -1,5 +1,5 @@
 ---
-title: "Hard Money Loan Explained"
+title: "How Hard Money Loans Work for Real Estate"
 date: 2026-06-28T16:53:25.040814+00:00
 draft: false
 description: "Learn how hard money loans work, who they are for, and when to use one. Discover rates, terms, and key benefits for real estate investors."
@@ -23,7 +23,7 @@ faqs:
    a: "The lender can foreclose. Hard money lenders are often faster to foreclose than conventional banks because the asset is the whole basis of the deal. Most will offer extensions (for a fee) before going that route, but you shouldn't count on that. Always have a backup exit strategy before you take the loan."
  - q: "Is hard money lending regulated?"
    a: "Partially. Hard money lenders must be licensed in most states as mortgage brokers or lenders, and consumer protection laws apply if the loan is on an owner-occupied property. But for investment properties, regulation is much lighter than for conventional mortgages. There's no FHFA oversight, no GSE backing, and no standardized disclosure requirements. You're operating more on contract law than consumer protection law, which is exactly why you should have a real estate attorney review the loan documents before you sign."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Hard money loans get a bad reputation they only half deserve.

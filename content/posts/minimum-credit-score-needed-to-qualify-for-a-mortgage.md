@@ -1,5 +1,5 @@
 ---
-title: "Minimum Credit Score Needed To Qualify For A Mortgage"
+title: "Minimum Credit Score To Get A Mortgage Approved"
 date: 2026-06-11T18:41:13.610841+00:00
 draft: false
 description: "Discover the minimum credit score needed to qualify for a mortgage, including requirements for FHA, VA, and conventional loans, plus tips to boost your score fa"
@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your credit score is not a verdict on you as a person. I've had to remind myself to say that out loud in underwriting reviews, because the number on the screen can feel deeply personal when it determines whether someone gets approved for a home loan. If you're here because you pulled your score and felt your stomach drop a little, you're in exactly the right place.
 

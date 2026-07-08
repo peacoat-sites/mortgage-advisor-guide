@@ -1,5 +1,5 @@
 ---
-title: "How Much House Can I Afford"
+title: "The Real Price Tag: What Your Income Actually Buys"
 date: 2026-05-28T11:32:14.298334+00:00
 draft: false
 description: "Find out how much house you can afford based on your income, debt, and down payment. Use our tips and tools to set a realistic homebuying budget today."
@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most buyers walk into a lender's office knowing exactly one number: the [pre-approval amount](/mortgage-pre-approval-process/). They treat it like scripture. I've watched clients get pre-approved for $550,000 and immediately start touring homes at that ceiling, only to realize three months later that the monthly payment was quietly eating their financial life. A pre-approval tells you what a lender is willing to risk. It tells you almost nothing about what you can actually afford.
 

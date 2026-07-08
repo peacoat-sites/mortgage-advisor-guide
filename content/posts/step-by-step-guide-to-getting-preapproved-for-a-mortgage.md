@@ -1,5 +1,5 @@
 ---
-title: "Step By Step Guide To Getting Preapproved For A Mortgage"
+title: "Get Mortgage Preapproval in 5 Steps"
 date: 2026-06-09T17:48:18.988682+00:00
 draft: false
 description: "Learn how to get preapproved for a mortgage with our step by step guide. Discover what lenders look for, documents needed, and tips to boost your approval odds."
@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most preapproval guides tell you to "gather your documents and contact a lender." That's about as useful as telling someone to "buy low, sell high." What they skip is the sequence, the friction points, and the three or four places where borrowers quietly torpedo their own applications before they've even found a house.
 

@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Pre-Approval Process"
+title: "Get Approved Faster: Your Complete Pre-Approval Roadmap"
 date: 2026-05-22T23:05:21.756734+00:00
 draft: false
 description: "Get pre-approved for a mortgage with confidence. Learn step-by-step how the pre-approval process works, what lenders look for, and how to strengthen your applic"
@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You found the perfect house on a Tuesday. By Thursday, another buyer swept in with a pre-approval letter. No contingencies. No drama. Just a clean offer backed by paperwork that told the seller everything they needed to know. I've watched this scene dozens of times, and the buyers who walk away empty-handed always say the same thing: "I didn't think I needed to do that part yet." Pre-approval isn't something you handle after you find the house. It's the work you do so you're ready when the house finds you.
 

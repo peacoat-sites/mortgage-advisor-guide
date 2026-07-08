@@ -1,5 +1,5 @@
 ---
-title: "What Are Typical Closing Costs For A Home Buyer"
+title: "Home Buyer Closing Costs: Complete Cost Breakdown"
 date: 2026-06-06T16:54:33.353753+00:00
 draft: false
 description: "Learn what typical closing costs home buyers can expect, including loan fees, appraisals, and title insurance, usually totaling 2 to 5 percent of the home price"
@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Nobody tells you the real number until you're three days from closing.
 

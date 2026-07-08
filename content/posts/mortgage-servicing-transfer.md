@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Servicing Transfer"
+title: "Your Mortgage Servicer Just Changed: Here's What Happens Next"
 date: 2026-07-02T17:24:38.719485+00:00
 draft: false
 description: "Learn what happens during a mortgage servicing transfer, your rights as a borrower, and how to ensure payments are handled correctly during the transition."
@@ -23,7 +23,7 @@ faqs:
    a: "There's no legal limit on how many times servicing rights can be sold. Some loans are transferred multiple times over their life. Each time, the same RESPA notice requirements apply."
  - q: "My new servicer says I owe a different amount than what I had before. What do I do?"
    a: "Start by requesting a complete payment history and current payoff statement from both the old and new servicer. Compare them. Small discrepancies sometimes come from how interest accrued during the transition days. Larger differences, especially involving your escrow balance, may indicate a data error and warrant a formal Qualified Written Request. Don't pay a disputed amount without getting something in writing explaining the calculation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Your loan closes on a Friday. By the following Tuesday, you've already forgotten half the paperwork you signed. Then, three weeks later, you get a letter in the mail from a company you've never heard of, telling you to start sending your mortgage payments to them instead of the lender you spent weeks working with. And your first instinct is: *is this a scam?*

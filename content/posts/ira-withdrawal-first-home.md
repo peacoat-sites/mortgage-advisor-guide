@@ -1,5 +1,5 @@
 ---
-title: "IRA Withdrawal First Home"
+title: "First-Time Home Buyer's Guide to IRA Withdrawals"
 date: 2026-06-19T17:33:38.240101+00:00
 draft: false
 description: "Learn how to withdraw from your IRA for a first home purchase, including limits, tax rules, and how to avoid the 10% early withdrawal penalty."
@@ -12,7 +12,7 @@ author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 slug: "ira-withdrawal-first-home"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting at a closing table, home of your dreams within reach, and your loan officer casually mentions you could pull from your IRA penalty-free to cover the down payment. Sounds like a lifeline. I've watched borrowers light up at that suggestion, and then sign paperwork they didn't fully understand, only to get hit with a tax bill that genuinely shocked them.
 

@@ -1,6 +1,6 @@
 ---
 
-title: "Mortgage Closing Costs Explained"
+title: "Hidden Costs in Your Mortgage Closing Explained"
 date: 2026-05-22T21:07:46.663300+00:00
 draft: false
 description: "Learn what mortgage closing costs are, how much to expect, and which fees are negotiable. Get prepared before you close on your new home and avoid costly surpri"
@@ -25,7 +25,7 @@ author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've found the house. You've locked your rate. You've started packing boxes. Then the Closing Disclosure lands in your inbox and you see a number that stops you cold: $9,400 in closing costs on top of your down payment. Nobody warned you it would be this much. I've watched this exact moment knock buyers sideways for sixteen years, and it's almost always preventable with a little preparation.
 

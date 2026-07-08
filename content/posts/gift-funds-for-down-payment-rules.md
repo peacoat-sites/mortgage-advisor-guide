@@ -1,5 +1,5 @@
 ---
-title: "Gift Funds For Down Payment Rules"
+title: "Can You Give Gift Money For A Down Payment?"
 date: 2026-06-27T16:49:19.749554+00:00
 draft: false
 description: "Learn gift fund rules for down payments including who can donate, how to document gifts, and lender requirements to close on your home successfully."
@@ -12,7 +12,7 @@ author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 slug: "gift-funds-for-down-payment-rules"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Someone called me last week, two days before their closing date, panicking because their lender had just flagged a $15,000 deposit in their bank account. It was a gift from her parents. She'd had it sitting there for six weeks. And nobody had told her she needed a gift letter.
 

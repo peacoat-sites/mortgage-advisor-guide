@@ -1,5 +1,5 @@
 ---
-title: "What Debt To Income Ratio Do You Need For A Home Loan"
+title: "The Debt-to-Income Ratio Lenders Actually Require"
 date: 2026-06-02T12:56:18.548766+00:00
 draft: false
 description: "Find out what debt to income ratio you need to qualify for a home loan, why lenders care about it, and how to improve yours to boost approval chances."
@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people walk into a lender's office convinced their [credit score](/credit-score-for-mortgage-approval/) is everything. I used to hear it constantly. The borrower with a 760 who can't figure out why they got declined. What they never grasped is that lenders spend about 30 seconds glancing at that score before zeroing in on the number that actually matters: debt-to-income ratio. I've watched people with near-perfect credit get rejected and others with mediocre scores get approved, all because of DTI. If you haven't run a serious look at this number before applying for a mortgage, you're working backwards.
 

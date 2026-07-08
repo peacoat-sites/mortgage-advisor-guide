@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Points Explained"
+title: "Should You Buy Mortgage Points? A Breakdown"
 date: 2026-05-26T07:25:53.768236+00:00
 draft: false
 description: "Lower your interest rate by paying mortgage points upfront. Learn how points work, calculate savings, and decide if they're right for your home loan."
@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting across from a loan officer with a three-inch stack of closing documents in front of you. Somewhere near the top of the loan estimate is a line that says "Discount Points: 1.000 ($4,200)." They mention it briefly, say it'll lower your rate, then move on. If you don't stop them right there and ask what that actually means for your loan, you've just agreed to pay thousands of dollars without understanding what you're buying. I've watched it happen more times than I'd like.
 

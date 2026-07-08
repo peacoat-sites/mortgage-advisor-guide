@@ -1,5 +1,5 @@
 ---
-title: "Break-Even Refinance Analysis"
+title: "When Your Mortgage Refinance Actually Makes Sense"
 date: 2026-05-25T19:53:49.630706+00:00
 draft: false
 description: "Discover how break-even refinance analysis helps you determine when refinancing saves money by calculating how long it takes to recoup your closing costs."
@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people refinance because their loan officer told them the new rate was "great." I've watched borrowers roll $6,000 in closing costs into a loan that lowered their payment by $80 a month, never once asking how long it would take to actually come out ahead. The answer, in that case, was 75 months. Six and a quarter years. And they sold the house in four. They didn't save money. They lost it.
 

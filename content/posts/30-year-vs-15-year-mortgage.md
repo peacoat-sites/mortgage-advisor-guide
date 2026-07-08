@@ -1,5 +1,5 @@
 ---
-title: "30 Year Vs 15 Year Mortgage"
+title: "15 Year vs 30 Year Mortgage: Which Costs Less"
 date: 2026-05-22T01:15:20.074173+00:00
 draft: false
 description: "Compare 30-year and 15-year mortgages to find the best fit for your budget. Learn about monthly payments, interest costs, and which loan term saves you more mon"
@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A loan officer once slid two sheets across their desk in front of me. Same loan amount, same rate, two different timelines. The 30-year payment looked reasonable. The 15-year made me catch my breath. Most people grab the 30-year without thinking. I've watched it happen hundreds of times. But that four-second choice shapes your finances for the next two or three decades. It deserves better than four seconds.
 

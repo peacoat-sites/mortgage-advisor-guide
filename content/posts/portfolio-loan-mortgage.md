@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Loan Mortgage"
+title: "Portfolio Loans: Mortgages When Banks Say No"
 date: 2026-06-24T17:34:07.299265+00:00
 draft: false
 description: "A portfolio loan mortgage stays with the lender instead of being sold. Learn how it works, who qualifies, and when it makes sense for your home purchase."
@@ -23,6 +23,7 @@ faqs:
    a: "This is one of the primary use cases. Real estate investors who've maxed out their conventional financing options, or who need a loan on a property with unusual characteristics (a mixed-use building, a large portfolio of rentals pledged as collateral), turn to portfolio lenders regularly. Expect stricter reserves requirements and scrutiny of your rental income history."
  - q: "Is a portfolio loan harder to get approved for?"
    a: "Not necessarily harder, but differently hard. If you're self-employed with clean bank statements and genuine cash flow, a portfolio lender might approve you faster than a conventional lender. If you have genuinely weak credit and minimal assets, neither market wants you. Portfolio flexibility is about documentation format and income type, not about lowering the bar on creditworthiness."
+lastmod: 2026-07-08
 ---
 
 Most articles about portfolio loans spend three paragraphs explaining what they are and then give you a generic "talk to your lender" send-off. You leave knowing the definition but nothing useful. Let's skip that.

@@ -1,5 +1,5 @@
 ---
-title: "Low Appraisal Mortgage Options"
+title: "When Your Home Appraises Low: 5 Options"
 date: 2026-06-14T17:04:08.963447+00:00
 draft: false
 description: "Discover your options when a home appraisal comes in low. Learn how to renegotiate, appeal, or secure alternative mortgage solutions to keep your purchase on tr"
@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A low appraisal doesn't kill a deal. It just changes the math in ways most buyers aren't prepared for, and that panic is exactly what sellers and listing agents count on.
 

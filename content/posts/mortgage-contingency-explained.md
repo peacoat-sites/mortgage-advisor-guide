@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Contingency Explained"
+title: "Your Mortgage Contingency Escape Hatch Explained"
 date: 2026-07-04T16:47:00.016605+00:00
 draft: false
 description: "Learn what a mortgage contingency is, how it protects homebuyers, and what happens if financing falls through before closing on a house."
@@ -23,7 +23,7 @@ faqs:
     a: "If you invoke it correctly and within the deadline specified in the contract, your earnest money should be returned to you in full. 'Correctly' means you've provided written notice to the seller (usually through your agent) that you're unable to obtain financing per the contract terms, and you may be required to provide documentation from your lender. The specific process varies by state and contract."
   - q: "Is it ever smart to waive the mortgage contingency as a first-time buyer?"
     a: "Honestly, rarely. The risk profile for a first-time buyer is usually higher because you're less likely to have significant cash reserves to cover an appraisal gap or unexpected financing shortfall. If you're being pushed to waive it, ask your lender specifically what could still go wrong after your pre-approval, get the answer in plain language, and talk to a HUD-approved housing counselor before you agree. There are other ways to strengthen an offer that don't require putting your earnest money fully at risk."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most buyers don't think about their mortgage contingency until they're in the middle of a deal and a loan officer says something like, "we might need to waive that." Then, suddenly, it matters enormously.

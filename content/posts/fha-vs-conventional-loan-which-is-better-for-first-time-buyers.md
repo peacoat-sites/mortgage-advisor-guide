@@ -1,5 +1,5 @@
 ---
-title: "FHA Vs Conventional Loan Which Is Better For First Time Buyers"
+title: "First-Time Buyer's Guide: FHA vs Conventional Loans"
 date: 2026-06-05T12:23:26.717894+00:00
 draft: false
 description: "Comparing FHA vs conventional loans for first time buyers? Discover key differences in down payments, credit scores, and costs to find your best mortgage option"

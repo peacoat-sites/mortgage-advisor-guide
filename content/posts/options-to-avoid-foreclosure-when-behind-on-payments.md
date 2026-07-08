@@ -1,5 +1,5 @@
 ---
-title: "Options To Avoid Foreclosure When Behind On Payments"
+title: "Stop Foreclosure: 5 Real Options When Behind on Payments"
 date: 2026-06-03T14:07:18.342284+00:00
 draft: false
 description: "Learn your options to avoid foreclosure when behind on payments. Explore loan modifications, repayment plans, refinancing, and more to save your home today."
@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Being two months behind on your mortgage isn't a crisis yet. Three months is where lenders start the formal clock. Four months in with no contact? That's where I've watched borrowers lose options that were sitting right in front of them, unused, because nobody told them what to ask for.
 

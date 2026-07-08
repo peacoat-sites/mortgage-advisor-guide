@@ -1,5 +1,5 @@
 ---
-title: "Homeowners Insurance Mortgage Requirement"
+title: "Why Your Lender Requires Homeowners Insurance"
 date: 2026-05-29T04:19:04.596931+00:00
 draft: false
 description: "Discover why lenders require homeowners insurance as a mortgage condition, what coverage you need, and how to meet this requirement to protect your home and loa"
@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You close on your dream home in three days. The lender calls to confirm your homeowners insurance is in place. You give them the policy number, feeling prepared. Then they come back with a problem: your dwelling coverage limit is $180,000 but your loan balance is $340,000. The policy you bought doesn't meet their requirements, and closing is now in jeopardy. I've watched this scene play out more times than I'd like to admit. It's entirely avoidable once you understand what lenders actually require and why.
 

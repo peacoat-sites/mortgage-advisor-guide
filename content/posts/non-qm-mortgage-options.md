@@ -1,5 +1,5 @@
 ---
-title: "Non-Qm Mortgage Options"
+title: "Non-QM Mortgages: Your Path to Homeownership"
 date: 2026-06-14T17:06:11.861681+00:00
 draft: false
 description: "Explore non-QM mortgage options for self-employed borrowers, investors, and those with unique financial profiles who don't qualify for conventional home loans."
@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most borrowers stop looking the moment a conventional lender says no. Don't. There's an entire mortgage category built specifically for people who don't fit Fannie Mae and Freddie Mac's playbook, and it's way bigger than most people realize.
 

@@ -1,5 +1,5 @@
 ---
-title: "Closing Disclosure Explained"
+title: "What Your Closing Disclosure Really Means"
 date: 2026-05-26T00:22:23.638241+00:00
 draft: false
 description: "A closing disclosure explains the final loan terms and costs before settlement. Learn what each section means and what to review before signing your mortgage do"

@@ -1,5 +1,5 @@
 ---
-title: "Predatory Lending Warning Signs"
+title: "Red Flags in Your Mortgage Deal You Can't Ignore"
 date: 2026-06-25T17:59:17.078777+00:00
 draft: false
 description: "Learn to spot predatory lending warning signs before signing any loan. Protect yourself from hidden fees, inflated rates, and deceptive lender tactics."
@@ -23,7 +23,7 @@ faqs:
    a: "High rates are a symptom, not the definition. What makes a loan predatory is the combination of terms designed to trap you, lack of transparent disclosure, and targeting of borrowers who lack realistic alternatives. A high-rate loan with clear terms and a borrower who genuinely understands what they're signing is a bad deal. It's not necessarily predatory."
  - q: "Do predatory lenders only target people with bad credit?"
    a: "No. Equity is often the real target. A borrower with a 620 credit score and $300,000 in home equity is extremely attractive to certain bad actors. Plenty of predatory loans have been sold to people with good credit who simply weren't paying close enough attention, or who trusted a referral source they shouldn't have. The most useful thing I can tell you is this: a legitimate lender survives scrutiny. They welcome questions, they put things in writing, and they don't need you to decide today. Any pressure that works against your ability to think clearly is working against you."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people who get trapped in a predatory loan didn't see it coming. That's not because they were careless. It's because the people who design these products are very, very good at making them look reasonable until you're already signed.

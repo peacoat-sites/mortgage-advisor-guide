@@ -1,5 +1,5 @@
 ---
-title: "How Much Are Mortgage Origination Fees On A 300K Loan"
+title: "What Origination Fees Cost On A $300K Mortgage"
 date: 2026-06-28T16:50:50.916859+00:00
 draft: false
 description: "Mortgage origination fees on a 300k loan typically range from 0.5% to 1%, meaning $1,500 to $3,000. Learn what affects these costs and how to negotiate."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, though the structure differs. VA loans cap lender origination fees at 1% of the loan amount under current VA guidelines. FHA loans don't cap origination fees the same way, but lenders are required to disclose them fully on the Loan Estimate. FHA loans also carry a separate upfront mortgage insurance premium (1.75% of the loan) that's often confused with the origination fee."
  - q: "Is a 'no-fee mortgage' ever a good deal?"
    a: "Yes, specifically if you plan to sell or refinance within five to seven years. The rate premium built into a no-fee loan eventually costs more than the fee would have, but that break-even point is usually far enough out that short-term borrowers come out ahead. Run the math for your specific timeline before deciding."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Origination fees are one of those line items that can swing a $300,000 loan by thousands of dollars, and most borrowers have no idea they're negotiable until after they've already signed.

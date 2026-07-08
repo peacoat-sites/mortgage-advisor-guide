@@ -1,5 +1,5 @@
 ---
-title: "How Reverse Mortgage Works"
+title: "Reverse Mortgages Explained: How They Actually Work"
 date: 2026-05-19T03:42:18.965806+00:00
 draft: false
 description: "Discover how a reverse mortgage works, who qualifies, and how it converts home equity into tax-free income. Learn the costs, risks, and benefits before deciding"
@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're 72, your house is paid off, and your monthly Social Security check covers groceries but not much else. Your financial advisor mentions a reverse mortgage. Your son-in-law says it's a scam. Your neighbor says it saved her retirement. Nobody explains exactly how the money moves, who owns what, or what the fine print actually says. That's the problem with most reverse mortgage coverage: it either cheerleads the product or dismisses it, and neither serves the person trying to make an actual decision.
 

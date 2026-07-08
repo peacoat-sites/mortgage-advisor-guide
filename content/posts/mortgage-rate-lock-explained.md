@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Rate Lock Explained"
+title: "Lock in Your Rate Before It Changes: A Guide"
 date: 2026-05-22T09:58:52.140800+00:00
 draft: false
 description: "Lock in your mortgage rate and protect yourself from rate increases. Learn how rate locks work, their benefits, costs, and what to consider before locking."
@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You find your dream home, negotiate a great price, and lock in a 6.875% rate on a Tuesday. By Friday, rates jump to 7.25%. You just saved yourself roughly $180 a month on a $400,000 loan. That's not luck. That's a rate lock working exactly as it should. But I've also watched the opposite play out: borrowers who locked too early, paid extension fees they didn't budget for, and in a few cases, lost their locks entirely because they didn't understand the expiration rules. A rate lock is one of the most powerful tools in a mortgage transaction, and it's one of the least explained.
 

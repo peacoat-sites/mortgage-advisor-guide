@@ -1,5 +1,5 @@
 ---
-title: "How Long Does A Mortgage Refinance Take From Start To Finish"
+title: "Refinance Timeline: How Long From Application To Closing"
 date: 2026-07-01T17:36:40.467393+00:00
 draft: false
 description: "Learn how long a mortgage refinance takes from start to finish, including each step of the process and tips to help speed up your closing timeline."
@@ -23,7 +23,7 @@ faqs:
    a: "No. It applies only to refinances of your primary residence. If you're refinancing a rental property or a second home, there's no rescission period and the lender can fund at closing. For primary residences, federal law requires lenders to wait three full business days after you sign before disbursing funds."
  - q: "What happens if my rate lock expires before the loan closes?"
    a: "You'll have two options: pay a lock extension fee (typically 0.125% to 0.25% of the loan amount per extension period) or let the rate float to whatever the current market rate is. Neither is good if you were counting on a specific rate. Ask your lender before you close who bears the cost if their timeline causes the lock to expire. Some lenders absorb that cost; many don't."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most borrowers assume a refinance is the "easy" version of getting a mortgage. You've done it before, the lender already knows the drill, and you're not buying anything new. Shouldn't it take a couple of weeks, tops?

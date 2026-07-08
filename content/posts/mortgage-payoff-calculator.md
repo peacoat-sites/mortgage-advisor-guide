@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Payoff Calculator"
+title: "Calculate Your Mortgage Payoff Timeline in Minutes"
 date: 2026-06-20T17:12:13.185856+00:00
 draft: false
 description: "Use our mortgage payoff calculator to see how extra payments reduce your loan term and interest costs. Enter your balance, rate, and payment to get started."
@@ -23,7 +23,7 @@ faqs:
    a: "It depends on your interest rate, your actual investment behavior, your tax situation, and your risk tolerance. For most people carrying a mortgage at today's rates, paying extra toward principal offers a guaranteed return equivalent to your mortgage rate. That's meaningful. But anyone with high-interest debt or unmaxed employer 401(k) matching should address those first."
  - q: "How do I find my exact remaining loan balance?"
    a: "Look at your most recent mortgage statement. The number labeled 'principal balance' or 'outstanding balance' is what you want. Don't use your original loan amount or an equity estimate from a real estate website. Those won't give you accurate results in a payoff calculator."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 You've probably landed here because you're staring at your mortgage statement, wondering what would actually happen if you paid an extra $200 a month. Or maybe you just got a bonus and you're trying to decide whether to throw it at the principal or put it in the market. Either way, you're asking exactly the right question, and a mortgage payoff calculator is the tool that can finally give you a real answer instead of a gut feeling.

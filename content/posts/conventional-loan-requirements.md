@@ -1,5 +1,5 @@
 ---
-title: "Conventional Loan Requirements"
+title: "Getting A Conventional Loan: What Lenders Really Want"
 date: 2026-05-27T02:38:17.901977+00:00
 draft: false
 description: "Learn about conventional loan requirements including credit scores, down payments, debt-to-income ratios, and income verification to qualify for the best mortga"
@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You walk into a lender's office, pre-approval letter in hand, convinced the hard part is over. Then the underwriter pulls your file and finds a collections account you forgot about, a debt-to-income ratio that's two points too high, and a down payment that came from your uncle's Venmo transfer with zero documentation. Suddenly the "easy" conventional loan feels anything but. I've watched that exact scenario play out hundreds of times, and in almost every case, the borrower had no idea these issues mattered until it was too late to fix them cleanly.
 

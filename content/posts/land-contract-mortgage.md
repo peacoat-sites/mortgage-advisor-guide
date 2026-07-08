@@ -1,5 +1,5 @@
 ---
-title: "Land Contract Mortgage"
+title: "Land Contracts vs. Traditional Mortgages: Which Wins"
 date: 2026-06-17T18:08:34.196760+00:00
 draft: false
 description: "Learn how a land contract mortgage works, its benefits and risks for buyers and sellers, and how it compares to traditional home financing options."
@@ -23,7 +23,7 @@ faqs:
    a: "Almost always yes, though the amount is negotiated rather than dictated by lending guidelines. Sellers typically want somewhere between 5% and 20%, but there's no industry standard. A larger down payment often means better terms, but it also means more equity at risk if the deal goes wrong."
  - q: "Can I get homeowner's insurance on a land contract property?"
    a: "Yes, and you absolutely should. Most insurers will write a policy for a buyer with equitable title. Make sure the policy names both you and the seller (as the legal title holder) appropriately, and keep documentation that you're current on your premiums."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Maybe you've been turned down by a traditional lender. Maybe your credit score took a hit a few years back, or you're self-employed and your tax returns make your income look like origami. Whatever the reason, a land contract might have come up in conversation, and right now you're probably somewhere between intrigued and a little nervous. That's completely reasonable.
 

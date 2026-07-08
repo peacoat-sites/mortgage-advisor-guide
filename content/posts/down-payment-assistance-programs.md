@@ -1,5 +1,5 @@
 ---
-title: "Down Payment Assistance Programs"
+title: "First-Time Buyer? Here's How to Fund Your Down Payment"
 date: 2026-05-22T10:47:30.306981+00:00
 draft: false
 description: "Learn how down payment assistance programs can help you buy a home with grants, loans, and subsidies. Find programs near you and qualify for homeownership today"

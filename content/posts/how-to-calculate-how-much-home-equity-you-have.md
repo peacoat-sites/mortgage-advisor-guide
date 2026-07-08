@@ -1,5 +1,5 @@
 ---
-title: "How To Calculate How Much Home Equity You Have"
+title: "Calculate Your Home Equity In 3 Simple Steps"
 date: 2026-06-09T17:50:41.392830+00:00
 draft: false
 description: "Learn how to calculate your home equity by subtracting your mortgage balance from your home's current value, and discover ways to build and use it wisely."
@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You probably already know you have equity in your home. What you might not know is exactly how much, or whether the number you're thinking of is accurate. That gap matters more than most people realize, especially if you're considering refinancing, taking out a home equity loan, or just trying to nail down your actual net worth.
 

@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Rates Today Explained"
+title: "Today's Mortgage Rates Explained: What You Need To Know"
 date: 2026-05-28T10:49:48.293673+00:00
 draft: false
 description: "Discover how mortgage rates work today, what drives them up or down, and how to secure the best rate for your home loan. Updated insights for smart borrowers."
@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You checked the rate on your lender's website Monday morning. By Wednesday afternoon, it had moved. Not by much, maybe a quarter of a point, but enough to change your monthly payment by $80 and your total interest cost by nearly $30,000 over the life of a 30-year loan. That's not a rounding error. That's a car payment. Mortgage rates aren't static numbers sitting on a sign at a dealership. They move every single business day, sometimes multiple times a day, and most borrowers have no idea why.
 

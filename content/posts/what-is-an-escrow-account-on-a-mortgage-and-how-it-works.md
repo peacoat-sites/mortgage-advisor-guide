@@ -1,5 +1,5 @@
 ---
-title: "What Is An Escrow Account On A Mortgage And How It Works"
+title: "Your Mortgage Escrow Account Explained: What It Covers"
 date: 2026-06-12T17:56:48.451064+00:00
 draft: false
 description: "Learn what an escrow account is on a mortgage, how it works, what it covers, and why lenders require it to manage your property taxes and insurance payments."
@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homebuyers sign their closing documents, see the line item for "escrow account," and nod like they understand it. They don't. And honestly, neither did I when I started in underwriting. I had to sit with a processor named Renée who drew it on a whiteboard in about 90 seconds and suddenly the whole thing clicked.
 

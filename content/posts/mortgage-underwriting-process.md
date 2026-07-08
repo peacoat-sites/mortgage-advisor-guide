@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Underwriting Process"
+title: "What Mortgage Lenders Check Before Approval"
 date: 2026-05-22T04:05:43.990985+00:00
 draft: false
 description: "Discover how the mortgage underwriting process works, from application to approval. Learn about credit checks, documentation, and timeline expectations."
@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-
+lastmod: 2026-07-08
 ---
 You submitted your mortgage application on a Tuesday. By Thursday, you still haven't heard anything. By the following Monday, you're refreshing your email every 20 minutes, wondering if silence means something is wrong. The truth is, nothing may be wrong at all. You're just in underwriting, which is the part of the mortgage process that most borrowers know the least about and worry about the most.
 

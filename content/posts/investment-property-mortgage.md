@@ -1,5 +1,5 @@
 ---
-title: "Investment Property Mortgage"
+title: "Investment Property Mortgages: What Lenders Really Look For"
 date: 2026-06-22T19:03:25.986413+00:00
 draft: false
 description: "Learn how investment property mortgages work, compare loan types, down payment requirements, and get tips to secure the best rate for your rental property."
@@ -23,7 +23,7 @@ faqs:
    a: "A DSCR loan qualifies you based on whether the property's rental income covers its debt payments, not your personal income. It's a legitimate option for certain borrowers, particularly the self-employed, but it's a non-QM product with higher rates and fewer protections than a conventional loan."
  - q: "How much cash do I need in reserves after closing?"
    a: "Conventional guidelines typically require six months of reserves (covering the full PITIA payment) for the investment property. If you own other financed properties, you may need reserves against those too. Come to the table with more cash than you think you need."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people who walk into an investment property purchase think it works like buying a primary home. It doesn't. The mortgage is a different product, with different rules, and the gap between what a loan officer tells you upfront and what the underwriter actually requires can feel like a wall you didn't see coming.

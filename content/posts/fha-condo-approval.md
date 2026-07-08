@@ -1,5 +1,5 @@
 ---
-title: "FHA Condo Approval"
+title: "FHA Condo Approval: What Lenders Really Check"
 date: 2026-07-07T17:46:44.589885+00:00
 draft: false
 description: "Learn how FHA condo approval works, why it matters for buyers and sellers, and how to check if a condo project meets FHA lending requirements."

@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Income Documentation"
+title: "What Lenders Really Need: Your Complete Income Documentation Guide"
 date: 2026-05-29T12:59:38.032108+00:00
 draft: false
 description: "Learn what mortgage income documentation lenders require, including pay stubs, tax returns, and bank statements, to get approved for a home loan."
@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You filled out the application. You answered every question. You uploaded what felt like half your filing cabinet. And then the loan processor came back asking for something else, something you didn't expect, and now you're wondering if this whole process is designed to make you feel like you're doing it wrong. It's not. Mortgage income documentation is genuinely one of the most confusing parts of buying a home, and the confusion is rarely your fault. Lenders are required by law to verify that you can repay what you're borrowing, which sounds simple until you realize that "proving income" looks completely different depending on how you earn it.
 

@@ -1,5 +1,5 @@
 ---
-title: "Home Loan Application Checklist"
+title: "The Complete Home Loan Checklist Before You Apply"
 date: 2026-05-29T01:59:43.809239+00:00
 draft: false
 description: "Get your home loan application approved faster with our complete checklist. Learn what documents and information lenders require before you apply."

@@ -1,5 +1,5 @@
 ---
-title: "Cash-Out Refinance Explained"
+title: "How To Tap Your Home Equity With A Cash-Out Refinance"
 date: 2026-05-20T18:29:08.049940+00:00
 draft: false
 description: "Learn how cash-out refinancing works, when it makes sense, and its pros and cons. Refinance your mortgage to access home equity and get cash today."
@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've been paying your mortgage for eight years. Your home is worth $120,000 more than you owe. And your kitchen still has the laminate countertops and fluorescent lighting from 1994. A cash-out refinance sounds like the obvious answer, and your loan officer is enthusiastic. But before you sign anything, you need to understand exactly what you're trading away, because this product has real costs that often get buried under the excitement of a big check.
 

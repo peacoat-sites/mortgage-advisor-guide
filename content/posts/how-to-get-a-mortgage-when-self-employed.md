@@ -1,5 +1,5 @@
 ---
-title: "How To Get A Mortgage When Self Employed"
+title: "Self-Employed? Here's How To Get Approved For A Mortgage"
 date: 2026-06-12T17:55:02.373708+00:00
 draft: false
 description: "Discover how self-employed borrowers can secure a mortgage with tips on proving income, improving credit, choosing lenders, and gathering the right documentatio"
@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 The tax return is the enemy of the self-employed borrower. I say that after sixteen years of watching otherwise strong candidates get rejected, delayed, or strong-armed into bad loan terms because their Schedule C made them look broke on paper even when they had $15,000 a month hitting their business checking account.
 

@@ -1,5 +1,5 @@
 ---
-title: "Debt To Income Ratio For Mortgage"
+title: "Your Debt-to-Income Ratio and Mortgage Approval"
 date: 2026-05-21T21:28:12.496377+00:00
 draft: false
 description: "Debt to income ratio is a key metric lenders use to determine mortgage eligibility. Learn how it's calculated and how to improve yours for better loan approval "
@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You submitted your mortgage application feeling confident. Good credit score, steady job, money in the bank. Then the loan officer calls and says you've been denied. The reason? Your debt-to-income ratio is too high.
 

@@ -1,5 +1,5 @@
 ---
-title: "Partial Claim Mortgage"
+title: "Partial Claim Mortgages: How They Work"
 date: 2026-07-05T16:50:06.105440+00:00
 draft: false
 description: "A partial claim mortgage lets homeowners defer missed payments to avoid foreclosure. Learn how it works, who qualifies, and how to apply today."
@@ -23,7 +23,7 @@ faqs:
     a: "Yes, but the partial claim typically must be paid off at closing unless HUD agrees to subordinate it. HUD will sometimes allow subordination for rate-and-term refinances where you're not pulling out equity. Cash-out refinances are harder to get approved for subordination. Talk to a HUD-approved housing counselor before assuming either outcome."
   - q: "What happens to the partial claim if I sell my home?"
     a: "The balance is paid from sale proceeds at closing, just like any other lien on the property. Your title company will identify it and include it in the payoff figures. Since no interest has accrued, you repay exactly the original amount HUD advanced."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most borrowers have never heard of a partial claim until they're already in trouble. That's a problem.

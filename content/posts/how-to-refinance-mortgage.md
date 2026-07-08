@@ -1,5 +1,5 @@
 ---
-title: "How To Refinance Mortgage"
+title: "Refinance Your Mortgage: When It Makes Financial Sense"
 date: 2026-05-22T07:56:42.075594+00:00
 draft: false
 description: "Learn how to refinance your mortgage step by step. Discover when to refinance, how to compare lenders, and ways to lower your rate and save money long term."
@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your neighbor just mentioned she refinanced and cut her monthly payment by several hundred dollars. You're three years into a 30-year mortgage you took out when rates were near historic highs. Now you're wondering if you've been leaving money on the table.
 

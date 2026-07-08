@@ -1,5 +1,5 @@
 ---
-title: "High-Balance Conforming Loan"
+title: "High-Balance Conforming Loans: The Borrower's Complete Guide"
 date: 2026-06-16T19:25:18.347667+00:00
 draft: false
 description: "Learn how high-balance conforming loans let borrowers in high-cost areas finance more with lower rates than jumbo loans while meeting Fannie Mae and Freddie Mac"
@@ -23,7 +23,7 @@ faqs:
    a: "Sometimes, yes. In competitive markets, jumbo lenders actively price below conforming rates to attract high-income, high-asset borrowers. I've seen jumbo rates come in 0.125% to 0.25% below the high-balance conforming rate on the same day from different institutions. The catch is the stricter qualification standards and the lack of flexibility on things like gift funds or non-occupant co-borrowers. Shop both products and compare the total cost, not just the rate."
  - q: "How often do the high-balance conforming loan limits change?"
    a: "The FHFA adjusts them annually based on the House Price Index. In markets where home values have been flat or declining, the limits can stay the same or theoretically drop (though that's rare). In markets where prices have risen sharply, the limits tend to follow. The update for any given calendar year is typically announced in November of the prior year and takes effect January 1st."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most borrowers have never heard of a [high-balance conforming loan](/jumbo-loan-requirements/) until they actually need one. Then they're staring at two loan offers that look nearly identical, and nobody at the closing table can explain why one costs more than the other.
 

@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Title Search Process"
+title: "What Title Searches Really Reveal Before Closing"
 date: 2026-05-21T07:28:48.182374+00:00
 draft: false
 description: "Learn how the mortgage title search process works, why it matters when buying a home, and how it protects you from hidden liens, ownership disputes, and legal i"
@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're three weeks from [closing](/closing-disclosure-explained/), the movers are booked, and your loan officer calls to say the title search turned up a lien from a contractor who worked on the house six years ago. The seller swears they never hired anyone by that name. Suddenly your closing date is a memory and you're learning, the hard way, what a title search actually does. I've seen this exact scenario play out more times than I can count, and almost every time, the buyer had no idea what a title search was until it became their problem.
 

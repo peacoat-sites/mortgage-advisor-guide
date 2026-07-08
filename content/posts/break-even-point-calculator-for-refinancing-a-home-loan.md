@@ -1,5 +1,5 @@
 ---
-title: "Break Even Point Calculator For Refinancing A Home Loan"
+title: "When Does a Refinance Actually Save You Money?"
 date: 2026-06-25T17:57:30.219220+00:00
 draft: false
 description: "Calculate your home loan refinance break even point instantly. See how long until savings offset closing costs and decide if refinancing makes financial sense."
@@ -12,7 +12,7 @@ author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 slug: "break-even-point-calculator-for-refinancing-a-home-loan"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A borrower came to me once, practically beaming, because she'd locked in a rate that was a full percentage point lower than her current mortgage. She was ready to sign. I asked her one question: "How long are you planning to stay in the house?" She paused. "Maybe two years, three tops." She almost paid $6,200 in closing costs to save money she'd never actually see.
 

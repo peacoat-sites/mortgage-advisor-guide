@@ -1,5 +1,5 @@
 ---
-title: "Manufactured Home Mortgage"
+title: "How To Qualify For A Manufactured Home Mortgage"
 date: 2026-06-19T17:35:29.674805+00:00
 draft: false
 description: "Learn how manufactured home mortgages work, loan types available, lender requirements, and how to finance your manufactured home purchase with confidence."
@@ -23,7 +23,7 @@ faqs:
    a: "Modular homes are built in sections in a factory but installed on permanent foundations and titled as real property from the start. They're financed exactly like site-built homes, same products, same rates. Manufactured homes are built on a steel chassis, originally titled as personal property, and require the extra steps to qualify for real property financing. Don't let a seller or agent blur this distinction."
  - q: "Can I refinance a chattel loan into a real property mortgage later?"
    a: "Sometimes, yes. If you subsequently purchase the land, permanently affix the home, and retire the title into the deed (a process called 'titling as real property'), you may be able to refinance into a conventional or government-backed mortgage. The process varies by state and has real costs, but if it substantially lowers your rate, it can be worth doing. Get legal help with the title conversion; it's not a DIY process."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people assume financing a manufactured home works roughly like financing any other home. Get a loan, make monthly payments, done. What I found when I spent time in this corner of the mortgage market is that the rules are almost entirely different, the product options are narrower, and the mistakes borrowers make here are expensive in ways they don't see coming until closing day.

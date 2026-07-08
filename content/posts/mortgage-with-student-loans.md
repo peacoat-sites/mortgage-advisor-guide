@@ -1,5 +1,5 @@
 ---
-title: "Mortgage With Student Loans"
+title: "How Student Loans Affect Your Mortgage Approval"
 date: 2026-05-26T00:41:44.089787+00:00
 draft: false
 description: "Struggling to get a mortgage with student loans? Learn how lenders assess your debt, tips to boost approval odds, and how to buy a home despite student debt."
@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You sat down with a loan officer last spring, excited about finally buying a house, and walked out confused and deflated. Your income looked fine. Your credit score was decent. But those student loans kept coming up. The loan officer mentioned something about your "[debt-to-income ratio](/debt-to-income-ratio-for-mortgage/)" being too high, threw out a few numbers, and suddenly the house you'd been picturing felt a lot further away. If that sounds familiar, you're not alone. I've sat across the table from hundreds of borrowers in exactly that spot, and I can tell you: the situation is almost never as hopeless as it feels in that moment. But you do need to understand what's actually happening under the hood.
 

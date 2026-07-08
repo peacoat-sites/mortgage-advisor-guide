@@ -1,5 +1,5 @@
 ---
-title: "Reverse Mortgage Explained"
+title: "How Reverse Mortgages Really Work for Retirees"
 date: 2026-05-18T16:11:55.301744+00:00
 draft: false
 description: "Discover how a reverse mortgage works, who qualifies, and the pros and cons. Learn if tapping your home equity in retirement is the right financial move for you"
@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're 71, your house is paid off, and it's worth $420,000. Your Social Security check covers utilities and groceries, barely. Your neighbor mentions a reverse mortgage, and suddenly that late-night TV commercial product doesn't sound so sketchy anymore. Hold on though. Before you call that 800 number, you need to understand what you're actually signing, because a reverse mortgage is one of the most misunderstood financial products Americans encounter, and the gap between what borrowers think they're getting and what actually happens can be massive.
 

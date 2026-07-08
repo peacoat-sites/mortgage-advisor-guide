@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Assumption Explained"
+title: "Take Over a Loan: The Mortgage Assumption Guide"
 date: 2026-06-21T17:12:42.078463+00:00
 draft: false
 description: "Learn how mortgage assumption works, who qualifies, and how buyers can take over a sellers existing loan to potentially secure a lower interest rate."
@@ -23,7 +23,7 @@ faqs:
    a: "Plan for at least 45 to 90 days, sometimes longer. Servicers vary widely in how efficiently they process assumptions. Build that timeline into your purchase contract and communicate it clearly to all parties. A standard 30-day close is not realistic for most assumptions."
  - q: "Will assuming a mortgage affect my ability to get another loan later?"
    a: "An assumed mortgage will appear on your credit and count toward your debt-to-income ratio just like any other mortgage. For VA buyers substituting their entitlement, assuming a VA loan uses a portion of that entitlement just as originating a new VA loan would. If you later want to buy again using VA financing, check your remaining entitlement first."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 A borrower I worked with in the mid-2010s locked in a [30-year fixed](/30-year-vs-15-year-mortgage/) at 3.25%. She's still in that house. And right now, with rates sitting comfortably above 6%, that loan is worth something most people haven't even thought to ask about.

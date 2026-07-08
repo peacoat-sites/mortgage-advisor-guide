@@ -1,5 +1,5 @@
 ---
-title: "How Do Mortgage Points Work And Are They Worth Buying"
+title: "Should You Buy Mortgage Points? The Real Math"
 date: 2026-06-07T17:02:06.588500+00:00
 draft: false
 description: "Learn how mortgage points work, how much they cost, and whether buying points to lower your interest rate will actually save you money in the long run."

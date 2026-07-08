@@ -1,5 +1,5 @@
 ---
-title: "Home Equity Loan Rates"
+title: "Home Equity Loans: Current Rates and Your Options"
 date: 2026-05-22T04:08:09.953277+00:00
 draft: false
 description: "Explore current home equity loan rates, compare lenders, and learn how your credit score and equity affect the rate you qualify for to save money on borrowing."
@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've got $80,000 in home equity and a kitchen that looks like it hasn't been updated since the Clinton administration. A home equity loan sounds like the obvious move. But here's what most articles skip: the rate you see advertised and the rate you'll actually get can be worlds apart, and that gap costs thousands over the life of the loan. Before you call a lender, you need to understand what drives home equity loan rates, how they differ from other borrowing options, and what to actually watch for in the fine print.
 

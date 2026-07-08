@@ -1,5 +1,5 @@
 ---
-title: "Deed In Lieu Mortgage"
+title: "Deed in Lieu: Your Exit When Foreclosure Looms"
 date: 2026-07-01T17:34:16.424292+00:00
 draft: false
 description: "Learn how a deed in lieu of foreclosure works, its pros and cons, and whether signing over your home to your lender is the right option for you."
@@ -23,7 +23,7 @@ faqs:
    a: "For a conventional loan, Fannie Mae guidelines currently require a four-year waiting period after a deed in lieu. FHA loans may allow as little as three years. There are some exceptions for extenuating circumstances. These timelines can change, so verify current guidelines with a HUD-approved housing counselor or lender when you're ready."
  - q: "Is a deed in lieu better than a short sale?"
    a: "Depends on your situation. A short sale can sometimes result in better credit outcomes and may provide more time in the home. But it requires finding a buyer, getting lender approval, and managing a drawn-out sale process. If you can't sell the property or don't want to go through that, a deed in lieu can be faster and more certain, assuming the lender agrees to it. Neither option is 'better' in the abstract."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 A deed in lieu of foreclosure is one of those options that most borrowers don't even know exists until they're already drowning. And by then, a lot of loan officers still won't bring it up proactively, not because they're hiding it, but because it's genuinely complicated and most servicers would rather push you toward a modification or [short sale](/short-sale-mortgage-impact/) first.

@@ -1,5 +1,5 @@
 ---
-title: "Short Sale Mortgage Impact"
+title: "How Short Sales Damage Your Mortgage Future"
 date: 2026-06-13T17:06:31.967227+00:00
 draft: false
 description: "Discover how a short sale affects your mortgage, credit score, and future home buying ability, plus tips to recover and qualify for a new loan sooner."
@@ -12,7 +12,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You already know the short sale saved you. What you might be wondering now is how badly it's going to cost you on the other side.
 
