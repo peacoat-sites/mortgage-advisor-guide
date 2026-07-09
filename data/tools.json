@@ -2,45 +2,50 @@
   {
     "label": "Debt Income Calc",
     "url": "/debt-to-income-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "debt",
       "income"
-    ]
+    ],
+    "desc": "Calculate your debt-to-income ratio to see what lenders will approve."
   },
   {
     "label": "Affordability Calc",
     "url": "/home-affordability-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "affordability"
-    ]
+    ],
+    "desc": "Find out how much house you can realistically afford on your income."
   },
   {
     "label": "Payment Calc",
     "url": "/mortgage-payment-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "payment"
-    ]
+    ],
+    "desc": "Estimate your monthly mortgage payment including taxes and insurance."
   },
   {
     "label": "Refinance Break Even",
     "url": "/refinance-break-even-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "refinance",
       "break",
       "even"
-    ]
+    ],
+    "desc": "See how long until refinancing pays off through lower payments."
   },
   {
     "label": "Rent Vs Buy Calc",
     "url": "/rent-vs-buy-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "rent",
       "buy"
-    ]
+    ],
+    "desc": "Compare the true cost of renting versus buying in your situation."
   }
 ]
