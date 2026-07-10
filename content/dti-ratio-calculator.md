@@ -5,7 +5,8 @@ date: 2026-06-10
 slug: "debt-to-income-calculator"
 description: "Calculate your debt-to-income ratio in seconds. See your front-end and back-end DTI, understand what lenders look for, and learn how to improve your ratio."
 categories: ["Mortgage Basics"]
-author: "Greg Callahan"
+author: "Jennifer Walsh"
+author_slug: "jennifer-walsh"
 image: "https://images.pexels.com/photos/5849563/pexels-photo-5849563.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
