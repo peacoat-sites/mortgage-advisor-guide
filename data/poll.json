@@ -1,0 +1,21 @@
+{
+  "question": "What's your biggest mortgage question right now?",
+  "options": [
+    {
+      "label": "How much can I afford",
+      "votes": 331
+    },
+    {
+      "label": "When to refinance",
+      "votes": 274
+    },
+    {
+      "label": "Where rates are heading",
+      "votes": 246
+    },
+    {
+      "label": "First-time buyer programs",
+      "votes": 154
+    }
+  ]
+}
