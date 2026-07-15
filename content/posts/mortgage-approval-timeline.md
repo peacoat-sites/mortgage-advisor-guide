@@ -116,25 +116,8 @@ Refinances typically take 30 to 45 days as well, but they can stretch longer bec
 
 The timeline between application and closing can feel impossibly long when you're living out of boxes or paying overlapping rent and mortgage costs. But the process has a logic to it, and when you understand each stage, you spend less time wondering and more time preparing. The borrowers I've seen close fastest aren't the ones with the simplest financial situations. They're the ones who show up organized, respond quickly, and understand exactly what the lender needs at every step. That's a standard any borrower can meet with the right preparation.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
-- **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
-- **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
-
-*This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
-
 ## Sources & References
 
 - [CFPB, Mortgage closing process](https://www.consumerfinance.gov/owning-a-home/process/close/), explains mortgage approval stages and closing timeline steps
 - [HUD, Buying a Home](https://www.hud.gov/topics/buying_a_home), overview of mortgage process and what to expect from lenders
 - [CFPB, What is a mortgage loan originator?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-mortgage-loan-originator-en-1955/), explains lender roles in approval process
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

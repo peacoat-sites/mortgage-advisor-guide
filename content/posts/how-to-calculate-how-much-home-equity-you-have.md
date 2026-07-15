@@ -103,14 +103,6 @@ If you're considering a cash-out refinance or a home equity loan, your equity po
 
 If you're doing your own financial planning, a resource like a home equity or mortgage workbook can help you track this over time. There are several solid ones available on [Amazon](https://www.amazon.com/s?k=home+equity+financial+planning+workbook&tag=contentportfo-20) (the site may earn a commission on purchases) if you want something structured to work through the numbers year over year.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
-- **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
-- **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [HUD, Buying a Home](https://www.hud.gov/topics/buying_a_home), official guidance on home valuation and mortgage basics
@@ -119,10 +111,3 @@ If you're doing your own financial planning, a resource like a home equity or mo
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

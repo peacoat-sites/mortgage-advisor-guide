@@ -116,14 +116,6 @@ The mistakes borrowers make during forbearance don't come from carelessness. The
 
 The phone call you're avoiding is the one that could save your home. Servicers deal with this every day. They have protocols, options, and they almost always prefer a workout agreement to a foreclosure. Reach out before you're months behind. Document everything. If the conversation gets complicated, bring in a HUD-approved housing counselor who can sit in your corner. For a deeper look at the full arc of the home buying and homeownership process, resources like [this comprehensive home-buying guide](https://www.amazon.com/s?k=home+buying+guide+mortgage) on Amazon can also help you build your knowledge base (note: this site may earn a commission on qualifying purchases). You have more leverage than you think. But only if you use it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
-- **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
-- **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [CFPB, Mortgage forbearance overview](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-homeowners/), Explains forbearance options and homeowner rights
@@ -137,10 +129,3 @@ The phone call you're avoiding is the one that could save your home. Servicers d
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

@@ -149,14 +149,6 @@ The honest truth: loan officers have a financial incentive to sell you the loan 
 
 *If mortgage math feels overwhelming, a home-buying guide or financial planning workbook can help organize your thinking before you talk to a lender. You'll find several highly-rated options on Amazon (note: this site may earn a commission from purchases through external links). But for decisions with this much money at stake, nothing replaces a conversation with a qualified mortgage professional or housing counselor who can look at your full financial picture.*
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
-- **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
-- **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [CFPB, Buying a House](https://www.consumerfinance.gov/owning-a-home/), Explains loan estimates, closing costs, and mortgage points
@@ -170,10 +162,3 @@ The honest truth: loan officers have a financial incentive to sell you the loan 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

@@ -78,14 +78,6 @@ Documentation carries more weight in non-QM underwriting than most borrowers exp
 
 If you want to get into the technical weeds before you start shopping, [*The Mortgage Encyclopedia* by Jack Guttentag](https://www.amazon.com/Mortgage-Encyclopedia-Authoritative-Unconventional-Financing/dp/0071739084?tag=contentportfo-20) digs into loan product variations. (That's an affiliate link, and the site may earn a small commission.)
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
-- **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
-- **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
-
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
@@ -97,10 +89,3 @@ If you want to get into the technical weeds before you start shopping, [*The Mor
 - [Fannie Mae, Selling Guide eligibility overview](https://singlefamily.fanniemae.com/originating-underwriting), Describes GSE loan purchase requirements
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

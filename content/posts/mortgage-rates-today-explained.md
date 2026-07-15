@@ -125,16 +125,6 @@ A quarter-point difference on a $400,000 loan sounds small. Over 30 years, it's 
 
 The mortgage market rewards borrowers who take the time to understand it, and it's pretty unforgiving to those who don't. Rates today are the product of bond markets, inflation data, Federal Reserve signaling, GSE pricing policies, and your own financial profile all interacting at once. You don't need to track all of it in real time. But you do need to know enough to ask the right questions, compare the right numbers, and avoid the mistakes that cost tens of thousands of dollars over the life of a loan. Talk to a qualified mortgage professional or HUD-approved housing counselor who can assess your specific situation. The rate is only one part of the equation.
 
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)** is a top-rated option for this.
-- **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
-- **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-
 ## Sources & References
 
 - [CFPB, What is the difference between a mortgage interest rate and an APR?](https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-mortgage-interest-rate-and-an-apr-en-135/), Explains interest rate vs APR distinction for mortgages

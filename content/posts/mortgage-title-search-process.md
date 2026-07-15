@@ -106,14 +106,6 @@ If you want to go deeper on closing costs before you get to that stage, a [home-
 
 A title search feels like a background process you're not involved in, and most of the time, that's true. But when something surfaces, you want to understand what it means, what your rights are, and how to respond. The buyers who handle title problems calmly are always the ones who read the preliminary title report when it came in, asked questions about anything listed as an exception, and understood what they were buying before they signed. That can be you.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
-- **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
-- **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
-
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
@@ -123,10 +115,3 @@ A title search feels like a background process you're not involved in, and most 
 - [CFPB, What is a title search?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-title-search-en-183/), Explains title search purpose and what it uncovers
 - [HUD, Buying a Home](https://www.hud.gov/topics/buying_a_home), Federal guidance on home buying process including title
 - [American Land Title Association, Homebuyer Resources](https://www.alta.org/homebuyer/), Industry standards for title insurance and searches
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

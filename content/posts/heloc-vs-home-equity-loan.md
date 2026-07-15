@@ -120,21 +120,11 @@ This is the area where a lot of outdated advice still floats around. The researc
 
 The honest truth: neither product is universally better. The right answer depends on whether your expense is fixed or variable, how you'd handle rising payments, and how precisely you can define what you're actually spending. The borrowers I've seen make the best decisions are the ones who do the math themselves before they talk to a lender, so the conversation becomes about confirming their analysis rather than accepting someone else's. Do that work first, and you'll know which product fits before anyone has a chance to steer you toward the one that earns them more.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
-- **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
-- **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
-
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

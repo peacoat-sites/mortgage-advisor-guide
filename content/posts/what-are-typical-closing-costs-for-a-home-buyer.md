@@ -99,20 +99,6 @@ None of this makes these loans bad choices. The VA loan in particular is one of 
 
 The best thing you can do right now, even before you've found a home, is get a ballpark Loan Estimate from two or three lenders. You don't need to be under contract to ask. Any competent loan officer can run a preliminary estimate based on your target price range, and that one document will tell you more about your actual costs than anything else you'll read.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
-- **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
-
-*Photo: [Adriana Beckova](https://www.pexels.com/@adriana-beckova-1584864721) via Pexels*
-
-*This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
-
-## Recommended Resources
-
 ## Sources
 
 - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/owning-a-home/)

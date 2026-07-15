@@ -106,14 +106,6 @@ When you take cash out, you're borrowing against your equity. Your loan balance 
 For a cash-out refi, calculate the effective interest rate on the cash you're receiving. You're taking on a larger mortgage balance and potentially a higher rate across the entire balance, not just on the new money. Compare that cost against alternatives like a home equity line of credit, a personal loan, or simply not pulling the equity at all. Sometimes a cash-out refi makes sense. Often a HELOC is cheaper and more flexible. The break-even framework alone won't answer that question.
 
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
-- **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
-- **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [CFPB, Loan Estimate Explainer](https://www.consumerfinance.gov/owning-a-home/), explains closing cost fee categories on loan estimates
@@ -126,10 +118,3 @@ For a cash-out refi, calculate the effective interest rate on the cash you're re
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

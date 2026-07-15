@@ -122,13 +122,6 @@ DTI feels abstract until the moment it matters. At that moment it matters enormo
 
 If you're uncertain where your numbers stand or how to interpret them for your specific situation, a HUD-approved housing counselor can review your finances with no sales agenda. On a transaction this large, it's always worth doing.
 
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-
 ## Sources & References
 
 - [CFPB, Debt-to-income ratio](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/), Defines DTI and explains how lenders use it

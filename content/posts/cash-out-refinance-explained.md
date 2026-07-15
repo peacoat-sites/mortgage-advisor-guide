@@ -102,23 +102,11 @@ For those still weighing what loan structure fits their longer-term financial pi
 
 A cash-out refinance can be a genuinely smart financial move, or it can quietly cost you years of equity and decades of higher payments. The difference usually comes down to whether the borrower did the math with clear eyes before signing. Get competing offers, calculate your true break-even, and make sure the loan you're agreeing to on paper reflects what your loan officer described verbally. If anything feels vague, ask for it in writing. You're using your home as collateral. That deserves full attention.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
-- **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
-- **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
-
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
-
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -101,14 +101,6 @@ And points. Loan officers will sometimes offer rate buydowns on 15-year loans th
 
 The honest answer to "which is better" is that the 15-year wins the interest cost competition cleanly, and the 30-year wins the flexibility competition cleanly. Which of those things matters more depends entirely on your income stability, your savings rate, and whether you'd actually invest the difference or spend it. Get that question right and the loan choice becomes obvious.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
-- **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [CFPB, Mortgage Key Terms](https://www.consumerfinance.gov/owning-a-home/loan-options/), explains mortgage term options and payment structure differences
@@ -121,10 +113,3 @@ The honest answer to "which is better" is that the 15-year wins the interest cos
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

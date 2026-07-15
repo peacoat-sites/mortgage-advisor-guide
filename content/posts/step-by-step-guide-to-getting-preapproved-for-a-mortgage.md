@@ -103,14 +103,6 @@ If anything in your financial picture changes during the shopping process, tell 
 
 For borrowers who want to go deeper on the mechanics of mortgage qualification before they sit down with a lender, [The Mortgage Encyclopedia by Jack Guttentag](https://www.amazon.com/Mortgage-Encyclopedia-Comprehensive-Homebuyers-Homeowners/dp/0071739084?tag=contentportfo-20) is one of the better reference books available. (As an Amazon Associate this site earns from qualifying purchases.)
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
-- **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
-- **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [CFPB, What is a mortgage loan estimate?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/), Explains official mortgage disclosure documents borrowers receive
@@ -124,10 +116,3 @@ For borrowers who want to go deeper on the mechanics of mortgage qualification b
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

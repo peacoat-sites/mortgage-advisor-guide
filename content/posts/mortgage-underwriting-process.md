@@ -109,14 +109,6 @@ Here's what you can actually do to move through this process without unnecessary
 
 Underwriting is not the enemy. It's the process that protects both the lender and, honestly, you. A properly underwritten loan is one where someone verified that you can actually afford what you're buying. The borrowers I've seen get into the most trouble were the ones who found lenders willing to look the other way. Understanding the process, preparing your documents thoroughly, and communicating with your loan officer quickly when conditions come in are the three habits that separate smooth closings from stressful ones.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
-- **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
-- **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
-
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
@@ -130,10 +122,3 @@ Underwriting is not the enemy. It's the process that protects both the lender an
 - [HUD, FHA loan requirements](https://www.hud.gov/buying/loans), Government guidelines for FHA mortgage underwriting criteria
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

@@ -97,14 +97,6 @@ If you want to do thorough prep work before meeting with a lender, a home-buying
 
 If you're a veteran and you haven't looked seriously at this benefit, start with your COE. Everything else follows from knowing where you stand. The loan officers who understand VA products well are out there, and the ones who don't will waste your time. Ask directly how many VA loans they've closed in the past 12 months. The answer tells you a lot.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
-- **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
-- **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [VA, VA Home Loans Overview](https://www.va.gov/housing-assistance/home-loans/), Official VA eligibility requirements and loan benefit details
@@ -117,12 +109,3 @@ If you're a veteran and you haven't looked seriously at this benefit, start with
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-- **[How to Buy Your Perfect First Home](https://www.amazon.com/dp/1731350120/?tag=contentportfo-20)** (~$14), Practical step-by-step guide to qualifying for a mortgage, budgeting correctly, and navigating the full homebuying process.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

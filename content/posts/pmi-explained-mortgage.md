@@ -104,23 +104,11 @@ PMI isn't inevitable. If the idea of paying for coverage that doesn't benefit yo
 
 Before talking to a lender, work through how all these options compare. A home buying financial planning workbook can help you organize the numbers before your first conversation. (This site may earn a commission on qualifying purchases.)
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
-- **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
-- **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
-
-*Photo: [DΛVΞ GΛRCIΛ](https://www.pexels.com/@davegarcia) via Pexels*
-
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -104,18 +104,6 @@ If you're comparing loan products and wondering how your lock strategy should di
 
 A rate lock isn't complicated, but it does require you to pay attention at a moment when buyers are usually overwhelmed with everything else happening in a transaction. Take an hour to understand the terms before you sign anything. Ask your loan officer direct questions and expect direct answers. The borrowers who end up surprised by rate lock problems aren't usually the ones who asked too many questions. They're the ones who assumed it would all work out.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
-- **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
-- **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
-
-*This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
-
-## Recommended Resources
-
 ## Sources
 
 - [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)

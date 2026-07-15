@@ -122,14 +122,6 @@ If you want to go deeper on the home-buying process, a practical guide like a ho
 
 The down payment decision touches your monthly cash flow, your long-term equity, your financial safety net, and in some cases your ability to buy at all. It deserves more than a quick answer from someone trying to close your loan. Take the time to compare your options, understand the full cost of each path, and consult with a qualified mortgage professional or HUD-approved housing counselor before you commit. The right down payment is the one that works for your entire financial picture.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
-- **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
-- **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [HUD, Buying a Home](https://www.hud.gov/topics/buying_a_home), Overview of FHA, down payment basics, and homebuying resources
@@ -143,10 +135,3 @@ The down payment decision touches your monthly cash flow, your long-term equity,
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

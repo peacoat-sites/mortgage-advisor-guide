@@ -132,14 +132,6 @@ The lender's job is to underwrite the loan. Your job is to underwrite your life.
 
 Take your time with this math before you fall in love with a house. The right home at the wrong price point will cost you in ways that don't show up on a closing disclosure. They show up in your bank account, your stress level, and your ability to handle what life throws at you. If you want to dig deeper into the numbers before talking to a lender, a solid home-buying workbook ([available on Amazon](https://www.amazon.com/s?k=home+buying+workbook&tag=contentportfo-20), affiliate link) can help you organize your finances and walk into that conversation with clarity. Consulting with a HUD-approved housing counselor or a fee-only financial advisor before you commit is always a smart move. Pre-approval is the beginning of the process. Your budget is the foundation of it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
-- **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
-- **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [CFPB, Debt-to-income ratio](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/), Explains DTI ratios and typical lender thresholds
@@ -153,10 +145,3 @@ Take your time with this math before you fall in love with a house. The right ho
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

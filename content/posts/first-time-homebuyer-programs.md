@@ -134,14 +134,6 @@ I can't write this article honestly without talking about the catches.
 
 First-time buyer programs are real money, but they're not automatic. The buyers who benefit most are the ones who show up prepared: they've checked their income against AMI limits, they understand their credit score's impact, and they know what questions to ask a lender before the conversation turns to rate. Take the time to find what's available in your specific market. Talk to your state's housing finance agency. Ask lenders directly whether they originate program loans. And if you want a solid foundation before those conversations start, walking through [the full mortgage process as a first-time buyer](/how-to-get-a-mortgage-first-time-buyer/) will help you arrive at every meeting with the right questions already in hand. This process rewards preparation. Give yourself that advantage.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
-- **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
-- **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
-
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
@@ -155,10 +147,3 @@ First-time buyer programs are real money, but they're not automatic. The buyers 
 - [USA.gov, Housing Help](https://www.usa.gov/housing-help), Directory of federal and state homebuyer assistance resources
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

@@ -80,21 +80,9 @@ One thing worth flagging for first-timers: [HUD-approved housing counselors](htt
 
 The honest summary is this: mortgage tax benefits matter for some borrowers and mean nothing for others. Know which category you're in before you let them factor into your buying decision. A good CPA running your actual numbers will tell you more in 20 minutes than any general article can, and that conversation is worth having before you're sitting at the closing table.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
-- **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
-- **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
-
-## Recommended Resources
 
 ## Sources
 

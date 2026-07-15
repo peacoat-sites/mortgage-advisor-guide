@@ -46,8 +46,6 @@ Make a copy for yourself. Your servicer has 30 days to respond.
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)

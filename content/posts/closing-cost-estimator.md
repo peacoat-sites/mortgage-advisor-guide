@@ -59,8 +59,6 @@ Government recording fees, transfer taxes, and prepaid escrow amounts? Those are
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)

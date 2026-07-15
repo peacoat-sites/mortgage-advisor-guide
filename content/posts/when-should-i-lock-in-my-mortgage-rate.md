@@ -92,14 +92,6 @@ In a relatively stable rate environment, floating short-term (a week or two whil
 
 You can't time mortgage rates with any consistency. Nobody can, not reliably, not retail borrowers, not most professionals. What you can do is make a smart decision once you have real information: a contract, a closing date, a confirmed loan program. Lock then. Accept that the rate you get might not be the lowest rate that existed during your purchase window. It will still be the right rate, because it's the one you actually planned around.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
-- **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
-- **[Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [CFPB, Rate lock agreements](https://www.consumerfinance.gov/ask-cfpb/what-is-a-rate-lock-en-143/), Explains rate locks, expiration, and extension costs
@@ -112,10 +104,3 @@ You can't time mortgage rates with any consistency. Nobody can, not reliably, no
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
-
-**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

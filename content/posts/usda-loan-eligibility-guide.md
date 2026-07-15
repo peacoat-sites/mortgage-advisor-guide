@@ -116,23 +116,11 @@ For deeper preparation, a home-buying workbook or financial planning guide can h
 
 The USDA loan won't work for everyone. If you're buying in a dense urban area, you're ruled out entirely. If your household income exceeds the local limit, you'll need to look elsewhere. But if you're buying in a qualifying area and your income and credit are in the right range, passing on this program means leaving real money on the table. Zero down payment, low mortgage insurance, and competitive rates add up to a meaningful financial advantage. Take the time to run the eligibility checks before you write it off.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
-- **[The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)**
-- **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a [HUD-approved housing counselor](/fha-loan-requirements-and-benefits/) (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

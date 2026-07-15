@@ -150,14 +150,6 @@ If you want deeper research as you work through this, a resource like [this home
 
 FHA loans won't be right for everyone. But for buyers with limited savings, credit challenges, or higher debt loads, they're the difference between renting indefinitely and actually owning a home. Go in with clear eyes. Understand the MIP costs, know your loan limits, and talk to more than one lender. The terms you're offered on day one are rarely the best terms available to you. A little homework up front can save real money over a 30-year loan, and that's worth every hour you spend on it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
-- **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [HUD, FHA Loans Overview](https://www.hud.gov/buying/loans), Official FHA program info, requirements, and how FHA insurance works
@@ -171,12 +163,3 @@ FHA loans won't be right for everyone. But for buyers with limited savings, cred
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25), Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

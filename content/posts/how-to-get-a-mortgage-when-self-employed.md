@@ -98,14 +98,6 @@ Consider working with [a HUD-approved housing counselor](https://www.hud.gov/i_w
 
 For deeper prep work, a resource like *The Self-Employed Borrower's Workbook* or a solid [home-buying preparation checklist](https://www.amazon.com/s?k=home+buying+checklist+self+employed) can help you build your documentation portfolio before you ever sit down with a lender. (The site may earn a commission on purchases made through these links.)
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
-- **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
-- **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [Fannie Mae, Self-Employment Income Guidelines](https://selling-guide.fanniemae.com/), Details official self-employed income documentation requirements
@@ -119,10 +111,3 @@ For deeper prep work, a resource like *The Self-Employed Borrower's Workbook* or
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

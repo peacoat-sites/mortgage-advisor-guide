@@ -112,14 +112,6 @@ This is where I get serious, because these are the scenarios that cause real har
 
 Nothing about a reverse mortgage is inherently predatory, but there's a lot of room for misunderstanding between a slick sales pitch and what the contract actually says. If you're seriously considering one, start with that HUD counseling session, bring a family member or a trusted advisor with you, and get a written breakdown of every cost and scenario before you sign. If you want to do your own research first, a solid home equity and retirement planning guide can help you walk in with better questions. The borrowers who come out ahead are the ones who treated this like the major financial decision it actually is.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)**
-- **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
-- **[Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [HUD, Home Equity Conversion Mortgages for Seniors](https://www.hud.gov/program_offices/housing/sfh/hecm/hecmhome), Official HECM program requirements and FHA insurance details
@@ -133,10 +125,3 @@ Nothing about a reverse mortgage is inherently predatory, but there's a lot of r
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

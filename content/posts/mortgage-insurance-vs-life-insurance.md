@@ -97,21 +97,11 @@ If you want to do your own homework, a solid home-buying guide or financial plan
 
 The real story: mortgage protection insurance is a product designed to be sold at closing, when you're exhausted, trusting, and not inclined to compare. That doesn't make it fraudulent. It just means you deserve to know exactly what you're buying before signing. A good term life policy bought independently, from a carrier you researched on your own time, is almost always worth exploring first.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)**
-- **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
-
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -21,8 +21,6 @@ However you scored, remember this is a self-reflection tool to help you think cl
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)

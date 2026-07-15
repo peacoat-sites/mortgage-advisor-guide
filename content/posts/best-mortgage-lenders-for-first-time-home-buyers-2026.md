@@ -118,14 +118,6 @@ Not every lender with a polished website and good Trustpilot reviews is the righ
 
 The mortgage process was designed by and for people who do it every day. You do it once, maybe twice in a lifetime. That information asymmetry is real, and it costs people money when they don't know what questions to ask. The best thing you can do right now, before you ever sit down with a loan officer, is get comfortable with the terminology, understand what loan programs you might qualify for, and commit to getting at least three Loan Estimates. A good lender will welcome your informed questions. A great lender will answer them without being asked. That difference alone tells you a lot about who you're about to trust with the biggest financial decision of your life. Always consider consulting with a HUD-approved housing counselor or independent financial advisor before committing to any loan product.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
-- **[The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)**
-- **[The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [CFPB, Buying a House](https://www.consumerfinance.gov/owning-a-home/), Federal guide to mortgage shopping and lender comparison
@@ -139,11 +131,3 @@ The mortgage process was designed by and for people who do it every day. You do 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-- **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25), Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.

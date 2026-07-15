@@ -117,14 +117,6 @@ The required waiting period between counseling and signing the loan application 
 
 A reverse mortgage can be a legitimate retirement planning tool, or it can be the most expensive loan you ever signed. The difference usually comes down to whether you understood the compounding math, had a candid conversation with your heirs, and explored the alternatives before committing. The loan officer's job is to close the loan. Your job is to decide whether it's actually right for you, and for that, an independent counselor and a fee-only planner are worth every dollar.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)**
-- **[AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)**
-- **[Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [HUD, Home Equity Conversion Mortgages for Seniors](https://www.hud.gov/program_offices/housing/sfh/hecm/hecmhome), Official FHA HECM program requirements and rules
@@ -138,10 +130,3 @@ A reverse mortgage can be a legitimate retirement planning tool, or it can be th
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
