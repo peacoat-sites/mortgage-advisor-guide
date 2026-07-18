@@ -9,3 +9,7 @@
 
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
+
+# 2026-07-18 duplicate-topic merges
+/how-reverse-mortgage-works/ /reverse-mortgage-explained/ 301
+/30-year-vs-15-year-mortgage/ /15-year-vs-30-year-mortgage-pros-and-cons/ 301
