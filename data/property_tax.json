@@ -1,0 +1,333 @@
+{
+ "title": "Effective Property Tax Rate and Cost on a $400,000 Home by State (2026)",
+ "note": "Effective rate = property tax as a share of home value, from Tax Foundation analysis of 2024 Census data (the most recent complete year). The $400,000 column is illustrative: rate x $400,000, so you can scale it to your own home's value. Actual bills depend on local mill rates, assessment caps, and homestead exemptions, which can move your real rate well off the state average.",
+ "search_placeholder": "Search your state…",
+ "columns": [
+  {
+   "key": "state",
+   "label": "State",
+   "primary": true
+  },
+  {
+   "key": "rate",
+   "label": "Effective rate"
+  },
+  {
+   "key": "bill_400k",
+   "label": "Tax on a $400k home"
+  },
+  {
+   "key": "note",
+   "label": "Worth knowing",
+   "wide": true
+  }
+ ],
+ "rows": [
+  {
+   "state": "Alabama",
+   "rate": "0.37%",
+   "bill_400k": "$1,488",
+   "note": "Among the lowest rates and lowest bills; generous homestead exemptions."
+  },
+  {
+   "state": "Alaska",
+   "rate": "0.90%",
+   "bill_400k": "$3,600",
+   "note": ""
+  },
+  {
+   "state": "Arizona",
+   "rate": "0.43%",
+   "bill_400k": "$1,704",
+   "note": ""
+  },
+  {
+   "state": "Arkansas",
+   "rate": "0.54%",
+   "bill_400k": "$2,164",
+   "note": ""
+  },
+  {
+   "state": "California",
+   "rate": "0.69%",
+   "bill_400k": "$2,772",
+   "note": "Prop 13 caps assessment growth at 2%/yr, so long-time owners often pay far below this rate."
+  },
+  {
+   "state": "Colorado",
+   "rate": "0.52%",
+   "bill_400k": "$2,076",
+   "note": "Low rate, but recent reassessments have pushed bills up sharply."
+  },
+  {
+   "state": "Connecticut",
+   "rate": "1.35%",
+   "bill_400k": "$5,420",
+   "note": "High rate plus local mill rates that vary widely by town."
+  },
+  {
+   "state": "Delaware",
+   "rate": "0.51%",
+   "bill_400k": "$2,052",
+   "note": ""
+  },
+  {
+   "state": "District of Columbia",
+   "rate": "0.56%",
+   "bill_400k": "$2,256",
+   "note": ""
+  },
+  {
+   "state": "Florida",
+   "rate": "0.76%",
+   "bill_400k": "$3,040",
+   "note": "Save Our Homes caps homestead assessment increases at 3%/yr."
+  },
+  {
+   "state": "Georgia",
+   "rate": "0.77%",
+   "bill_400k": "$3,068",
+   "note": ""
+  },
+  {
+   "state": "Hawaii",
+   "rate": "0.31%",
+   "bill_400k": "$1,232",
+   "note": "Lowest rate in the country, but the nation's highest home values pull the actual bill back up."
+  },
+  {
+   "state": "Idaho",
+   "rate": "0.43%",
+   "bill_400k": "$1,732",
+   "note": ""
+  },
+  {
+   "state": "Illinois",
+   "rate": "1.79%",
+   "bill_400k": "$7,172",
+   "note": "Second-highest rate; heavy reliance on local property tax for schools."
+  },
+  {
+   "state": "Indiana",
+   "rate": "0.76%",
+   "bill_400k": "$3,024",
+   "note": ""
+  },
+  {
+   "state": "Iowa",
+   "rate": "1.25%",
+   "bill_400k": "$4,996",
+   "note": ""
+  },
+  {
+   "state": "Kansas",
+   "rate": "1.20%",
+   "bill_400k": "$4,804",
+   "note": ""
+  },
+  {
+   "state": "Kentucky",
+   "rate": "0.72%",
+   "bill_400k": "$2,892",
+   "note": ""
+  },
+  {
+   "state": "Louisiana",
+   "rate": "0.56%",
+   "bill_400k": "$2,228",
+   "note": ""
+  },
+  {
+   "state": "Maine",
+   "rate": "0.90%",
+   "bill_400k": "$3,612",
+   "note": ""
+  },
+  {
+   "state": "Maryland",
+   "rate": "0.90%",
+   "bill_400k": "$3,608",
+   "note": ""
+  },
+  {
+   "state": "Massachusetts",
+   "rate": "0.95%",
+   "bill_400k": "$3,792",
+   "note": ""
+  },
+  {
+   "state": "Michigan",
+   "rate": "1.13%",
+   "bill_400k": "$4,516",
+   "note": ""
+  },
+  {
+   "state": "Minnesota",
+   "rate": "0.99%",
+   "bill_400k": "$3,948",
+   "note": ""
+  },
+  {
+   "state": "Mississippi",
+   "rate": "0.54%",
+   "bill_400k": "$2,164",
+   "note": ""
+  },
+  {
+   "state": "Missouri",
+   "rate": "0.85%",
+   "bill_400k": "$3,396",
+   "note": ""
+  },
+  {
+   "state": "Montana",
+   "rate": "0.59%",
+   "bill_400k": "$2,368",
+   "note": ""
+  },
+  {
+   "state": "Nebraska",
+   "rate": "1.38%",
+   "bill_400k": "$5,516",
+   "note": ""
+  },
+  {
+   "state": "Nevada",
+   "rate": "0.50%",
+   "bill_400k": "$2,016",
+   "note": "Abatement caps annual owner-occupied increases at 3%."
+  },
+  {
+   "state": "New Hampshire",
+   "rate": "1.35%",
+   "bill_400k": "$5,400",
+   "note": "No income or sales tax; property tax funds nearly everything."
+  },
+  {
+   "state": "New Jersey",
+   "rate": "1.68%",
+   "bill_400k": "$6,700",
+   "note": "Highest bills in the nation; the rate stacks on top of high home values."
+  },
+  {
+   "state": "New Mexico",
+   "rate": "0.61%",
+   "bill_400k": "$2,440",
+   "note": ""
+  },
+  {
+   "state": "New York",
+   "rate": "1.23%",
+   "bill_400k": "$4,908",
+   "note": ""
+  },
+  {
+   "state": "North Carolina",
+   "rate": "0.62%",
+   "bill_400k": "$2,496",
+   "note": ""
+  },
+  {
+   "state": "North Dakota",
+   "rate": "0.94%",
+   "bill_400k": "$3,764",
+   "note": ""
+  },
+  {
+   "state": "Ohio",
+   "rate": "1.28%",
+   "bill_400k": "$5,104",
+   "note": ""
+  },
+  {
+   "state": "Oklahoma",
+   "rate": "0.78%",
+   "bill_400k": "$3,120",
+   "note": ""
+  },
+  {
+   "state": "Oregon",
+   "rate": "0.79%",
+   "bill_400k": "$3,156",
+   "note": ""
+  },
+  {
+   "state": "Pennsylvania",
+   "rate": "1.14%",
+   "bill_400k": "$4,548",
+   "note": ""
+  },
+  {
+   "state": "Rhode Island",
+   "rate": "1.00%",
+   "bill_400k": "$3,988",
+   "note": ""
+  },
+  {
+   "state": "South Carolina",
+   "rate": "0.44%",
+   "bill_400k": "$1,752",
+   "note": ""
+  },
+  {
+   "state": "South Dakota",
+   "rate": "1.00%",
+   "bill_400k": "$3,992",
+   "note": ""
+  },
+  {
+   "state": "Tennessee",
+   "rate": "0.46%",
+   "bill_400k": "$1,848",
+   "note": ""
+  },
+  {
+   "state": "Texas",
+   "rate": "1.25%",
+   "bill_400k": "$4,980",
+   "note": "No state income tax, so property tax carries more of the load; homestead exemptions help."
+  },
+  {
+   "state": "Utah",
+   "rate": "0.45%",
+   "bill_400k": "$1,808",
+   "note": ""
+  },
+  {
+   "state": "Vermont",
+   "rate": "1.40%",
+   "bill_400k": "$5,596",
+   "note": "High rate funds a statewide education property tax."
+  },
+  {
+   "state": "Virginia",
+   "rate": "0.75%",
+   "bill_400k": "$3,016",
+   "note": ""
+  },
+  {
+   "state": "Washington",
+   "rate": "0.74%",
+   "bill_400k": "$2,948",
+   "note": ""
+  },
+  {
+   "state": "West Virginia",
+   "rate": "0.48%",
+   "bill_400k": "$1,932",
+   "note": ""
+  },
+  {
+   "state": "Wisconsin",
+   "rate": "1.19%",
+   "bill_400k": "$4,752",
+   "note": ""
+  },
+  {
+   "state": "Wyoming",
+   "rate": "0.58%",
+   "bill_400k": "$2,328",
+   "note": ""
+  }
+ ]
+}
