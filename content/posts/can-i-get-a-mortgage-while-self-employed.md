@@ -4,7 +4,7 @@ date: 2026-07-11T16:38:28.657409+00:00
 draft: false
 description: "Self-employed borrowers can qualify for a mortgage. Learn what lenders check, from credit scores to income docs, and how to boost your approval odds."
 image: "/img/heroes/6919716.jpg"
-categories: ["Can I Get a Mortgage"]
+categories: ["Qualification"]
 tags: ["mortgage", "while", "self", "employed"]
 author: "Susan Taylor"
 author_slug: "susan-taylor"

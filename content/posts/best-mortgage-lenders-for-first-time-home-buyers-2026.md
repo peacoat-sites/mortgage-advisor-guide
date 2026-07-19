@@ -4,7 +4,7 @@ date: 2026-06-02T12:54:08.807772+00:00
 draft: false
 description: "Discover the best mortgage lenders for first time home buyers in 2026. Compare rates, loan options, and lender benefits to find your perfect home loan today."
 image: "/img/heroes/8292854.jpg"
-categories: ["Shopping"]
+categories: ["Rates"]
 tags: ["best", "mortgage", "lenders", "first", "time"]
 slug: "best-mortgage-lenders-for-first-time-home-buyers"
 affiliate_disclosure: true

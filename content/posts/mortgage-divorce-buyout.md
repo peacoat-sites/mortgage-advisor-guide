@@ -4,7 +4,7 @@ date: 2026-07-13T17:45:07.427178+00:00
 draft: false
 description: "Learn how to buy out your ex-spouse's share of the mortgage and home equity during divorce, including financing options and legal steps."
 image: "/img/heroes/7841838.jpg"
-categories: ["Life Events"]
+categories: ["Hardship Options"]
 tags: ["mortgage", "divorce", "buyout"]
 author: "Robert Kim"
 author_slug: "robert-kim"

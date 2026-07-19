@@ -4,7 +4,7 @@ image: "/img/heroes/8292895.jpg"
 date: 2026-06-10
 slug: "closing-cost-estimator"
 description: "Estimate your home closing costs by state and loan type. See an itemized breakdown of every fee before you close."
-categories: ["mortgage-tools"]
+categories: ["Getting Started"]
 lastmod: 2026-07-08
 ---
 Closing costs catch most buyers off guard. On a $400,000 purchase, you're looking at $8,000-$20,000 depending on your state, loan type, and what your specific lender decides to charge. The calculator below breaks it down line by line.

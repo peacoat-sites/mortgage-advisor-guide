@@ -13,3 +13,12 @@
 # 2026-07-18 duplicate-topic merges
 /how-reverse-mortgage-works/ /reverse-mortgage-explained/ 301
 /30-year-vs-15-year-mortgage/ /15-year-vs-30-year-mortgage-pros-and-cons/ 301
+
+# 2026-07-18 thin-category consolidation
+/categories/affordability/ /categories/cost-factors/ 301
+/categories/can-i-get-a-mortgage/ /categories/qualification/ 301
+/categories/credit/ /categories/qualification/ 301
+/categories/life-events/ /categories/hardship-options/ 301
+/categories/regulations/ /categories/getting-started/ 301
+/categories/shopping/ /categories/rates/ 301
+/categories/mortgage-tools/ /categories/getting-started/ 301

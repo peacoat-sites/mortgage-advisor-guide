@@ -4,7 +4,7 @@ date: 2026-07-11T16:40:27.871332+00:00
 draft: false
 description: "Find out how much home a $60,000 salary can buy, what lenders look for, and tips to maximize your buying power in any market."
 image: "/img/heroes/8293651.jpg"
-categories: ["Affordability"]
+categories: ["Cost Factors"]
 tags: ["much", "house", "afford", "salary"]
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"

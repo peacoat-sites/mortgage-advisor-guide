@@ -4,7 +4,7 @@ date: 2026-07-08T17:12:58.804711+00:00
 draft: false
 description: "Find out exactly how much house you can afford on a $100k salary, including loan limits, down payment tips, and real budget breakdowns."
 image: "/img/heroes/7641853.jpg"
-categories: ["Affordability"]
+categories: ["Cost Factors"]
 tags: ["much", "house", "afford", "100k", "salary"]
 author: "Robert Kim"
 author_slug: "robert-kim"

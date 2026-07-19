@@ -4,7 +4,7 @@ image: "/img/heroes/7947641.jpg"
 date: 2026-06-10
 slug: "pmi-removal-tracker"
 description: "Find out exactly when you can stop paying PMI. Enter your loan balance, home value, and interest rate to see your PMI-free date."
-categories: ["mortgage-tools"]
+categories: ["Getting Started"]
 lastmod: 2026-07-08
 ---
 Private mortgage insurance runs you somewhere between $50 and $200 a month for most borrowers. The good news: you can request removal once your loan-to-value ratio drops to 80%, and federal law forces your lender to kill it automatically at 78%. That's the Homeowners Protection Act doing its job.

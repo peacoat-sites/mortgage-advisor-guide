@@ -4,7 +4,7 @@ date: 2026-06-25T17:59:17.078777+00:00
 draft: false
 description: "Learn to spot predatory lending warning signs before signing any loan. Protect yourself from hidden fees, inflated rates, and deceptive lender tactics."
 image: "/img/heroes/7054510.jpg"
-categories: ["Regulations"]
+categories: ["Getting Started"]
 tags: ["predatory", "lending", "warning", "signs"]
 author: "Maria Santos"
 author_slug: "maria-santos"
