@@ -103,7 +103,7 @@ If you're buying a starter home and you know you'll sell in five to seven years,
 
 The breakeven calculation is straightforward: divide the origination fee by your monthly savings from the lower rate. If the origination fee is $2,000 and the lower rate saves you $65 a month, your breakeven is about 31 months. Stay past that, and you come out ahead by paying the fee.
 
-If you want help running these numbers yourself, [a mortgage comparison calculator](https://www.amazon.com/s?k=mortgage+calculator+book&tag=yoursiteid-20) or a home-buying workbook can walk you through it step by step (the site may earn a commission from that link, just so you know).
+If you want help running these numbers yourself, [a mortgage comparison calculator](https://www.amazon.com/s?k=mortgage+calculator+book&tag=contentportfo-20) or a home-buying workbook can walk you through it step by step (the site may earn a commission from that link, just so you know).
 
 For anyone who wants a second opinion before closing, HUD-approved housing counselors at [HUD.gov](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can review your Loan Estimate for free and flag anything that looks off. I'd recommend this especially for first-time buyers or anyone feeling rushed by their lender.
 

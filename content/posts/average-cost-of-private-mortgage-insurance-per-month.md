@@ -88,7 +88,7 @@ This is a detail servicers don't advertise loudly. If your home has appreciated 
 
 If you want professional guidance on this process, [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can walk through your options at no cost. That's an underused resource.
 
-For borrowers who want to go deep on the math before their next conversation with a lender, the [*Mortgage Encyclopedia* by Jack Guttentag](https://www.amazon.com/dp/007145926X?tag=yoursitetag-20) is one of the few books I've kept on my shelf for years. Dense but accurate. (Note: the site may earn a commission on purchases through this link.)
+For borrowers who want to go deep on the math before their next conversation with a lender, the [*Mortgage Encyclopedia* by Jack Guttentag](https://www.amazon.com/dp/007145926X?tag=contentportfo-20) is one of the few books I've kept on my shelf for years. Dense but accurate. (Note: the site may earn a commission on purchases through this link.)
 
 ---
 

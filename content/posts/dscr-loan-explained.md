@@ -107,7 +107,7 @@ That variability is actually something I tell people to use in their favor. I ma
 
 ---
 
-If you want a deeper grounding in investment property financing before you shop lenders, [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/Book-Rental-Property-Investing-Passive/dp/099071179X?tag=ghostpublishi-20) covers the fundamentals clearly (the site may earn a commission on purchases).
+If you want a deeper grounding in investment property financing before you shop lenders, [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/Book-Rental-Property-Investing-Passive/dp/099071179X?tag=contentportfo-20) covers the fundamentals clearly (the site may earn a commission on purchases).
 
 
 *Photo: [Lukas Kosc](https://www.pexels.com/@lukas-kosc-525097851) via Pexels*

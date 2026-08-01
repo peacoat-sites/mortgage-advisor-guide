@@ -42,7 +42,7 @@ On a $300,000 loan, origination fees typically run between 0.5% and 1.5% of the 
 
 "I always tell borrowers to ask for every lender fee itemized before they agree to anything," says Melissa Haworth, a HUD-certified housing counselor with 22 years of experience in Virginia and Maryland. "What looks like a low origination fee on the summary page often has two or three extra processing charges hiding one line down."
 
-Start with a clean Loan Estimate comparison before you talk to a second lender: [compare mortgage calculators and home-buying guides on Amazon](https://www.amazon.com/s?k=mortgage+home+buying+guide&tag=thehomestory09-20) *(the site may earn a commission)* to find tools that help you read the numbers yourself.
+Start with a clean Loan Estimate comparison before you talk to a second lender: [compare mortgage calculators and home-buying guides on Amazon](https://www.amazon.com/s?k=mortgage+home+buying+guide&tag=contentportfo-20) *(the site may earn a commission)* to find tools that help you read the numbers yourself.
 
 ## How the Math Actually Works on a $300K Loan
 
@@ -96,7 +96,7 @@ Brian Koss, a mortgage banking executive with over 30 years of lending experienc
 
 One thing I'd caution: don't negotiate fees in isolation. A lender who drops the origination fee to zero while quietly nudging your rate up 0.125% has cost you more over 10 years than the fee ever would have. Compare the APR (Annual Percentage Rate), not just the rate, across every competing offer. The APR folds in origination costs and reflects the true annual cost of the loan.
 
-Get a side-by-side fee comparison built before your next lender meeting: [mortgage comparison workbooks on Amazon](https://www.amazon.com/s?k=mortgage+comparison+workbook&tag=thehomestory09-20) *(the site may earn a commission)* can help you track every line item across multiple offers.
+Get a side-by-side fee comparison built before your next lender meeting: [mortgage comparison workbooks on Amazon](https://www.amazon.com/s?k=mortgage+comparison+workbook&tag=contentportfo-20) *(the site may earn a commission)* can help you track every line item across multiple offers.
 
 ## The One Loan Estimate Trick That Saves Most Borrowers Real Money
 
@@ -108,7 +108,7 @@ When I was underwriting files in the mid-2000s, before the Loan Estimate existed
 
 One reader emailed me recently about a situation where her Loan Estimate showed $900 in origination charges, which seemed great. But Section B (services you can't shop for) contained a $1,200 "lender processing fee" that effectively doubled the lender's take. Technically legal. Definitely worth asking about.
 
-Save time comparing lenders by building your own tracking sheet: [home-buying checklists and financial planning workbooks on Amazon](https://www.amazon.com/s?k=first+time+home+buyer+checklist&tag=thehomestory09-20) *(the site may earn a commission)* are a practical starting point.
+Save time comparing lenders by building your own tracking sheet: [home-buying checklists and financial planning workbooks on Amazon](https://www.amazon.com/s?k=first+time+home+buyer+checklist&tag=contentportfo-20) *(the site may earn a commission)* are a practical starting point.
 
 ---
 

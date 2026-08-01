@@ -101,7 +101,7 @@ Check whether a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/t
 
 If you're buying a home that currently has an NFIP policy, ask whether it's transferable. Existing NFIP policies can often be assigned to the new buyer, which sometimes locks in a lower grandfathered rate. This is a real negotiating point that almost nobody asks about.
 
-For a deeper look at how to compare coverage options, resources like this [home-buying guide on Amazon](https://www.amazon.com/s?k=home+buying+guide+first+time+buyer&tag=yourtag-20) can help you ask the right questions before you sit down with your lender. (The site may earn a small commission on purchases.)
+For a deeper look at how to compare coverage options, resources like this [home-buying guide on Amazon](https://www.amazon.com/s?k=home+buying+guide+first+time+buyer&tag=contentportfo-20) can help you ask the right questions before you sit down with your lender. (The site may earn a small commission on purchases.)
 
 ## Sources
 

@@ -98,7 +98,7 @@ I want to be protective of you here. The mortgage lender wants to close your loa
 
 Also worth knowing: some first-time buyer programs, including certain state housing finance agency loans and FHA options, allow down payment assistance that could reduce or eliminate the need to touch retirement funds at all. As of July 2026, programs vary significantly by state, and [eligibility requirements](/va-loan-benefits-and-eligibility-requirements-for-veterans/) change. I don't have good, current data on all fifty states' programs, so I'd encourage you to check your state's housing finance agency website directly.
 
-If you want to run your own numbers first, a solid [home affordability calculator or mortgage workbook](https://www.amazon.com/s?k=mortgage+home+buying+workbook&tag=youraffiliatetag-20) (Amazon link, site may earn a commission) can help you map out whether a different down payment amount changes your monthly payments enough to justify the retirement account math.
+If you want to run your own numbers first, a solid [home affordability calculator or mortgage workbook](https://www.amazon.com/s?k=mortgage+home+buying+workbook&tag=contentportfo-20) (Amazon link, site may earn a commission) can help you map out whether a different down payment amount changes your monthly payments enough to justify the retirement account math.
 
 ## Sources
 

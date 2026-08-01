@@ -134,7 +134,7 @@ The system is imperfect. You know that. But there are things that genuinely move
 
 **Consider talking to a mortgage broker before a banker.** I know that sounds like insider advice, but the flexibility genuinely exists more on the broker side. That said, the FHFA has resources that explain what conforming loan guidelines look like, so you can go into any lender conversation knowing what the standard is.
 
-A good home-buying checklist or financial planning workbook can also help you track all of this in one place. [Books like this one](https://www.amazon.com/s?k=self+employed+mortgage+home+buying+guide&tag=yourtag-20) (note: the site may earn a small commission from purchases) can be surprisingly useful for mapping out your document timeline months before you apply.
+A good home-buying checklist or financial planning workbook can also help you track all of this in one place. [Books like this one](https://www.amazon.com/s?k=self+employed+mortgage+home+buying+guide&tag=contentportfo-20) (note: the site may earn a small commission from purchases) can be surprisingly useful for mapping out your document timeline months before you apply.
 
 ---
 

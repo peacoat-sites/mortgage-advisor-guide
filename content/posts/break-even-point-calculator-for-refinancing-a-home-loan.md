@@ -60,7 +60,7 @@ Break-even: $7,000 / $325 = about 21.5 months, call it 22 months.
 
 If you're planning to stay in that house well past year two, this starts to make sense. If you're uncertain, it probably doesn't.
 
-One thing the basic formula misses: you're resetting to a 30-year loan, which means you're adding years back onto your mortgage. In this example, you're trading 24 years of remaining payments for 30. Even if the monthly payment is lower, the total interest paid over the life of both loans might favor staying put. That's a separate but equally important calculation. A [mortgage amortization calculator or a refinance workbook](https://www.amazon.com/s?k=mortgage+refinance+calculator+workbook&tag=yoursite-20) can help you see the full picture, and I genuinely think most borrowers should work through one before they sign anything. (Note: that link is an affiliate link and the site may earn a commission.)
+One thing the basic formula misses: you're resetting to a 30-year loan, which means you're adding years back onto your mortgage. In this example, you're trading 24 years of remaining payments for 30. Even if the monthly payment is lower, the total interest paid over the life of both loans might favor staying put. That's a separate but equally important calculation. A [mortgage amortization calculator or a refinance workbook](https://www.amazon.com/s?k=mortgage+refinance+calculator+workbook&tag=contentportfo-20) can help you see the full picture, and I genuinely think most borrowers should work through one before they sign anything. (Note: that link is an affiliate link and the site may earn a commission.)
 
 ## Where Most People Get the Monthly Savings Wrong
 
@@ -125,7 +125,7 @@ The break-even calculation isn't the whole decision, but it's the foundation. Do
 ## Sources
 
 - [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)
-- [mortgage amortization calculator or a refinance workbook](https://www.amazon.com/s?k=mortgage+refinance+calculator+workbook&tag=yoursite-20)
+- [mortgage amortization calculator or a refinance workbook](https://www.amazon.com/s?k=mortgage+refinance+calculator+workbook&tag=contentportfo-20)
 - [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/)
 - [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
 - [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)

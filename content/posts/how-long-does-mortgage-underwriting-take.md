@@ -103,7 +103,7 @@ Also: if you're self-employed or have anything complicated about your finances, 
 
 One more thing that took me a while to learn from the borrower side: ask your loan officer specifically "Has the underwriter reviewed my file yet, or is it still in queue?" There's a difference between "in underwriting" (sitting in a stack) and "with the underwriter" (actively being reviewed). Loan officers sometimes conflate these, and knowing which phase you're in changes how you should think about timing.
 
-If you want to dig deeper into how lenders evaluate risk and what you can do to strengthen your application before you get into this process, a resource like [The Mortgage Encyclopedia](https://www.amazon.com/s?k=mortgage+encyclopedia+home+buying&tag=yoursitetag-20) (note: that link may earn the site a small commission) can help you get oriented before you're already in the middle of it.
+If you want to dig deeper into how lenders evaluate risk and what you can do to strengthen your application before you get into this process, a resource like [The Mortgage Encyclopedia](https://www.amazon.com/s?k=mortgage+encyclopedia+home+buying&tag=contentportfo-20) (note: that link may earn the site a small commission) can help you get oriented before you're already in the middle of it.
 
 ## Sources
 
