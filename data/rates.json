@@ -1,21 +1,21 @@
 {
   "title": "Current Mortgage Rates",
   "source": "Federal Reserve Economic Data (FRED), St. Louis Fed",
-  "updated": "2026-09-10",
+  "updated": "2026-09-17",
   "rates": [
     {
       "label": "30-Year Fixed",
-      "value": 6.76,
+      "value": 6.95,
       "unit": "%",
-      "as_of": "2026-09-10",
-      "change": 0.05
+      "as_of": "2026-09-17",
+      "change": 0.19
     },
     {
       "label": "15-Year Fixed",
-      "value": 6.09,
+      "value": 6.26,
       "unit": "%",
-      "as_of": "2026-09-10",
-      "change": 0.05
+      "as_of": "2026-09-17",
+      "change": 0.17
     }
   ]
 }
