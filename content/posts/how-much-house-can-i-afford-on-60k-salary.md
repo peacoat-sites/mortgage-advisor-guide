@@ -56,8 +56,6 @@ PMI typically runs 0.5% to 1.5% of the loan amount annually. On a $220,000 loan,
 
 > **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where a lot of first-time buyers get tripped up. They find an online calculator, plug in their income, and get a purchase price. What they don't realize is that the calculator assumed a 20% down payment they don't have.
 
 Put 3.5% down on a $220,000 home (FHA minimum) and your loan is $212,300. Put 20% down and it's $176,000. That's a meaningfully different monthly payment, and the smaller down payment version also carries PMI for years.
@@ -71,10 +69,6 @@ A reader I heard from last spring, Marcus from Columbus, Ohio, got pre-approved 
 As of July 2026, mortgage rates on a 30-year fixed loan are sitting in a range that makes the monthly math noticeably tighter than it was a few years back. I'm not going to quote a specific rate because they move, but you can check current rates at any major lender or use a good mortgage calculator to run your own numbers. (The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) publishes weekly rate data if you want an unbiased source.)
 
 Here's a rough picture for a $60k earner with decent credit, minimal existing debt, and a 3.5% down payment, using rate estimates in the current environment:
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated Monthly PITI by Home Price (3.5% down, current rates)</div><div class="sc-row"><span class="sc-label">$150,000</span><span class="sc-track"><span class="sc-bar" style="width:61%"></span></span><span class="sc-val">$1,150</span></div><div class="sc-row"><span class="sc-label">$175,000</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">$1,320</span></div><div class="sc-row"><span class="sc-label">$200,000</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">$1,510</span></div><div class="sc-row"><span class="sc-label">$225,000</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">$1,690</span></div><div class="sc-row"><span class="sc-label">$250,000</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,880</span></div><div class="sc-src">Source: Industry estimates, July 2026</div></div>
-
 
 These figures include estimated PMI and average property taxes. They will vary significantly depending on your location. Property taxes in Texas or New Jersey can add $400 to $600/month on a $225,000 home. In parts of the Midwest, you might pay a third of that.
 
@@ -131,7 +125,6 @@ If your local market makes that range unrealistic (looking at you, coastal Calif
 - National Association of Realtors (NAR): Annual Profile of Home Buyers and Sellers, tracking income-to-purchase-price ratios by market
 
 ---
-
 
 ---
 

@@ -31,9 +31,7 @@ That's the thing nobody in the mortgage industry tells you upfront. They'll hand
 
 Let me show you exactly how this works, who it actually helps, and when you should stop counting on it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Only ~13% of taxpayers currently claim the mortgage interest deduction; most don't benefit.</li><li style="margin:5px 0">You must itemize deductions (Schedule A) to claim it, and most filers don't, because the standard deduction is higher.</li><li style="margin:5px 0">As of 2026, the deduction covers interest on up to $750,000 of mortgage principal (for loans originated after Dec. 15, 2017).</li><li style="margin:5px 0">A $400,000 mortgage at 7% yields roughly $27,800 in first-year interest, but the tax benefit depends entirely on your marginal rate and whether you itemize.</li><li style="margin:5px 0">High-income buyers in high-cost states (California, New York, Massachusetts) are far more likely to see real savings.</li></ul></div>
-
 
 ## How the Deduction Actually Works
 
@@ -51,15 +49,9 @@ A borrower named Marcus, a reader who emailed me after buying a $325,000 home in
 
 > **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Loans originated after December 15, 2017 can only deduct interest on the first $750,000 of principal. (Older loans, originated before that date, are grandfathered at the old $1,000,000 cap.) So if you bought a $900,000 home with a $720,000 mortgage, you're fine. But if you borrowed $850,000, you can only deduct interest on 88% of that balance.
 
 This cap doesn't hit most buyers in the Midwest or South, where median [home prices](/record-home-prices-meet-rising-rates-what-buyers-must-know-now/) are well below $750,000. It bites hardest in coastal metros where $900,000 barely buys a two-bedroom. The IRS doesn't publish this breakdown by zip code, but the Tax Policy Center has shown that the top 20% of income earners capture the vast majority of benefits from this deduction. Which makes sense: they're buying more expensive homes, they're in higher tax brackets (so the deduction is worth more per dollar), and they're far more likely to itemize.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Est. annual mortgage interest deduction tax savings by bracket (7% rate, $500K loan)</div><div class="sc-row"><span class="sc-label">22% bracket</span><span class="sc-track"><span class="sc-bar" style="width:59%"></span></span><span class="sc-val">$4,312</span></div><div class="sc-row"><span class="sc-label">24% bracket</span><span class="sc-track"><span class="sc-bar" style="width:65%"></span></span><span class="sc-val">$4,704</span></div><div class="sc-row"><span class="sc-label">32% bracket</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">$6,272</span></div><div class="sc-row"><span class="sc-label">35% bracket</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">$6,860</span></div><div class="sc-row"><span class="sc-label">37% bracket</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$7,252</span></div><div class="sc-src">Source: IRS 2026 tax brackets, Robert Kim calculation</div></div>
-
 
 Those figures assume $19,600 in first-year interest (7% on a $500,000 balance, rounded from actual amortization) and that the full amount is deductible above the standard deduction threshold. In practice, only the portion of itemized deductions exceeding the standard deduction gives you any marginal benefit, so the real savings for most people are smaller than even these numbers suggest.
 
@@ -108,7 +100,6 @@ If you're unsure where you stand, a [HUD-approved housing counselor](https://www
 - [Consumer Financial Protection Bureau, Owning a Home](https://www.consumerfinance.gov/owning-a-home/): Plain-language homebuyer resources including deduction and tax guidance.
 
 ---
-
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

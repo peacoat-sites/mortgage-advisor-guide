@@ -10,9 +10,9 @@ author_slug: "ethan-chen"
 image: "https://images.pexels.com/photos/27920274/pexels-photo-27920274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
-Buying a home is one of the largest financial decisions you'll ever make, and figuring out your price range before you start shopping can save you hours of frustration — and protect you from overcommitting. Lenders use two key ratios to decide how much they'll approve: the **front-end ratio** (your housing costs vs. your gross income) and the **back-end ratio** (all debts vs. your gross income). Most conventional lenders want to see a front-end ratio below 28% and a back-end ratio below 36%.
+Buying a home is one of the largest financial decisions you'll ever make, and figuring out your price range before you start shopping can save you hours of frustration, and protect you from overcommitting. Lenders use two key ratios to decide how much they'll approve: the **front-end ratio** (your housing costs vs. your gross income) and the **back-end ratio** (all debts vs. your gross income). Most conventional lenders want to see a front-end ratio below 28% and a back-end ratio below 36%.
 
-Our calculator below uses both rules and shows you the more conservative of the two limits. That way you get a realistic ceiling, not just the theoretical maximum a lender might approve. Fill in your income, current monthly debts, expected down payment, and the interest rate you've been quoted — the tool does the rest.
+Our calculator below uses both rules and shows you the more conservative of the two limits. That way you get a realistic ceiling, not just the theoretical maximum a lender might approve. Fill in your income, current monthly debts, expected down payment, and the interest rate you've been quoted, the tool does the rest.
 
 **What this calculator factors in:**
 - Principal and interest on the mortgage
@@ -35,7 +35,7 @@ If your down payment is below 20%, PMI typically costs 0.3%–1.5% of your loan 
 1. **Pay down existing debt.** Eliminating a car payment or credit card balance directly reduces your back-end DTI and can shift your price ceiling by tens of thousands.
 2. **Increase your down payment.** A larger down payment reduces your loan balance, lowers your monthly payment, and eliminates PMI once you cross 20%.
 3. **Improve your credit score.** A score above 740 typically unlocks the best rates. Even a 0.5% rate improvement meaningfully increases what you can afford.
-4. **Consider a longer loan term.** A 30-year loan has lower monthly payments than a 15-year loan, which increases affordability — though you'll pay more interest overall.
+4. **Consider a longer loan term.** A 30-year loan has lower monthly payments than a 15-year loan, which increases affordability, though you'll pay more interest overall.
 
 Remember that just because a lender *will* approve you for a certain amount doesn't mean you *should* borrow that much. Many financial planners recommend keeping housing costs under 25% of take-home pay (not gross income), giving yourself room for savings, emergencies, and life.
 

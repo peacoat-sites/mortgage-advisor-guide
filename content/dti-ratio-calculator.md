@@ -10,9 +10,9 @@ author_slug: "jennifer-walsh"
 image: "https://images.pexels.com/photos/5849563/pexels-photo-5849563.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
-Your debt-to-income ratio — or DTI — is one of the most important numbers a mortgage lender looks at. It's a simple formula: divide your total monthly debt payments by your gross monthly income. But there are actually two versions lenders care about, and they each tell a different part of your financial story.
+Your debt-to-income ratio, or DTI, is one of the most important numbers a mortgage lender looks at. It's a simple formula: divide your total monthly debt payments by your gross monthly income. But there are actually two versions lenders care about, and they each tell a different part of your financial story.
 
-The **front-end ratio** (housing DTI) looks only at your proposed mortgage payment — principal, interest, taxes, and insurance — as a share of your income. Conventional lenders typically want this below 28%. The **back-end ratio** (total DTI) includes all your monthly debt obligations: the mortgage plus car loans, student loans, credit card minimums, and anything else. Most conventional lenders cap this at 43%, though FHA loans allow up to 57% in some cases.
+The **front-end ratio** (housing DTI) looks only at your proposed mortgage payment, principal, interest, taxes, and insurance, as a share of your income. Conventional lenders typically want this below 28%. The **back-end ratio** (total DTI) includes all your monthly debt obligations: the mortgage plus car loans, student loans, credit card minimums, and anything else. Most conventional lenders cap this at 43%, though FHA loans allow up to 57% in some cases.
 
 Use the calculator below to check both ratios instantly. Toggle between annual and monthly income entry, fill in your existing debts, and add your expected new mortgage payment to see exactly where you'd land.
 

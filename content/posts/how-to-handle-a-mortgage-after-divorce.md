@@ -31,9 +31,7 @@ I'll be honest, when I first started reviewing files involving divorce, I assume
 
 That gap between what people think happened and what the bank actually sees? That's where the damage gets done.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A divorce decree does NOT remove a spouse from the mortgage, only a refinance or assumption does.</li><li style="margin:5px 0">Both spouses remain legally liable for the mortgage until the loan is restructured, regardless of who keeps the house.</li><li style="margin:5px 0">Missing payments during divorce proceedings can damage both credit scores, even if only one spouse is living in the home.</li><li style="margin:5px 0">A refinance to remove a co-borrower typically requires the remaining spouse to qualify alone on their income.</li><li style="margin:5px 0">If neither spouse can afford the home solo, selling is often the cleaner financial exit, even if it's emotionally harder.</li></ul></div>
-
 
 ## The Decree Doesn't Do What You Think It Does
 
@@ -49,8 +47,6 @@ The lender's position is simple and cold: if your name is on the loan, you owe t
 
 > **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 There are four paths divorcing homeowners actually have. Each one has real tradeoffs, and the right one depends almost entirely on your specific financial situation, not on what feels fair emotionally.
 
 | Option | How It Works | Timeline | Main Requirement | Biggest Risk |
@@ -63,10 +59,6 @@ There are four paths divorcing homeowners actually have. Each one has real trade
 The refinance is by far the most common path, but I'd push back on anyone who assumes it's automatic. As of July 2026, rates are meaningfully higher than they were three or four years ago. If you and your ex locked in a 3.2% rate on a $380,000 loan in 2021, a new refinance might put the remaining spouse at 6.7% or higher on a comparable balance. On a 30-year loan, that difference can be over $800 [per month](/average-cost-of-private-mortgage-insurance-per-month/). That's a number worth sitting with before you decide anything.
 
 The loan assumption is underused. I'll be honest, I didn't understand how useful this was until I started seeing borrowers who'd missed it entirely. FHA and VA loans are generally assumable, meaning a qualified party can step into the existing loan at its original rate. If you have a low-rate government-backed loan, this is worth asking your lender about specifically. [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) have a decent explainer on assumption basics if you want to start there before calling your servicer.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Monthly payment on $350K balance by interest rate</div><div class="sc-row"><span class="sc-label">3.0% (2021 era)</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">$1,476</span></div><div class="sc-row"><span class="sc-label">4.5% (2019 era)</span><span class="sc-track"><span class="sc-bar" style="width:72%"></span></span><span class="sc-val">$1,773</span></div><div class="sc-row"><span class="sc-label">6.0% (2023 era)</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">$2,098</span></div><div class="sc-row"><span class="sc-label">6.75% (2026 est.)</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">$2,270</span></div><div class="sc-row"><span class="sc-label">7.5% (stress test)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$2,447</span></div><div class="sc-src">Source: Standard amortization, 30-year fixed, Robert Kim calculations</div></div>
-
 
 That chart isn't meant to scare anyone. It's meant to make the assumption option feel more real. If you can keep a 3% loan in a 6.75% environment, that's a material financial advantage worth fighting for.
 
@@ -113,7 +105,6 @@ If you're shopping lenders (which you should be, always), get loan estimates fro
 - [Freddie Mac My Home](https://myhome.freddiemac.com/): Homebuyer and homeowner education resources including loan assumption basics
 
 ---
-
 
 *Photo: [Alena Darmel](https://www.pexels.com/@a-darmel) via Pexels*
 

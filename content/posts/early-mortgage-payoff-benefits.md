@@ -31,9 +31,7 @@ You might be wondering if early payoff is even worth thinking about [right now](
 
 Let me walk through the actual numbers, the mechanics, and the scenarios where early payoff is a no-brainer versus where it genuinely isn't.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Paying one extra mortgage payment per year can cut a 30-year loan by 4-6 years on a typical balance.</li><li style="margin:5px 0">On a $350,000 loan at 6.75%, early payoff can save $80,000-$110,000 in total interest over the life of the loan.</li><li style="margin:5px 0">The mortgage interest tax deduction is real but often overstated, most borrowers save far less than they think.</li><li style="margin:5px 0">Extra principal payments reduce your loan balance permanently, unlike extra rent payments.</li><li style="margin:5px 0">High-interest debt (credit cards, personal loans) should almost always be paid first before accelerating your mortgage.</li></ul></div>
-
 
 ## What You're Actually Paying For Over 30 Years
 
@@ -46,8 +44,6 @@ The Federal Housing Finance Agency tracks mortgage originations and borrower beh
 ## The Real Math of Paying Extra
 
 > **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me give you three concrete scenarios, all based on a $350,000 loan at 6.75%, 30-year fixed term.
 
@@ -62,10 +58,6 @@ Let me give you three concrete scenarios, all based on a $350,000 loan at 6.75%,
 *These are estimates based on standard amortization. Your actual numbers depend on your specific rate, term, and balance. Run them through an amortization calculator before making decisions.*
 
 The biweekly strategy is popular, and it does work, but I want to flag something I wish someone had told me earlier: some servicers charge a setup fee for a formal biweekly program, sometimes $300-$400. You can get the same mathematical result by simply making one extra principal payment per year, clearly labeled "apply to principal," and skipping the fee entirely.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Total Interest Paid by Payoff Strategy ($350K loan, 6.75%)</div><div class="sc-row"><span class="sc-label">No extra payments</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$467,000</span></div><div class="sc-row"><span class="sc-label">One extra/year</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">$372,000</span></div><div class="sc-row"><span class="sc-label">Biweekly</span><span class="sc-track"><span class="sc-bar" style="width:81%"></span></span><span class="sc-val">$380,000</span></div><div class="sc-row"><span class="sc-label">$200/mo extra</span><span class="sc-track"><span class="sc-bar" style="width:77%"></span></span><span class="sc-val">$358,000</span></div><div class="sc-row"><span class="sc-label">$500/mo extra</span><span class="sc-track"><span class="sc-bar" style="width:57%"></span></span><span class="sc-val">$268,000</span></div><div class="sc-src">Source: Standard mortgage amortization calculations, August 2026</div></div>
-
 
 ## The Tax Deduction Argument Is Weaker Than You Think
 
@@ -112,7 +104,6 @@ Scenario: A borrower in Portland with a $420,000 balance at 7.1% started adding 
 - IRS Publication 936 (Home Mortgage Interest Deduction): Covers current rules on deductibility, including standard vs. itemized deduction thresholds.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

@@ -31,9 +31,7 @@ I'll be honest: the tax story around homeownership is one of the most misunderst
 
 What surprised me was how much the 2017 Tax Cuts and Jobs Act (TCJA) changed the calculus, and how many people are still operating on the old assumptions. The standard deduction nearly doubled under that law. For 2026, it sits at $15,000 for single filers and $30,000 for married couples filing jointly (these adjust slightly each year for inflation, so check the IRS site for the exact current figure). [That means](/why-the-fed-may-hike-rates-next-and-what-that-means-for-your-mortgage/) you only benefit from itemizing, and thus from homeowner-specific deductions, if your itemizable expenses exceed those amounts. A lot of homeowners, especially in lower cost-of-living areas, never cross that threshold.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Only ~13% of filers itemize, so most homeowners never directly use mortgage deductions.</li><li style="margin:5px 0">The standard deduction in 2026 is $15,000 (single) / $30,000 (married), your hurdle to clear before itemizing helps.</li><li style="margin:5px 0">Mortgage interest is deductible only on loan balances up to $750,000 for loans originated after Dec. 15, 2017.</li><li style="margin:5px 0">Property tax deductions are capped at $10,000 total (the SALT cap), regardless of what you actually pay.</li><li style="margin:5px 0">When you sell, you can exclude up to $250,000 in gains ($500,000 married) if you've lived there 2 of the last 5 years.</li></ul></div>
-
 
 ## The Mortgage Interest Deduction (What It Actually Does)
 
@@ -46,8 +44,6 @@ Your lender will send you a Form 1098 each January showing exactly how much mort
 ## Property Taxes: Yes, But There's a Ceiling
 
 > **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 You can deduct state and local taxes (called SALT), which includes property taxes, but the TCJA capped that deduction at $10,000 per year ($5,000 if married filing separately). If you own in New Jersey, Connecticut, New York, California, or Illinois, where property tax bills can easily run $12,000 to $25,000 a year, you're leaving real money on the table above that cap. The [CFPB's homeownership resources](https://www.consumerfinance.gov/owning-a-home/) lay this out clearly if you want more background.
 
@@ -87,10 +83,6 @@ Two situations that complicate things: if you work from home and use part of you
 
 If you rent out part of your home, the tax picture changes significantly. Rental income is taxable, but you can deduct associated expenses proportionally. The allocation math is genuinely annoying. How many days was it rented vs. used personally? Which expenses are fully deductible vs. partially? If you're doing this, you probably need a CPA, not just tax software.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated annual tax savings from itemizing (by mortgage size)</div><div class="sc-row"><span class="sc-label">$200K loan (22% bracket)</span><span class="sc-track"><span class="sc-bar" style="width:28%"></span></span><span class="sc-val">$1,580</span></div><div class="sc-row"><span class="sc-label">$400K loan (22% bracket)</span><span class="sc-track"><span class="sc-bar" style="width:55%"></span></span><span class="sc-val">$3,080</span></div><div class="sc-row"><span class="sc-label">$600K loan (24% bracket)</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">$4,440</span></div><div class="sc-row"><span class="sc-label">$750K loan (24% bracket)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$5,640</span></div><div class="sc-src">Source: IRS Publication 936 / Jennifer Walsh analysis, 2026</div></div>
-
-
 *Assumes first-year interest payments, standard amortization, interest savings calculated against standard deduction threshold. Individual results will vary.*
 
 ## Sources
@@ -102,7 +94,6 @@ If you rent out part of your home, the tax picture changes significantly. Rental
 - [Freddie Mac MyHome Resource Center](https://myhome.freddiemac.com/): First-time buyer guidance including tax considerations.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

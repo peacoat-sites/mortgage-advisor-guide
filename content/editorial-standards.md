@@ -3,10 +3,10 @@ title: "Editorial Policy"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "How Mortgage Advisor Guide researches, writes, fact-checks, and maintains every article — our commitment to accuracy, source quality, and genuine usefulness."
+description: "How Mortgage Advisor Guide researches, writes, fact-checks, and maintains every article, our commitment to accuracy, source quality, and genuine usefulness."
 ---
 
-# Editorial Policy — Mortgage Advisor Guide
+# Editorial Policy, Mortgage Advisor Guide
 
 Mortgage Advisor Guide exists to help homebuyers, refinancers, and real estate investors understand the mechanics and strategy behind home loans. We publish research-backed articles on mortgage types, rate shopping, qualification criteria, closing costs, underwriting processes, and refinancing decisions. Because this is Your Money or Your Life content—decisions made here affect tens or hundreds of thousands of dollars of a reader's assets and liabilities—we hold ourselves to exacting standards for accuracy, source transparency, and editorial independence. Every claim we publish is traceable to verified sources, and every piece of guidance is written with the understanding that a person on the other side of the screen is making a real financial decision based partly on what we've written.
 

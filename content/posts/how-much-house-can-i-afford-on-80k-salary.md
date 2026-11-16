@@ -31,9 +31,7 @@ I spent years on the underwriting side, approving and declining loans for people
 
 At $80,000 a year, most buyers can comfortably afford a home somewhere in the range of $240,000 to $350,000, depending on your debts, your [down payment](/down-payment-from-401k/), your credit score, and where you live. Some people stretch to $400,000. Some shouldn't go above $250,000. The range isn't because I'm being vague, it's because those individual factors genuinely swing the number by six figures.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">On $80k/year, a realistic target home price is roughly $240,000–$350,000 before debts.</li><li style="margin:5px 0">Your debt-to-income ratio (DTI) matters more than your salary alone.</li><li style="margin:5px 0">With no other debts and 20% down, some buyers at $80k can qualify up to ~$400,000.</li><li style="margin:5px 0">FHA loans allow higher DTI but add mortgage insurance, often $150–$200/month extra.</li><li style="margin:5px 0">Local property taxes and insurance can shift affordability by $50,000+ in home price.</li></ul></div>
-
 
 ## The Math Behind the Number
 
@@ -57,8 +55,6 @@ Same salary. Wildly different outcomes.
 
 > **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The "28% of gross income" guideline comes up constantly, and I used to recite it without thinking. What most people don't realize is that it was designed when mortgage payments were simpler. Property taxes in Texas or New Jersey can run $600–$900/month on a $300,000 house. Homeowners insurance has gone up sharply in coastal and wildfire-prone states. Throw in HOA fees of $250–$400/month in a condo building and suddenly your "affordable" mortgage payment is only half your actual housing cost.
 
 What I'd actually do: budget from the total monthly payment outward, not from the loan amount backward. Start with what you can realistically pay each month. Include taxes and insurance at realistic local rates. Then use a mortgage calculator to back into the home price. Freddie Mac's home buyer resources have a solid calculator for this that accounts for taxes and insurance separately, which the basic calculators often skip.
@@ -66,10 +62,6 @@ What I'd actually do: budget from the total monthly payment outward, not from th
 The difference between "I can afford a $300,000 mortgage" and "I can afford a $300,000 house" can be $300–$500/month in real payment terms.
 
 ## Down Payment Changes Everything
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Monthly payment on $300,000 home by down payment (6.8% rate, August 2026)</div><div class="sc-row"><span class="sc-label">3% down ($9k)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,923</span></div><div class="sc-row"><span class="sc-label">5% down ($15k)</span><span class="sc-track"><span class="sc-bar" style="width:98%"></span></span><span class="sc-val">$1,884</span></div><div class="sc-row"><span class="sc-label">10% down ($30k)</span><span class="sc-track"><span class="sc-bar" style="width:94%"></span></span><span class="sc-val">$1,808</span></div><div class="sc-row"><span class="sc-label">20% down ($60k)</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">$1,697</span></div><div class="sc-src">Source: Mortgage amortization estimates, August 2026</div></div>
-
 
 A bigger down payment does two things: it lowers your monthly payment, and on conventional loans, putting down 20% eliminates private mortgage insurance (PMI). PMI typically runs 0.5% to 1.5% of the loan amount annually. On a $270,000 loan that's $1,350 to $4,050 a year, or $113 to $338 a month, for insurance that protects the lender, not you. A lot of buyers don't realize they're paying for something that does them zero good. (I didn't fully absorb how frustrating this was until I watched a borrower pay PMI for four years because she'd been advised to "just put 5% down and invest the rest.")
 
@@ -111,7 +103,6 @@ My honest take: if you're on an $80,000 salary and you're looking in a high-tax,
 - Urban Institute Housing Finance Policy Center: Research on mortgage qualification trends and down payment patterns by income level
 
 ---
-
 
 *Photo: [Ivan S](https://www.pexels.com/@ivan-s) via Pexels*
 

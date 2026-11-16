@@ -31,9 +31,7 @@ You've found the house. The seller accepted your offer. You're already mentally 
 
 So let me do that now.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Appraisals typically cost $300–$650 for a single-family home and take 1–2 weeks from order to report.</li><li style="margin:5px 0">The appraiser works for the lender, not you, even though you pay the fee.</li><li style="margin:5px 0">A low appraisal doesn't automatically kill a deal; you have real options.</li><li style="margin:5px 0">Appraisers use recent comparable sales (usually within 6 months, within 1 mile) to determine value.</li><li style="margin:5px 0">You can request a copy of your appraisal report, it's legally yours.</li></ul></div>
-
 
 ## What an Appraisal Actually Is
 
@@ -46,8 +44,6 @@ That's not a conspiracy. It's actually the system working as designed. Lenders l
 ## What Happens During the Visit
 
 > **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The physical inspection is usually 30 to 90 minutes, depending on the size of the house. The appraiser is measuring square footage, noting condition, counting bedrooms and bathrooms, looking at the roof, the HVAC, the foundation, the kitchen and bath finishes. They're flagging anything that affects safety or habitability, like peeling paint on a pre-1978 home (lead paint rules are strict on FHA loans), missing handrails, or a water heater that's clearly past its life.
 
@@ -97,10 +93,6 @@ As of August 2026, appraisal fees and timelines vary significantly by property t
 
 A few notes on that table. Rural properties cost more because the appraiser has to travel further and often has fewer comps to work with. Desktop appraisals (no physical visit, uses public records and sometimes a third-party inspector) have become more common since lenders loosened requirements, but they're not available for every loan type or property. FHA and VA appraisals have additional requirements on top of market value, which is why they take slightly longer and cost a bit more.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical appraisal fee by property type (2026)</div><div class="sc-row"><span class="sc-label">Single-family</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">$500</span></div><div class="sc-row"><span class="sc-label">Condo</span><span class="sc-track"><span class="sc-bar" style="width:47%"></span></span><span class="sc-val">$425</span></div><div class="sc-row"><span class="sc-label">Multi-family</span><span class="sc-track"><span class="sc-bar" style="width:78%"></span></span><span class="sc-val">$700</span></div><div class="sc-row"><span class="sc-label">Rural/complex</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$900</span></div><div class="sc-row"><span class="sc-label">Desktop/hybrid</span><span class="sc-track"><span class="sc-bar" style="width:28%"></span></span><span class="sc-val">$250</span></div><div class="sc-src">Source: Industry experience and lender disclosures, 2026</div></div>
-
-
 ## One Thing I Got Wrong for Years
 
 For a long time, I told borrowers that the appraiser's job was to confirm the purchase price. That's how I'd heard it explained when I first started in underwriting. Wrong. The appraiser's job is to give an independent opinion of market value, full stop. If that opinion is lower than the contract price, that's information, not a failure. It took me watching a few borrowers overpay for properties that later lost significant value to really internalize that distinction. An appraisal protecting you from overpaying is the system working correctly, even when it doesn't feel that way.
@@ -118,7 +110,6 @@ One practical thing: if you want a resource to help you track your numbers and t
 - [Fannie Mae Selling Guide](https://selling-guide.fanniemae.com/): Appraiser eligibility requirements and property valuation standards as of 2026.
 
 ---
-
 
 *Photo: [Thirdman](https://www.pexels.com/@thirdman) via Pexels*
 
