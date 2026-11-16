@@ -31,7 +31,6 @@ Let me tell you what most coverage skips: the deduction doesn't help you unless 
 
 That's the part your loan officer glossed over at closing.
 
-
 <div class="value-module">
  <div class="vm-head">Itemizing Break-Even Calculator</div>
  <div class="vm-body">
@@ -45,7 +44,7 @@ That's the part your loan officer glossed over at closing.
 
 The mortgage interest deduction lets you subtract the interest you paid on a qualifying home loan from your taxable income. Not from your tax bill, your taxable income. That distinction matters enormously. If you're in the 22% federal bracket and you deduct $20,000 in mortgage interest, you save $4,400 in federal taxes, not $20,000. Borrowers confuse these constantly.
 
-For 2026, the deduction applies to interest on up to $750,000 of mortgage debt on a primary residence and one second home combined. That $750,000 cap has been in place since the TCJA took effect in 2018 and replaces the old $1 million limit that applied to mortgages originated before December 15, 2017. If your loan predates that cutoff, you're still grandfathered at $1 million. Keep your original closing documents if you're in that boat. I've seen people lose that grandfathered status by refinancing carelessly into a new loan that reset the clock.
+For 2026, the deduction applies to interest on up to $750,000 of mortgage debt on a primary residence and one second home combined. That $750,000 cap has been in place since the TCJA took effect in 2018 and replaces the old $1 million limit that applied to mortgages originated before December 15, 2017. If your loan predates that cutoff, you're still grandfathered at $1 million. Keep your original closing documents if you're in that boat. Refinancing carelessly into a new loan can reset the clock and cause you to lose that grandfathered status.
 
 One more thing: the limit applies to the outstanding principal balance, not the original loan amount. If you borrowed $800,000 in 2022 and you've paid it down to $760,000, you're still over the $750,000 cap and your deduction gets slightly reduced. The IRS worksheet in Publication 936 walks through the proration calculation, and it's not intuitive.
 

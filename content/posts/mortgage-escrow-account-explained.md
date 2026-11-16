@@ -38,7 +38,7 @@ You close on your home, you're handed a stack of papers thicker than a phone boo
 
 At its core, a mortgage escrow account is a holding account managed by your loan servicer. Every month, a portion of your mortgage payment goes into this account. Your servicer then uses that money to pay your property taxes and [homeowner's insurance](/homeowners-insurance-mortgage-requirement/) premiums on your behalf when those bills come due.
 
-Here's the thing though: the escrow account exists primarily to protect the lender, not you. If your property taxes go unpaid, the government can place a tax lien on your home, which takes priority over your mortgage. If your homeowner's insurance lapses and your house burns down, the lender's collateral is gone. The escrow account removes both of those risks from the lender's perspective.
+The escrow account exists primarily to protect the lender, not you. If your property taxes go unpaid, the government can place a tax lien on your home, which takes priority over your mortgage. If your homeowner's insurance lapses and your house burns down, the lender's collateral is gone. The escrow account removes both of those risks from the lender's perspective.
 
 It does help borrowers too, I'd argue. Most people aren't in the habit of setting aside a few hundred dollars a month so they can write a large check to the county tax assessor twice a year. Escrow turns those lumpy, unpredictable bills into smaller, predictable monthly increments. Whether you see it as a convenience or a constraint depends on how disciplined you are with money.
 
@@ -56,7 +56,7 @@ Under the Real Estate Settlement Procedures Act, better known as RESPA, your ser
 
 Let's say your annual property taxes are $4,800 and your homeowner's insurance premium is $1,200. That's $6,000 a year, or $500 a month in escrow. Your servicer can legally hold up to $1,000 extra as a cushion. Your escrow balance at its lowest point during the year should never drop below zero, but could legally sit as high as that two-month buffer.
 
-When you receive your annual escrow analysis statement, you can see exactly how your servicer ran these calculations. If the numbers don't match up, call and ask for clarification. Servicers make mistakes, and I've seen escrow accounts miscalculated in both directions.
+When you receive your annual escrow analysis statement, you can see exactly how your servicer ran these calculations. If the numbers don't match up, call and ask for clarification. Servicers make mistakes, and escrow accounts can be miscalculated in both directions.
 
 ## The Annual Escrow Analysis: Why Your Payment Changes
 

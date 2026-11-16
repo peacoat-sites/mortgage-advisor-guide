@@ -35,7 +35,7 @@ Here's what you actually do.
 
 ## Your first call is not to a lawyer or a housing counselor. It's to your servicer.
 
-Most people spend the first week of a financial crisis avoiding their mortgage company. I get it. Nobody wants to admit they're in trouble to the entity that can take their house. But here's the thing: your servicer, the company you write the check to every month, has loss mitigation departments that exist specifically because foreclosing on a home is expensive and slow and something they'd rather avoid. I've seen servicers work quickly with borrowers who called on day two of a hardship. I've also seen them have very little flexibility left by month four.
+Many borrowers avoid contacting their mortgage company during a financial crisis, but delay typically makes the situation harder to resolve. Your servicer, the company you write the check to every month, has loss mitigation departments that exist specifically because foreclosing on a home is expensive and slow. Servicers generally have more options to work with borrowers early in a hardship than they do after several months of missed payments.
 
 Call the number on your mortgage statement and ask specifically for the loss mitigation or hardship department. Don't call the general customer service line and wait on hold for 45 minutes. Say "financial hardship" early in the conversation. That triggers a different workflow entirely.
 
@@ -62,7 +62,7 @@ This is where things get genuinely complicated, and where loan officers sometime
 
 **Repayment plans** are different. You've missed one or two payments and can afford to catch up over time. A repayment plan lets you pay your regular mortgage plus a little extra each month until you're current. Simple. Genuinely helpful if your hardship was truly short-term.
 
-**[Loan modification](/mortgage-loan-modification-options/)** is the heavy-duty option that actually changes the terms of your loan. Typically by extending the repayment period, reducing the interest rate, or rolling the missed amounts into the principal. It's not fast, it requires a formal application, documentation of income and hardship, and review by the servicer or investor. I've seen modifications take two to five months from application to approval. But for borrowers facing a genuinely permanent income reduction, it can be the difference between keeping the home and losing it.
+**[Loan modification](/mortgage-loan-modification-options/)** is the heavy-duty option that actually changes the terms of your loan. Typically by extending the repayment period, reducing the interest rate, or rolling the missed amounts into the principal. It's not fast, it requires a formal application, documentation of income and hardship, and review by the servicer or investor. Modifications typically take two to five months from application to approval. But for borrowers facing a genuinely permanent income reduction, it can be the difference between keeping the home and losing it.
 
 There are also less common options: [partial claims](/partial-claim-mortgage/) (common with FHA loans), principal deferral, and in worst-case scenarios, short sales or deeds-in-lieu of foreclosure if you've decided to exit the home. Those are last resorts, but they're not as catastrophic as foreclosure on your credit report.
 
@@ -72,7 +72,7 @@ Here's what most people don't realize. You have the right to apply for loss miti
 
 ## What to do if your servicer isn't cooperating
 
-Some servicers are organized and responsive. Some are genuinely terrible. I've seen borrowers spend weeks trying to reach someone with decision-making authority, only to have their file "lost" twice while foreclosure proceedings continued in the background.
+Servicer quality and responsiveness vary widely. Some move quickly through the modification process; others create delays and communication obstacles that can complicate your ability to resolve the hardship.
 
 If you're hitting a wall, your next call should be to a HUD-approved housing counselor. These are free. You can find them at the CFPB's website. They know the loss mitigation rules, they know which servicers are playing games, and they'll often advocate on your behalf in ways you can't easily do yourself because you don't know the regulatory levers to pull.
 
@@ -88,7 +88,7 @@ A single missed mortgage payment reported to the credit bureaus typically knocks
 
 Here's the part nobody mentions: if you enter forbearance, your servicer is not supposed to report your account as delinquent during the forbearance period, provided the arrangement was formally agreed to in writing. Verbal agreements don't protect you. Get it in writing. Email confirmation is fine. A letter is better.
 
-There's also the question of what a mortgage crisis does to the rest of your financial life. If you're choosing between your mortgage and other debt, financial planners generally prioritize secured debt (mortgage, car) over unsecured debt (credit cards, medical bills). Losing housing is categorically harder to recover from than a collection account on a credit card. That's not specific financial advice for your situation, but it's the framework I've watched work in practice.
+If you're choosing between your mortgage and other debt, financial planners generally prioritize secured debt (mortgage, car) over unsecured debt (credit cards, medical bills). Losing housing is categorically harder to recover from than a collection account on a credit card.
 
 For borrowers who want deeper grounding in loan structures, Jack M. Guttentag's *The Mortgage Encyclopedia* is dense but genuinely useful. [You can find it on Amazon here](https://www.amazon.com/s?k=mortgage+encyclopedia+guttentag) (note: this site may earn a commission on qualifying purchases).
 
@@ -98,7 +98,7 @@ For borrowers who want deeper grounding in loan structures, Jack M. Guttentag's 
 
 Stopping communication.
 
-I've seen borrowers go silent for three months because they were ashamed, convinced nothing could be done, or just overwhelmed. By the time they called back, the servicer had filed a notice of default, the window for certain modification programs had closed, and the credit damage was already done. Servicers don't want your house. They want their money. That creates more room for negotiation than most borrowers realize, but only if you stay in the conversation.
+Borrowers who avoid contact during hardship often face worse outcomes: servicers may file a notice of default, certain modification programs may become unavailable, and credit damage mounts. Servicers don't want your house; they want their money. That creates more room for negotiation than many borrowers realize, but only if you stay in the conversation.
 
 Miss one payment and call immediately. You're in a vastly better position than someone who's missed four and hasn't returned a call.
 
@@ -106,7 +106,7 @@ Respond to every piece of mail from your servicer, even the ones that look like 
 
 ---
 
-The situation doesn't have to become a foreclosure. That's not optimism, it's just what the data shows: most borrowers who reach out early, stay in communication, and formally apply for help find some workable path. The ones who suffer the worst outcomes are almost always the ones who went quiet and waited. Don't wait.
+The situation doesn't have to become a foreclosure. Most borrowers who reach out early, stay in communication, and formally apply for help find some workable path. The worst outcomes occur among those who avoid contact and delay seeking assistance.
 
 ## Sources & References
 

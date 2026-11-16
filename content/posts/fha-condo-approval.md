@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most buyers shopping for a condo with an FHA loan don't realize the property itself has to be approved, not just them. That's the trap. You can have a 720 credit score, two years of clean tax returns, and a 3.5% down payment ready to go, and you can still get denied because the condo association failed to complete a form three years ago. I've watched this derail more closings than almost any other single issue in my underwriting career, and I'll be honest: a lot of loan officers don't flag it early enough because they're focused on the borrower file, not the property side.
+Most buyers shopping for a condo with an FHA loan don't realize the property itself has to be approved, not just them. This creates a common problem: a borrower with strong finances can still face denial if the condo association's paperwork is incomplete. For example, missing forms or documentation from years past can hold up approval. Many loan officers focus heavily on the borrower's file and don't flag property-side issues early enough.
 
 So let me give you the real story on how FHA condo approval actually works, what can go wrong, and how to avoid becoming a cautionary tale.
 
@@ -46,8 +46,6 @@ The approved project list lives on HUD's Condo Project Search tool, which you ca
 | Single Unit Approval (SUA) | At least 5 units | At least 50% | Maximum 35% | Maximum 15% (60+ days) | N/A |
 
 > **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 **Full project approval** is exactly what it sounds like. The entire development goes through HUD review. Lenders or HOAs submit financials, insurance documents, occupancy data, and more. If approved, any unit in the project is eligible for [FHA financing](/fha-vs-conventional-loan-which-is-better-for-first-time-buyers/) (assuming the borrower qualifies). Approvals expire every three years, which is where a lot of projects quietly fall off the list without anyone noticing until a buyer shows up with an FHA loan.
 
@@ -69,7 +67,7 @@ That six-week delay was entirely preventable if someone had run the project data
 
 ## What Can Disqualify a Project, and Why You Should Care
 
-I've seen HOA financials that would make a CFO cry. FHA has real standards here, and they're not just paperwork theater.
+FHA has real standards here, and they're not just paperwork theater.
 
 For full project approval, HUD wants to see that the association has adequate financial reserves. The standard is that at least 10% of the HOA's annual budget is going into reserves. A lot of older associations, especially ones formed in the 1980s and 1990s, never built this habit, and their reserve funds are dangerously thin. FHA sees this as a risk signal, rightly so, because an underfunded HOA is a special assessment waiting to happen.
 
@@ -104,7 +102,6 @@ First-time buyer in Chicago, pre-approved for FHA with 3.5% down, finds a 24-uni
 - Community Associations Institute (CAI): Industry research on HOA financial health and reserve fund adequacy across U.S. associations
 
 ---
-
 
 ---
 

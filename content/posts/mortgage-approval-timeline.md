@@ -68,7 +68,7 @@ This is the part most articles skip over. The timeline above assumes a clean, co
 
 **The appraisal** is the single biggest wildcard. The lender orders it, but an independent appraiser completes it on their own schedule. In hot markets or rural areas, appraisal turn times can stretch past three weeks. And if the appraisal comes in below the purchase price? You're looking at renegotiation with the seller, a second appraisal, or a restructured loan, all of which add time.
 
-**Document requests during underwriting** are the second-biggest delay. Underwriters are thorough by design. If you had a large deposit in your checking account six months ago, they want to know where it came from. If you changed jobs last year, they want a two-year employment history verified. I've seen loans delayed two weeks because a borrower couldn't locate a two-year-old tax return. The lesson: get your documents organized before you apply. The [Consumer Financial Protection Bureau's owning-a-home resources](https://www.consumerfinance.gov/owning-a-home/) include a solid mortgage application checklist that's worth printing out before you talk to a lender.
+**Document requests during underwriting** are the second-biggest delay. Underwriters are thorough by design. If you had a large deposit in your checking account six months ago, they want to know where it came from. If you changed jobs last year, they want a two-year employment history verified. Document requests can delay closing by weeks if you're scrambling to find old tax returns or bank statements. Get your documents organized before you apply. The [Consumer Financial Protection Bureau's owning-a-home resources](https://www.consumerfinance.gov/owning-a-home/) include a solid mortgage application checklist that's worth printing out before you talk to a lender.
 
 **Title issues** can surface during the title search and take days or weeks to resolve. Liens from old contractors, errors in public records, or complicated inheritance situations can all stall things unexpectedly.
 
@@ -88,7 +88,7 @@ They're checking four things simultaneously.
 
 **Collateral:** The appraisal. Is the property worth the loan amount? Is it in acceptable condition? Does it meet the specific requirements for the loan type you're using?
 
-Any one of these four areas can trigger a condition or, in the worst case, a denial. A denial after conditional approval is rare but it happens. I've seen it when a borrower took on new debt after applying, which tanked their DTI, or when a final employment verification revealed the borrower had left their job. Do not make large purchases, open new credit accounts, or change jobs between application and closing. That instruction isn't a formality.
+Any one of these four areas can trigger a condition or, in the worst case, a denial. A denial after conditional approval is rare, but it can happen if a borrower takes on new debt after applying (which tanks their DTI) or if a final employment verification reveals a job change. Do not make large purchases, open new credit accounts, or change jobs between application and closing. That instruction isn't a formality.
 
 ## How to Actively Speed Up Your Own Approval
 
@@ -114,7 +114,7 @@ If you're refinancing rather than purchasing, the dynamics shift. There's no sel
 
 Refinances typically take 30 to 45 days as well, but they can stretch longer because there's less external pressure. The good news is you can often be more selective about timing. Rate locks on refinances are a real cost, though. If your process drags past your lock period, you'll either pay a lock extension fee or potentially re-lock at a new rate. If you're thinking about a refinance or want to understand the full process end to end, the walkthrough at [how to refinance your mortgage](/how-to-refinance-mortgage/) covers what to expect at each stage.
 
-The timeline between application and closing can feel impossibly long when you're living out of boxes or paying overlapping rent and mortgage costs. But the process has a logic to it, and when you understand each stage, you spend less time wondering and more time preparing. The borrowers I've seen close fastest aren't the ones with the simplest financial situations. They're the ones who show up organized, respond quickly, and understand exactly what the lender needs at every step. That's a standard any borrower can meet with the right preparation.
+The timeline between application and closing can feel impossibly long when you're living out of boxes or paying overlapping rent and mortgage costs. But the process has a logic to it, and when you understand each stage, you spend less time wondering and more time preparing. Loans close fastest when borrowers show up organized, respond quickly, and understand exactly what the lender needs at every step. That's a standard any borrower can meet with the right preparation.
 
 ## Sources & References
 

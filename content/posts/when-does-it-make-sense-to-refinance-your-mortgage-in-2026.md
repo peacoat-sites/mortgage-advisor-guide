@@ -25,7 +25,7 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 lastmod: 2026-07-07
 ---
-Most people refinance at exactly the wrong time, for exactly the wrong reason. I've watched borrowers lock in a "great deal" that cost them an extra $14,000 over the life of their loan because nobody bothered to explain the break-even math before they signed.
+Most people refinance at exactly the wrong time, for exactly the wrong reason. A common mistake is locking in a "great deal" without understanding the break-even math, which can cost an extra $14,000 or more over the life of the loan.
 
 So let's talk about 2026 specifically, because the conditions right now are genuinely different from the refinance booms most people use as a mental reference point.
 
@@ -53,7 +53,7 @@ It's simple. Refinancing costs money upfront, typically 2% to 5% of the loan bal
 
 Say your outstanding balance is $320,000. Closing costs come in at $6,400 (roughly 2%). Your new payment is $210 lower per month. That's a break-even of about 30 months. Fairly confident you'll be in this home for three or more years? The refinance makes real sense. There's a reasonable chance you'll sell or relocate in 18 months? You'd be locking in a guaranteed loss.
 
-I've seen people miss this because loan officers present the monthly savings in bold and bury the closing cost line. One borrower I know got handed a "no-closing-cost refinance" pitch and thought he was getting a free lunch. What he got was a slightly higher rate baked in to cover those costs, which meant his break-even was actually pushed out further than a traditional refi would have been. No-closing-cost loans aren't bad products, but they're absolutely not free.
+Loan officers often present the monthly savings prominently while burying the closing cost line. With a "no-closing-cost refinance," a slightly higher rate is baked in to cover those costs, which means your break-even point gets pushed out further than a traditional refi would be. No-closing-cost loans aren't bad products, but they're absolutely not free.
 
 Run this too: if you're resetting a 30-year clock, calculate total interest paid over the life of both scenarios. A $280,000 balance with 22 years left on a 7.1% loan versus refinancing into a fresh 30-year at 5.6% might lower your payment, but you're agreeing to pay interest for 8 additional years. A [mortgage calculator](https://www.amazon.com/s?k=mortgage+calculator+financial+planning&tag=contentportfo-20) can model this out in minutes. (Disclosure: this site may earn a commission on qualifying purchases.)
 
@@ -61,7 +61,7 @@ Run this too: if you're resetting a 30-year clock, calculate total interest paid
 
 If you bought or refinanced between mid-2022 and late 2023, you almost certainly have a rate north of 6.5%, possibly above 7%. That's the cohort with the most to gain if their credit profile has held steady or improved. A solid credit score (720+), meaningful remaining equity, and stable income makes this a straightforward case to at least run the numbers.
 
-[Cash-out refinances](/cash-out-refinance-explained/) are a separate beast. Yes, home values in many markets are still elevated compared to five years ago, which means real equity exists. But you're replacing a debt with a larger debt, at a rate that may or may not pencil out depending on what you're doing with the cash. Using equity to fund a high-return home renovation with documented comps? That can be rational. Using it to consolidate credit card debt that will likely creep back up? I've watched that play out badly more times than I want to count.
+[Cash-out refinances](/cash-out-refinance-explained/) are a separate beast. Yes, home values in many markets are still elevated compared to five years ago, which means real equity exists. But you're replacing a debt with a larger debt, at a rate that may or may not pencil out depending on what you're doing with the cash. Using equity to fund a high-return home renovation with documented comps can be rational. Using it to consolidate credit card debt that will likely creep back up typically creates problems, as the debt tends to accumulate again.
 
 Borrowers with [adjustable-rate mortgages](/streamline-refinance-options/) are in a different position entirely. If you took a 5/1 or 7/1 ARM in 2019 or 2020, your initial fixed period may have already ended or will soon. Depending on where your caps land and where the index is tracking, locking into a fixed rate can be strong right now, even if the math isn't as obviously favorable as the 2021 refi boom.
 
@@ -79,7 +79,7 @@ A [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housi
 
 The documentation requirements in 2026 aren't dramatically different from 2022, but one area consistently blindsides borrowers: self-employment and gig income.
 
-If any portion of your income comes from 1099 work, freelance, rental income, or business ownership, expect lenders to use a two-year average from your tax returns, adjusted for business expenses shown on Schedule C. Your gross income and your qualifying income can be very different numbers. I've seen borrowers with genuinely strong finances get declined or repriced because their accountant had done a great job minimizing taxable income on paper.
+If any portion of your income comes from 1099 work, freelance, rental income, or business ownership, lenders will use a two-year average from your tax returns, adjusted for business expenses shown on Schedule C. Your gross income and your qualifying income can be very different numbers. Borrowers with strong finances may get declined or repriced if their accountant has minimized taxable income on paper.
 
 W-2 borrowers aren't off the hook either. Change jobs in the past 12-24 months, even at higher pay? Some lenders will treat your income as unverifiable without a two-year history in the same field. It's frustrating. It's also consistently how loans get derailed at the 11th hour.
 
@@ -87,7 +87,7 @@ The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.go
 
 ## Timing the Market vs. Timing Your Life
 
-People ask me constantly whether they should wait for rates to drop further. Honestly, this is the wrong question most of the time.
+People ask me constantly whether they should wait for rates to drop further. This is the wrong question most of the time.
 
 Rates might drop another half point by the end of 2026. They might not. They could move the other direction if inflation surprises to the upside again, which isn't a crazy scenario. Nobody who got paid to predict this got it right in 2023, 2024, or 2025. You are not going to be the one who times the mortgage market correctly.
 

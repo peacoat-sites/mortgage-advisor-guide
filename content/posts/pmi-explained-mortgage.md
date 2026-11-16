@@ -96,7 +96,7 @@ PMI isn't inevitable. If the idea of paying for coverage that doesn't benefit yo
 
 **Save to 20% down.** The cleanest solution. No PMI, lower rate, lower monthly payment, more equity immediately. The tradeoff is time. Depending on your market and savings rate, this could mean renting for another two to four years. Not always a bad choice, especially in flat or declining markets.
 
-**Piggyback loan (80-10-10 structure).** First mortgage for 80% of the purchase price, second mortgage (usually a home equity line or fixed second) for 10%, you put down 10% yourself. The first mortgage carries no PMI because LTV is 80%. You pay interest on the second loan instead. This can beat PMI depending on that second loan's rate, but it's more complex and the second loan might have a variable rate. I've seen clients make this work, but it requires careful math.
+**Piggyback loan (80-10-10 structure).** First mortgage for 80% of the purchase price, second mortgage (usually a home equity line or fixed second) for 10%, you put down 10% yourself. The first mortgage carries no PMI because LTV is 80%. You pay interest on the second loan instead. This can beat PMI depending on that second loan's rate, but it's more complex and the second loan might have a variable rate. This approach requires careful math to confirm it actually saves money compared to PMI.
 
 **Down payment assistance programs.** Many state housing finance agencies offer programs that can help you reach 20% down or reduce your effective LTV. They vary dramatically by state, income limits, and property location. Your loan officer should know what's available in your area, but do your own research too. Not every loan officer stays current on these programs.
 
@@ -117,7 +117,6 @@ Before talking to a lender, work through how all these options compare. A home b
 - [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)
 - [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)
 - [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

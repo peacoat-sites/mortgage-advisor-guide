@@ -43,7 +43,7 @@ The single biggest misconception about USDA loans is that the property has to be
 
 USDA defines eligible areas as rural, but that definition is broader than most people expect. Towns with populations under 35,000 can qualify, and some suburban-adjacent communities do as well, depending on how the USDA has drawn the boundaries. These boundaries get updated periodically, and areas that qualified last year may not qualify next year, and vice versa. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) tracks conforming loan limits and housing data by region, which helps illustrate how widely housing markets vary even within states.
 
-Here's what you actually need to do: go directly to the USDA's official eligibility map before you fall in love with a property. You enter an address and it tells you whether that specific parcel is in an eligible area. I've seen buyers find eligible properties less than 10 miles from city centers. Suburbs of mid-size cities, small college towns, and rural bedroom communities often qualify.
+Here's what you actually need to do: go directly to the USDA's official eligibility map before you fall in love with a property. You enter an address and it tells you whether that specific parcel is in an eligible area. Eligible properties can be found less than 10 miles from city centers. Suburbs of mid-size cities, small college towns, and rural bedroom communities often qualify.
 
 A few additional property requirements matter:
 
@@ -68,7 +68,7 @@ The USDA doesn't set a hard minimum credit score in its published guidelines. In
 
 Here's what I tell clients: a 640 score gets you in the door, but the full file still has to make sense. A 640 score with a stable two-year employment history, no recent collections, and a reasonable debt load is a very different application than a 640 with a recent 90-day late payment and a maxed-out credit card.
 
-Debt-to-income ratio (DTI) is the other major lever. USDA guidelines generally allow a front-end DTI (housing costs divided by gross monthly income) up to 29% and a back-end DTI (all monthly debts including housing) up to 41%. Lenders can exceed these ratios with compensating factors, such as a strong credit score, cash reserves, or demonstrated history of paying a similar housing expense. In practice, I've seen files approved with back-end DTIs closer to 44-45% when the rest of the file was clean.
+Debt-to-income ratio (DTI) is the other major lever. USDA guidelines generally allow a front-end DTI (housing costs divided by gross monthly income) up to 29% and a back-end DTI (all monthly debts including housing) up to 41%. Lenders can exceed these ratios with compensating factors, such as a strong credit score, cash reserves, or demonstrated history of paying a similar housing expense. Lenders may approve back-end DTIs closer to 44-45% when other factors in the application are strong.
 
 If your credit is in the 580-620 range, the USDA loan isn't closed to you, but you need a lender willing to manually underwrite and a file that compensates for the lower score. Spend six months paying down revolving debt, disputing any errors on your report, and avoiding new credit inquiries before you apply.
 
@@ -129,7 +129,6 @@ The USDA loan won't work for everyone. If you're buying in a dense urban area, y
 - [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
 - [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)
 - [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

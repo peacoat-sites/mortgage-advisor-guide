@@ -42,13 +42,11 @@ The loan doesn't just disappear. Your heirs typically have about 6 months (somet
 
 > **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-I've seen reverse mortgages work well. I've also seen them go badly. The difference usually comes down to three factors: why you're doing it, what the alternative is, and how long you're likely to stay in the home.
+Reverse mortgages can work well or go badly. The difference usually comes down to three factors: why you're doing it, what the alternative is, and how long you're likely to stay in the home.
 
 The strongest case I can make for a reverse mortgage is this: a homeowner in their late 70s or older, living in a paid-off or nearly paid-off home, who needs to supplement a fixed income to cover healthcare costs or basic living expenses, and has no plans to move. In that scenario, a reverse mortgage can extend financial stability meaningfully. You're converting an illiquid asset into usable income without selling the home you've lived in for 30 years.
 
-The weakest case is a 62-year-old (the minimum age) who still has a large mortgage balance, wants cash for discretionary spending, and hasn't thought through what happens when they need to move to assisted living in 15 years. I've seen that scenario play out poorly more than once. When you leave the home for 12 consecutive months for health reasons, the loan becomes due. If the home has to be sold quickly while you're in a memory care facility, your family is managing a real estate transaction under pressure. That's a hard situation.
+A weak case would be someone at the minimum age of 62 who still has a large mortgage balance, wants cash for discretionary spending, and hasn't thought through what happens if they need to move to assisted living in 15 years. When you leave the home for 12 consecutive months for health reasons, the loan becomes due. If the home has to be sold quickly while you're in a memory care facility, your family is managing a real estate transaction under pressure. That's a hard situation.
 
 There's one more thing I want to be direct about: reverse mortgages are expensive. Origination fees, mortgage insurance premiums (both upfront and annual), closing costs, servicing fees. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) has reported on the cost structures embedded in these products, and they are not cheap. You're trading equity for liquidity, and the meter runs continuously whether or not you're drawing funds.
 
@@ -68,7 +66,6 @@ The research from Harold Abelson and others who've studied coordinated retiremen
 
 ---
 
-
 ---
 
 If a reverse mortgage is on your radar, the most useful thing you can do right now is get the counseling session before you talk to a lender. Go in informed. The session is genuinely useful, and it'll help you separate what the product can do from what the advertising suggests it can do. Those are often very different things.
@@ -86,7 +83,6 @@ If a reverse mortgage is on your radar, the most useful thing you can do right n
 - [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
 - [The Retirement Savings Time Bomb](https://www.amazon.com/Retirement-Savings-Time-Bomb-Defuse/dp/0593327861/?tag=contentportfo-20)
 - [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

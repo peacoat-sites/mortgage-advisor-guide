@@ -25,7 +25,7 @@ author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 lastmod: 2026-07-08
 ---
-You walk into a lender's office, pre-approval letter in hand, convinced the hard part is over. Then the underwriter pulls your file and finds a collections account you forgot about, a debt-to-income ratio that's two points too high, and a down payment that came from your uncle's Venmo transfer with zero documentation. Suddenly the "easy" conventional loan feels anything but. I've watched that exact scenario play out hundreds of times, and in almost every case, the borrower had no idea these issues mattered until it was too late to fix them cleanly.
+A common obstacle emerges after pre-approval: underwriters discover issues that weren't caught earlier, like collections accounts, a debt-to-income ratio that's too high, or a down payment without proper documentation. Many borrowers don't realize these problems matter until it's difficult to fix them cleanly.
 
 Understanding conventional loan requirements before you apply isn't just useful. It's the difference between a smooth closing and a 45-day scramble that costs you the house.
 
@@ -40,9 +40,7 @@ Understanding conventional loan requirements before you apply isn't just useful.
 
 **20% Down Payment Required**: Most people believe conventional loans mandate a 20% down payment. But data shows borrowers can qualify with as little as 3-5% down. According to Fannie Mae and Freddie Mac guidelines, conventional loans with down payments below 20% are common, they simply require private mortgage insurance (PMI). In 2024, approximately 65% of conventional loan borrowers put down less than 20%, with many closing between 5-10% down. The 20% threshold persists as a myth because it eliminates PMI costs, but it's not a requirement. Borrowers prioritizing lower upfront costs can access conventional financing well below this traditional benchmark.
 
-
 **"You need 20% down to get a conventional loan": Most people believe putting down less than 20% disqualifies them from conventional financing. But conventional loans actually allow down payments as low as 3%, according to Fannie Mae and Freddie Mac guidelines. In 2024, the Mortgage Bankers Association reported that 70% of conventional loans had down payments below 20%, with the median sitting around 12%. The catch? Lower down payments trigger PMI (private mortgage insurance), but that's a cost consideration, not a disqualification, and PMI is often cheaper and more flexible than FHA alternatives.**
-
 
 A conventional loan is any mortgage that isn't backed by a federal government agency. FHA loans are insured by the Federal Housing Administration. VA loans are guaranteed by the Department of Veterans Affairs. USDA loans have their own rural-development guarantee. Conventional loans have none of that government backstop. Instead, they're either held by the lender in its own portfolio or sold to investors on the secondary market, usually through Fannie Mae or Freddie Mac.
 
@@ -66,7 +64,7 @@ One thing that surprises borrowers: lenders use the middle of your three bureau 
 
 Your debt-to-income ratio, or DTI, is the percentage of your gross monthly income that goes toward monthly debt payments. There are two numbers lenders look at: your front-end ratio, which is just the housing payment, and your back-end ratio, which includes housing plus all other recurring debts.
 
-For conventional loans, the standard back-end DTI limit is 45%. Fannie Mae's automated underwriting system can approve borrowers up to 50% with compensating factors like significant cash reserves or a strong credit score. But in my experience, files that come in above 45% DTI face a lot more scrutiny and have a higher rate of last-minute hiccups.
+For conventional loans, the standard back-end DTI limit is 45%. Fannie Mae's automated underwriting system can approve borrowers up to 50% with compensating factors like significant cash reserves or a strong credit score. Files above 45% DTI tend to face closer scrutiny and a higher risk of last-minute complications.
 
 Here's where borrowers get tripped up. Lenders count minimum payment amounts on credit cards, car loans, student loans, and any other installment debt. They also count things you might not think of, like child support obligations, co-signed loans (yes, even if someone else makes the payment), and the monthly cost of any investment properties you own. They don't count utilities, insurance premiums separate from the mortgage, subscriptions, or phone bills.
 

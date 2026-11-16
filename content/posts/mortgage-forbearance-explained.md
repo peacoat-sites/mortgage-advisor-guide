@@ -114,7 +114,7 @@ The mistakes borrowers make during forbearance don't come from carelessness. The
 
 ---
 
-The phone call you're avoiding is the one that could save your home. Servicers deal with this every day. They have protocols, options, and they almost always prefer a workout agreement to a foreclosure. Reach out before you're months behind. Document everything. If the conversation gets complicated, bring in a HUD-approved housing counselor who can sit in your corner. For a deeper look at the full arc of the home buying and homeownership process, resources like [this comprehensive home-buying guide](https://www.amazon.com/s?k=home+buying+guide+mortgage) on Amazon can also help you build your knowledge base (note: this site may earn a commission on qualifying purchases). You have more leverage than you think. But only if you use it.
+The phone call you're avoiding is the one that could save your home. Servicers deal with this every day. They have protocols, options, and they almost always prefer a workout agreement to a foreclosure. Reach out before you're months behind. Document everything. If the conversation gets complicated, bring in a HUD-approved housing counselor who can sit in your corner. For a deeper look at the full arc of the home buying and homeownership process, resources like [this comprehensive home-buying guide](https://www.amazon.com/s?k=home+buying+guide+mortgage) on Amazon can also help you build your knowledge base (note: this site may earn a commission on qualifying purchases).
 
 ## Sources & References
 

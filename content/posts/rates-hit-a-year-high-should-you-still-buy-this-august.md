@@ -18,9 +18,7 @@ A couple reached out to me in late July after locking in a rate quote that expir
 
 The 30-year fixed rate hit 6.66% to 6.69% in Freddie Mac's survey for the week ending July 30, 2026, the highest it's been since August 2025 and the biggest single-week jump in ten weeks. The driver isn't some boring Fed policy tweak. It's a combination of Middle East conflict volatility tied to Iran and a [Federal Reserve](/how-are-mortgage-rates-affected-by-the-federal-reserve/) that refused to cut rates at its July 29 meeting, with some analysts now saying rate hikes could be back on the table. That's a reversal most buyers weren't prepared for. The Realtor.com senior economist Hannah Jones put it plainly: the near-term rate outlook is "hostage to how the Iran situation develops." Not exactly a reassuring forecast for someone trying to plan a major financial decision.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The 30-year fixed rate hit 6.69% the week of July 30, 2026, its highest since August 2025.</li><li style="margin:5px 0">The median monthly mortgage payment reached $2,191 in June 2026, per the Mortgage Bankers Association.</li><li style="margin:5px 0">There are 51% more sellers than buyers right now, giving buyers real negotiating leverage on price and concessions.</li><li style="margin:5px 0">Buyers lost roughly $11,000 in purchasing power between February and April 2026 alone ,  and rates climbed further since.</li><li style="margin:5px 0">The Fed held rates steady July 29 and may hike; meaningful rate relief in 2026 is far from guaranteed.</li></ul></div>
-
 
 ## What These Rates Actually Cost You Month to Month
 
@@ -40,8 +38,6 @@ That's $144 more [per month](/average-cost-of-private-mortgage-insurance-per-mon
 
 > **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's what makes this market genuinely strange. Rates are at a year-high AND buyers have more negotiating power than they've had in years. Those two things don't usually go together.
 
 Redfin data shows there are currently 51% more home sellers than buyers. That's not a slight imbalance. That's a real buyer's market in terms of supply. Sellers sitting on homes that won't move are offering concessions: closing cost credits, rate buydowns, repair allowances, price cuts. A seller paying 1.5 points toward your rate buydown on a $400,000 loan is worth $6,000 at closing. That's real money and it directly offsets some of the rate pain.
@@ -56,7 +52,7 @@ The Fed's decision to hold rates steady at its July 29, 2026 meeting was widely 
 
 ## The "Wait for Rates to Drop" Trap
 
-I've seen this cost people more than almost anything else in this business. The logic feels sound: rates are high, so wait until they fall, then buy. The problem is threefold.
+This mistake costs many people more than almost anything else in home financing. The logic feels sound: rates are high, so wait until they fall, then buy. The problem is threefold.
 
 First, if rates drop significantly, every buyer sitting on the sidelines re-enters the market at once. Prices spike. Your lower rate saves you $150 a month but the home costs $30,000 more. You've lost.
 

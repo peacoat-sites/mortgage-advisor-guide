@@ -41,7 +41,7 @@ Say you're buying a $400,000 house and putting down 20%, so you're borrowing $32
 
 That's $208 a month you're not paying during the ARM's fixed period. Over 7 years, that's $17,472 sitting in your account instead of your lender's. If you sell or refinance within those 7 years, you've made out. 
 
-But if rates climb and you're still there after year 7? Your payment adjusts upward. ARMs have caps on how much the rate can jump per adjustment and over the life of the loan. That said, the jump can still hurt. I've seen people's payments increase by $400 or $500 a month once adjustments start. Your financial cushion matters here.
+But if rates climb and you're still there after year 7? Your payment adjusts upward. ARMs have caps on how much the rate can jump per adjustment and over the life of the loan. That said, the jump can still hurt. Payments can increase by $400 or $500 a month once adjustments start. Your financial cushion matters here.
 
 ## Questions to Ask Yourself
 

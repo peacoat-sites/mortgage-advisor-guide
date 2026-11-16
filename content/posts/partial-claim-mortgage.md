@@ -48,8 +48,6 @@ As of July 2026, partial claims remain a core tool in HUD's loss mitigation wate
 
 > **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where a lot of borrowers get tripped up: you don't apply for a partial claim directly with HUD. You go through your mortgage servicer. HUD authorizes the servicer to offer it, and the servicer evaluates your eligibility.
 
 The general sequence looks like this:
@@ -64,9 +62,9 @@ The general sequence looks like this:
 
 **Step 5.** You resume making regular first-mortgage payments.
 
-One scenario I've seen play out repeatedly: Homeowner loses a job in November, gets a new job in February, falls four months behind on their FHA mortgage. Servicer offers a partial claim. HUD advances roughly four months of principal, interest, and escrow. Homeowner signs the subordinate note and resumes payments in April. Three years later, they sell the home, and the partial claim gets paid off from the sale proceeds. Total additional interest paid: zero. That's a genuinely good outcome.
+For example, a homeowner who falls four months behind on an FHA mortgage while between jobs might receive a partial claim. HUD advances roughly four months of principal, interest, and escrow. The homeowner signs the subordinate note and resumes payments. If they sell the home three years later, the partial claim gets paid off from the sale proceeds with no additional interest owed. This represents an effective use of the program.
 
-The harder scenario: Homeowner falls eight months behind, gets a partial claim, but the underlying financial picture hasn't stabilized. They fall behind again six months later. Now they've partially exhausted the 30% cap and have fewer options if a second crisis hits. I've seen this more times than I'd like. Partial claims work best when the original hardship really was temporary.
+A riskier scenario occurs when a homeowner falls eight months behind, receives a partial claim, but the underlying financial situation hasn't stabilized. If they fall behind again six months later, they've partially exhausted the 30% cap and have fewer options if another crisis hits. Partial claims work best when the original hardship was truly temporary.
 
 ---
 
@@ -136,7 +134,6 @@ For borrowers who want to go deeper on the mechanics of mortgage debt and your r
 - [Freddie Mac MyHome Advisor](https://myhome.freddiemac.com/): Practical guidance on how subordinate liens affect refinancing and home sale proceeds.
 
 ---
-
 
 ---
 

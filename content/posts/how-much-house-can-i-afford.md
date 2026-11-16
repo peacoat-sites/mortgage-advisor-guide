@@ -25,7 +25,7 @@ author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 lastmod: 2026-07-08
 ---
-Most buyers walk into a lender's office knowing exactly one number: the [pre-approval amount](/mortgage-pre-approval-process/). They treat it like scripture. I've watched clients get pre-approved for $550,000 and immediately start touring homes at that ceiling, only to realize three months later that the monthly payment was quietly eating their financial life. A pre-approval tells you what a lender is willing to risk. It tells you almost nothing about what you can actually afford.
+Most buyers walk into a lender's office knowing exactly one number: the [pre-approval amount](/mortgage-pre-approval-process/). They treat it like scripture. A common mistake is treating a pre-approval amount as a target rather than a ceiling. Many buyers discover months later that the monthly payment strains their budget more than expected. A pre-approval tells you what a lender is willing to risk. It tells you almost nothing about what you can actually afford.
 
 Those are two very different questions, and confusing them is the single most expensive mistake in home buying.
 
@@ -45,7 +45,7 @@ The **front-end DTI** is your proposed monthly housing payment divided by your g
 
 Here's what your loan officer might gloss over: gross income is what you earn before taxes. A borrower making $8,000 per month gross might take home $5,800 after federal taxes, state taxes, and withholding. If the lender approves a back-end DTI of 45%, that's $3,600 per month in debt payments against $8,000 gross. But against $5,800 net, that same $3,600 is 62% of actual take-home pay. Suddenly, "qualified" and "comfortable" look nothing alike.
 
-I've seen clients technically qualify for a loan while having almost nothing left for groceries after their first mortgage payment. Lenders don't lose sleep over that. You will.
+A lender's qualification standards don't account for whether you'll have money left for groceries after your first mortgage payment. Lenders don't lose sleep over that. You will.
 
 ## The Real Affordability Formula: Start With Your Budget, Not a Ratio
 
@@ -99,7 +99,7 @@ The size of your down payment affects more than just your loan amount. It affect
 
 A larger down payment reduces the principal you're financing, which lowers both the monthly payment and total interest paid over the life of the loan. It also typically earns you a slightly better interest rate, since a borrower with more equity represents less risk to the lender.
 
-But there's a real trap here. I've watched buyers drain every dollar from their savings to hit 20% down and avoid PMI, then face a $7,000 roof replacement in month four with zero reserves. That's when people end up carrying high-interest credit card debt on top of a mortgage payment.
+But there's a real trap here. For example, a buyer who drains savings to reach 20% down and avoid PMI might face an unexpected $7,000 roof replacement in month four with no financial cushion left. That's when people end up carrying high-interest credit card debt on top of a mortgage payment.
 
 The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) publishes conforming loan limits annually. If your loan amount stays under the conforming limit for your area, you have access to conventional financing. Go above it, and you're into jumbo territory, which typically requires stronger credit, larger reserves, and sometimes a higher rate.
 

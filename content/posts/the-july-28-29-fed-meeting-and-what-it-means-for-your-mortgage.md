@@ -20,9 +20,7 @@ Here's what's actually going on, and what it means for the decision in front of 
 
 The 30-[year fixed](/current-30-year-fixed-mortgage-rates-forecast-2026/) rate hit 6.891% on July 24, 2026, per Zillow data reported by U.S. News. That's the highest daily average since June 2025, and it's not an accident. Oil prices have climbed to near $85 a barrel, driven largely by re-escalated fighting in Iran, and energy prices feed directly into inflation numbers, which is exactly what makes the Fed nervous. Freddie Mac's July 16 weekly survey showed 6.55%, but daily market averages had already raced ahead to 6.85% by that point. The weekly surveys always lag. By the time you see that number in the news, the real market has moved on without you.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The 30-year fixed hit 6.891% on July 24, the highest since June 2025.</li><li style="margin:5px 0">The Fed is evenly split: half favor holding or cutting, half favor at least one 2026 hike.</li><li style="margin:5px 0">Markets price a one-in-three chance of a July 29 rate hike.</li><li style="margin:5px 0">A 0.25% hike would add roughly $50/month on a $400,000 loan.</li><li style="margin:5px 0">Fannie Mae forecasts the full-year 2026 average at 6.4%, with most economists in the 6.2%–6.5% range.</li></ul></div>
-
 
 ## Why This Fed Meeting Is Different From the Last Several
 
@@ -36,8 +34,6 @@ What most people don't realize is that [mortgage rates](/how-are-mortgage-rates-
 
 > **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Let's make this concrete, because the difference between 6.75% and 7% feels abstract until you see the monthly payment.
 
 | Scenario | Rate | Monthly Payment (30-yr, $400K loan) | Added Monthly Cost vs. 6.75% |
@@ -46,7 +42,7 @@ Let's make this concrete, because the difference between 6.75% and 7% feels abst
 | 25 bps hike priced in | ~7.00% | ~$2,661 | +$67/month |
 | Two hikes by year-end | ~7.25% | ~$2,729 | +$135/month |
 
-That $50-to-$67 monthly difference on a $400,000 loan is real money over a year, and over 30 years it's a significant amount. I've seen borrowers roll the dice waiting for rates to drop, and sometimes it works out. More often, they end up at a worse rate than what they passed on, kicking themselves.
+That $50-to-$67 monthly difference on a $400,000 loan is real money over a year, and over 30 years it's a significant amount. Borrowers who wait for rates to drop sometimes see it work out, but more often they end up at a worse rate than what they passed on.
 
 ## The Oil Price Connection Most Buyers Miss
 
@@ -60,9 +56,7 @@ If oil prices stabilize or fall, that could relieve pressure on inflation data, 
 
 Even in the more optimistic scenarios, experts aren't calling for rates to drop dramatically anytime soon. Fannie Mae revised its full-year 2026 mortgage rate forecast upward to 6.4%. The Mortgage Bankers Association and most economists are clustered in the 6.2% to 6.5% range for the remainder of 2026, per the U.S. News rate forecast. That means if you're hoping rates fall back to 6% or below before year-end, you're betting against the consensus.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">2026 Mortgage Rate Forecasts by Source</div><div class="sc-row"><span class="sc-label">Fannie Mae</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">6.4%</span></div><div class="sc-row"><span class="sc-label">MBA</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">6.3%</span></div><div class="sc-row"><span class="sc-label">Freddie Mac (Jul 16)</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">6.5%</span></div><div class="sc-row"><span class="sc-label">Daily Avg (Jul 24)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">6.9%</span></div><div class="sc-src">Source: Fannie Mae, MBA, U.S. News, Mortgage-Info.com (July 2026)</div></div>
-
 
 What this tells you is that even the optimistic forecasts don't have rates falling far enough to make waiting clearly worth it. The classic advice, marry the house, date the rate, meaning buy now and refinance later if rates drop, holds up better when rates are expected to meaningfully decline. When the forecast range is 6.2% to 6.5% through year-end, the refinance opportunity you're counting on may not show up.
 

@@ -14,7 +14,7 @@ slug: "what-trumps-mortgage-credit-order-means-for-your-next-closing"
 affiliate_disclosure: true
 lastmod: 2026-07-07
 ---
-Picture this: you're three weeks from closing on a house you've been hunting for eight months, and your loan officer calls to say your appraisal came in low. The deal stalls. The seller gets nervous. You lose the house. I've seen this scenario play out dozens of times, and it's the kind of grinding, expensive friction that a sweeping executive order signed in March is now directly targeting.
+A low appraisal can derail a deal even weeks before closing, causing the seller to grow nervous and potentially killing the transaction. This kind of grinding, expensive friction is what a sweeping executive order signed in March is now directly targeting.
 
 On March 13, 2026, President Trump signed EO 14393, "Promoting Access to Mortgage Credit," directing the CFPB, FHFA, HUD, VA, USDA, and federal banking regulators to revisit and overhaul much of the post-Dodd-Frank mortgage infrastructure. Several agency deadlines land this summer, with the FHFA report to the White House due around mid-July 2026. If you're buying or refinancing during this peak season, some of these changes may be taking shape while your loan is literally in the pipeline.
 
@@ -29,8 +29,6 @@ What most people don't realize is that appraisal waivers already exist on a mean
 ## Your Closing Could Actually Go Digital, Finally
 
 > **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I've sat at more closing tables than I can count, and the ritual of signing your name 40 times in wet ink while a notary watches the clock is, to put it plainly, absurd. The technology to do this remotely and electronically has existed for years. The regulatory patchwork preventing it from becoming standard practice is what the executive order is now targeting.
 

@@ -54,7 +54,7 @@ This is where it actually gets useful, because not all mortgages play by the sam
 
 **USDA loans:** These rural development loans generally follow FHA-like guidelines, using 0.5% of the balance if the actual payment is $0 or deferred.
 
-The loan program you apply for can literally be the difference between an approval and a denial. I've seen borrowers qualify easily under VA guidelines who were flat-out rejected under conventional guidelines, with the same income and the same debts.
+The loan program you apply for can literally be the difference between an approval and a denial. A borrower with the same income and debts might qualify easily under VA guidelines but be rejected under conventional guidelines.
 
 ## The Income-Driven Repayment Strategy You Should Know About
 

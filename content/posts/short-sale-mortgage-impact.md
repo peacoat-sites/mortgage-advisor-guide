@@ -26,7 +26,7 @@ First, the credit piece, because everyone asks about it and almost everyone gets
 
 A short sale doesn't have its own special credit reporting category. What hits your credit is the delinquency that typically precedes the short sale, the "settled for less than full amount" notation, and sometimes a 1099-C for the forgiven debt (which is a tax issue, not a credit issue, but worth knowing). FICO doesn't treat a short sale identically to a foreclosure, but the gap is narrower than most people hope. You're looking at an 85 to 160 point drop if you were 90 days or more late before closing, roughly the same neighborhood as a foreclosure.
 
-Here's what matters more than the exact score drop: how quickly you rebuild. Someone who starts aggressively managing credit the month after the short sale closes, paying everything on time, keeping utilization low, can be in solid shape within two to three years. I've seen it happen. The credit recovery and the mortgage waiting period often run concurrently, which is actually good news.
+Here's what matters more than the exact score drop: how quickly you rebuild. Someone who starts aggressively managing credit the month after the short sale closes, paying everything on time, keeping utilization low, can be in solid shape within two to three years. The credit recovery and the mortgage waiting period often run concurrently, which is actually good news.
 
 ## The Waiting Periods, Loan by Loan
 
@@ -49,7 +49,7 @@ This is where precision matters, because the rules are different for every loan 
 
 **USDA loans:** Three years. Rural property buyers sometimes overlook USDA, but the zero-down structure makes it worth knowing about if you're in an eligible area.
 
-Here's something people don't ask but absolutely should: the waiting period clock starts at the completion date on the short sale, not the date you stopped making payments, not the date the lender approved the sale. Get that date in writing from your old servicer if you don't have it. I've seen borrowers think they're eligible three months before they actually are because they were counting from the wrong event.
+Here's something people don't ask but absolutely should: the waiting period clock starts at the completion date on the short sale, not the date you stopped making payments, not the date the lender approved the sale. Get that date in writing from your old servicer if you don't have it. Borrowers sometimes think they're eligible months before they actually are because they're counting from the wrong event.
 
 ## The Rate Penalty Nobody Mentions
 

@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Hard money loans get a bad reputation they only half deserve.
 
-Yes, they're expensive. Yes, they can wreck you if you misuse them. But I've also watched hard money loans save deals that [conventional financing](/conventional-loan-requirements/) would have killed, and I've seen borrowers use them intelligently to build serious real estate portfolios. The problem isn't the product. The problem is that most people walking into a hard money loan don't fully understand what they're agreeing to until they're already committed.
+Yes, they're expensive. Yes, they can wreck you if you misuse them. Hard money loans can save deals that [conventional financing](/conventional-loan-requirements/) would have killed, and borrowers can use them intelligently to build serious real estate portfolios. The problem isn't the product. The problem is that most people walking into a hard money loan don't fully understand what they're agreeing to until they're already committed.
 
 Let me fix that.
 
@@ -43,9 +43,7 @@ Let me fix that.
 
 **"You need 20% down for a hard money loan"**: Most people assume hard money lenders require substantial down payments like traditional banks. But hard money lenders actually operate on asset-based lending, not credit scores. In practice, down payments typically range from 10-30%, with many lenders accepting 10-15% for borrowers with strong exit strategies. A 2023 survey by the National Hard Money Lenders Association found that 68% of hard money loans closed with less than 20% down. The real determinant isn't a fixed percentage, it's the property's after-repair value (ARV) and your ability to demonstrate a clear exit plan, whether that's a fix-and-flip or rental conversion.
 
-
 **"You need 20% down for a hard money loan"**: Most people assume hard money lenders demand substantial down payments like traditional banks. But hard money lenders typically require only 10-15% down, with some accepting as low as 5-10% depending on the property and borrower profile. According to the Hard Money Lenders Association, 65% of hard money loans close with down payments under 15%, compared to the 20% conventional standard. This flexibility is precisely why hard money appeals to real estate investors who lack liquid capital but have strong exit strategies, the lower barrier to entry accelerates deal velocity without requiring six months of savings.
-
 
 Here's what I tell people who come to me confused about hard money: forget everything you think you know about how loans are underwritten. With a conventional mortgage, the lender is primarily buying into *you*. Your credit score, your [debt-to-income ratio](/conventional-loan-requirements/), your employment history, your tax returns. Two years of W-2s, sometimes three. The asset matters, but you're the collateral in the practical sense.
 
@@ -66,8 +64,6 @@ Check out [our mortgage calculator](/mortgage-calculators) to get a rough sense 
 ## Who Actually Uses These Loans (and Why)
 
 > **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 You might be wondering who willingly signs up for 12% interest and $12,000 in upfront fees. More people than you'd guess, and many of them are doing it very deliberately.
 
@@ -97,7 +93,7 @@ This is the section I really want you to read.
 
 **Extension fees.** Hard money loans have maturity dates, and if your project runs long (renovation delays, slow sale market, contractor issues), you may need to extend. Extensions are common and they cost money, sometimes another 1-2 points. This can quietly add thousands to your total cost.
 
-**Cross-collateralization clauses.** Some lenders, particularly if you're working with one lender across multiple deals, will include language that ties properties together as collateral. If one deal goes sideways, they may have recourse against your other properties. I've seen borrowers blindsided by this.
+**Cross-collateralization clauses.** Some lenders, particularly if you're working with one lender across multiple deals, will include language that ties properties together as collateral. If one deal goes sideways, they may have recourse against your other properties. Borrowers can be blindsided by this.
 
 **The appraisal the lender orders.** With conventional loans, there's a formal appraisal process with consumer protections. With hard money, the lender often orders their own appraisal or valuation, and it may not be from a state-licensed appraiser. Their number drives your loan amount. Get your own independent valuation if you have any doubt.
 
@@ -175,7 +171,6 @@ Start your deal analysis with a solid understanding of what DSCR loans require s
 - Blomquist, Daren. Auction.com Market Reports and Interviews (2023-2025): Data and commentary on investor financing timelines and return compression.
 
 ---
-
 
 ---
 

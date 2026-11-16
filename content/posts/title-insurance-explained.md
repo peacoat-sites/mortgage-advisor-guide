@@ -41,8 +41,6 @@ A **lender's title insurance policy** protects the mortgage company. If you're b
 
 An **owner's title insurance policy** protects you. It covers your equity and your right to stay in your home. It lasts as long as you or your heirs own the property. And here's the critical part: it's optional in most states, which is why some buyers skip it and hope for the best.
 
-That's a bet I've watched people regret.
-
 ## Why Title Problems Are More Common Than You'd Think
 
 You might think title problems are rare. They're not. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) has studied title defect rates and consistently found that issues ranging from minor clerical errors to serious ownership disputes appear in a meaningful percentage of real estate transactions.

@@ -38,7 +38,7 @@ The basic concept is simple: you voluntarily hand the title of your home back to
 
 What most people don't realize is that "walking away" is doing a lot of heavy lifting in that sentence. Whether you're truly free depends entirely on what's negotiated in writing before you hand over that deed.
 
-I've seen borrowers complete a deed in lieu thinking they were done with the house, only to get a 1099-C from the lender a year later for the forgiven debt, which the IRS can treat as taxable income. As of July 2026, the tax treatment of forgiven mortgage debt is something you absolutely need to run by a CPA before signing. The rules have shifted over the years, and exceptions exist (insolvency, for example), but "I thought it was forgiven" is not a defense against a tax bill.
+A borrower may complete a deed in lieu thinking they are done with the house, only to receive a 1099-C from the lender a year later for the forgiven debt, which the IRS can treat as taxable income. As of July 2026, the tax treatment of forgiven mortgage debt is something you absolutely need to run by a CPA before signing. The rules have shifted over the years, and exceptions exist (insolvency, for example), but assuming the debt is forgiven without understanding the tax implications is not a defense against a tax bill.
 
 The other thing a deed in lieu does NOT automatically eliminate: junior liens. Second mortgages, home equity lines of credit, HOA liens, mechanic's liens. If there are encumbrances on the title that the first lien holder hasn't cleared, many lenders won't even accept a deed in lieu. And if they do accept it, those junior lien holders may still come after you.
 
@@ -58,13 +58,11 @@ The other thing a deed in lieu does NOT automatically eliminate: junior liens. S
 
 > **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Not always. Let me be direct about that. A deed in lieu is the right move in a fairly specific set of circumstances.
 
 You're underwater on the home. You've exhausted forbearance. A [loan modification isn't viable](/mortgage-loan-modification-options/) because the payment is unworkable even at a reduced rate. You don't have a buyer lined up for a short sale, or you simply don't have the emotional bandwidth for a multi-month short sale process with strangers walking through your house. You want this chapter to be over.
 
-In that scenario, a deed in lieu can actually be cleaner and faster than foreclosure, and in many cases the credit impact is slightly less severe than a completed foreclosure. Slightly. I want to be careful not to oversell this. Both events are major derogatory marks. The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) acknowledges that a deed in lieu, like a foreclosure, can remain on your credit report for seven years. The difference in credit score impact is real but modest, maybe 20 to 40 points depending on your overall profile. What it does give you is more control over the timeline.
+In that scenario, a deed in lieu can actually be cleaner and faster than foreclosure, and in many cases the credit impact is slightly less severe than a completed foreclosure. Slightly. Both events are major derogatory marks. The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) acknowledges that a deed in lieu, like a foreclosure, can remain on your credit report for seven years. The difference in credit score impact is real but modest, maybe 20 to 40 points depending on your overall profile. What it does give you is more control over the timeline.
 
 One thing I've noticed over the years: borrowers who go the deed in lieu route, when it's genuinely the right tool, tend to feel better about the process afterward. Not good. But better. There's something psychologically different about choosing to end it on your own terms versus having the bank foreclose.
 
@@ -90,7 +88,7 @@ Worked example: A borrower in Phoenix owns a home she purchased for $420,000. By
 
 ## The Fine Print Most People Miss
 
-Deficiency waivers are not automatic. This cannot be overstated. In many states, if a lender forgives a debt through deed in lieu without a written deficiency waiver, they can sue you for the difference between what you owed and what they eventually sell the property for. I've seen borrowers complete a deed in lieu feeling relief, then get hit with a lawsuit 18 months later for a $60,000 deficiency. Get the waiver in the agreement. In writing. Reviewed by an attorney.
+Deficiency waivers are not automatic. This cannot be overstated. In many states, if a lender forgives a debt through deed in lieu without a written deficiency waiver, they can sue you for the difference between what you owed and what they eventually sell the property for. Get the waiver in the agreement. In writing. Reviewed by an attorney.
 
 The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) has guidelines for loans backed by Fannie Mae and Freddie Mac that offer more structured deed in lieu programs with defined timelines and deficiency policies. If your loan is conventional and backed by either of those agencies, you have more predictability in the process than you might think. It's worth checking whose guidelines govern your loan.
 
@@ -109,7 +107,6 @@ One more thing that surprises people: if you're married, both spouses typically 
 - HUD Loss Mitigation Program guidelines: Relevant for FHA-insured loans, which have their own deed in lieu structure and requirements distinct from conventional programs.
 
 ---
-
 
 ---
 

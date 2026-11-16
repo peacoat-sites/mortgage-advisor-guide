@@ -25,7 +25,7 @@ faqs:
     a: "On most conventional loans and government-backed loans (FHA, VA) originated in recent years, prepayment penalties are prohibited or strictly limited. However, some older loans and certain non-QM products do carry prepayment penalty clauses. Check page 3 of your Closing Disclosure under 'Loan Terms' before sending any large extra payments."
 ---
 
-Paying off a 30-[year mortgage](/15-year-vs-30-year-mortgage-pros-and-cons/) in 20 years instead saves the average American homeowner somewhere between $50,000 and $100,000 in interest, depending on loan size and rate. That's not a rounding error. That's a car, a college fund, or a decade of retirement contributions. And yet, when I was underwriting loans, I watched borrower after borrower sign 30-year notes without ever once being shown what that timeline actually costs them in total dollars paid.
+Paying off a 30-[year mortgage](/15-year-vs-30-year-mortgage-pros-and-cons/) in 20 years instead saves the average American homeowner somewhere between $50,000 and $100,000 in interest, depending on loan size and rate. That's not a rounding error. That's a car, a college fund, or a decade of retirement contributions. Yet many borrowers sign 30-year notes without being shown what that timeline actually costs them in total dollars paid.
 
 You might be wondering if early payoff is even worth thinking about [right now](/should-you-take-an-arm-right-now-to-beat-high-fixed-rates/), especially with rates where they are and budgets already stretched thin. Here's what I tell people: the math almost always makes sense. But the strategy has to fit your life, and there are real tradeoffs that nobody in the mortgage business is in a hurry to explain to you.
 
@@ -35,7 +35,7 @@ Let me walk through the actual numbers, the mechanics, and the scenarios where e
 
 ## What You're Actually Paying For Over 30 Years
 
-Here's the thing nobody tells you at closing: in the early years of a mortgage, almost none of your payment goes to principal. I used to pull up amortization schedules for borrowers who looked genuinely stunned when they saw it. On a $350,000 loan at 6.75% (roughly where 30-[year fixed](/current-30-year-fixed-mortgage-rates-forecast-2026/) rates have been sitting, as of August 2026), your first monthly payment is around $2,270. Of that, approximately $1,969 is interest and only $301 is principal. You're paying the bank first. You pay yourself last.
+In the early years of a mortgage, almost none of your payment goes to principal. Many borrowers are surprised to see this on an amortization schedule. On a $350,000 loan at 6.75% (roughly where 30-[year fixed](/current-30-year-fixed-mortgage-rates-forecast-2026/) rates have been sitting, as of August 2026), your first monthly payment is around $2,270. Of that, approximately $1,969 is interest and only $301 is principal. You're paying the bank first. You pay yourself last.
 
 Over 30 years, that same $350,000 loan will cost you roughly $467,000 in interest alone. Total out-of-pocket: around $817,000 for a house you borrowed $350,000 to buy. I'm not saying this to be alarming. I'm saying it because once you see that number, extra principal payments stop feeling like a sacrifice and start feeling like the most obvious investment you have.
 
@@ -81,7 +81,7 @@ You don't have an emergency fund. Three to six months of expenses, liquid. If an
 
 You haven't contributed enough to get your full employer 401(k) match. Free money. Always take it first.
 
-A reader named Marcus, a middle school teacher in Columbus, Ohio, emailed me after reading something I wrote about debt prioritization. He'd been sending an extra $400 a month to his mortgage for two years while carrying $11,000 in credit card debt at 19.9%. When he ran the actual numbers, he realized he'd saved about $3,200 in mortgage interest while paying roughly $4,400 in credit card interest he could have eliminated sooner. He felt sick about it. He was a smart guy who just hadn't seen it laid out clearly. That's not a failure on his part. It's a failure of how this information gets presented.
+For example, someone sending an extra $400 a month to a mortgage while carrying $11,000 in credit card debt at 19.9% might save about $3,200 in mortgage interest over two years while paying roughly $4,400 in credit card interest that could have been eliminated sooner. This gap often reflects how the information gets presented rather than a lack of understanding.
 
 ## How to Actually Do It
 

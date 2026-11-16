@@ -44,12 +44,11 @@ A mortgage application isn't complicated. It's thorough. Lenders are required to
 
 **Misconception**: Most people think a 20% down payment is always required to qualify for a home loan. **Reality**: According to the Federal Reserve and Fannie Mae data, over 60% of home loans originated in 2024 had down payments below 20%. FHA loans allow as little as 3.5% down, while VA and USDA loans offer 0% down options for eligible borrowers. Even conventional loans frequently close with 5-10% down payments. The 20% threshold primarily affects mortgage insurance requirements, not eligibility, buyers with smaller down payments simply pay PMI (private mortgage insurance) until reaching 20% equity, making homeownership accessible far earlier than the traditional benchmark suggests.
 
-
 Before you resent the paperwork, understand what's driving it. Since the Dodd-Frank Act tightened lending standards after the 2008 housing crisis, lenders are legally required to verify a borrower's ability to repay. This is called the [Ability-to-Repay rule](/mortgage-qualification-requirements/), and it puts the burden of proof on you.
 
 Your loan file gets reviewed not just by the loan officer, but by an [underwriter](/mortgage-underwriting-process/), and often a second underwriter if the loan is going to Fannie Mae or Freddie Mac. Each set of eyes is looking for inconsistencies. A large deposit in your checking account that doesn't match your documented income? That triggers a paper trail request. A gap in employment? You'll need a written explanation. A name that's spelled slightly differently on two documents? Believe it or not, that can cause delays.
 
-I've seen borrowers with excellent credit and plenty of assets lose weeks of time simply because they couldn't document where a $4,000 deposit came from three months earlier. The scrutiny is real.
+Borrowers with excellent credit and plenty of assets can lose weeks of time simply because they couldn't document where a deposit came from months earlier. The scrutiny is real.
 
 ---
 
@@ -82,7 +81,7 @@ This is where most borrowers hit friction, especially if their income situation 
 - Year-to-date profit and loss statement, often prepared by a CPA
 - Business bank statements for 12 to 24 months
 
-Self-employment income is averaged over two years, and lenders use net income after deductions, not gross revenue. If you write off significant expenses, your qualifying income may be substantially lower than what you actually earn. I've had clients who made $200,000 in gross revenue but qualified as if they made $60,000 because of their deduction strategy. That's a real tension between tax efficiency and borrowing power.
+Self-employment income is averaged over two years, and lenders use net income after deductions, not gross revenue. If you write off significant expenses, your qualifying income may be substantially lower than what you actually earn. Self-employed borrowers who made $200,000 in gross revenue might qualify as if they made $60,000 because of their deduction strategy. That's a real tension between tax efficiency and borrowing power.
 
 **Other income types that require documentation:**
 - Social Security or disability: Award letter from SSA
@@ -160,7 +159,7 @@ If you want a resource to work through alongside this, [Freddie Mac's home buyer
 
 ---
 
-A mortgage application rewards preparation more than almost any other financial process I know. You can't control interest rates, appraisal outcomes, or title issues. But you can control whether your file is complete and organized from day one. The borrowers I've watched sail through closings weren't always the ones with the highest incomes or the best credit scores. They were the ones who showed up ready, with every document already in the folder. That's the advantage you can actually build before you ever walk through a lender's door.
+A mortgage application rewards preparation more than most financial processes. You can't control interest rates, appraisal outcomes, or title issues. But you can control whether your file is complete and organized from day one. Borrowers who sail through closings aren't always the ones with the highest incomes or the best credit scores. They're the ones who show up ready, with every document already in the folder. That's the advantage you can actually build before you ever walk through a lender's door.
 
 ## Sources & References
 

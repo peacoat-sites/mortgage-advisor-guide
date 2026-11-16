@@ -25,7 +25,7 @@ author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 lastmod: 2026-07-08
 ---
-Most homebuyers sign their closing documents, see the line item for "escrow account," and nod like they understand it. They don't. And honestly, neither did I when I started in underwriting. I had to sit with a processor named Renée who drew it on a whiteboard in about 90 seconds and suddenly the whole thing clicked.
+Most homebuyers sign their closing documents, see the line item for "escrow account," and nod like they understand it. But escrow accounts confuse many people.
 
 Let me do that for you here.
 
@@ -47,7 +47,7 @@ Simple enough. The wrinkle is the cushion.
 
 Federal law under the Real Estate Settlement Procedures Act (RESPA) allows servicers to collect up to two months' worth of escrow payments as a reserve. So if your taxes and insurance together work out to $400 a month, the servicer can require you to keep up to $800 sitting in that account at all times. This is why your initial escrow deposit at closing can feel like a gut punch. You're pre-funding the account so there's a buffer before your regular payments start covering the bills.
 
-I've had borrowers call me genuinely angry about this, convinced it was some kind of hidden fee. It's not a fee. The money is yours. It's just held, and it will get paid out to cover your obligations.
+A common misconception is that escrow charges are hidden fees. They're not. The money in your escrow account is yours. Your lender holds it and pays it out to cover your obligations like taxes and insurance.
 
 ## The Annual Escrow Analysis: The Part Nobody Warns You About
 
@@ -83,7 +83,7 @@ If you're a first-time buyer and you're even slightly uncertain about managing l
 
 ## What to Do When Something Feels Off
 
-Servicers make errors. I've seen tax payments sent to the wrong jurisdiction, insurance premiums paid late, and escrow analyses that used outdated tax figures. If your escrow balance doesn't look right, you have the right to request an account history from your servicer at any time.
+Servicer errors do happen: tax payments sent to the wrong jurisdiction, insurance premiums paid late, or escrow analyses using outdated figures. If your escrow balance doesn't look right, you have the right to request an account history from your servicer at any time.
 
 If you suspect an error and can't get it resolved directly, a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can help you work through it without charging you. That resource is genuinely underused.
 

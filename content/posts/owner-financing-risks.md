@@ -31,9 +31,7 @@ Owner financing (also called [seller financing](/seller-financing-explained/)) i
 
 But I spent years reviewing loan files, and the deals that went sideways most often weren't standard mortgages. They were informal arrangements where someone thought a handshake and a one-page contract were sufficient. They weren't.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Owner financing bypasses traditional lender protections, leaving both buyer and seller exposed to serious legal and financial risk.</li><li style="margin:5px 0">Buyers can lose their entire down payment if the seller has an existing mortgage with a due-on-sale clause ,  a real and common scenario.</li><li style="margin:5px 0">Sellers retain title risk if the contract isn't structured correctly; buyers can lose equity without a deed of trust or mortgage in place.</li><li style="margin:5px 0">Interest rates on owner-financed deals typically run 2-4 percentage points above conventional rates as of July 2026.</li><li style="margin:5px 0">Both parties need a real estate attorney, not just a real estate agent, before signing anything.</li></ul></div>
-
 
 ## The Due-on-Sale Clause Will Wreck You If You Ignore It
 
@@ -49,8 +47,6 @@ Before agreeing to any seller-financed deal, you must confirm in writing whether
 
 > **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 A lot of owner-financing agreements are drafted by the seller, sometimes with the help of a discount legal template off the internet. That is not a contract. That's a document that looks like a contract until something goes wrong.
 
 A properly structured owner-financed purchase should include:
@@ -62,7 +58,7 @@ A properly structured owner-financed purchase should include:
 
 That last one is where I see buyers get overconfident. A seller might offer a five-year term with a balloon, meaning you owe the full remaining balance after five years. The assumption is: by then, you'll qualify for a conventional mortgage and refinance out. But refinancing depends on your credit improving, rates being reasonable, and the property appraising correctly. None of those are guaranteed.
 
-A reader named David, from outside Knoxville, emailed me last year about exactly this situation. He'd done an owner-financed deal in 2021, five-year balloon, with the plan to refinance by 2026. His credit improved, but his property appraised roughly $31,000 short of what he'd paid. He couldn't refinance without bringing cash to closing that he didn't have. He and the seller are now renegotiating the balloon term, which the seller doesn't legally have to agree to.
+Owner-financed deals can create refinancing problems when property values decline. For example, a buyer with improved credit might find their property appraised $31,000 short of the purchase price, making refinancing impossible without additional cash at closing. In such cases, renegotiating the balloon term becomes necessary, though the seller has no legal obligation to agree.
 
 ## How the Costs Actually Compare
 
@@ -95,7 +91,7 @@ I thought this structure was relatively rare until I started paying attention to
 
 This isn't all buyer risk. Sellers who offer financing without proper documentation face real problems.
 
-If the seller dies before the loan is paid off, and there's no recorded mortgage or deed of trust, the buyer's payment obligation can get tangled up in probate for a long time. The seller's heirs may dispute the terms. The buyer may stop paying during the uncertainty. I've seen these situations drag on for three or four years.
+If the seller dies before the loan is paid off, and there's no recorded mortgage or deed of trust, the buyer's payment obligation can get tangled up in probate for a long time. The seller's heirs may dispute the terms. The buyer may stop paying during the uncertainty. These situations can drag on for three or four years.
 
 Sellers also have to handle the income tax side of installment sales correctly. Receiving payments over time instead of a lump sum at closing changes how and when you report the gain. Get that wrong, and the IRS will eventually get involved. This is not a DIY tax situation. A CPA who knows real estate is worth every dollar.
 
@@ -110,7 +106,6 @@ Sellers also have to handle the income tax side of installment sales correctly. 
 - National Consumer Law Center, "Dreams Foreclosed" (2005, updated): Documented how contract-for-deed arrangements disproportionately strip wealth from buyers; data on loss rates still cited in current housing policy discussions.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

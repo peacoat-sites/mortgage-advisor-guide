@@ -25,7 +25,7 @@ author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
 lastmod: 2026-07-08
 ---
-You close on your dream home in three days. The lender calls to confirm your homeowners insurance is in place. You give them the policy number, feeling prepared. Then they come back with a problem: your dwelling coverage limit is $180,000 but your loan balance is $340,000. The policy you bought doesn't meet their requirements, and closing is now in jeopardy. I've watched this scene play out more times than I'd like to admit. It's entirely avoidable once you understand what lenders actually require and why.
+You close on your dream home in three days. The lender calls to confirm your homeowners insurance is in place. You give them the policy number, feeling prepared. Then they come back with a problem: your dwelling coverage limit is $180,000 but your loan balance is $340,000. The policy you bought doesn't meet their requirements, and closing is now in jeopardy. This situation is entirely avoidable once you understand what lenders actually require and why.
 
 ## Why Lenders Require Homeowners Insurance (and What They're Really Protecting)
 
@@ -63,13 +63,13 @@ If your homeowners policy lapses, your lender won't shrug and wish you luck. The
 
 Force-placed premiums routinely run two to five times higher than a comparable policy you'd buy yourself. More importantly, these policies cover only the lender's interest. Your personal property isn't covered. Your liability isn't covered. If a guest slips on your stairs, you're on your own. The policy exists purely to protect the lender's collateral, and you're paying for it.
 
-I've seen clients discover force-placed insurance six months after a lapse they didn't even know occurred. Their premium was being collected through escrow, they didn't open the notice, and now they owe back-premiums on a policy that never protected them personally. If you manage your own insurance payments outside of escrow, set a calendar alert 60 days before renewal every year. Seriously.
+Force-placed insurance can become an issue when a lapse occurs without the borrower's knowledge. If your premium is being collected through escrow and you miss a renewal notice, you could owe back-premiums on a policy that never protected you. If you manage your own insurance payments outside of escrow, set a calendar alert 60 days before renewal every year. Seriously.
 
 ## How Escrow Accounts Factor Into the Insurance Requirement
 
 Most conventional loans with less than 20% down, and virtually all FHA and VA loans, require an [escrow account](/mortgage-escrow-account-explained/). Your lender collects a monthly insurance premium cushion alongside your principal and interest payment, then pays your insurance company directly when the bill comes due. It removes the risk of a lapse due to a missed payment.
 
-The downside is real: your lender controls the timing and sometimes the selection of your coverage. If you switch insurers mid-year, you need to notify your lender's escrow department immediately. Otherwise they'll send a renewal payment to your old insurer. I've seen this create coverage gaps that triggered force-placed insurance despite the borrower doing everything right on their end.
+The downside is real: your lender controls the timing and sometimes the selection of your coverage. If you switch insurers mid-year, you need to notify your lender's escrow department immediately. Otherwise they'll send a renewal payment to your old insurer. This can create coverage gaps that trigger force-placed insurance even when the borrower has done everything right.
 
 If your down payment is 20% or more on a conventional loan, you may be able to waive escrow and manage the payment yourself. Whether to do so is a legitimate choice, but it requires discipline. One missed renewal payment and you're in the force-placed trap.
 

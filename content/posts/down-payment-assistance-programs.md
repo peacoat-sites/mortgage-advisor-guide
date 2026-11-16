@@ -123,7 +123,7 @@ Starting with less equity carries risk. If you put 3% down with DPA assistance a
 
 Deferred second mortgages create future obligations. If you plan to refinance within five years, a deferred second mortgage has to be paid off or subordinated. Not all lenders will subordinate, and that can complicate or block your refinance.
 
-For buyers who are financially stable, have good income, and plan to stay long-term, DPA can be incredibly effective for entering the market earlier than they otherwise could. I've seen it work beautifully. Go in with both eyes open.
+For buyers who are financially stable, have good income, and plan to stay long-term, DPA can be incredibly effective for entering the market earlier than they otherwise could. Go in with both eyes open.
 
 ---
 

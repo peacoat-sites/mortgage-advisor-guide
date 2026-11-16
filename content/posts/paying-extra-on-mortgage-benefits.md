@@ -31,9 +31,7 @@ The interest you pay over 30 years on a mortgage that size? It's not a rounding 
 
 I want to be upfront: this isn't magic, and it won't be the right move for everyone. If you're carrying high-interest credit card debt, paying extra on a 6.75% [mortgage while](/can-i-get-a-mortgage-while-self-employed/) revolving a balance at 24% APR is backwards math. But for people who've asked me "what's the best thing I can do with an extra $200 a month?" -- often, the answer genuinely is this.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">On a $350,000 30-year loan at 6.75%, an extra $200/month saves roughly $68,000+ in interest over the life of the loan.</li><li style="margin:5px 0">Extra payments cut years off your loan term, not just dollars from the total.</li><li style="margin:5px 0">Early payments matter most, dollars added in year 1 save far more than dollars added in year 25.</li><li style="margin:5px 0">Always confirm your lender applies extra payments to principal, not future interest.</li><li style="margin:5px 0">This strategy beats many investments on an after-tax, risk-adjusted basis only if you're debt-free otherwise.</li></ul></div>
-
 
 ## Why the First Ten Years Are Where the Magic Lives
 
@@ -47,8 +45,6 @@ When I was processing loan files, I'd see borrowers who'd been diligently paying
 
 > **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Let me make this concrete, because "you'll save a lot" is useless without context.
 
 | Extra Monthly Payment | Interest Saved (est.) | Years Cut Off 30-yr Term |
@@ -61,7 +57,7 @@ Let me make this concrete, because "you'll save a lot" is useless without contex
 
 *Based on a $350,000 loan, 30-year fixed at 6.75%, current as of August 2026. Estimates are illustrative; your actual numbers depend on your balance, rate, and timing.*
 
-A few of these numbers stopped me cold when I first calculated them. $500 extra per month, which for many households isn't small, but isn't impossible, cuts the loan by over a decade. That's 120+ payments you never have to make.
+$500 extra per month cuts the loan by over a decade. That's 120+ payments you never have to make.
 
 Here are three worked examples from situations I've actually seen or calculated:
 
@@ -79,7 +75,7 @@ It's technically not fraud. It's just servicers being servicers. And if you're n
 
 Every single time you make an extra payment, you need to either: write "apply to principal only" in the memo line of a physical check, use your servicer's online portal specifically selecting "principal payment," or call and confirm after. Then check your next statement to verify your principal balance actually dropped by the amount you sent. The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) has documented this issue and borrowers have recourse, but the easiest fix is catching it immediately.
 
-I've seen this swallow thousands of dollars in supposed extra payments. Don't assume the system does what you intend.
+Many lenders don't automatically apply extra payments to principal. Don't assume the system does what you intend.
 
 ## Is This Actually Better Than Investing?
 
@@ -118,7 +114,6 @@ For anyone who wants personalized guidance, [HUD-approved housing counselors](ht
 - Freddie Mac Amortization Resources: Detailed breakdown of how principal vs. interest ratios shift over the life of a loan.
 
 ---
-
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

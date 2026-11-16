@@ -35,7 +35,7 @@ The number on your credit report is a starting point, not a verdict.
 
 Lenders are asking a single question: how likely is this borrower to make their payments? The score summarizes a lot of that. It doesn't tell the whole story. Your income stability, assets, employment history, down payment size, debt-to-income ratio, and even the type of property you're buying all factor in.
 
-I've seen underwriters approve loans for borrowers with 560 scores who had two years of steady income, zero late payments in the past 12 months, and 20% down. I've also seen 650 score borrowers get rejected because they had four open collections, a recent 90-day late payment, and almost no reserves. The score summarizes. It doesn't sentence you.
+A borrower with a 560 score, two years of steady income, zero late payments in the past 12 months, and 20% down might get approved, while a 650 score borrower with four open collections, a recent 90-day late payment, and almost no reserves could be rejected. The score summarizes. It doesn't sentence you.
 
 Still, scores below 580 do shut off most conventional lending options. Here's what's actually available.
 
@@ -58,13 +58,13 @@ Most borrowers don't dig deep here because most loan officers only mention one o
 
 **USDA Loans** are geographic and income-restricted, but if you qualify, they're powerful. They offer 100% financing (no down payment) and relatively flexible credit standards. Most USDA lenders want at least a 640 score, though some approved lenders will manually underwrite applications with lower scores.
 
-**Non-QM Loans** sit outside the "Qualified Mortgage" guidelines most lenders follow. These products can work with credit scores as low as 500 in some cases, but you'll pay for that flexibility. Often significantly higher interest rates and fees. I've seen clients use non-QM loans to get into a home, then refinance once they'd rebuilt their credit over two or three years. It's a strategy, not a forever solution.
+**Non-QM Loans** sit outside the "Qualified Mortgage" guidelines most lenders follow. These products can work with credit scores as low as 500 in some cases, but you'll pay for that flexibility. Often significantly higher interest rates and fees. Some borrowers use non-QM loans as a stepping stone to homeownership, then refinance once they've rebuilt their credit over two or three years. It's a strategy, not a forever solution.
 
 ## The Variables Lenders Weight Alongside Your Score
 
 The research on which compensating factors matter most is genuinely mixed, and it varies by loan type and lender. But after years of reading guidelines and watching underwriting decisions, a few things consistently move the needle.
 
-**[Debt-to-income ratio (DTI)](/debt-to-income-ratio-for-mortgage/)** might matter as much as your score. DTI is the percentage of your gross monthly income that goes toward debt payments, including the proposed mortgage. FHA generally allows up to 43% DTI, sometimes higher with strong compensating factors. If your score is low but your income is solid and your existing debts are minimal, that combination carries real weight. I've seen underwriters get creative for a borrower at 580 with a 32% DTI.
+**[Debt-to-income ratio (DTI)](/debt-to-income-ratio-for-mortgage/)** might matter as much as your score. DTI is the percentage of your gross monthly income that goes toward debt payments, including the proposed mortgage. FHA generally allows up to 43% DTI, sometimes higher with strong compensating factors. If your score is low but your income is solid and your existing debts are minimal, that combination carries real weight. Underwriters may work with a 580 score if the DTI is solid, like 32%.
 
 **Payment history in the last 12 to 24 months** is something underwriters examine separately from the summary score. A bankruptcy five years ago reads differently from a 90-day late payment six months ago. Showing that whatever happened is behind you, and that you've been on time since, matters more than most people realize.
 

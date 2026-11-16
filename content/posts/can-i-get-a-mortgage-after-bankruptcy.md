@@ -31,9 +31,7 @@ That story infuriates me. I spent years on the underwriting side watching people
 
 Bankruptcy doesn't end your homeownership chances. It delays them. The exact delay depends on which bankruptcy you filed, which loan program you're applying for, and what you've done with your credit in the meantime. Those three things determine almost everything.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Chapter 7 filers typically wait 2-4 years before qualifying; Chapter 13 filers can apply in as little as 1 year.</li><li style="margin:5px 0">FHA loans have the shortest post-bankruptcy waiting periods of any mainstream mortgage program.</li><li style="margin:5px 0">Your credit score during the waiting period matters as much as the waiting period itself.</li><li style="margin:5px 0">A single late payment after bankruptcy can reset how lenders evaluate your application.</li><li style="margin:5px 0">HUD-approved housing counseling (free) can dramatically improve your approval odds before you apply.</li></ul></div>
-
 
 ## The Waiting Period Is Real, But It's Not the Same for Every Loan
 
@@ -52,7 +50,7 @@ Here's the breakdown as of August 2026, by loan type:
 | Conventional (Freddie Mac) | 4 years | 2 years | Not eligible |
 | Jumbo (varies by lender) | 5-7 years | 4+ years | Not eligible |
 
-A few things that table doesn't capture: some lenders impose their own "overlays," meaning rules stricter than the program minimum. I've seen lenders require 3 years for FHA when the guideline says 2. You can find a lender who follows the baseline guidelines, but you might have to shop.
+A few things that table doesn't capture: some lenders impose their own "overlays," meaning rules stricter than the program minimum. Some lenders require 3 years for FHA when the guideline says 2. You can find a lender who follows the baseline guidelines, but you might have to shop.
 
 If your Chapter 7 was caused by circumstances beyond your control (medical bills, job loss, a death in the family), some lenders will reduce their waiting period requirements. FHA calls this an "extenuating circumstances" exception. Getting it approved requires documentation, not just an explanation: medical records, termination letters, obituaries. The bar is higher than most people expect, but it's real.
 
@@ -60,13 +58,11 @@ If your Chapter 7 was caused by circumstances beyond your control (medical bills
 
 > **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-I thought for a long time that rebuilding credit just meant getting a credit card and paying it off. Technically true, but incomplete in ways that cost people real money.
+A common misconception is that rebuilding credit just means getting a credit card and paying it off. Technically true, but incomplete in ways that cost people real money.
 
 Lenders looking at a post-bankruptcy application are reading your credit history like a timeline. They want to see that after the bankruptcy, you started fresh and showed a pattern, not a moment. One secured card opened at month 3, used lightly, paid in full every month, maybe a credit-builder loan from a local credit union around month 6, and then consistent on-time payments across both for two-plus years. That pattern tells a story. A single card opened right before you apply, with a spotty payment history, tells a very different one.
 
-What kills post-bankruptcy applications, in my experience, isn't the bankruptcy itself. It's the late payment that shows up 14 months after discharge. Lenders weight recent behavior heavily. The CFPB's [mortgage resources](https://www.consumerfinance.gov/owning-a-home/) explain how lenders assess creditworthiness, and their guidance consistently points back to the same thing: recency of derogatory marks matters more than people realize.
+What kills post-bankruptcy applications isn't the bankruptcy itself. It's the late payment that shows up 14 months after discharge. Lenders weight recent behavior heavily. The CFPB's [mortgage resources](https://www.consumerfinance.gov/owning-a-home/) explain how lenders assess creditworthiness, and their guidance consistently points back to the same thing: recency of derogatory marks matters more than people realize.
 
 Target [credit score](/minimum-credit-score-needed-to-qualify-for-a-mortgage/) for FHA after bankruptcy: 580 minimum to qualify for the 3.5% down payment option, though I'd say 620+ gives you meaningfully better terms and fewer lender-level rejections. Conventional programs want to see 620-640 at minimum, and you'll get better rates at 680+.
 
@@ -82,7 +78,7 @@ Here's something that doesn't get said enough: after bankruptcy, your down payme
 
 A larger down payment reduces the lender's risk, which can partially offset a thinner post-bankruptcy credit profile. FHA allows 3.5% down if your score is 580+. But putting down 10% instead opens the door to lenders who might otherwise pass you over. On a $320,000 home, that's the difference between $11,200 down and $32,000 down. That's not a small ask. I'm not saying it's easy. But if you have the ability to save more during the waiting period, it's worth it.
 
-One thing I'd push back on: the common advice to just wait out the clock and then immediately apply. The waiting period is necessary, but it's not sufficient. Use the time intentionally. Save the down payment. Build emergency reserves (lenders like seeing 2-3 months of mortgage payments sitting in your bank account). Get [HUD-approved housing counseling](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) early, not right before you apply. Those counselors are free, they know the local lending landscape, and in my experience they catch problems in a borrower's situation that neither the borrower nor the loan officer spotted.
+One thing I'd push back on: the common advice to just wait out the clock and then immediately apply. The waiting period is necessary, but it's not sufficient. Use the time intentionally. Save the down payment. Build emergency reserves (lenders like seeing 2-3 months of mortgage payments sitting in your bank account). Get [HUD-approved housing counseling](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) early, not right before you apply. Those counselors are free, they know the local lending landscape, and they catch problems in a borrower's situation that neither the borrower nor the loan officer spotted.
 
 ## Chapter 13 Is Complicated (But Sometimes Faster)
 
@@ -94,9 +90,7 @@ Rosa filed Chapter 13 in 2022, entered a 5-year repayment plan. By 2024 (month 1
 
 I don't have great data on how often this pathway gets used nationally. But the fact that it's possible and rarely discussed is exactly the kind of gap that [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can help you close.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Minimum waiting period (years) by loan type after Chapter 7</div><div class="sc-row"><span class="sc-label">FHA</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">2 years</span></div><div class="sc-row"><span class="sc-label">VA</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">2 years</span></div><div class="sc-row"><span class="sc-label">USDA</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">3 years</span></div><div class="sc-row"><span class="sc-label">Conventional (Fannie)</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">4 years</span></div><div class="sc-row"><span class="sc-label">Jumbo</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">5 years</span></div><div class="sc-src">Source: FHA, VA, USDA, Fannie Mae guidelines (2026)</div></div>
-
 
 ## Sources
 
@@ -107,7 +101,6 @@ I don't have great data on how often this pathway gets used nationally. But the 
 - [VA Lenders Handbook, Chapter 4](https://www.benefits.va.gov/warms/pam26_7.asp): VA loan guidelines on bankruptcy, including Chapter 13 during-repayment provisions.
 
 ---
-
 
 ---
 

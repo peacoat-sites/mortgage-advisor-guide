@@ -34,19 +34,17 @@ That's what this is.
 
 ## The Pressure Clock Is the First Red Flag
 
-Here's the thing about legitimate lenders: they want you to read everything. A loan officer who's proud of their product will hand you the disclosures and say, "Take this home, call me with questions." The ones who rush you are rushing you for a reason.
+Legitimate lenders want you to read everything. A loan officer who's proud of their product will hand you the disclosures and say, "Take this home, call me with questions." The ones who rush you are rushing you for a reason.
 
 Predatory lenders create urgency that doesn't exist. "This rate expires today." "We have three other buyers interested in this program." "If you don't sign now, I can't hold this." None of that is how mortgage lending actually works. Rates do change, yes, but a 24-hour window on a loan commitment is manufactured pressure, not a real market constraint.
 
-What surprised me, when I started digging into complaint data and CFPB enforcement actions, was how consistent this tactic is across different predatory products. Whether it's a subprime mortgage, a home equity loan with a buried balloon payment, or a reverse mortgage sold door-to-door, the script is nearly identical. Rush, distract, close.
+Complaint data and CFPB enforcement actions show how consistent this tactic is across different predatory products. Whether it's a subprime mortgage, a home equity loan with a buried balloon payment, or a reverse mortgage sold door-to-door, the script is nearly identical. Rush, distract, close.
 
 If anyone makes you feel that you don't have time to think, you have all the time you need. Use it.
 
 ## The Loan That Keeps Changing
 
 > **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 You get a quote for 6.5%. You come to closing and the paperwork says 7.1%. The loan officer shrugs and says something shifted, or your credit tier came back slightly different, or the lock period expired. Maybe one of those things is even true.
 
@@ -58,7 +56,7 @@ The [federal Truth in Lending Act](/respa-mortgage-rules/) requires a Loan Estim
 
 Some loan structures aren't just risky. They're structured to fail.
 
-Negative amortization loans, where your monthly payment doesn't cover the interest and your balance actually grows over time, were supposed to be a relic of the mid-2000s. They're not gone. I've seen them repackaged in certain non-QM (non-qualified mortgage) products marketed to self-employed borrowers who can't document income traditionally. The rate looks attractive. The payment looks manageable. The math is a trap.
+Negative amortization loans, where your monthly payment doesn't cover the interest and your balance actually grows over time, were supposed to be a relic of the mid-2000s. They're not gone. They appear repackaged in certain non-QM (non-qualified mortgage) products marketed to self-employed borrowers who can't document income traditionally. The rate looks attractive. The payment looks manageable. The math is a trap.
 
 Balloon payment mortgages, where you pay a low monthly amount for five or seven years and then owe the entire remaining balance in one lump sum, deserve serious scrutiny. They're not automatically predatory, but they're frequently used predatorily. The pitch is: "You'll refinance before the balloon hits." What if you can't? What if rates are higher in seven years? What if your credit situation changes? Anyone selling a balloon loan without a thorough conversation about those scenarios is cutting corners on your behalf.
 
@@ -86,7 +84,6 @@ The prepayment penalty clause (look for "prepayment charge" or "prepayment fee" 
 
 For borrowers who want to go deeper, there are good guides to mortgage contracts available (Amazon affiliate link, site may earn a commission) that walk through standard loan documents section by section in plain language. Worth the $20 before you sign a $400,000 obligation.
 
-
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
@@ -100,7 +97,6 @@ For borrowers who want to go deeper, there are good guides to mortgage contracts
 - [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/)
 - [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)
 - [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

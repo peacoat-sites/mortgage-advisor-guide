@@ -47,7 +47,7 @@ Borrowers make this mistake constantly. They take their current mortgage payment
 
 Mortgages are front-loaded with interest. Early on, most of your payment goes toward interest. As the loan ages, more goes toward principal. If you're six years into a 30-year mortgage and you refinance into a new 30-year loan, you're resetting that amortization clock. Even if your rate drops and your payment drops, you'll pay more in total interest over the life of the loan because you've added years back to the timeline.
 
-I've seen clients refinance from a 30-year mortgage with 22 years remaining into a fresh 30-year loan, excited about the lower payment. When we mapped it out, they'd pay tens of thousands more in total interest over the life of both loans combined. Their break-even on monthly payments looked like 28 months. Their break-even on total interest paid was never. They would never come out ahead.
+Borrowers sometimes refinance from a 30-year mortgage with 22 years remaining into a fresh 30-year loan, drawn to the lower payment. The downside: they may pay tens of thousands more in total interest over the life of both loans combined. In such a scenario, the monthly payment break-even might arrive in under three years, but the total interest paid never catches up. They would never come out ahead.
 
 The fix is to look at a true savings comparison. You need to compare these three numbers:
 
@@ -104,7 +104,6 @@ Everything above applies to rate-and-term refinances. Cash-out refinances work d
 When you take cash out, you're borrowing against your equity. Your loan balance goes up. Your payment usually goes up. The question isn't just "when do I break even on the closing costs" but "is this the right way to access capital and at what true cost?"
 
 For a cash-out refi, calculate the effective interest rate on the cash you're receiving. You're taking on a larger mortgage balance and potentially a higher rate across the entire balance, not just on the new money. Compare that cost against alternatives like a home equity line of credit, a personal loan, or simply not pulling the equity at all. Sometimes a cash-out refi makes sense. Often a HELOC is cheaper and more flexible. The break-even framework alone won't answer that question.
-
 
 ## Sources & References
 

@@ -47,7 +47,7 @@ Pre-qualification is a preliminary snapshot. You tell a lender your income, debt
 
 Pre-approval goes further. The lender actually pulls your credit report, verifies your income with documents, and reviews your assets. It's a conditional commitment, not just an estimate.
 
-So why bother with pre-qualification at all? It's fast, often available online in minutes, and it costs nothing. It tells you whether you're in the right ballpark before you spend time gathering a full document package. I've seen buyers skip pre-qualification entirely, gather all their paperwork, go through full pre-approval, and then discover their [debt-to-income ratio](/debt-to-income-ratio-for-mortgage/) is way too high to qualify at the loan amount they wanted. A five-minute pre-qual conversation could've caught that problem in week one instead of week four.
+So why bother with pre-qualification at all? It's fast, often available online in minutes, and it costs nothing. It tells you whether you're in the right ballpark before you spend time gathering a full document package. Skipping pre-qualification entirely, then gathering all paperwork and going through full pre-approval, can lead to discovering a [debt-to-income ratio](/debt-to-income-ratio-for-mortgage/) that's too high to qualify at the desired loan amount. A five-minute pre-qual conversation can catch that problem early instead of after weeks of work.
 
 Think of pre-qualification as a financial reality check. Pre-approval is the document that actually moves the needle in a competitive market.
 
@@ -98,8 +98,6 @@ This doesn't need to be complicated.
 If you're buying in a market where sellers are receiving multiple offers, a pre-qualification letter alone may not cut it. Many sellers and listing agents will push back if you don't have a verified pre-approval. Know your market before deciding which to pursue.
 
 ## Common Mistakes That Derail Pre-Qualification
-
-I've watched borrowers undercut themselves in the same predictable ways, and they're all avoidable.
 
 **Applying with too much debt.** A client came to me pre-qualified at a lender for an amount they were excited about, but they'd just financed a new car two weeks earlier. That monthly payment pushed their DTI too high by the time they got to underwriting. The pre-qual number they were given was accurate at the time, but it became wrong the moment they took on that car note. Don't take on new debt between pre-qualification and closing.
 

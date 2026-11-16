@@ -25,9 +25,9 @@ faqs:
     a: "The loan itself typically takes 30-60 days from application to closing, but the full timeline often runs longer because you're also gathering divorce documentation, property settlement agreements, and potentially waiting for the decree to be finalized. Budgeting 60-90 days from start to finish is realistic for most people."
 ---
 
-Nearly half of all U.S. marriages end in divorce, and according to the American Psychological Association, that figure has held stubbornly close to 40-50% for decades. But here's the number nobody leads with: a 2023 CoreLogic analysis found that divorcing homeowners are roughly three times more likely to miss a mortgage payment in the 12 months following their separation than comparable non-divorcing borrowers. Three times. That's not a rounding error. That's a pattern, and it's one I watched play out repeatedly when I was sitting on the underwriting side of this industry.
+Nearly half of all U.S. marriages end in divorce, and according to the American Psychological Association, that figure has held stubbornly close to 40-50% for decades. But here's the number nobody leads with: a 2023 CoreLogic analysis found that divorcing homeowners are roughly three times more likely to miss a mortgage payment in the 12 months following their separation than comparable non-divorcing borrowers. Three times. That's not a rounding error.
 
-I'll be honest, when I first started reviewing files involving divorce, I assumed the financial damage came from one spouse being reckless. What surprised me was how often the real problem was simpler: nobody told these people what their actual options were. They assumed the house was automatically "handled" once the divorce decree was signed. It's not. A divorce decree is a contract between two people. The mortgage lender wasn't at that signing. They don't care what your divorce attorney worked out.
+A common assumption is that financial damage in divorce stems from one spouse being reckless. Often the real problem is simpler: nobody tells these people what their actual options are. They assumed the house was automatically "handled" once the divorce decree was signed. It's not. A divorce decree is a contract between two people. The mortgage lender wasn't at that signing. They don't care what your divorce attorney worked out.
 
 That gap between what people think happened and what the bank actually sees? That's where the damage gets done.
 
@@ -39,7 +39,7 @@ This is the mistake I saw more than any other. A couple agrees in their settleme
 
 Here's what happened: the lender was never part of that agreement. When you got the mortgage, both names went on the promissory note. That's a legally binding promise to the bank, and it doesn't disappear because your marriage did. Your ex agreeing to "take responsibility" in the divorce settlement is an agreement between the two of you. If they stop paying, the bank comes after everyone on the note. Full stop.
 
-I've seen this destroy people financially who did everything right during their divorce. One couple I know of from reviewing files settled everything amicably in early 2022. Husband kept the house, wife's name stayed on the mortgage because they "planned to refinance soon." He stopped making payments 18 months later. Her [credit score](/credit-score-for-mortgage-approval/) dropped over 100 points. She couldn't get a car loan. Their agreement gave her legal recourse against him, but the credit damage was already done.
+For example, suppose both spouses sign the divorce agreement with one keeping the house while the other's name stays on the mortgage with plans to refinance soon. If the spouse with the house stops making payments, the other spouse's [credit score](/credit-score-for-mortgage-approval/) can drop over 100 points, making it impossible to qualify for other loans. Legal recourse against the non-paying spouse may exist on paper, but the credit damage is immediate and severe.
 
 The lender's position is simple and cold: if your name is on the loan, you owe the money.
 
@@ -64,7 +64,7 @@ That chart isn't meant to scare anyone. It's meant to make the assumption option
 
 ## When Qualifying Solo Is the Actual Problem
 
-A reader (who found me through this site) emailed me last spring about exactly this situation. She and her husband had bought together in suburban Minneapolis in 2020. Their combined income made the payment comfortable. His income alone? Same story. Her income alone? The debt-to-[income ratio](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/) came out at 52%, well above the 43-45% ceiling most conventional lenders want to see.
+This matters because many couples buy with both incomes, only to discover during divorce that one spouse's income alone can't support the debt-to-[income ratio](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/). A spouse might find their ratio at 52%, well above the 43-45% ceiling most conventional lenders require.
 
 Her attorney had put the house in her column of the settlement. Nobody had run the math on whether she could actually carry it.
 
@@ -76,7 +76,7 @@ The lesson I took from reading hundreds of files like hers: get a mortgage profe
 
 ## The Credit Protection Nobody Mentions
 
-During divorce proceedings, especially if they're contentious, mortgage payments can slip. One spouse assumes the other is paying. The other assumes the first one handled it. I've seen 90-day lates show up on files where both parties swore they thought it was covered. 
+During divorce proceedings, especially if they're contentious, mortgage payments can slip. One spouse assumes the other is paying. The other assumes the first one handled it. 90-day lates can appear where both parties believed the payment was covered. 
 
 A few things worth doing immediately if you're going through this:
 

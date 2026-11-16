@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 The tax return is the enemy of the self-employed borrower. I say that after sixteen years of watching otherwise strong candidates get rejected, delayed, or strong-armed into bad loan terms because their Schedule C made them look broke on paper even when they had $15,000 a month hitting their business checking account.
 
-Here's the thing nobody explains clearly upfront: lenders don't care what you earn. They care what you *report*. And for most self-employed borrowers, those two numbers are very, very different.
+Lenders don't care what you earn. They care what you *report*. And for most self-employed borrowers, those two numbers are very, very different.
 
 If you write off every legitimate business expense (as you should), your taxable income drops. That's smart tax strategy. It's also the thing that tanks your mortgage application. Underwriters are going to take your net income after deductions, not your gross revenue. So the freelancer bringing in $120,000 a year who writes off $60,000 in expenses looks, on a 1003 application, like someone making $60,000. Which may or may not qualify them for the loan they need.
 
@@ -39,7 +39,7 @@ When you're a W-2 employee, income verification is straightforward. Two pay stub
 
 Standard conventional loans (Fannie Mae and Freddie Mac guidelines) want two years of personal tax returns, two years of business tax returns if your business is a partnership, S-corp, or corporation, a year-to-date profit and loss statement, and two to three months of business bank statements. Some lenders will also want a CPA letter confirming you've been in business for at least two years and that the business is still operating.
 
-The two-year requirement is firm on conventional loans. Not negotiable. I've had borrowers try to argue it with me. Lenders need to see that your self-employment income is stable and likely to continue, and two years of tax history is how they satisfy that requirement. If you've been self-employed for 18 months, you're either waiting or you're looking at a different loan product.
+The two-year requirement is firm on conventional loans. Lenders need to see that your self-employment income is stable and likely to continue, and two years of tax history is how they satisfy that requirement. If you've been self-employed for 18 months, you're either waiting or you're looking at a different loan product.
 
 What the underwriter is calculating is your qualifying income. For a sole proprietor, that's your Schedule C net profit plus any depreciation or depletion you wrote back in. For an S-corp owner, it gets trickier: they'll look at your W-2 wages from the business plus your share of business income or loss from the K-1, then add back depreciation and certain non-cash expenses. The math varies slightly by lender, but the takeaway is that a lot of legitimate write-offs get added back, which can work in your favor.
 
@@ -62,7 +62,7 @@ The appeal is obvious. If your deposits show $15,000 a month consistently, the l
 
 Now for the honest part. These loans cost more. Meaningfully more. You're typically looking at interest rates 0.75 to 1.5 percentage points higher than a comparable conventional loan. Down payment requirements are usually 10-20%, sometimes higher depending on your credit score. And not every lender offers them, so your options are narrower.
 
-They're not a scam. They fill a real need. But don't let a loan officer steer you into one before you've actually confirmed you can't qualify conventionally. I've seen borrowers pay a rate premium they didn't have to pay because nobody bothered to run the tax return numbers properly first.
+They're not a scam. They fill a real need. But don't let a loan officer steer you into one before you've actually confirmed you can't qualify conventionally. Running the tax return numbers properly first can prevent paying an unnecessary rate premium.
 
 ## The Credit and Reserves Picture
 

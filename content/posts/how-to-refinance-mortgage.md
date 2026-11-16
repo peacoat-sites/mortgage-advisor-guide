@@ -47,7 +47,7 @@ What refinancing is not: a quick fix for cash flow problems that stem from overs
 
 ## The Real Cost of Refinancing: Breaking Down Closing Costs
 
-Here's the part that surprises almost every borrower I've worked with. Refinancing costs money upfront, typically somewhere between 2% and 5% of the loan balance, paid at closing. On a $350,000 loan, you could be looking at $7,000 to $17,500 in closing costs.
+This part surprises many borrowers. Refinancing costs money upfront, typically somewhere between 2% and 5% of the loan balance, paid at closing. On a $350,000 loan, you could be looking at $7,000 to $17,500 in closing costs.
 
 Those costs include lender origination fees, a new appraisal, title search and insurance, recording fees, prepaid interest, and possibly discount points if you're buying down your rate. Some lenders offer "no-closing-cost" refinances, but that's marketing speak. Those costs get rolled into the loan balance or absorbed into a higher interest rate. You're still paying them, just differently.
 
@@ -133,7 +133,7 @@ Freddie Mac's homebuyer resources offer helpful tools for understanding how loan
 
 **Focusing only on the rate.** The rate matters, but so does the loan term, the fees, and how they interact. A lower rate on a new 30-year loan can mean paying more total interest than staying with your current loan if you're already several years in.
 
-**Not locking the rate soon enough.** I've watched clients try to time the market, waiting for rates to dip just a bit more. Rates moved against them and the deal they had fell apart.
+**Not locking the rate soon enough.** Borrowers who try to time the market and wait for rates to dip a bit more risk having rates move against them and losing the deal entirely.
 
 **Ignoring the APR.** The Annual Percentage Rate reflects the true cost of the loan including fees, not just the interest rate. When comparing offers, the APR is more meaningful than the rate alone.
 

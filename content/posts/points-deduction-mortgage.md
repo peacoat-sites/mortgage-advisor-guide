@@ -31,23 +31,19 @@ I'm not talking about a rounding error. The IRS allows you to deduct [mortgage p
 
 I spent years on the underwriting side watching borrowers hand over anywhere from $2,000 to $8,000 at closing to buy down their rate. That's real money. It should work for you twice: once by lowering your monthly payment, and again as a tax deduction. This article is about making sure that happens.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Mortgage points are deductible as prepaid interest under IRS rules if you meet specific conditions.</li><li style="margin:5px 0">One point equals 1% of the loan amount; on a $400,000 loan, one point = $4,000.</li><li style="margin:5px 0">On a purchase loan, points are often fully deductible in the year paid. Refinance points must usually be spread over the loan's life.</li><li style="margin:5px 0">You must itemize deductions (Schedule A) to claim this; it won't help if you take the standard deduction.</li><li style="margin:5px 0">Seller-paid points are also deductible for the buyer, which almost nobody knows.</li></ul></div>
-
 
 ## What a Point Actually Is (Before We Get to the Deduction)
 
 One mortgage point costs 1% of your loan amount and, in most cases, lowers your interest rate by somewhere around 0.25%, though that's not a fixed rule and lenders vary. So on a $350,000 loan, one point costs $3,500 and might drop your rate from 6.75% to 6.50%. Two points costs $7,000 and might get you to 6.25%.
 
-Points go by a few names: discount points, loan [origination fees](/how-much-are-mortgage-origination-fees-on-a-300k-loan/), loan discount fees. The IRS is specific about this: to be deductible, the fee has to be for the use of money (that's what makes it interest), not for a service like underwriting or document preparation. That distinction matters because lenders don't always label things clearly. When I was underwriting, I'd see closing disclosures where "origination charges" were bundled together in a way that made it hard to tell what was actually a point and what was a junk fee.
+Points go by a few names: discount points, loan [origination fees](/how-much-are-mortgage-origination-fees-on-a-300k-loan/), loan discount fees. The IRS is specific about this: to be deductible, the fee has to be for the use of money (that's what makes it interest), not for a service like underwriting or document preparation. That distinction matters because lenders don't always label things clearly. Lenders don't always label things clearly on closing disclosures, sometimes bundling "origination charges" in ways that make it difficult to tell what is actually a point and what is a junk fee.
 
 Your Loan Estimate and [Closing Disclosure](/closing-disclosure-explained/) are the documents to check. Look at Section A on the Closing Disclosure: "Origination Charges." If it says "1% of loan amount" with a dollar figure next to it, that's a point.
 
 ## The Tax Rules, Laid Out Simply
 
 > **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where most explainers lose people. The deductibility of points depends heavily on whether the loan is a purchase or a refinance. These are treated very differently.
 
@@ -63,11 +59,11 @@ There is one exception worth knowing: if you sell the home or refinance again be
 
 ## The Itemizing Problem
 
-Here's the thing I have to be honest about: the mortgage points deduction only helps you if you itemize deductions on your federal return. Since the Tax Cuts and Jobs Act of 2017 nearly doubled the standard deduction, far fewer Americans itemize. As of the current tax year, the standard deduction is $15,000 for single filers and $30,000 for married filing jointly (2026 figures, adjusted for inflation).
+The mortgage points deduction only helps you if you itemize deductions on your federal return. Since the Tax Cuts and Jobs Act of 2017 nearly doubled the standard deduction, far fewer Americans itemize. As of the current tax year, the standard deduction is $15,000 for single filers and $30,000 for married filing jointly (2026 figures, adjusted for inflation).
 
 If your total itemized deductions, mortgage interest, state and local taxes (capped at $10,000), charitable donations, and yes, your points, don't exceed those thresholds, the points deduction does you no good at all. Full stop.
 
-I've seen buyers get really excited about deducting $6,000 in points only to realize their total itemized deductions came to $22,000 and they were married, so the standard deduction was larger. They got nothing extra for the points.
+Buyers sometimes get excited about deducting $6,000 in points only to realize their total itemized deductions came to $22,000 and they were married, so the standard deduction was larger. They got nothing extra for the points.
 
 The people for whom this deduction genuinely moves the needle tend to be: high-balance loan borrowers (because interest alone is large), people in high-tax states where property taxes push itemized totals up, and folks in the first several years of a mortgage when interest payments are highest.
 
@@ -85,19 +81,17 @@ Let me put this in a table because the difference is significant and the details
 
 That year-1 column is the one to pay attention to. The difference between $4,000 and $133 isn't just a math problem; it changes whether buying points even makes financial sense in the first place, once you factor in both the rate savings and the tax treatment.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Year-1 Points Deduction by Loan Scenario ($4,000 points paid)</div><div class="sc-row"><span class="sc-label">Purchase Loan</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$4,000</span></div><div class="sc-row"><span class="sc-label">30-Year Refi</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$133</span></div><div class="sc-row"><span class="sc-label">15-Year Refi</span><span class="sc-track"><span class="sc-bar" style="width:7%"></span></span><span class="sc-val">$267</span></div><div class="sc-row"><span class="sc-label">Seller-Paid Purchase</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">$3,500</span></div><div class="sc-row"><span class="sc-label">Refi + Early Payoff</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$4,000</span></div><div class="sc-src">Source: IRS Publication 936 rules applied to illustrative scenarios, 2026</div></div>
-
 
 ## How to Actually Claim the Deduction
 
-You'll need Schedule A (Form 1040). Points are reported alongside your other mortgage interest, which your lender reports to you on Form 1098. Here's the thing I always had to explain to first-time filers: your lender may or may not include points on your Form 1098. If they don't (and many don't break it out separately), you have to go back to your Closing Disclosure to find the exact number.
+You'll need Schedule A (Form 1040). Points are reported alongside your other mortgage interest, which your lender reports to you on Form 1098. Your lender may or may not include points on your Form 1098. If they don't (and many don't break it out separately), you have to go back to your Closing Disclosure to find the exact number.
 
 The IRS asks you to enter deductible mortgage interest on Line 8 of Schedule A. Points paid on a home purchase go on Line 8a. Points you're amortizing from a refinance get entered on Line 8c.
 
 Keep your Closing Disclosure permanently. Not just for this year's taxes. You'll want it if you refinance or sell, because those unamortized points from prior refis become deductible at that moment, and you'll need proof of what you paid.
 
-One more thing: if you're using tax software, it will usually ask you directly whether you paid points at closing. Don't skip that question. I thought for years that TurboTax would just pick this up from my 1098 automatically. It didn't. I had to enter the points separately in the "deductions" interview.
+One more thing: if you're using tax software, it will usually ask you directly whether you paid points at closing. Don't skip that question. Tax software does not always pick up points automatically from your 1098. You may need to enter the points separately in the "deductions" interview.
 
 ## Worked Examples
 
@@ -122,7 +116,6 @@ One more thing: if you're using tax software, it will usually ask you directly w
 - IRS Form 1098 Instructions (2025 tax year): Describes how lenders report mortgage interest and points to borrowers and the IRS.
 
 ---
-
 
 ---
 

@@ -25,13 +25,11 @@ faqs:
     a: "Pre-approval is a lender's early assessment based on a credit pull and self-reported information. Final underwriting happens after you're in contract, with full documentation, a completed appraisal, and title work. Pre-approval is a reasonable guess; final underwriting is the real decision."
 ---
 
-Most people assume underwriting is a two-or-three-day rubber stamp at the end of their loan process. The real number that stopped me cold when I first started in this industry: according to ICE Mortgage Technology's Origination Insight Report, the average time to close a purchase loan in the U.S. currently runs around 43 days total, and underwriting alone accounts for roughly a third of that window. Sometimes more. Sometimes a lot more.
+Most people assume underwriting is a two-or-three-day rubber stamp at the end of their loan process. According to ICE Mortgage Technology's Origination Insight Report, the average time to close a purchase loan in the U.S. currently runs around 43 days total, and underwriting alone accounts for roughly a third of that window. Sometimes more. Sometimes a lot more.
 
 I'll be honest, I spent years on the other side of the desk, reviewing files and sending out conditions. I watched borrowers lose sleep over what felt like radio silence. And almost every single one of them had been told "it should only take a few days." That gap between expectation and reality is where a lot of deals fall apart, and it's why I want to lay this out as plainly as I can.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Underwriting alone typically takes 3–10 business days, but can stretch to 3+ weeks.</li><li style="margin:5px 0">"Suspended" or "conditional" approvals (not outright denials) are the most common delay trigger.</li><li style="margin:5px 0">Purchase loans take longer on average than refinances due to added complexity.</li><li style="margin:5px 0">A complete, organized application package at submission cuts underwriting time significantly.</li><li style="margin:5px 0">Conventional loans currently process faster than FHA/VA loans on average.</li></ul></div>
-
 
 ## What underwriting actually is (and why it's slower than it sounds)
 
@@ -43,13 +41,9 @@ The part most borrowers don't realize: underwriting isn't a single decision. It'
 
 > **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 As of July 2026, here's a realistic breakdown of how long underwriting takes across different loan scenarios, based on industry data and my own experience watching hundreds of files move through the pipeline:
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average underwriting time (business days) by loan type</div><div class="sc-row"><span class="sc-label">Conventional Purchase</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">8 days</span></div><div class="sc-row"><span class="sc-label">FHA Purchase</span><span class="sc-track"><span class="sc-bar" style="width:73%"></span></span><span class="sc-val">11 days</span></div><div class="sc-row"><span class="sc-label">VA Purchase</span><span class="sc-track"><span class="sc-bar" style="width:87%"></span></span><span class="sc-val">13 days</span></div><div class="sc-row"><span class="sc-label">Conventional Refi</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">6 days</span></div><div class="sc-row"><span class="sc-label">FHA Streamline Refi</span><span class="sc-track"><span class="sc-bar" style="width:47%"></span></span><span class="sc-val">7 days</span></div><div class="sc-row"><span class="sc-label">Jumbo Purchase</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">15 days</span></div><div class="sc-src">Source: ICE Mortgage Technology Origination Insight Report 2026</div></div>
-
 
 | Loan Type | Typical Underwriting Time | Why It Takes That Long |
 |---|---|---|
@@ -65,7 +59,7 @@ That USDA number is not a typo. There's a second approval layer from the agency 
 
 ## The real reasons files get stuck
 
-When I was underwriting, the single biggest delay I caused (and I'm owning this) was what we called a "stacked condition." I'd issue a conditional approval, the borrower would respond to my conditions, and then I'd review and issue four more conditions based on what the new documents showed. Not because I was being difficult. Because each document answered one question and raised two more.
+A common source of delay is what the industry calls a "stacked condition." An underwriter issues a conditional approval, the borrower responds to those conditions, and then the underwriter reviews and issues additional conditions based on the new documents. Each document answered one question and raised two more.
 
 Here's what actually delays underwriting, ranked roughly by how often I saw them:
 
@@ -75,7 +69,7 @@ Here's what actually delays underwriting, ranked roughly by how often I saw them
 
 **3. Appraisal issues.** The appraiser comes back low, or flags repairs, or the property has a weird feature (a barn, an in-law unit with a kitchen that might be a "second unit") and now the underwriter needs clarification. This adds days and sometimes kills the loan entirely.
 
-**4. Title problems.** Old liens, a divorce that wasn't recorded properly, a judgment from a prior owner. I've seen files delayed three weeks over a $340 mechanic's lien from 2014 that a previous owner never paid off.
+**4. Title problems.** Old liens, a divorce that wasn't recorded properly, a judgment from a prior owner. Even small unpaid liens can delay closing by weeks.
 
 **5. Lender capacity.** This one nobody talks about. When rates drop and applications surge, underwriting queues back up. A file that would take five days in a slow market can sit for two weeks in a refi boom. The lender's website won't tell you this. You have to ask your loan officer: "What's your current underwriting turn time?" That question alone will tell you a lot.
 
@@ -97,7 +91,7 @@ Result: 18 business days in underwriting, and the closing date had to be pushed 
 
 I get this question constantly. Here's the honest version: you can't control how fast the underwriter works, but you can control how clean your file is when it gets there.
 
-Respond to document requests the same day. Every 24-hour delay on your end is potentially a day added to the cycle. Keep your bank accounts boring during the process (no large transfers, no sudden deposits). Don't open new credit cards or finance a car. Don't change jobs. These sound obvious, but I've watched borrowers do all of these things mid-underwriting.
+Respond to document requests the same day. Every 24-hour delay on your end is potentially a day added to the cycle. Keep your bank accounts boring during the process (no large transfers, no sudden deposits). Don't open new credit cards or finance a car. Don't change jobs.
 
 Also: if you're self-employed or have anything complicated about your finances, talk to a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) before you even apply. They can help you see your own file the way an underwriter will see it, which is a genuinely different perspective.
 
@@ -114,7 +108,6 @@ If you want to dig deeper into how lenders evaluate risk and what you can do to 
 - [Consumer Financial Protection Bureau (CFPB) Mortgage Data](https://www.consumerfinance.gov/data-research/mortgage-performance-trends/): Data on loan performance and borrower outcomes by loan type.
 
 ---
-
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

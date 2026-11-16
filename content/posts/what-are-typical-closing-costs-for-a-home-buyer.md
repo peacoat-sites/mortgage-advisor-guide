@@ -27,13 +27,13 @@ lastmod: 2026-07-08
 ---
 Nobody tells you the real number until you're three days from closing.
 
-I've watched this play out hundreds of times from the underwriting side of the desk. A buyer spends six months obsessing over the purchase price, negotiates hard to save $5,000 on the home, then gets blindsided by a Loan Estimate showing $14,000 in closing costs they didn't see coming. The shock is real. The scramble for cash is real. And almost all of it is preventable if someone just walks you through what you're actually paying for before you get to the table.
+Many buyers focus heavily on negotiating the purchase price, only to be surprised by closing costs on the Loan Estimate. A typical scenario: someone saves $5,000 on the home price, then faces $14,000 in closing costs they didn't anticipate. Almost all of this surprise is preventable with a clear walkthrough of what you're actually paying for before you get to the table.
 
 So let's do that.
 
-The short answer: most home buyers pay between 2% and 5% of the loan amount in closing costs. On a $350,000 mortgage, that's roughly $7,000 to $17,500. The range is wide because closing costs vary significantly by state, loan type, lender, and which title company gets selected. I'll be honest, the 2% floor is optimistic for most buyers I've seen. Something closer to 3% to 4% is more realistic in most markets, and in high-cost areas with transfer taxes (hello, New York and Maryland), you can blow past 5% without blinking.
+The short answer: most home buyers pay between 2% and 5% of the loan amount in closing costs. On a $350,000 mortgage, that's roughly $7,000 to $17,500. The range is wide because closing costs vary significantly by state, loan type, lender, and which title company gets selected. The 2% floor is optimistic for most buyers. Something closer to 3% to 4% is more realistic in most markets, and in high-cost areas with transfer taxes (such as New York and Maryland), you can easily exceed 5%.
 
-What surprised me when I first started breaking these down was just how many distinct line items get lumped under "closing costs." It's not one fee. It's closer to fifteen or twenty. Some are negotiable. Some are fixed by law. Some come from your lender, some go to third parties, and a few are technically prepaid expenses rather than fees at all.
+Closing costs include many distinct line items that often get lumped together. It's not one fee. It's closer to fifteen or twenty. Some are negotiable. Some are fixed by law. Some come from your lender, some go to third parties, and a few are technically prepaid expenses rather than fees at all.
 
 ## The Two Big Buckets: Lender Fees vs. Third-Party Costs
 
@@ -49,7 +49,7 @@ What surprised me when I first started breaking these down was just how many dis
 | Transfer Taxes | 0%-2%+ of purchase price | State-dependent; can be substantial in NY, MD, PA |
 | **Total Closing Costs (% of loan)** | **2%-5% of loan amount** | Realistic range: 3%-4% in most markets |
 
-Here's how I always explain this to borrowers: your closing costs come from two fundamentally different places, and you have different amounts of leverage over each.
+Closing costs come from two fundamentally different places, and you have different amounts of leverage over each.
 
 Lender fees are charges the bank or mortgage company imposes for making the loan. These include origination fees (sometimes called processing or underwriting fees), discount points if you're buying down your rate, and application fees. Origination fees often run between 0.5% and 1% of the loan amount, though some lenders have moved to flat fees in the $1,000 to $1,500 range. Discount points are a completely different animal: each point costs 1% of the loan amount and typically reduces your rate by around 0.25%, though the exact math varies by lender and market. Whether buying points makes sense depends almost entirely on how long you plan to keep the loan. The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/owning-a-home/) has a useful tool for thinking through exactly this kind of break-even calculation.
 
@@ -67,7 +67,7 @@ Prepaids typically include:
 
 - **Prepaid interest:** The interest that accrues from your closing date through the end of that month. If you close on the 15th of a 30-day month, you're prepaying 15 days of interest. On a $350,000 loan at 7%, that's roughly $1,000.
 - **Homeowner's insurance:** Most lenders require 12 months paid in full at closing, plus 2 months deposited into escrow. Annual premiums vary wildly by location and coverage, but budgeting $1,200 to $2,400 for the year is reasonable for many markets.
-- **Property tax escrow:** Your lender will typically collect several months of property taxes upfront to cushion the escrow account. How many months depends on when taxes are due in your area and where you are in the tax cycle. I've seen this range from under $1,000 to over $5,000 depending on the local tax rate and timing.
+- **Property tax escrow:** Your lender will typically collect several months of property taxes upfront to cushion the escrow account. How many months depends on when taxes are due in your area and where you are in the tax cycle. This typically ranges from under $1,000 to over $5,000 depending on the local tax rate and timing.
 
 When you add prepaids to actual fees, it's pretty easy to get to $10,000 to $15,000 on a median-priced home purchase even before you're in an expensive state. That's just the reality. Anyone who quoted you a blanket "budget 2%" without accounting for prepaids was giving you an incomplete picture.
 
@@ -106,7 +106,6 @@ The best thing you can do right now, even before you've found a home, is get a b
 - [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)
 - [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)
 - [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

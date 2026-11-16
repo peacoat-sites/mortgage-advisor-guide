@@ -27,7 +27,7 @@ faqs:
 
 Most salary-to-home-price advice floating around the internet is built on a rule of thumb from an era when rates were 3%. That's not the world anyone's buying in right now.
 
-The old "multiply your salary by 2.5 or 3 to get your max home price" isn't wrong exactly, it's just dangerously incomplete. On a $60,000 salary, that formula spits out a target somewhere between $150,000 and $180,000. But I've seen buyers at that income level comfortably afford $240,000 homes, and I've seen others get crushed by a $175,000 purchase they couldn't actually sustain. The difference was never the purchase price. It was everything else.
+The old "multiply your salary by 2.5 or 3 to get your max home price" isn't wrong exactly, it's just dangerously incomplete. On a $60,000 salary, that formula spits out a target somewhere between $150,000 and $180,000. Yet buyers at that income level may comfortably afford $240,000 homes, while others struggle with a $175,000 purchase they can't sustain. The difference is never the purchase price alone. It's everything else.
 
 Let me give you the honest version.
 
@@ -82,7 +82,7 @@ A 740 credit score on a $60k salary will get you significantly better terms than
 
 Employment matters more than people realize. Two full years of W-2 employment in the same field is the gold standard. If you're self-employed, recently changed careers, or have income gaps in the last 24 months, lenders start asking harder questions. Your stated income isn't always your qualifying income.
 
-Down payment source gets scrutinized. If a family member is gifting you money for closing, there's paperwork. Lenders want a "gift letter" and a paper trail showing the funds didn't arrive as a loan. I've seen closings delayed two weeks over this exact issue.
+Down payment source gets scrutinized. If a family member is gifting you money for closing, there's paperwork. Lenders want a "gift letter" and a paper trail showing the funds didn't arrive as a loan. Closings can be delayed weeks without proper documentation.
 
 And existing debt is the silent killer of affordability. A $450/month car payment eliminates roughly $55,000 to $65,000 of purchase price from your ceiling, depending on the loan terms. People know this intellectually but underestimate it emotionally.
 

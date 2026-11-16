@@ -47,7 +47,7 @@ Lenders won't let you borrow against 100% of your home's value. Most conventiona
 
 > **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-This is where I've seen borrowers get burned, repeatedly. They fixate on the interest rate and the cash they'll receive, and they underestimate the total cost of the transaction.
+Borrowers often get burned at this stage. They fixate on the interest rate and the cash they'll receive, and they underestimate the total cost of the transaction.
 
 Closing costs on a cash-out refinance run between 2% and 5% of the new loan amount. On a $280,000 loan, that's $5,600 to $14,000. Some of that can be rolled into the loan balance, but rolling costs in just means you're paying interest on them for the next 30 years. Either way, it's not free.
 
@@ -115,7 +115,6 @@ A cash-out refinance can be a genuinely smart financial move, or it can quietly 
 - [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
 - [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)
 - [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

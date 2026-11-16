@@ -47,7 +47,7 @@ This side's easier to pin down. Your mortgage servicer, the company you send pay
 
 Don't just glance at last month's statement and move on. Mortgage balances change daily because of how interest accrues. If you're doing serious financial planning, get a payoff quote for a specific date.
 
-If you have a second mortgage, a home equity line of credit (HELOC), or any other lien on the property, those balances count too. Add them all together. I've seen people forget about a HELOC they opened years ago and then look genuinely confused when their equity calculation doesn't match what a lender is seeing. Every debt secured by your home reduces your equity.
+If you have a second mortgage, a home equity line of credit (HELOC), or any other lien on the property, those balances count too. Add them all together. A common mistake is forgetting about a HELOC opened years ago, which then causes confusion when an equity calculation doesn't match what a lender is seeing. Every debt secured by your home reduces your equity.
 
 ## The Trickier Side: Figuring Out What Your Home Is Actually Worth
 
@@ -61,7 +61,7 @@ This is where things get genuinely complicated, and where I want you to slow dow
 
 You have several options for estimating your home's current market value, and they're not all equal.
 
-**Automated Valuation Models (AVMs)** are the tools behind Zillow's "Zestimate," Redfin's estimate, and similar features. They pull data from public records and recent sales and spit out a number instantly. They're convenient and free. They're also often wrong. Zillow itself has published its own median error rate, and in markets where homes are less homogeneous or recent sales data is sparse, that error can be substantial. I've seen AVMs come in $50,000 or more off from a certified appraisal in certain neighborhoods. Use them as a rough ballpark, nothing more.
+**Automated Valuation Models (AVMs)** are the tools behind Zillow's "Zestimate," Redfin's estimate, and similar features. They pull data from public records and recent sales and spit out a number instantly. They're convenient and free. They're also often wrong. Zillow itself has published its own median error rate, and in markets where homes are less homogeneous or recent sales data is sparse, that error can be substantial. AVMs can be $50,000 or more off from a certified appraisal in certain neighborhoods. Use them as a rough ballpark, nothing more.
 
 **Comparative Market Analysis (CMA)** is what a real estate agent provides, usually for free if they're hoping to earn your business. A good agent will pull genuinely comparable recent sales in your neighborhood and give you a more thoughtful estimate than any algorithm can. It still isn't an appraisal, but it's a useful data point, especially if the agent has recent experience selling homes nearby.
 
@@ -91,7 +91,7 @@ In a rising market, you can gain tens of thousands of dollars in equity without 
 
 Your equity also builds slowly at first through regular mortgage payments, because of how amortization works. In the early years of a 30-year mortgage, the vast majority of each payment goes toward interest, not principal. On a $300,000 loan at 7%, roughly $1,750 of your first payment goes to interest and maybe $250 goes toward reducing your balance. That ratio flips gradually over time, but it's a real reason why equity builds slowly in the early years of a loan.
 
-Property taxes and any unpaid HOA assessments can become liens on your property in some states, which would also affect your net equity in a practical sense. It's happened to clients I've worked with who had overdue assessments they didn't know had been liened.
+Property taxes and any unpaid HOA assessments can become liens on your property in some states, which would also affect your net equity in a practical sense.
 
 ## What You Can Actually Do With This Number
 

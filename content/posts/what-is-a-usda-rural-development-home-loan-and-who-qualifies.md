@@ -44,11 +44,9 @@ The Guaranteed program doesn't have income floors. It has income ceilings. That 
 
 > **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 "Rural" does not mean what you think it means.
 
-USDA eligibility maps are based on census population data, and they're updated periodically. Towns under 35,000 people can qualify. I've seen properties on the edge of mid-size metro areas show up as eligible because a county road separates them from incorporated city limits. A colleague once closed a USDA loan on a property eleven miles from a regional airport.
+USDA eligibility maps are based on census population data, and they're updated periodically. Towns under 35,000 people can qualify. Properties on the edge of mid-size metro areas can show up as eligible because a county road separates them from incorporated city limits.
 
 The only way to know for sure is to plug the address into the USDA's official Property Eligibility tool at [eligibility.sc.egov.usda.gov](https://eligibility.sc.egov.usda.gov/eligibility/). Do this before you fall in love with a house and before you pay for an appraisal.
 
@@ -58,9 +56,9 @@ The USDA property eligibility maps were updated in 2023, and as of July 2026, so
 
 ## Who Actually Qualifies: Income Limits Are the Real Filter
 
-This is the part most explainers write badly. Income limits for the Guaranteed program are set at 115% of the median household income for the area. That sounds abstract. In practice, a family of four in a rural county in Tennessee might have a limit around $103,500. The same family in coastal California could have a limit north of $180,000. It's area-specific, household-size-specific, and you can look it up through the [Consumer Financial Protection Bureau's (CFPB)](https://www.consumerfinance.gov/owning-a-home/) homebuying resources or directly through USDA's income eligibility tool.
+This is the part most explainers write badly. Income limits for the Guaranteed program are set at 115% of the median household income for the area. In practice, a family of four in a rural county in Tennessee might have a limit around $103,500. The same family in coastal California could have a limit north of $180,000. It's area-specific, household-size-specific, and you can look it up through the [Consumer Financial Protection Bureau's (CFPB)](https://www.consumerfinance.gov/owning-a-home/) homebuying resources or directly through USDA's income eligibility tool.
 
-Important nuance: USDA counts all household income, not just the borrowers on the loan. If your adult child lives with you and earns income, that counts. This catches people off guard. I've seen files get flagged at the last minute because a college-age dependent had a part-time job nobody thought to document.
+Important nuance: USDA counts all household income, not just the borrowers on the loan. If your adult child lives with you and earns income, that counts. This often catches borrowers off guard, so be sure to account for all household income when applying.
 
 Credit requirements are more flexible than [conventional loans](/conventional-loan-requirements/). Most lenders want a 640+ credit score for streamlined processing through USDA's automated system. Below that, your file goes to manual underwriting, which adds time and scrutiny but doesn't automatically mean denial. Debt-to-income ratios can stretch to 41% on the back end, sometimes higher with compensating factors.
 
@@ -107,7 +105,6 @@ One thing I'd recommend: get a checklist before you start. If you want a structu
 - HUD/FHA Annual MIP Schedule (current as of 2026): Basis for FHA-to-USDA cost comparisons in this article.
 
 ---
-
 
 ---
 

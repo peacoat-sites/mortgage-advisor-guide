@@ -29,7 +29,6 @@ Most borrowers have never heard of a [high-balance conforming loan](/jumbo-loan-
 
 Let me fix that.
 
-
 <div class="value-module">
  <div class="vm-head">High-Balance vs Standard Loan Cost Comparison</div>
  <div class="vm-body">
@@ -51,7 +50,7 @@ The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) publishes the
 
 > **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-I've watched borrowers assume that if a loan is still "conforming," it prices like a standard conforming loan. Not true.
+A common mistake is assuming that if a loan is still "conforming," it prices like a standard conforming loan. It doesn't.
 
 Lenders charge slightly higher interest rates on high-balance loans, typically 0.10% to 0.30% above what you'd get on a standard conforming loan with identical credit and down payment. That spread depends on the lender, market conditions, and how hungry competing banks are for business in your area right now.
 
@@ -72,7 +71,7 @@ A [jumbo loan](/jumbo-loan-requirements/) exceeds the conforming limit for your 
 
 A high-balance conforming loan follows Fannie and Freddie rules. You can put down 10% if you qualify. Gift funds work. A co-borrower who doesn't live in the property is fine. You keep the flexibility of the conforming world.
 
-I've seen files where a borrower $50,000 over the local conforming limit got automatically pushed into a jumbo without anyone checking if restructuring the down payment would save them money. Sometimes it does. Run those scenarios before you commit.
+When a borrower lands just over the local conforming limit, they may be automatically pushed into a jumbo loan without checking whether restructuring the down payment would save money. It sometimes does. Run those scenarios before you commit.
 
 ## Qualifying for a High-Balance Conforming Loan
 

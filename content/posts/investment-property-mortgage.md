@@ -36,19 +36,17 @@ Lenders treat investment properties as higher risk because statistically, they a
 
 Currently, you should expect to pay roughly 0.5% to 0.875% more in interest rate on an investment property loan compared to a comparable loan on a primary residence. On a $400,000 loan, that's not a rounding error. It's real money every month, and over 30 years it becomes a very significant sum. Run the numbers before you decide whether the cash flow pencils out.
 
-Down payments are where a lot of first-time investors get caught. Conventional loans for single-family investment properties generally require a minimum of 15%, but most lenders I've seen in practice are more comfortable at 20% to 25%, especially since the private mortgage insurance option (PMI) that lets owner-occupants put down less doesn't apply here. For a 2-4 unit investment property, expect 25% minimum, no exceptions. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) sets conforming loan limits and guidelines that shape these requirements, and Fannie Mae's rules for investment property financing are notably stricter than what most borrowers anticipate.
+Down payments are where a lot of first-time investors get caught. Conventional loans for single-family investment properties generally require a minimum of 15%, but lenders are typically more comfortable at 20% to 25%, especially since the private mortgage insurance option (PMI) that lets owner-occupants put down less doesn't apply here. For a 2-4 unit investment property, expect 25% minimum, no exceptions. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) sets conforming loan limits and guidelines that shape these requirements, and Fannie Mae's rules for investment property financing are notably stricter than what most borrowers anticipate.
 
 ## What Underwriters Actually Look At
 
 > **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's what I tell people: you can have a strong credit score and still get declined for an investment property loan. The qualifying criteria are just different enough from primary home underwriting to trip people up.
 
 **Credit score.** You'll typically need a minimum of 680 to qualify for conventional investment property financing. 720 or above gets you meaningfully better pricing. Below 680, your options narrow fast, and you're likely looking at portfolio lenders or [hard money](/hard-money-loan-explained/), which I'll get to.
 
-**Reserves.** This is the one that surprises people most. Most conventional investors are required to show six months of housing payment reserves for the investment property after closing, sometimes more if you already own other financed properties. That means liquid assets sitting in a verifiable account. Retirement funds sometimes count (at a discount), but the money needs to actually exist. I've seen borrowers come to the table having scraped together exactly enough for the down payment and closing costs, not realizing they also need to demonstrate reserve capacity. That deal dies.
+**Reserves.** This is the one that surprises people most. Most conventional investors are required to show six months of housing payment reserves for the investment property after closing, sometimes more if you already own other financed properties. That means liquid assets sitting in a verifiable account. Retirement funds sometimes count (at a discount), but the money needs to actually exist. A common mistake is scraping together just enough for the down payment and closing costs without accounting for reserve requirements, which can kill a deal.
 
 **Rental income.** You might be wondering whether the rental income from the property you're buying counts toward your qualifying income. The answer is: sometimes, and with significant limitations. Fannie Mae guidelines allow lenders to use 75% of market rents (as documented by an appraiser's rent schedule) to offset the property's PITIA (principal, interest, taxes, insurance, and association dues). But if you're a first-time investor with no rental history on your tax returns, many lenders get conservative here. Don't assume the rent roll solves your debt-to-income problem until your loan officer has walked through the math with you specifically.
 
@@ -73,14 +71,13 @@ FHA and VA loans, by the way, don't work here for pure investment purchases. The
 
 ## The Appraisal Will Be Different
 
-On investment properties, appraisers use not just comparable sales but also an income approach, where they estimate value based on what the property could reasonably generate as a rental. This can actually work in your favor if the property is in a strong rental market, but it can also suppress value if rents in the area are soft. I've seen investment property deals come in under contract price because the income approach dragged the appraised value down. Have a realistic read on local rents before you sign a purchase agreement.
+On investment properties, appraisers use not just comparable sales but also an income approach, where they estimate value based on what the property could reasonably generate as a rental. This can actually work in your favor if the property is in a strong rental market, but it can also suppress value if rents in the area are soft. Investment property deals can come in under contract price if the income approach suppresses the appraised value. Have a realistic read on local rents before you sign a purchase agreement.
 
 ## One Thing Most Guides Don't Tell You
 
 Having multiple financed properties complicates everything. Fannie Mae's guidelines allow conventional financing on up to 10 financed properties per borrower, but lenders above a certain count (typically 4+) add additional requirements: higher credit score minimums, higher reserve requirements, and sometimes outright overlays where the lender refuses to go beyond their own internal limit. If you're building a portfolio, your financing options at property five look nothing like they did at property one. Plan for that.
 
 ---
-
 
 ---
 
@@ -99,7 +96,6 @@ If you want to go deeper on the financial modeling side before you start shoppin
 - [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/)
 - [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/Book-Rental-Property-Investing-Intelligent/dp/099071179X?tag=contentportfo-20)
 - [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

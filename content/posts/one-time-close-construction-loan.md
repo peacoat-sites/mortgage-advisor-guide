@@ -31,9 +31,7 @@ If you're reading this, you're probably somewhere between "we want to build inst
 
 Here's what I tell people who come to me in that spot: building a home involves two distinct money problems. First, you need cash to build. Then, you need a mortgage to own. The traditional path treats those as two separate loans, two separate closings, two sets of [closing costs](/what-are-typical-closing-costs-for-a-home-buyer/), and two rounds of qualification. The one-time close (also called a construction-to-permanent loan, or OTC) collapses that into a single transaction. One approval, one closing, one loan that converts automatically when the house is done.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A one-time close loan combines construction financing and your permanent mortgage into a single closing, saving $3,000–$7,000+ in duplicate closing costs.</li><li style="margin:5px 0">You qualify once and lock your permanent rate upfront, protecting you from rate increases during the build (typically 6–18 months).</li><li style="margin:5px 0">Down payment requirements usually start around 3.5% for FHA one-time close, 0% for VA/USDA versions, and 5–20% for conventional.</li><li style="margin:5px 0">Lenders draw funds in stages (called "draws") to your builder ,  you don't touch the money; the builder does.</li><li style="margin:5px 0">Not every lender offers this product, and not every builder is approved to work with it.</li></ul></div>
-
 
 ## How the Money Actually Moves
 
@@ -41,15 +39,13 @@ This is the part that trips people up the most, so let me walk through it concre
 
 When you close on a one-time close loan, you're signing for the full amount you'll eventually owe: say, $380,000 for land, construction costs, and the finished-[home mortgage](/manufactured-home-mortgage/). But you don't get that money. Your builder does, in pieces, called draws.
 
-Here's how a typical draw schedule looks: the lender releases a chunk when the foundation is poured, another when framing is done, another after rough plumbing and electrical are inspected, and so on. Before each draw, a lender-ordered inspector visits the site to verify the work was actually completed. In my experience sitting in on these closings, borrowers are sometimes surprised to learn that this inspection isn't the same as a home inspection protecting them. It's protecting the lender. If you want your own eyes on the build quality, budget for a separate independent inspector at each phase. It costs around $300–$500 per visit and is almost always worth it.
+Here's how a typical draw schedule looks: the lender releases a chunk when the foundation is poured, another when framing is done, another after rough plumbing and electrical are inspected, and so on. Before each draw, a lender-ordered inspector visits the site to verify the work was actually completed. Borrowers are sometimes surprised to learn that this inspection isn't the same as a home inspection protecting them. It's protecting the lender. If you want your own eyes on the build quality, budget for a separate independent inspector at each phase. It costs around $300–$500 per visit and is almost always worth it.
 
 During construction, you typically make interest-only payments on what's been drawn so far. So if $120,000 has been released to the builder, you're only paying interest on that $120,000, not the full loan amount. Once construction wraps and the certificate of occupancy is issued, the loan "converts" automatically (or with minimal paperwork, depending on your lender) to a standard amortizing mortgage at the rate you locked on day one.
 
 ## One-Time Close vs. Two-Time Close: The Real Comparison
 
 > **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I spent years watching borrowers choose the two-loan route without realizing they were paying twice for the same service. Here's where the numbers land.
 
@@ -76,11 +72,9 @@ The FHA version (backed by the Federal Housing Administration) requires a minimu
 
 Conventional one-time close loans typically require 680+ credit and 10–20% down, though some lenders go lower. Debt-to-income limits generally cap around 43–45%, same as standard mortgages.
 
-What surprises borrowers: your builder has to be approved too. Not just licensed and insured, which is the baseline, but specifically vetted by the lender. Lenders review the builder's financials, their track record, and sometimes their contract language. I've seen deals fall apart not because the borrower had a problem, but because their preferred contractor couldn't get through the lender's builder approval process. If you have a builder in mind already, start that conversation with your lender early. Do not wait until you're two weeks from closing.
-
+What surprises borrowers: your builder has to be approved too. Not just licensed and insured, which is the baseline, but specifically vetted by the lender. Lenders review the builder's financials, their track record, and sometimes their contract language. Deals can fall apart not because the borrower had a problem, but because a preferred contractor couldn't get through the lender's builder approval process. If you have a builder in mind already, start that conversation with your lender early. Do not wait until you're two weeks from closing.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical Down Payment by Loan Type (One-Time Close)</div><div class="sc-row"><span class="sc-label">FHA</span><span class="sc-track"><span class="sc-bar" style="width:18%"></span></span><span class="sc-val">3.5%</span></div><div class="sc-row"><span class="sc-label">VA</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0%</span></div><div class="sc-row"><span class="sc-label">USDA</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0%</span></div><div class="sc-row"><span class="sc-label">Conventional (min)</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">5%</span></div><div class="sc-row"><span class="sc-label">Conventional (typical)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">20%</span></div><div class="sc-src">Source: FHA, VA, USDA, FHFA guidelines, 2026</div></div>
-
 
 The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) sets the conforming loan limits that affect whether your construction loan qualifies as conventional or jumbo, so if you're building in a high-cost area like coastal California or metro Seattle, check the current limits for your county before you assume what product applies to you.
 
@@ -96,7 +90,7 @@ That last scenario is something I want to emphasize. Build delays are normal. Su
 
 ## Things I'd Tell You to Watch Out For
 
-I thought for years that one-time close loans always carried higher interest rates than two-time close loans. That reputation was earned in earlier markets, and it wasn't entirely wrong. But the gap has narrowed, and in today's environment I've seen competitive pricing on OTC products from multiple lender types. Shop at least three lenders who specifically offer this product, not three generic mortgage lenders, because not all loan officers have closed many of these and the ones who haven't can cost you time and errors.
+One-time close loans once carried higher interest rates than two-time close loans, and that reputation was earned. But the gap has narrowed, and competitive pricing on OTC products is available from multiple lender types. Shop at least three lenders who specifically offer this product, not three generic mortgage lenders, because not all loan officers have closed many of these and the ones who haven't can cost you time and errors.
 
 Watch the contingency budget. Most lenders want to see a 10–15% cost contingency baked into the loan for cost overruns. That's not wasted money; it sits in reserve. But it does affect your total loan amount and therefore your qualification math.
 
@@ -111,7 +105,6 @@ Also: read the builder contract carefully before you close. The lender will want
 - [U.S. Department of Agriculture Rural Development](https://www.rd.usda.gov/programs-services/single-family-housing-programs): USDA single-close construction loan eligibility and area qualification tools.
 
 ---
-
 
 *Photo: [Ryan  Stephens](https://www.pexels.com/@rstephens) via Pexels*
 

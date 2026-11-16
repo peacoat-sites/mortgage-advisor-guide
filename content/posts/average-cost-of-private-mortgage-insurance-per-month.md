@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Nobody tells you what PMI actually costs until you're three days from closing and staring at a loan estimate that suddenly looks different than you expected.
 
-I'll be honest: even after 16 years in underwriting, I was surprised by how wide the range is when I went back and pulled current data on this. Most borrowers I worked with assumed PMI was a flat, modest fee, maybe $50 a month, and they'd barely notice it. The reality is messier, and the factors that drive your specific premium are ones most loan officers either don't explain well or don't explain at all.
+PMI premiums vary widely depending on several factors. Many borrowers assume PMI is a flat, modest fee around $50 a month and won't significantly affect their payment. In practice, the factors that drive your specific premium are ones most loan officers either don't explain well or don't explain at all.
 
 So let me give you the actual numbers, the math behind them, and the fine print that matters.
 
@@ -60,9 +60,7 @@ What surprised me when I compared quotes from multiple private mortgage insurers
 
 > **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-I thought for years that the difference between a 700 and a 750 credit score was worth maybe $10 or $15 a month on PMI. I was wrong, and it cost a client of mine real money.
+The difference between a 700 and a 750 credit score can be worth substantially more than $10 or $15 a month on PMI, making it worth attention during the application process.
 
 A borrower I was working with in the refinance department had a 702 score on a $400,000 loan with 8% down. Her PMI quote came in at 1.10% annually, which was $366/month. Six months later, after paying down a credit card and getting a score of 748, she refinanced and the PMI rate dropped to 0.54%, which was $180/month. That's $186 a month in savings just from a 46-point credit score improvement. Over two years, she recovered more than $4,400.
 
@@ -84,11 +82,11 @@ A worked example here helps: $380,000 loan, 10% down, choice between BPMI at 0.8
 
 The Homeowners Protection Act requires automatic PMI cancellation when your loan balance reaches 78% of the original purchase price based on your scheduled payments, assuming you're current. It also allows you to request cancellation when you reach 80% LTV. Note: this is based on your original purchase price, not the current market value, unless you order a new appraisal.
 
-This is a detail servicers don't advertise loudly. If your home has appreciated significantly, you may be able to request cancellation earlier by paying for an appraisal (typically $400-$600) to establish the new value. I've seen borrowers with homes that appreciated 20%+ in two years still paying PMI because they didn't know they could request early cancellation.
+Servicers don't advertise this option loudly. If your home has appreciated significantly, you may be able to request cancellation earlier by paying for an appraisal (typically $400-$600) to establish the new value. Borrowers with homes that appreciated 20%+ in two years often continue paying PMI simply because they don't know they can request early cancellation.
 
 If you want professional guidance on this process, [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can walk through your options at no cost. That's an underused resource.
 
-For borrowers who want to go deep on the math before their next conversation with a lender, the [*Mortgage Encyclopedia* by Jack Guttentag](https://www.amazon.com/dp/007145926X?tag=contentportfo-20) is one of the few books I've kept on my shelf for years. Dense but accurate. (Note: the site may earn a commission on purchases through this link.)
+For borrowers who want to go deep on the math before their next conversation with a lender, the [*Mortgage Encyclopedia* by Jack Guttentag](https://www.amazon.com/dp/007145926X?tag=contentportfo-20) is a thorough resource. Dense but accurate. (Note: the site may earn a commission on purchases through this link.)
 
 ---
 
@@ -101,7 +99,6 @@ For borrowers who want to go deep on the math before their next conversation wit
 - [HUD Housing Counseling Program](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor): Free and low-cost counseling resources for homebuyers navigating mortgage decisions.
 
 ---
-
 
 ---
 

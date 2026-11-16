@@ -35,13 +35,13 @@ The main type is the Home Equity Conversion Mortgage, or HECM. Federally insured
 
 With a HECM, you borrow against the equity you've built. Instead of making monthly payments to a lender, the lender makes payments to you, or you draw from a credit line, or you take a lump sum. The loan balance grows over time as interest accrues. No monthly payment is required while you live in the home as your primary residence.
 
-What surprised me when I started working with clients considering these was how many didn't realize the loan balance can compound aggressively. Borrow $150,000 at 7% interest and live in your home for 15 more years, and your loan balance could easily double or more, depending on how interest compounds and whether you're drawing on a credit line. The equity you spent decades building can erode faster than people expect.
+A common misconception is that the loan balance won't compound aggressively. Borrow $150,000 at 7% interest and live in your home for 15 more years, and your loan balance could easily double or more, depending on how interest compounds and whether you're drawing on a credit line. The equity you spent decades building can erode faster than people expect.
 
 ## Who Qualifies and What the Rules Actually Say
 
 You must be at least 62 years old. If you have a spouse or co-borrower on the loan, both parties must be 62. (There are some protections for "non-borrowing spouses" under current HUD rules, but the details matter enormously and I'll get to that in the FAQ.)
 
-You must own your home outright or have substantial equity in it. Any existing mortgage gets paid off at closing with the reverse mortgage proceeds, which reduces how much cash you actually walk away with. I've seen clients shocked to discover that their $200,000 reverse mortgage resulted in only $60,000 in usable cash after paying off their existing $140,000 mortgage balance.
+You must own your home outright or have substantial equity in it. Any existing mortgage gets paid off at closing with the reverse mortgage proceeds, which reduces how much cash you actually walk away with. For example, a $200,000 reverse mortgage might result in only $60,000 in usable cash after paying off an existing $140,000 mortgage balance.
 
 The home must be your primary residence. You can't use a rental property or vacation home. Single-family homes, [FHA-approved condos](/fha-condo-approval/), and certain multi-family properties (up to four units, with you living in one) generally qualify.
 
@@ -102,13 +102,13 @@ Research here is mixed on which option is "best" across the board. It depends he
 
 This is where I get serious, because these are the scenarios that cause real harm.
 
-**The non-borrowing spouse problem.** If one spouse is under 62 and not listed on the loan, they could lose the right to remain in the home when the borrowing spouse dies. HUD has made rule changes in recent years that provide some protections, but those come with conditions. If the surviving non-borrowing spouse doesn't meet the requirements (like maintaining the home and keeping taxes and insurance current), they can face foreclosure. This is not hypothetical. I've seen it.
+**The non-borrowing spouse problem.** If one spouse is under 62 and not listed on the loan, they could lose the right to remain in the home when the borrowing spouse dies. HUD has made rule changes in recent years that provide some protections, but those come with conditions. If the surviving non-borrowing spouse doesn't meet the requirements (like maintaining the home and keeping taxes and insurance current), they can face foreclosure.
 
 **Moving to a care facility.** If you leave the home to move into assisted living or a nursing facility for more than 12 consecutive months, the loan can be called due. For seniors whose health is uncertain, this is a real risk.
 
 **Heirs and the estate.** When the last borrower dies, heirs typically have a limited window (usually 6 months, sometimes extendable) to either sell the home, pay off the loan balance, or do a deed-in-lieu. If the loan balance exceeds the home's value, FHA insurance covers the difference, so heirs don't owe more than the home is worth. That's a genuine consumer protection worth knowing about.
 
-**The "mandatory obligations" issue.** I've seen closings where a significant chunk of the reverse mortgage proceeds had to immediately pay off existing liens, back taxes, or required home repairs identified in the appraisal. Borrowers sometimes don't find this out until very late in the process.
+**The "mandatory obligations" issue.** A significant chunk of reverse mortgage proceeds may need to immediately pay off existing liens, back taxes, or required home repairs identified in the appraisal. Borrowers sometimes don't find this out until very late in the process.
 
 Nothing about a reverse mortgage is inherently predatory, but there's a lot of room for misunderstanding between a slick sales pitch and what the contract actually says. If you're seriously considering one, start with that HUD counseling session, bring a family member or a trusted advisor with you, and get a written breakdown of every cost and scenario before you sign. If you want to do your own research first, a solid home equity and retirement planning guide can help you walk in with better questions. The borrowers who come out ahead are the ones who treated this like the major financial decision it actually is.
 

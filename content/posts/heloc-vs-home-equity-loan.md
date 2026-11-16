@@ -35,7 +35,7 @@ Lenders don't let you borrow against 100% of your equity. Most cap the total loa
 
 This is the number that should anchor every conversation you have with a lender. The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/owning-a-home/) has solid resources on how combined loan-to-value ratios work, and I'd encourage you to read them before you sit across from anyone trying to sell you a product.
 
-One more thing on collateral: because your home is on the line with both products, default consequences are serious. I've seen clients treat HELOCs like a credit card with a generous limit. It's not. Missed payments on either product can lead to foreclosure. That reality deserves to sit with you before you move forward.
+One more thing on collateral: because your home is on the line with both products, default consequences are serious. A common mistake is treating a HELOC like a credit card with a generous limit. Missed payments on either product can lead to foreclosure.
 
 ## HELOC: The Flexible Option With a Catch
 
@@ -51,7 +51,7 @@ I'll be honest: the interest rate environment of the last few years has made thi
 
 Some lenders do offer rate caps, both periodic caps (limiting how much the rate can rise in a single adjustment period) and lifetime caps (the maximum it can ever reach). Always ask for both numbers in writing. If the loan officer can't tell you what your lifetime cap is, that's a problem.
 
-There's also the structure of payments during the draw period to watch. Some HELOCs allow interest-only payments during the draw period, which sounds great until you realize you haven't reduced your principal at all, and now the repayment period hits and your payment jumps significantly. This payment shock is real and predictable, yet I've watched countless borrowers walk into it with no idea it was coming.
+There's also the structure of payments during the draw period to watch. Some HELOCs allow interest-only payments during the draw period. With this structure, you don't reduce your principal at all during the draw phase. When the repayment period begins, your payment jumps significantly. This payment shock is predictable and avoidable with careful planning.
 
 ## Home Equity Loan: Predictability at a Price
 
@@ -118,7 +118,7 @@ This is the area where a lot of outdated advice still floats around. The researc
 
 ---
 
-The honest truth: neither product is universally better. The right answer depends on whether your expense is fixed or variable, how you'd handle rising payments, and how precisely you can define what you're actually spending. The borrowers I've seen make the best decisions are the ones who do the math themselves before they talk to a lender, so the conversation becomes about confirming their analysis rather than accepting someone else's. Do that work first, and you'll know which product fits before anyone has a chance to steer you toward the one that earns them more.
+Neither product is universally better. The right answer depends on whether your expense is fixed or variable, how you'd handle rising payments, and how precisely you can define what you're actually spending. Do the math yourself before you talk to a lender. That way, the conversation becomes about confirming your analysis rather than accepting someone else's recommendation. You'll know which product fits before anyone has a chance to steer you toward the one that earns them more.
 
 ---
 
@@ -133,7 +133,6 @@ The honest truth: neither product is universally better. The right answer depend
 - [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/)
 - [home buying and financing workbook](https://www.amazon.com/s?k=home+buying+financial+workbook&tag=contentportfo-20)
 - [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

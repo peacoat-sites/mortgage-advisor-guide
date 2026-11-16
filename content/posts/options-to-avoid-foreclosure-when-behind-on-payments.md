@@ -25,7 +25,7 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 lastmod: 2026-07-08
 ---
-Being two months behind on your mortgage isn't a crisis yet. Three months is where lenders start the formal clock. Four months in with no contact? That's where I've watched borrowers lose options that were sitting right in front of them, unused, because nobody told them what to ask for.
+Being two months behind on your mortgage isn't a crisis yet. Three months is where lenders start the formal clock. Four months in with no contact, borrowers often lose options because they don't know what to request from their servicer.
 
 Most coverage of foreclosure avoidance reads like a pamphlet in a waiting room: vague, hopeful, and almost deliberately short on specifics. So let's go through what actually works, what the fine print looks like, and what kills your chances before you even get started.
 
@@ -53,7 +53,7 @@ Forbearance works best for temporary hardship. A job loss with a new job already
 
 If forbearance is a pause, a modification is a structural change to your loan. The servicer can lower your interest rate, extend your term (say, from 22 years remaining to a new 30-year loan), defer a portion of your principal to the back of the loan, or some combination. The goal is a payment you can actually sustain.
 
-Modifications take time. Expect 30 to 90 days minimum from application to decision, sometimes longer at servicers with understaffed loss mitigation departments. You'll need to submit a complete financial package: two months of bank statements, pay stubs, a hardship letter, a detailed monthly budget. Missing even one document restarts the review clock. I've seen borrowers lose modifications not because they were denied, but because they turned in an incomplete package and their servicer moved to foreclose while the file sat in limbo.
+Modifications take time. Expect 30 to 90 days minimum from application to decision, sometimes longer at servicers with understaffed loss mitigation departments. You'll need to submit a complete financial package: two months of bank statements, pay stubs, a hardship letter, a detailed monthly budget. Missing even one document restarts the review clock. Borrowers sometimes lose modifications not because they were denied, but because an incomplete package causes delays while the servicer moves to foreclose.
 
 If your loan is backed by Fannie Mae or Freddie Mac, ask specifically about the Flex Modification program. It's a standardized modification product with defined eligibility rules, which means less discretion for your servicer and more predictability for you. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) publishes current guidelines for both GSE-backed modification programs, and it's worth reading before your first conversation with your servicer.
 
@@ -91,7 +91,7 @@ Foreclosure rescue scams are everywhere, and they specifically target people who
 
 Free, legitimate help exists. [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) are trained in exactly this situation, they understand the loss mitigation process, and there's no cost to you. I'd push anyone who's more than two months behind to call a HUD-approved counselor before accepting any servicer offer, because counselors often know which programs the servicer didn't mention.
 
-If you're further along in the process, or if your servicer has already filed a notice of default, a HUD-approved counselor can still help, but you may also want to consult a foreclosure defense attorney, particularly one who works on a sliding scale or through legal aid. Some procedural mistakes by servicers during the foreclosure process can actually give you leverage, but you need someone who knows what to look for.
+If you're further along in the process, or if your servicer has already filed a notice of default, a HUD-approved counselor can still help, but you may also want to consult a foreclosure defense attorney, particularly one who works on a sliding scale or through legal aid. Servicers sometimes make procedural mistakes during foreclosure that can be challenged, but you need someone who knows what to look for.
 
 If you want to go in better prepared, Erik Whitman's *Foreclosure Prevention Workbook* and books like *The Foreclosure Survival Guide* by attorney Amy Loftsgordon (available on [Amazon](https://www.amazon.com/s?k=foreclosure+survival+guide&tag=contentportfo-20)) give solid overviews of the legal process and borrower rights, written for a non-attorney audience. (Disclosure: this site may earn a commission from Amazon purchases.)
 

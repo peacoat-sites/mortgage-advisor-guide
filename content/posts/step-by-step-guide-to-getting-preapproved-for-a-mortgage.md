@@ -33,7 +33,7 @@ Sixteen years of [underwriting](/mortgage-underwriting-process/) taught me exact
 
 Your credit report needs to be reviewed before any lender touches it. Not your credit score from a banking app, your full report from all three bureaus: Equifax, Experian, and TransUnion. Pull them free at AnnualCreditReport.com.
 
-Why all three? Because lenders use a tri-merge report, and if Experian shows a collection account that the other two don't, that account still counts. I've watched borrowers get blindsided by a $280 medical collection they genuinely forgot about, only to find out on day one of underwriting. That's a solvable problem in January. It's a crisis in March when you're under contract.
+Why all three? Because lenders use a tri-merge report, and if Experian shows a collection account that the other two don't, that account still counts. A borrower might discover a collection account they'd forgotten about on day one of underwriting. That's a solvable problem in January. It's a crisis in March when you're under contract.
 
 Look for four things specifically: accounts you don't recognize (possible fraud or mixed file), any collections under two years old, late payments in the last 24 months, and discrepancies in your account balances. Dispute anything inaccurate in writing before you apply. Errors take 30 to 45 days to correct, and "I'm disputing it" isn't a satisfying answer to an underwriter with a closing date.
 
@@ -75,7 +75,7 @@ For identity and credit: a government-issued photo ID, your Social Security numb
 
 If you have other income sources, like rental income, alimony, disability, or investment distributions, document those separately with the relevant awards letters or lease agreements.
 
-Here's the thing nobody tells you: don't close credit accounts, don't open new credit accounts, and don't buy anything significant on credit between when you apply and when you close. A new car payment can disqualify you two weeks before settlement. I saw it happen more than once.
+Don't close credit accounts, don't open new credit accounts, and don't buy anything significant on credit between when you apply and when you close. A new car payment can disqualify you two weeks before settlement.
 
 ## Choosing Where to Apply (And Why "Shop Around" Needs More Detail)
 

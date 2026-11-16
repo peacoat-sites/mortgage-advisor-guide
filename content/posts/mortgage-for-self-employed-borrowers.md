@@ -31,7 +31,7 @@ You run your own business, your accountant is brilliant at minimizing your taxab
 
 When a salaried employee applies for a mortgage, the underwriter has one job: verify that the pay stub matches the tax return and confirm it'll keep coming. Clean. Simple. Done.
 
-When you're self-employed, the underwriter's real job is figuring out what you actually earned after every legitimate business deduction, depreciation write-off, and Schedule C adjustment. Those two numbers can look wildly different. I've seen a borrower show $180,000 on a profit-and-loss statement and $62,000 on a tax return. The lender uses the $62,000. That's what determines how much house you can afford.
+When you're self-employed, the underwriter's real job is figuring out what you actually earned after every legitimate business deduction, depreciation write-off, and Schedule C adjustment. Those two numbers can look wildly different. A profit-and-loss statement might show $180,000 while a tax return shows $62,000 after deductions. The lender uses the $62,000. That's what determines how much house you can afford.
 
 Lenders define self-employed as owning 25% or more of a business or receiving income primarily through 1099s rather than W-2s. Freelancers, sole proprietors, LLC owners, S-corp shareholders, and independent contractors all fall into this category. The documentation requirements and income calculation methods depend on your specific business structure.
 

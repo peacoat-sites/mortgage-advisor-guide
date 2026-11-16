@@ -27,7 +27,7 @@ faqs:
 
 Most people going through a divorce assume the hard part is dividing the furniture. Then they find out one of them wants to keep the house, and suddenly there's a whole other nightmare to untangle.
 
-I'll be honest: when I was underwriting mortgages, divorce buyouts were the files I dreaded most. Not because they were complicated on paper, but because by the time they hit my desk, the borrower was usually in over their head, had already promised their ex something they couldn't deliver, and had maybe 30 days before things got very messy. I saw more deals fall apart over misunderstandings about what a buyout actually requires than almost any other scenario.
+Divorce buyouts often present challenges because by the time they reach underwriting, the borrower may already have made promises to their ex that are difficult to deliver on, with limited time to work things out. Many deals fall apart over misunderstandings about what a buyout actually requires.
 
 So let me give you the real story.
 
@@ -43,13 +43,11 @@ So a proper buyout means two things happen: you refinance into a new loan in jus
 
 > **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Before you do anything, you need to know the home's current market value and how much equity you're splitting. Equity is simple: home value minus what you still owe on the mortgage.
 
 Let's say your home is worth $420,000 and you have $180,000 left on the mortgage. That's $240,000 in equity. If you're splitting it 50/50, your ex is owed $120,000. To buy them out, you'd refinance the home into a new loan of about $300,000 ($180,000 to pay off the old mortgage plus $120,000 that goes to your ex).
 
-What surprised me when I started digging into how these deals actually shake out is how often people underestimate the costs that come on top:
+A common mistake is underestimating the costs that come on top of a buyout refi:
 
 | Cost Category | Typical Range | Notes |
 |---|---|---|
@@ -65,7 +63,7 @@ These numbers are current as of July 2026. Closing costs have crept up in many m
 
 Here's where deals die. When you were originally approved for that mortgage, you qualified based on two incomes. Now you're trying to qualify on one.
 
-I tested this scenario dozens of times on my own, back when I was still underwriting: a borrower who was perfectly creditworthy as part of a couple would come back for a buyout refi and barely qualify, or not qualify at all, because their solo income didn't support the new loan amount. Lenders generally want your total monthly debt (including the new mortgage payment) to be under 43% of your gross monthly income, though some programs go higher with strong compensating factors.
+For example, a borrower who was perfectly creditworthy as part of a couple may come back for a buyout refi and barely qualify, or not qualify at all, because their solo income doesn't support the new loan amount. Lenders generally want your total monthly debt (including the new mortgage payment) to be under 43% of your gross monthly income, though some programs go higher with strong compensating factors.
 
 A worked example: Couple's combined income was $145,000/year when they bought. The spouse staying in the home earns $72,000 solo. New loan would be $300,000 at current rates. Monthly payment around $2,100. Debt-to-income math gets tight fast when you add in a car payment and student loans. The buyout the couple agreed on verbally may not be what the bank will actually fund.
 
@@ -85,11 +83,11 @@ This doesn't get talked about enough. Sometimes the math just doesn't work. The 
 
 Sell the house and split the proceeds. Not what anyone wants to hear, but it's often the cleanest outcome.
 
-Deferred buyout. One spouse stays in the home for a set period (often until kids finish school), and you agree on a future sale or buyout date. This requires a very clear written agreement and a lot of trust. I've seen it work beautifully and blow up spectacularly.
+Deferred buyout. One spouse stays in the home for a set period (often until kids finish school), and you agree on a future sale or buyout date. This requires a very clear written agreement and a lot of trust.
 
 Offset with other assets. Instead of cash from the home equity, the departing spouse takes a larger share of retirement accounts, investment accounts, or other marital assets. This is legitimate and can work well, but the tax implications on retirement accounts are completely different from real estate equity. Get a CPA involved.
 
-A reader named Patricia emailed me after going through exactly this: she and her ex agreed to offset his $89,000 equity share against her 401(k). What they didn't account for was that a 401(k) dollar isn't worth the same as a home equity dollar after taxes. She came out short. If you're doing this, a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can help you think through the housing side, and a financial planner can model the asset offset math.
+For example, if spouses agree to offset one person's equity share against the other's 401(k), they need to account for the fact that a 401(k) dollar isn't worth the same as a home equity dollar after taxes. A [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can help you think through the housing side, and a financial planner can model the asset offset math.
 
 ## Sources
 
@@ -100,7 +98,6 @@ A reader named Patricia emailed me after going through exactly this: she and her
 - National Association of Realtors (2025 Divorce and Housing Report): Data on outcomes for couples who sold versus kept homes through divorce proceedings
 
 ---
-
 
 ---
 

@@ -27,7 +27,7 @@ faqs:
 
 Only about 13% of American taxpayers claimed the [mortgage interest](/are-mortgage-interest-payments-tax-deductible-in-2026/) deduction in a recent filing year, down from around 32% just a decade earlier. That collapse didn't happen because homeownership fell. It happened because the 2017 Tax Cuts and Jobs Act nearly doubled the standard deduction, quietly making the mortgage deduction worthless for most people who own a home.
 
-That's the thing nobody in the mortgage industry tells you upfront. They'll hand you a flyer showing how much interest you'll pay over 30 years, imply you can "write it all off," and let you do the mental math wrong. I watched this happen constantly when I was underwriting loans. Borrowers genuinely believed the deduction was changing their financial picture in a meaningful way. For most of them, it wasn't.
+The mortgage industry often emphasizes how much interest you'll pay over 30 years and implies you can "write it all off," but many borrowers miscalculate how much this actually helps their taxes. A common mistake is assuming the deduction will meaningfully change your financial picture when, for most people, it won't.
 
 Let me show you exactly how this works, who it actually helps, and when you should stop counting on it.
 
@@ -87,7 +87,7 @@ The Tax Policy Center estimated that in a recent year, the mortgage interest ded
 
 The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) has resources that walk you through what itemizing actually involves and what counts toward your Schedule A total. Worth reading before you assume you'll benefit.
 
-My honest take: the mortgage interest deduction is a tax benefit that mostly helps upper-income buyers in expensive housing markets. If that's not you, building your budget around it is a mistake I've seen sink people before.
+The mortgage interest deduction is a tax benefit that mostly helps upper-income buyers in expensive housing markets. If that's not you, building your budget around it is a mistake to avoid.
 
 If you're unsure where you stand, a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can help you think through this without trying to sell you a loan. That's a free resource and genuinely underused.
 

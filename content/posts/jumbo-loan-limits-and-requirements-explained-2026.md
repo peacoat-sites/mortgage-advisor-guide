@@ -31,9 +31,7 @@ I'll be honest: even after years of underwriting, the jumbo space kept surprisin
 
 Here's what you actually need to know.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">In 2026, the conforming loan limit is $806,500 in most U.S. counties; anything above that is jumbo.</li><li style="margin:5px 0">High-cost areas (like parts of California and New York) have higher conforming limits, up to $1,209,750, so "jumbo" starts later there.</li><li style="margin:5px 0">Jumbo lenders typically require a 20% down payment, a credit score of at least 700-720, and 12+ months of cash reserves.</li><li style="margin:5px 0">Jumbo rates are not always higher than conforming rates ,  they're sometimes lower, which surprises almost everyone.</li><li style="margin:5px 0">Jumbo loans aren't backed by Fannie Mae or Freddie Mac, so every lender sets their own rules. Shopping around matters more, not less.</li></ul></div>
-
 
 ## What Makes a Loan "Jumbo"
 
@@ -47,8 +45,6 @@ The wrinkle is high-cost areas. The FHFA adjusts limits upward for counties wher
 
 > **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where I want to be straight with you, because every lender's marketing makes jumbo sound almost as easy as a regular mortgage. It is not.
 
 **Credit score.** Most jumbo lenders today want a minimum FICO somewhere between 700 and 720. Some require 740 for larger loan amounts, especially above $1.5 million or $2 million. A 680 will close a conventional loan in some programs. It will not close most jumbo loans. I've watched deals fall apart at 699.
@@ -57,7 +53,7 @@ This is where I want to be straight with you, because every lender's marketing m
 
 **Cash reserves.** This one surprises people most. Conforming loans might require two months of reserves (the monthly PITI payment in savings after closing). Jumbo loans routinely require 12 months, and sometimes 18 or 24 months for larger balances. That's not a typo. If your monthly payment is $7,400 on a jumbo loan, some lenders want to see $88,800 sitting in a liquid account after you've made your down payment and paid closing costs. That cash just needs to exist; you don't hand it over. But it has to be verifiable.
 
-**Income documentation.** Self-employed borrowers get scrutinized especially hard. I've seen underwriters ask for two full years of business returns, a profit and loss statement, and letters from CPAs. W-2 earners have it a little easier, but jumbo underwriters read every line of the documentation in a way that conforming automated underwriting doesn't. The "black box" approval that spits out a conforming pre-approval in 90 seconds doesn't exist in jumbo.
+**Income documentation.** Self-employed borrowers face stricter scrutiny. Underwriters typically request two full years of business returns, a profit and loss statement, and letters from CPAs. W-2 earners face less documentation burden, but jumbo underwriters review every line of submitted documentation closely. Jumbo loans don't rely on the automated underwriting that produces conforming pre-approvals in seconds.
 
 **Debt-to-income ratio.** Most jumbo lenders cap DTI around 43%, though some go to 45% for strong borrowers. A few niche products allow higher, but at a price.
 
@@ -67,7 +63,7 @@ Everyone assumes jumbo rates are higher. Most of the time, historically, they ha
 
 The reason is structural. Jumbo loans stay on bank balance sheets. Banks hold them as investments, which means when banks are hungry for high-quality assets (as they often are during certain rate environments), they compete aggressively for jumbo business and push rates down. Freddie Mac's research has documented this phenomenon, and the Consumer Financial Protection Bureau has noted that jumbo pricing can diverge significantly from conforming pricing depending on lender demand for portfolio assets.
 
-As of mid-2026, the spread between a 30-year jumbo and a 30-year conforming loan varies by lender and loan profile, but I've seen it range from jumbo being about 0.25 percentage points higher to, in some cases, fractionally lower. The honest answer is: you need to shop, because there's no reliable rule right now.
+As of mid-2026, the spread between a 30-year jumbo and a 30-year conforming loan varies by lender and loan profile, typically ranging from jumbo being about 0.25 percentage points higher to, in some cases, fractionally lower. The honest answer is: you need to shop, because there's no reliable rule right now.
 
 ## Side-by-Side: Conforming vs. Jumbo Requirements
 
@@ -113,7 +109,6 @@ Buyer in high-cost county in California borrowing $980,000. Same county conformi
 - Urban Institute Housing Finance Policy Center: Periodic research on jumbo loan market pricing and portfolio lender behavior.
 
 ---
-
 
 *Photo: [Joaquin Carfagna](https://www.pexels.com/@joaquin-carfagna-3131171) via Pexels*
 

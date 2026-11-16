@@ -37,11 +37,11 @@ Underwriters don't look at your application and have a gut feeling. There's a fr
 
 **Credit** is your track record. Did you pay people back? Were you late? Have you defaulted? The underwriter pulls your credit report (sometimes from all three bureaus, Equifax, Experian, and TransUnion) and reads it like a history book. A 680 credit score versus a 740 might seem like a small gap, but it can mean the difference between getting approved on a conventional loan or being steered toward FHA. As of mid-2026, most conventional lenders want to see at least a 620, and some have tightened that since rates elevated the stakes for both borrowers and investors.
 
-One thing I've seen trip people up: medical collections. There was a real shift in how these are treated in the past few years, and many scoring models now ignore paid medical collections entirely. If you have one on your report, ask your loan officer specifically how their guidelines handle it. Don't assume it's disqualifying.
+Medical collections can affect mortgage approval, but treatment varies. Many scoring models now ignore paid medical collections entirely. If you have one on your report, ask your loan officer specifically how their guidelines handle it. Don't assume it's disqualifying.
 
 **Capacity** is whether you can afford the payment. This is where your income documentation goes, and where the debt-to-income ratio (DTI) calculation lives. The underwriter is asking: of all the money you earn every month, how much is already promised to debt, and how much will be promised after you take this loan? The standard cutoff for a conventional loan is 45% back-end DTI, though some automated systems will approve up to 50% with compensating factors (good credit score, significant reserves). FHA loans can technically go higher.
 
-Here's what I got wrong for a long time, and I was working in underwriting when I finally had it corrected by a senior reviewer: overtime and bonus income don't count the same way as base salary. If you've been earning a $12,000 annual bonus for two years and your employer says it's "likely to continue," the underwriter can typically use an average of the last two years. But if you just started getting it, or your employer writes "not guaranteed" on the verification form, it may not count at all. I've seen approvals fall apart over exactly this.
+Overtime and bonus income don't count the same way as base salary. If you've been earning a $12,000 annual bonus for two years and your employer says it's "likely to continue," the underwriter can typically use an average of the last two years. But if you just started getting it, or your employer writes "not guaranteed" on the verification form, it may not count at all.
 
 **Capital** means what you have left after closing. It's not just the down payment. The underwriter wants to know you're not completely wiped out after you write that check. They'll look at bank statements (usually two months' worth), retirement accounts, investment accounts. What they're checking for is "reserves": typically, do you have 2 to 6 months of mortgage payments sitting somewhere accessible after closing?
 
@@ -50,8 +50,6 @@ Here's what I got wrong for a long time, and I was working in underwriting when 
 ## What Your Documents Are Actually Telling Them
 
 > **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The document checklist feels like punishment. Two years of W-2s, two months of bank statements, pay stubs, tax returns, letters explaining this and that. Here's why it's not arbitrary.
 
@@ -63,9 +61,7 @@ The thing nobody warns you about: avoid moving money around between accounts in 
 
 ## How Employment Type Changes Everything
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Months of income documentation typically required by employment type</div><div class="sc-row"><span class="sc-label">W-2 Employee</span><span class="sc-track"><span class="sc-bar" style="width:6%"></span></span><span class="sc-val">2 months</span></div><div class="sc-row"><span class="sc-label">Salaried + Bonus</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">24 months</span></div><div class="sc-row"><span class="sc-label">Self-Employed</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">24 months</span></div><div class="sc-row"><span class="sc-label">Commission-Only</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">24 months</span></div><div class="sc-row"><span class="sc-label">Seasonal Worker</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">24 months</span></div><div class="sc-row"><span class="sc-label">Newly Self-Employed</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">36 months</span></div><div class="sc-src">Source: Industry underwriting guidelines, July 2026</div></div>
-
 
 Self-employed borrowers, I want to talk to you specifically for a moment because the process is harder and a lot of advice out there is incomplete.
 
@@ -112,7 +108,6 @@ A denial is what happens when the file doesn't meet the guidelines. If this happ
 - Federal Housing Administration (FHA) Single Family Housing Policy Handbook (HUD Handbook 4000.1): Authoritative source for FHA underwriting guidelines
 
 ---
-
 
 ---
 

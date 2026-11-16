@@ -42,15 +42,13 @@ You saved up for three years, kept your credit clean, and finally feel ready to 
 
 **20% down payment is always required**: Most people believe first-time homebuyers must put down 20% to avoid PMI and qualify for a mortgage. However, data shows this is outdated. According to the National Association of Realtors, the median down payment for first-time homebuyers in 2024 was just 6-7%. FHA loans require as little as 3.5% down, while VA and USDA loans offer 0% down options. Conventional loans now frequently accept 3-5% down payments. PMI, while an added cost, actually makes homeownership accessible years earlier for most buyers, the wealth-building benefits of early ownership typically outweigh PMI expenses.
 
-
 **You need 20% down to buy a home**: Most first-time buyers believe they're locked out without a massive down payment. But that's outdated thinking. According to the National Association of Realtors, the median down payment for first-time buyers in 2024 was just 6%, and FHA loans require as little as 3.5%. In fact, 73% of first-time homebuyers put down less than 20%, with many using [state and local assistance programs](/down-payment-assistance-programs/) that cover down payments entirely. The real barrier isn't the down payment requirement; it's not knowing these programs exist.
-
 
 Here's the surprise that gets almost everyone: you don't have to be buying your first home to qualify as a first-time homebuyer.
 
 The standard definition, used by the U.S. Department of Housing and Urban Development and adopted by most state and local programs, simply says you haven't owned a primary residence in the past three years. That's the whole thing. If you owned a home eight years ago, sold it during a relocation, and have been renting since, you likely qualify. Same goes for divorced individuals who left a jointly owned home to a former spouse. And people who've owned investment property but never lived in a home they owned, they qualify too.
 
-This distinction matters because I've watched clients assume they don't qualify and never even ask. They leave money on the table purely because the label didn't fit their history.
+This distinction matters because many people assume they don't qualify and never even ask. They leave money on the table purely because the label didn't fit their history.
 
 One more clarification worth making: "first-time homebuyer program" is an umbrella term covering several entirely different types of assistance. [Down payment grants](/down-payment-assistance-programs/). Loans with favorable terms. Tax credits. Deferred-payment second mortgages. They don't all work the same way, and combining the wrong ones can create headaches at closing.
 

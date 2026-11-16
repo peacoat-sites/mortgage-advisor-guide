@@ -31,9 +31,7 @@ That's the thing I watched trip up borrowers more than almost anything else in m
 
 So let's be precise about what this actually is and how it actually works.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Forbearance pauses or reduces mortgage payments temporarily; it does NOT erase what you owe.</li><li style="margin:5px 0">Missed payments must be repaid, either in a lump sum, repayment plan, or loan modification.</li><li style="margin:5px 0">Credit impact depends on how your servicer reports it, ask before you sign anything.</li><li style="margin:5px 0">Forbearance periods typically run 3 to 12 months, sometimes longer for federally backed loans.</li><li style="margin:5px 0">Requesting forbearance does not automatically protect you from late fees unless your servicer confirms it in writing.</li></ul></div>
-
 
 ## What Forbearance Actually Is (And Isn't)
 
@@ -48,8 +46,6 @@ One thing I'd want every borrower to know: forbearance is not the same as deferr
 ## How the Process Works, Step by Step
 
 > **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 You don't apply for forbearance through a government website or a form you find on Google. You call your servicer directly. The number is on your monthly statement.
 
@@ -79,7 +75,7 @@ This is the table most articles leave out.
 
 The CFPB's [owning a home resources](https://www.consumerfinance.gov/owning-a-home/) lay out these exit options clearly, and it's worth reading before you call your servicer so you're not hearing these terms for the first time mid-conversation.
 
-Most servicers will not volunteer all of these options upfront. I've seen borrowers accept a repayment plan when they qualified for deferral, simply because they didn't know deferral existed. Ask specifically: "What are all the repayment options available to me when forbearance ends?"
+Most servicers will not volunteer all of these options upfront. Borrowers sometimes accept a repayment plan when they qualify for deferral, simply because they don't know deferral exists. Ask specifically: "What are all the repayment options available to me when forbearance ends?"
 
 ## Real Numbers: What This Looks Like in Practice
 
@@ -116,7 +112,6 @@ And honestly? Some people enter forbearance because they're scared and it feels 
 - [Mortgage Bankers Association (MBA) - Forbearance Survey Data](https://www.mba.org/): Industry data on forbearance rates and exit outcomes over time.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

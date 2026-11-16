@@ -54,8 +54,6 @@ Start with a clean Loan Estimate comparison before you talk to a second lender: 
 
 > **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Three scenarios. Real math.
 
 **Scenario 1: Standard 1% origination fee**
@@ -84,7 +82,7 @@ Learn to spot the difference between origination charges and discount points bef
 
 ## When Origination Fees Are Negotiable (And How to Actually Negotiate Them)
 
-Here's what most articles skip: origination fees are not fixed numbers handed down from a compliance department. They're set by individual loan officers who often have discretion within a range. I've seen lenders waive $1,500 in fees on a straightforward conventional loan just because a borrower asked and had a competing offer in hand.
+Here's what most articles skip: origination fees are not fixed numbers handed down from a compliance department. They're set by individual loan officers who often have discretion within a range. Lenders have been known to waive $1,500 in fees on a straightforward conventional loan when a borrower asks and has a competing offer in hand.
 
 What makes fees negotiable:
 
@@ -104,9 +102,9 @@ Page 2, Section A of your Loan Estimate: "Origination Charges." That's the numbe
 
 Add up every item listed in Section A. That is your total origination cost from this lender. Now do the same with the next Loan Estimate. You're comparing apples to apples because federal law requires every lender to use the same form and the same Section A structure.
 
-When I was underwriting files in the mid-2000s, before the Loan Estimate existed in its current form (the Good Faith Estimate at the time was far less standardized), borrowers would get to the closing table and see fees that hadn't appeared anywhere in the early paperwork. The 2010 Dodd-Frank Act and the CFPB's 2015 TRID rules tightened this dramatically. Lenders can't just inflate origination fees by surprise at closing anymore. But they can still structure the initial quote strategically.
+Before the Loan Estimate existed in its current form, borrowers sometimes reached the closing table to find fees that hadn't appeared in early paperwork. The Good Faith Estimate it replaced was far less standardized. The 2010 Dodd-Frank Act and the CFPB's 2015 TRID rules tightened this dramatically. Lenders can't just inflate origination fees by surprise at closing anymore. But they can still structure the initial quote strategically.
 
-One reader emailed me recently about a situation where her Loan Estimate showed $900 in origination charges, which seemed great. But Section B (services you can't shop for) contained a $1,200 "lender processing fee" that effectively doubled the lender's take. Technically legal. Definitely worth asking about.
+For example, a Loan Estimate might show $900 in origination charges while Section B (services you can't shop for) contains a $1,200 "lender processing fee" that effectively doubles the lender's take. Technically legal. Definitely worth asking about.
 
 Save time comparing lenders by building your own tracking sheet: [home-buying checklists and financial planning workbooks on Amazon](https://www.amazon.com/s?k=first+time+home+buyer+checklist&tag=contentportfo-20) *(the site may earn a commission)* are a practical starting point.
 
@@ -121,7 +119,6 @@ Save time comparing lenders by building your own tracking sheet: [home-buying ch
 - National Association of Mortgage Brokers (NAMB): Compensation structure guidelines and broker fee disclosure requirements.
 
 ---
-
 
 ---
 

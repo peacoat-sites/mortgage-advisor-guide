@@ -18,7 +18,7 @@ lastmod: 2026-07-07
 ---
 If you've been watching mortgage rates hover above 6.5% and waiting for some signal that relief is coming, this week probably felt like a cruel joke. Congress passed what Fortune called "the most significant housing bill in decades," and then the signing ceremony was canceled hours before it was supposed to happen.
 
-Here's where things stand as of late June 2026: the 21st Century ROAD to Housing Act passed the Senate 85-5 on June 22, then cleared the House 358-32 on June 23. Both margins exceed the two-thirds threshold needed to override a presidential veto. And yet, the bill sits in limbo because President Trump abruptly pulled out of the planned signing on June 24, saying he won't put pen to paper until Congress passes the SAVE America Act, a voter-ID bill that has been stalled in the Senate. According to HousingWire, that announcement came hours before the ceremony was scheduled to begin.
+As of late June 2026: the 21st Century ROAD to Housing Act passed the Senate 85-5 on June 22, then cleared the House 358-32 on June 23. Both margins exceed the two-thirds threshold needed to override a presidential veto. And yet, the bill sits in limbo because President Trump abruptly pulled out of the planned signing on June 24, saying he won't put pen to paper until Congress passes the SAVE America Act, a voter-ID bill that has been stalled in the Senate. According to HousingWire, that announcement came hours before the ceremony was scheduled to begin.
 
 If you're a buyer, a builder, a lender, or just someone trying to understand what the housing market might look like in six months, you deserve a clear-eyed explanation of what this bill would actually do, why it matters right now, and what the uncertainty means for anyone trying to make a real estate decision today.
 
@@ -35,8 +35,6 @@ Neither of these changes happens overnight. Even if the bill becomes law tomorro
 ## The Constitutional Clock Is Ticking
 
 > **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 You might be wondering: if Trump won't sign it, can Congress just move on without him?
 
@@ -74,7 +72,7 @@ If you're working with an FHA loan, the new appraisal field review change is wor
 
 ## The Bigger Picture on a Messy Week
 
-What happened this week is genuinely unusual. A bipartisan supermajority passed significant housing reform, and the President used it as leverage for an unrelated political priority. Whatever you think of the politics, the practical effect on the mortgage market is uncertainty, and uncertainty tends to make cautious lenders more cautious.
+A bipartisan supermajority passed significant housing reform, and the President used it as leverage for an unrelated political priority. Whatever you think of the politics, the practical effect on the mortgage market is uncertainty, and uncertainty tends to make cautious lenders more cautious.
 
 The bill may still become law without a signature. The FHA changes are already real. And rates, for now, are what they are. Stay close to the news on the congressional calendar, work with a lender who's tracking the FHA policy updates, and get qualified advice before making any major decisions based on where you think this legislation lands. A lot can change fast, and a lot can also stay frustratingly frozen.
 

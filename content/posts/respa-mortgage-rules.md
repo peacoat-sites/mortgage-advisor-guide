@@ -58,8 +58,6 @@ If someone on your transaction team is steering you hard toward a specific servi
 
 > **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The two disclosure documents that define your mortgage transaction both trace back to RESPA, though the specific forms were standardized through the 2015 TRID rule (TILA-RESPA Integrated Disclosure). If you've gotten a mortgage in the last decade, you've seen them.
 
 The Loan Estimate arrives within three business days of your completed application. It's a three-page standardized form that shows your loan terms, projected monthly payments, and estimated closing costs. The key word is "estimate" for some costs but not all. RESPA divides closing costs into tolerance tiers:
@@ -70,9 +68,9 @@ The Loan Estimate arrives within three business days of your completed applicati
 
 **No tolerance limit:** Services where you can shop independently, like your own title insurance or settlement agent, can vary freely. This is why it matters to actually shop those services.
 
-The Closing Disclosure arrives at least three business days before your closing date. Compare it line by line to your Loan Estimate. I've seen borrowers discover $400 to $900 in new junk fees at this stage, fees that weren't on the LE and don't fall into any legitimate tolerance category. Most people, by closing day, are too exhausted and emotionally committed to push back. Don't be that person. Those fees are disputable.
+The Closing Disclosure arrives at least three business days before your closing date. Compare it line by line to your Loan Estimate. Borrowers sometimes discover $400 to $900 in new junk fees at this stage, fees that weren't on the LE and don't fall into any legitimate tolerance category. Most people, by closing day, are too exhausted and emotionally committed to push back. Don't be that person. Those fees are disputable.
 
-**Real scenario:** A couple in Austin got their Closing Disclosure 48 hours before a scheduled closing. A $375 "document preparation fee" appeared that wasn't on the Loan Estimate from their lender's own fee category. They flagged it. The lender removed it. Forty-five seconds of attention, $375 saved. RESPA gave them the leverage to have that conversation.
+A $375 "document preparation fee" that doesn't appear on the Loan Estimate in the lender's own fee category can be flagged before closing. RESPA gives borrowers the leverage to have that conversation.
 
 ## Escrow Accounts: How Much Can They Really Hold?
 
@@ -113,7 +111,6 @@ For borrowers, RESPA's private right of action is more limited than most people 
 - RESPA, 12 U.S.C. § 2601 et seq.: The statute itself, particularly Sections 8 (kickbacks), 9 (title insurance), and 10 (escrow accounts).
 
 ---
-
 
 ---
 

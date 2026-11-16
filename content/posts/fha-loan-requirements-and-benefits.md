@@ -69,7 +69,7 @@ FHA requires two years of employment history. It doesn't have to be the same emp
 
 **Property Requirements**
 
-The home itself has to meet FHA's minimum property standards. It must be your primary residence. FHA won't finance [investment properties](/investment-property-mortgage/) or vacation homes. The home also needs to pass an FHA appraisal, which is stricter than a conventional one. The appraiser checks both market value and basic habitability. Peeling paint, missing handrails, roof problems, structural issues, all of it can cause an FHA appraisal to fail. In my experience, sellers sometimes balk at FHA offers for exactly this reason, especially in competitive markets.
+The home itself has to meet FHA's minimum property standards. It must be your primary residence. FHA won't finance [investment properties](/investment-property-mortgage/) or vacation homes. The home also needs to pass an FHA appraisal, which is stricter than a conventional one. The appraiser checks both market value and basic habitability. Peeling paint, missing handrails, roof problems, structural issues, all of it can cause an FHA appraisal to fail. Sellers sometimes balk at FHA offers for exactly this reason, especially in competitive markets.
 
 ## Loan Limits: How Much Can You Actually Borrow?
 
@@ -93,7 +93,7 @@ This is 1.75% of the loan amount, paid at closing or rolled into the loan balanc
 
 This gets paid monthly and currently ranges from 0.15% to 0.75% of the loan balance annually, depending on loan term, down payment amount, and loan-to-value ratio. For most 30-year FHA loans with less than 10% down, the rate is 0.55% annually. On a $250,000 loan, that's roughly $115 per month.
 
-Here's the catch: if you put less than 10% down, that MIP stays for the life of the loan. The only way to get rid of it is to refinance into a conventional loan once you've built enough equity.
+If you put less than 10% down, that MIP stays for the life of the loan. The only way to get rid of it is to refinance into a conventional loan once you've built enough equity.
 
 Put 10% or more down, and MIP cancels after 11 years. That's still a long time, but it matters.
 

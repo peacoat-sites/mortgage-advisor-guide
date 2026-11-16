@@ -77,7 +77,7 @@ Most mortgage applications today go through an automated underwriting system (AU
 
 An Approve/Eligible finding streamlines the underwriting process considerably. It reduces the documentation requirements and gives the human underwriter a framework to work within. A Refer finding means the AUS couldn't make a decision and the file goes to manual underwriting, where a human evaluates it without the AUS's guidance, applying more conservative standards.
 
-Here's something worth pushing back on: manual underwriting isn't a death sentence. I've helped clients close loans that went manual because of past credit issues or non-traditional income. But it requires more documentation, it takes longer, and lenders often apply stricter DTI caps, typically 43% for manual FHA files without strong compensating factors. [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) break down how their AUS findings affect borrower eligibility if you want to understand the framework before your lender runs your application.
+Manual underwriting isn't a death sentence. Loans can close with manual review due to past credit issues or non-traditional income. But it requires more documentation, it takes longer, and lenders often apply stricter DTI caps, typically 43% for manual FHA files without strong compensating factors. [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) break down how their AUS findings affect borrower eligibility if you want to understand the framework before your lender runs your application.
 
 ## Common Reasons Underwriters Decline or Suspend Files
 
@@ -107,7 +107,7 @@ Here's what you can actually do to move through this process without unnecessary
 
 ---
 
-Underwriting is not the enemy. It's the process that protects both the lender and, honestly, you. A properly underwritten loan is one where someone verified that you can actually afford what you're buying. The borrowers I've seen get into the most trouble were the ones who found lenders willing to look the other way. Understanding the process, preparing your documents thoroughly, and communicating with your loan officer quickly when conditions come in are the three habits that separate smooth closings from stressful ones.
+Underwriting is not the enemy. It's the process that protects both the lender and, honestly, you. A properly underwritten loan is one where someone verified that you can actually afford what you're buying. Borrowers who get into trouble often found lenders willing to overlook red flags in their finances. Understanding the process, preparing your documents thoroughly, and communicating with your loan officer quickly when conditions come in are the three habits that separate smooth closings from stressful ones.
 
 ---
 

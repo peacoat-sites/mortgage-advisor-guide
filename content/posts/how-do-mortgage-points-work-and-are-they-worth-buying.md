@@ -86,7 +86,7 @@ You don't have to buy a full point. Most lenders let you buy 0.5 or 0.25. Same p
 
 Negative points (or lender credits) flip this around: the lender gives you cash toward closing costs but charges you a higher rate. If you're short on cash at closing, this works. You get a lower upfront bill and pay more monthly for 30 years. The breakeven math applies here too, just reversed.
 
-I've seen buyers use lender credits strategically when they're tight on down payment, closing costs, and reserves. It's a useful tool. Just make sure it's your conscious choice, not something that just happened to you.
+Lender credits can be useful when you're tight on down payment, closing costs, and reserves. It's a useful tool. Make sure it's your conscious choice, not something you accept without understanding the tradeoffs.
 
 ## The Tax Angle (Briefly, Because It Matters)
 

@@ -52,7 +52,7 @@ A 15-day lock might carry a rate 0.125% lower than a 45-day lock with the same l
 
 **15-day lock:** Best for refinances only, when all documentation is already in order and the loan is essentially ready to close. Almost never appropriate for a purchase.
 
-**30-day lock:** Can work for a purchase if you're under contract, the property is already appraised or waived, and your file is clean and complete. Even then, it's tight. I've seen closings fall to 31 days because a title company had a scheduling conflict.
+**30-day lock:** Can work for a purchase if you're under contract, the property is already appraised or waived, and your file is clean and complete. Even then, it's tight. Closings can slip to 31 days due to scheduling conflicts at title companies or other unforeseen delays.
 
 **45-day lock:** This is the most common choice for purchase transactions and the one I'd consider the practical default. It gives the lender enough runway to complete underwriting, order and receive the appraisal, coordinate with title, and handle the back-and-forth of conditions without everyone panicking.
 
@@ -70,7 +70,7 @@ If the lock expires before closing, you have options. None are great. You can pa
 
 In some cases, the lender will let you re-lock at the current market rate if it's lower. If rates have risen, you're stuck with the higher cost. If rates have dropped, some lenders offer a "float-down" provision that lets you capture a lower rate during the lock period, though these always come with their own conditions and fees.
 
-**Locking too late** is the other trap. Some borrowers think they'll outsmart the market by waiting for rates to dip. That can work. It can also blow up spectacularly. Rates can move 0.25% or more in a single week during volatile periods, and I've seen a 0.5% move happen in a day following an unexpected economic report. You can't time the market reliably. Most professionals in this industry can't either.
+**Locking too late** is the other trap. Some borrowers think they'll outsmart the market by waiting for rates to dip. That can work. It can also blow up spectacularly. Rates can move 0.25% or more in a single week during volatile periods, and can shift 0.5% in a day following an unexpected economic report. You can't time the market reliably. Most professionals in this industry can't either.
 
 The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) publishes data on mortgage rate trends regularly, and even with all that data, the professionals can't predict short-term movements with consistency. Don't bet your housing costs on your ability to do what economists can't.
 
@@ -111,7 +111,6 @@ A rate lock isn't complicated, but it does require you to pay attention at a mom
 - [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)
 - [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20)
 - [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -42,8 +42,6 @@ Community banks, credit unions, and some private lenders are the typical portfol
 
 > **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's my honest take: portfolio loans aren't for most borrowers, and anyone who tells you otherwise is probably selling something.
 
 The conventional market handles the vast majority of buyers perfectly well. If you have a W-2 job, two years of tax returns, a credit score above 680, and a down payment, you'll get a conforming loan at a competitive rate and you'll be fine.
@@ -67,7 +65,7 @@ The terms can also be less standardized. You might get a 5/1 ARM when you wanted
 
 The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) still has jurisdiction over these loans for most consumer protections, so you're not completely in the wild west. But the CFPB can't force a portfolio lender to offer you a rate they don't want to offer.
 
-One thing I've seen catch borrowers off guard: the loan could be sold later. A portfolio lender can keep a loan for years and then sell it to a loan servicer or another institution. "Portfolio" describes how it was originated, not necessarily where it lives for the life of the loan. Ask your lender directly about their history of selling loans and what protections are in your note if that happens.
+A loan can be sold after origination. A portfolio lender can keep a loan for years and then sell it to a loan servicer or another institution. "Portfolio" describes how it was originated, not necessarily where it lives for the life of the loan. Ask your lender directly about their history of selling loans and what protections are in your note if that happens.
 
 ## How the Underwriting Actually Works
 
@@ -93,10 +91,9 @@ If you want to prep before those conversations, I'd point you toward [The Mortga
 
 ---
 
-
 ---
 
-The borrowers I've seen benefit most from portfolio loans are the ones who were wrongly rejected by the conventional market, not the ones who couldn't qualify anywhere. Know which category you're in before you start shopping.
+Portfolio loans work best for borrowers rejected by the conventional market despite solid qualifications, not for those unable to qualify anywhere. Consider which category applies to your situation before shopping.
 
 ---
 
@@ -111,7 +108,6 @@ The borrowers I've seen benefit most from portfolio loans are the ones who were 
 - [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/)
 - [The Mortgage Encyclopedia by Jack Guttentag](https://www.amazon.com/s?k=The+Mortgage+Encyclopedia+Guttentag&tag=contentportfo-20)
 - [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

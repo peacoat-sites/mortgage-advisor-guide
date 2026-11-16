@@ -40,8 +40,6 @@ The other big change: VantageScore 4.0 can factor in rent and utility payments. 
 
 > **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The people who stand to gain the most from VantageScore 4.0 are what the industry calls "thin-file" borrowers. That means people who haven't had a lot of traditional credit accounts, credit cards, car loans, things like that. Young buyers, recent immigrants, people who've lived on cash and debit for years.
 
 If you've been renting and paying utilities faithfully but never carried much credit card debt, Classic FICO has basically been blind to your responsible behavior. The new model can see it. That's a real shift.
@@ -76,7 +74,7 @@ The April 2026 announcement from FHFA and HUD was a starting gun, not a finish l
 
 What that means practically is that the mortgage credit system is in a real period of transition right now. Not every lender is on the same page. Not every score you see online reflects what your mortgage lender will actually use. The rules haven't finished changing yet.
 
-I've seen too many people get blindsided by the fine print at the closing table. This change is big enough that it belongs in the conversation at the very beginning of your home search. Ask the question early, know your scores under both models if you can, and talk to a HUD-approved housing counselor or a mortgage professional you trust before you make any decisions based on what you think your credit score means.
+Many borrowers get blindsided by the fine print at the closing table. This change is big enough that it belongs in the conversation at the very beginning of your home search. Ask the question early, know your scores under both models if you can, and talk to a HUD-approved housing counselor or a mortgage professional you trust before you make any decisions based on what you think your credit score means.
 
 ## Sources
 

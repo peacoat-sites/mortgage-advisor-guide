@@ -46,11 +46,9 @@ The data backs this up. First-time buyers now represent 35 percent of sales in J
 
 > **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The housing market didn't soften because the Fed cut rates. It softened despite rates being locked at higher levels. According to Fed statements from June 2026, there's essentially zero chance of meaningful rate declines in the near term. If anything, the discussion has shifted toward potential hikes later in 2026.
 
-This is important context for anyone considering a mortgage right now. Yes, seller leverage has weakened. Yes, you have negotiating room you didn't have in 2023 or 2024. But you're still financing a purchase at a rate that's historically elevated. A 6.5 percent mortgage is manageable. It's not cheap, but it's workable. The trap is assuming rates will fall back to 3 or 4 percent and that refinancing will save you down the line.
+This is important context for anyone considering a mortgage right now. Yes, seller leverage has weakened. Yes, you have negotiating room you didn't have in 2023 or 2024. But you're still financing a purchase at a rate that's historically elevated. A 6.5 percent mortgage is manageable. It's not cheap, but it's workable. A common mistake is assuming rates will fall back to 3 or 4 percent and that refinancing will save you down the line.
 
 It won't. Not soon, anyway.
 

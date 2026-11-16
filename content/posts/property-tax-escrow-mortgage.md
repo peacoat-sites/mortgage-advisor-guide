@@ -85,7 +85,7 @@ Most conventional lenders will consider it if you have at least 20% equity in th
 
 FHA loans are different. HUD requires escrow for the life of the loan in most cases. No waiving it. VA loans have similar restrictions depending on the lender. For specifics on your loan type, [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) will review your situation free and give you real answers tailored to you.
 
-Here's what most people miss: even if you successfully waive escrow, the discipline of setting money aside falls on you. Your county doesn't care whether you have an escrow account. Missing a property tax payment means penalties, interest, and eventually a tax lien. I've watched borrowers waive escrow, spend the extra monthly cash flow, then scramble to scrape together $6,000 in January. If you waive it, open a separate savings account, deposit your monthly equivalent each month, and leave it alone.
+Here's what most people miss: even if you successfully waive escrow, the discipline of setting money aside falls on you. Your county doesn't care whether you have an escrow account. Missing a property tax payment means penalties, interest, and eventually a tax lien. A common pitfall: borrowers waive escrow, spend the extra monthly cash flow, then scramble to scrape together thousands in taxes when the bill comes due. If you waive it, open a separate savings account, deposit your monthly equivalent each month, and leave it alone.
 
 ## A Comparison: Escrow Account vs. Managing Taxes and Insurance Yourself
 

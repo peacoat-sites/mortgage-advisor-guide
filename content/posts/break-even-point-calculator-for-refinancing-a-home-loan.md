@@ -18,7 +18,7 @@ A borrower came to me once, practically beaming, because she'd locked in a rate 
 
 That's what the [break-even calculation](/break-even-refinance-analysis/) is really for. Not the math itself, which takes about four minutes, but the moment it forces on you: do the numbers actually support doing this?
 
-Here's what I want to walk you through, because I've seen this decision get botched more often than almost any other in mortgage lending.
+This decision gets botched more often than almost any other in mortgage lending.
 
 ## What the Break-Even Point Actually Tells You
 
@@ -43,8 +43,6 @@ What most people don't realize is how heavily closing costs vary. Title fees, le
 | Higher closing costs | $350,000 | 7.25% | 6.25% | ~$2,480 | ~$2,155 | ~$325 | $10,500 | 32 |
 
 > **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me give you a realistic walkthrough.
 
@@ -84,7 +82,7 @@ If you're only staying two or three years, a no-cost refinance often wins. If yo
 
 Taxes change. Your escrow payment may shift after refinancing depending on your property tax reassessment schedule. Some states trigger a new assessment at refi, which can eat into your monthly savings faster than expected.
 
-Private mortgage insurance (PMI) is another one. If your current loan has no PMI but your new loan-to-value has eroded (say, your home's value dropped slightly or you're rolling costs in), you might suddenly owe PMI on the new loan. That completely changes the math. I've seen borrowers overlook this and end up with a new payment that was actually higher than their old one once PMI was added back.
+Private mortgage insurance (PMI) is another one. If your current loan has no PMI but your new loan-to-value has eroded (say, your home's value dropped slightly or you're rolling costs in), you might suddenly owe PMI on the new loan. That completely changes the math. Borrowers who overlook this can end up with a new payment that's actually higher than the old one once PMI is added back.
 
 The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) has a solid refinancing overview that covers these edge cases, and if your situation has any complexity to it, spending 20 minutes there before you talk to a lender is time well spent. A session with a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) is also worth it, particularly if you're refinancing out of a difficult situation or dealing with equity concerns.
 
@@ -102,7 +100,7 @@ There's no universal answer, but most financial advisors consider anything under
 
 #### Should I include the tax deduction on mortgage interest in my break-even math?
 
-Only if you actually itemize deductions. The majority of homeowners take the standard deduction, which means the mortgage interest deduction has no real effect on their tax bill. If you do itemize, your after-tax savings will be slightly higher, which shortens your break-even modestly, but it's usually not a game-changer.
+Only if you actually itemize deductions. The majority of homeowners take the standard deduction, which means the mortgage interest deduction has no real effect on their tax bill. If you do itemize, your after-tax savings will be slightly higher, which shortens your break-even modestly.
 
 #### What happens to my break-even if I roll closing costs into the loan?
 
@@ -129,7 +127,6 @@ The break-even calculation isn't the whole decision, but it's the foundation. Do
 - [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/)
 - [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
 - [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

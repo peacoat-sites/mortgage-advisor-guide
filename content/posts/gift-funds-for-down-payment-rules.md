@@ -16,7 +16,7 @@ lastmod: 2026-07-08
 ---
 Someone called me last week, two days before their closing date, panicking because their lender had just flagged a $15,000 deposit in their bank account. It was a gift from her parents. She'd had it sitting there for six weeks. And nobody had told her she needed a gift letter.
 
-We got it sorted out, but it added stress nobody needs right before closing. And honestly, it's a situation I've seen play out dozens of times, because gift funds are one of those topics where borrowers assume everything will be fine until suddenly it isn't.
+Gift funds are a common source of stress right before closing, often because borrowers assume everything will be fine until suddenly it isn't.
 
 Here's what you need to know before that money touches your account.
 
@@ -32,8 +32,6 @@ That's the whole thing. Repayment expectation is what turns a gift into a loan, 
 
 > **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where borrowers get surprised. Not every person in your life qualifies as an acceptable gift donor under mortgage guidelines.
 
 For conventional loans (Fannie Mae/Freddie Mac), acceptable donors include family members, defined pretty broadly: spouses, children, parents, siblings, grandparents, aunts, uncles, domestic partners, and even fiancés. For FHA loans, the list is similar but also includes close friends "with a clearly defined interest in the borrower," which gives you a bit more flexibility in practice.
@@ -46,7 +44,7 @@ For VA and USDA loans, gift funds are generally allowed, and the sourcing rules 
 
 ## The Gift Letter: What It Has to Say
 
-A gift letter is not optional, and a generic one isn't enough. I've seen gift letters that were essentially a sentence long get kicked back by underwriters. Here's what a solid, compliant gift letter needs to include:
+A gift letter is not optional, and a generic one isn't enough. Gift letters that are essentially a sentence long typically get kicked back by underwriters. Here's what a solid, compliant gift letter needs to include:
 
 - The donor's name, address, and relationship to the borrower
 - The exact dollar amount of the gift
@@ -89,7 +87,7 @@ This is a detail worth confirming with your specific lender because overlays (le
 
 ## A Contrarian Take: Don't Wait for the Gift to Have the Conversation
 
-Most advice on this topic focuses on documentation. What I'd add is this: the conversation with your donor matters as much as the paperwork. I've seen gifts fall apart not because of documentation problems but because the borrower and their family member had fundamentally different understandings of what was happening. The borrower thought it was a gift. The parent thought it was a loan they'd eventually get back. That misalignment, once it surfaces in underwriting or worse, after closing, creates real relationship damage.
+Beyond documentation, the conversation with your donor matters just as much as the paperwork. Gifts can fall apart not because of documentation problems but because the borrower and their family member have fundamentally different understandings of what's happening. For example, one party might view it as a gift while the other sees it as a loan to repay later. That misalignment, once it surfaces in underwriting or after closing, can create real relationship damage.
 
 Be direct with your donor before you ever mention the mortgage. Say specifically: "This has to be a gift with no expectation of repayment. The lender will require a letter stating exactly that. Are you comfortable with that?" Give them the chance to say no without awkwardness. If they hesitate, that's important information.
 
@@ -134,7 +132,6 @@ This is mortgage fraud territory. If an underwriter finds evidence that a gift i
 - [HUD-approved housing counselor network](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
 - [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)
 - [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

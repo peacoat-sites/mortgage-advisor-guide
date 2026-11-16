@@ -25,7 +25,7 @@ author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
 lastmod: 2026-07-08
 ---
-You're three weeks from [closing](/closing-disclosure-explained/), the movers are booked, and your loan officer calls to say the title search turned up a lien from a contractor who worked on the house six years ago. The seller swears they never hired anyone by that name. Suddenly your closing date is a memory and you're learning, the hard way, what a title search actually does. I've seen this exact scenario play out more times than I can count, and almost every time, the buyer had no idea what a title search was until it became their problem.
+You're three weeks from [closing](/closing-disclosure-explained/), the movers are booked, and your loan officer calls to say the title search turned up a lien from a contractor who worked on the house six years ago. The seller swears they never hired anyone by that name. Suddenly your closing date is a memory and you're learning, the hard way, what a title search actually does. Buyers often don't understand what a title search does until a problem surfaces during the closing process.
 
 Let's fix that before it happens to you.
 
@@ -35,7 +35,7 @@ A title search is a review of public records to verify that the person selling y
 
 The search typically goes back 40 to 60 years, sometimes longer depending on the state and the property's history. A title examiner, usually working for a title company or real estate attorney, combs through county deed records, court judgments, tax records, probate filings, and lien databases. What they're building is a "chain of title," a chronological record of every owner and every transaction tied to that specific parcel of land.
 
-Here's the thing most people don't realize: real property law is old, complicated, and deeply local. A lien filed in 2009 doesn't disappear just because the house changed hands twice since then. Neither does an easement that lets your neighbor run a drainage pipe across the back corner of the lot. These things travel with the property, not with the people. That's why the search matters.
+Real property law is old, complicated, and deeply local. A lien filed in 2009 doesn't disappear just because the house changed hands twice since then. Neither does an easement that lets your neighbor run a drainage pipe across the back corner of the lot. These things travel with the property, not with the people. That's why the search matters.
 
 ## What the Search Is Actually Looking For
 
@@ -86,7 +86,7 @@ Title insurance is a one-time premium paid at closing. There are two types, and 
 
 A **lender's title insurance policy** protects your mortgage lender. Your lender will require this. It does not protect you. This is the part that trips people up.
 
-An **owner's title insurance policy** protects you, the buyer. It's optional, but declining it is a risk I've watched too many people regret. If a title defect surfaces after closing, an owner's policy covers your legal costs and losses up to the purchase price of the home. Without it, you're paying those costs out of pocket while potentially fighting a lawsuit over whether you actually own your house.
+An **owner's title insurance policy** protects you, the buyer. It's optional, but declining it carries real risk. If a title defect surfaces after closing, an owner's policy covers your legal costs and losses up to the purchase price of the home. Without it, you pay those costs out of pocket while potentially fighting a lawsuit over whether you actually own your house.
 
 The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) offers a clear breakdown of how title insurance works and what it covers, which is worth reading before you sit down at the closing table.
 

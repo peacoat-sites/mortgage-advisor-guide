@@ -37,7 +37,7 @@ Lenders are required by the Equal Credit Opportunity Act to give you a specific 
 
 "Insufficient income" might mean your documented income is too low, or it might mean you're self-employed and your tax returns show too many deductions, or it might mean your income is the right amount but the lender couldn't verify it through their system. Three completely different problems. One vague phrase.
 
-When I was underwriting, I'd sometimes write "derogatory credit history" as the denial reason when the real issue was a single medical collection from four years ago that the borrower didn't even know existed. That borrower could have disputed it, gotten it removed, and reapplied. Instead, they probably assumed their whole credit history was trashed.
+A denial letter stating "derogatory credit history" might refer to a single medical collection from years ago that you don't know about. You could dispute it, get it removed, and reapply. Without that context, you might assume your entire credit history is damaged when only one issue needs attention.
 
 You're entitled to a free copy of your credit report if you're denied, and the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) has a good breakdown of your rights under the FCRA. Use them.
 
@@ -45,19 +45,17 @@ You're entitled to a free copy of your credit report if you're denied, and the [
 
 > **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Most denials trace back to a handful of issues. Not dozens. Here's where they actually cluster:
 
 **Credit score below the loan's threshold.** Different loan types have different floors. Conventional loans (backed by Fannie Mae or Freddie Mac) generally want a 620 minimum; FHA loans go down to 580 with 3.5% down. Drop below 500 and almost no federally backed program will touch you. As of July 2026, many lenders have layered additional overlays (their own stricter requirements) on top of these minimums, so even if you technically qualify for an FHA loan at 580, specific lenders may require 620 or 640.
 
-**Debt-to-income ratio too high.** This is the one that catches the most people off guard. DTI is your total monthly debt payments divided by your gross monthly income. Most conventional loans cap at 43-45%; some allow 50% with strong compensating factors. I've seen people with excellent credit get denied purely because they have $800/month in student loans and a car payment, which pushes their DTI past what the loan program allows.
+**Debt-to-income ratio too high.** This is the one that catches the most people off guard. DTI is your total monthly debt payments divided by your gross monthly income. Most conventional loans cap at 43-45%; some allow 50% with strong compensating factors. Someone with excellent credit can get denied if they have $800/month in student loans and a car payment combined, which pushes DTI past what the loan program allows.
 
 **Employment history too short or irregular.** Lenders want two years of stable employment in the same field. A job change within the same industry is usually fine. Going from W-2 employee to self-employed resets the clock: you'll typically need two years of self-employment tax returns before a conventional lender takes you seriously.
 
 **Down payment or reserves insufficient.** Not having enough cash is obvious. What catches people off guard is the reserves requirement: many loan programs want to see 2-6 months of mortgage payments sitting in your account after closing, not used for the down payment. Gifts are sometimes allowed, sometimes not, depending on the loan type.
 
-**The property itself failed.** Sometimes it's not you at all. FHA and VA loans have property condition requirements. A house with a failing roof, unpermitted additions, or certain foundation issues can get a loan denied regardless of your finances. I've seen borrowers with 760 credit scores get denied because the house had peeling paint (which FHA treats as a lead paint hazard).
+**The property itself failed.** Sometimes it's not you at all. FHA and VA loans have property condition requirements. A house with a failing roof, unpermitted additions, or certain foundation issues can get a loan denied regardless of your finances. A borrower with a 760 credit score can get denied because the house has peeling paint, which FHA treats as a lead paint hazard.
 
 **Recent derogatory events.** Bankruptcy, foreclosure, or a short sale don't disqualify you permanently, but they trigger mandatory waiting periods. These are worth knowing upfront:
 
@@ -77,7 +75,7 @@ Everyone focuses on credit scores. Credit scores are fixable in 6-12 months with
 
 Here's the math that trips people up. Say your gross monthly income is $6,000. You have a $400 car payment and $300 in student loan minimums. That's $700/month in existing debt before you even add a mortgage. A $1,800/month mortgage payment would give you a DTI of 41.7%, which most programs allow. But if you also have a $200/month credit card minimum, you're suddenly at 45.8%, which some programs won't accept.
 
-The fix: pay off the credit card before applying. A reader emailed me last spring after getting denied, confused because her credit score was 720. Turned out she had three credit cards with minimum payments totaling $380/month she hadn't thought to mention. Paying off one $8,000 balance dropped her DTI from 47% to 42% and she was approved three months later.
+The fix: pay off the credit card before applying. For example, three credit cards with minimum payments totaling $380/month might not seem significant until you calculate DTI. Paying off one $8,000 balance could drop DTI from 47% to 42%, the difference between denial and approval.
 
 Scenario: Borrower with 720 credit, $6,200 gross income, $380/month in credit card minimums, $550/month car payment → DTI too high for target loan → paid off $8,000 card balance, eliminating $250/month minimum → DTI dropped below 44% → approved 90 days after original denial.
 
@@ -101,7 +99,7 @@ One thing I got wrong for years: I assumed getting pre-approved meant you were s
 
 Some situations call for patience, not another application.
 
-If your credit score is between 580 and 620, six months of paying every bill on time and keeping credit card balances below 30% of their limits can move you into a different tier. I've seen scores move 40-60 points in that window. That difference can mean a lower rate, not just approval.
+If your credit score is between 580 and 620, six months of paying every bill on time and keeping credit card balances below 30% of their limits can move you into a different tier. That difference can mean a lower rate, not just approval.
 
 If you had a bankruptcy 2.5 years ago and want an FHA loan, wait six months rather than applying now and getting denied, which starts a paper trail lenders can see.
 
@@ -118,7 +116,6 @@ Scenario: Self-employed borrower denied twice for conventional loan due to incom
 - Equal Credit Opportunity Act (Regulation B): Federal law governing the right to receive specific denial reasons and dispute process
 
 ---
-
 
 ---
 

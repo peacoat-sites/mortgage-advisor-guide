@@ -31,9 +31,7 @@ That's the thing nobody tells you upfront. When you buy a condo, you're not just
 
 You might be wondering: how is that even legal? It is, and here's why it matters. Fannie Mae and Freddie Mac, the two government-backed entities that buy most mortgages after they're issued, have specific rules about which condo projects they'll accept. Lenders who want to sell those loans (which is most lenders, because it frees up capital) have to follow those rules. If a building fails the checklist, your lender can't sell the loan, so they often won't make it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Lenders evaluate the entire condo building, not just your financials, a poorly run HOA can kill your loan.</li><li style="margin:5px 0">Conventional loans require at least 10% down for condos; FHA loans require 3.5% but only for FHA-approved buildings.</li><li style="margin:5px 0">Owner-occupancy in the building must typically be at least 50% for a conventional loan to work.</li><li style="margin:5px 0">HOAs with more than 15% of owners delinquent on dues will almost always fail Fannie Mae's review.</li><li style="margin:5px 0">"Non-warrantable" condos still have financing options, but expect higher rates and larger down payments.</li></ul></div>
-
 
 ## What Makes a Condo "Warrantable"
 
@@ -56,8 +54,6 @@ One detail that tripped up a client of mine a few years back: she found a beauti
 
 > **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where people often get surprised in a different direction. Condo mortgage requirements for your personal finances aren't wildly different from a single-family home, but there are a few wrinkles.
 
 For a conventional loan on a warrantable condo, you'll typically need a minimum of 10% down, not the 3% that some conventional programs allow for houses. A few lenders will go to 5% down, but they'll price that risk into your rate. With 20% down or more, you avoid [private mortgage insurance](/average-cost-of-private-mortgage-insurance-per-month/) (PMI) and generally get the cleanest approval path. Credit score minimums usually sit around 620 for conventional, though the best rates kick in around 740 and above.
@@ -68,11 +64,11 @@ VA loans follow a similar approval-list logic for condos. If you're a veteran us
 
 ## The HOA Documents Nobody Reads (But Should)
 
-When a lender orders a "condo questionnaire," they're asking the HOA to answer a long list of questions about the building's finances, insurance, and ownership structure. That document is incredibly revealing, and in my experience, the answers often expose problems the buyer didn't know existed.
+When a lender orders a "condo questionnaire," they're asking the HOA to answer a long list of questions about the building's finances, insurance, and ownership structure. That document is incredibly revealing, and the answers often expose problems the buyer didn't know existed.
 
 Here's what I tell people: ask to see the HOA meeting minutes from the last two years before you even make an offer. Those minutes will tell you if there are major deferred repairs, ongoing disputes with residents, special assessments being planned, or early hints of legal trouble. Lenders will catch some of this later, but you don't want to fall in love with a unit and then find out in week four that the building needs a $2.3 million roof replacement and the HOA has $180,000 in reserves.
 
-I made this exact mistake myself early in my career when I was advising a friend, not a client. We skipped the minutes, the appraisal flagged a note about a pending structural inspection, and the whole thing unraveled. Painful lesson.
+A common mistake is skipping the HOA minutes. If a structural inspection is pending, it can affect financing and the deal's viability.
 
 [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) include a condo-specific checklist that walks you through what to ask the HOA and what the answers should look like. Worth bookmarking.
 
@@ -86,9 +82,7 @@ Worked example: Buyer in Miami, non-warrantable building due to an investor-owne
 
 There are also hard money and private lenders, but unless you're an investor planning to refinance in a couple of years, that's not a path I'd recommend for a primary residence.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical minimum down payment by condo loan type</div><div class="sc-row"><span class="sc-label">Conventional (warrantable)</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">10%</span></div><div class="sc-row"><span class="sc-label">FHA (approved building)</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">3.5%</span></div><div class="sc-row"><span class="sc-label">VA (approved building)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0%</span></div><div class="sc-row"><span class="sc-label">Portfolio / Non-warrantable</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">20%</span></div><div class="sc-row"><span class="sc-label">Hard money / Private</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">30%</span></div><div class="sc-src">Source: Industry standard guidelines, July 2026</div></div>
-
 
 ## Sources
 
@@ -99,7 +93,6 @@ There are also hard money and private lenders, but unless you're an investor pla
 - Urban Land Institute, "Condo Market Risk Factors" (2025): Research on how investor concentration and HOA reserve underfunding correlate with loan default rates.
 
 ---
-
 
 *Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
 

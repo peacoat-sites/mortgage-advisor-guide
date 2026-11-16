@@ -57,11 +57,7 @@ The documentation burden is real. According to a 2022 report from the Urban Inst
 
 > **Helpful resource:** [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Self-Employed vs. W-2 Mortgage Approval Rates by Lender Type</div><div class="sc-row"><span class="sc-label">Large banks (W-2)</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">78%</span></div><div class="sc-row"><span class="sc-label">Large banks (self-emp.)</span><span class="sc-track"><span class="sc-bar" style="width:74%"></span></span><span class="sc-val">61%</span></div><div class="sc-row"><span class="sc-label">Credit unions (W-2)</span><span class="sc-track"><span class="sc-bar" style="width:98%"></span></span><span class="sc-val">80%</span></div><div class="sc-row"><span class="sc-label">Credit unions (self-emp.)</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">68%</span></div><div class="sc-row"><span class="sc-label">Mortgage banks (W-2)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">82%</span></div><div class="sc-row"><span class="sc-label">Mortgage banks (self-emp.)</span><span class="sc-track"><span class="sc-bar" style="width:87%"></span></span><span class="sc-val">71%</span></div><div class="sc-src">Source: HMDA data analysis, 2024 CFPB annual report</div></div>
-
 
 What that chart is telling you: the approval gap exists everywhere, but it's smallest at dedicated mortgage banks and credit unions. Large traditional banks tend to have the least flexibility on underwriting guidelines. That's not a knock on banks in general, it's just how their compliance departments are structured.
 
@@ -85,7 +81,7 @@ I'll be blunt: the document list for self-employed borrowers is long. Longer tha
 
 What surprised me when I reviewed files is how often the CPA letter gets skipped. Borrowers don't know to ask for it, and loan officers sometimes don't push for it until underwriting kicks the file back. Get it upfront. A short letter from your accountant confirming that you've been in business for at least two years, that the business is financially viable, and that no income is expected to significantly decrease carries real weight with an underwriter. It takes your CPA maybe 20 minutes to write. Ask for it early.
 
-The other big trip-up: mixing personal and business bank accounts. I've seen deals fall apart at the last minute because the underwriter couldn't separate business cash flow from personal expenses in a single account. If you haven't separated them yet, do it now, even if you're not planning to buy for another year.
+The other big trip-up: mixing personal and business bank accounts. Deals can fall apart at the last minute if the underwriter can't separate business cash flow from personal expenses in a single account. Separate them now, even if you're not planning to buy for another year.
 
 ---
 
@@ -112,7 +108,7 @@ That rate premium adds up. On a $400,000 loan, even a 1% higher rate could mean 
 
 Here's something most people get wrong: the standard requirement is two years of self-employment history, but that's not an absolute wall.
 
-Fannie Mae's guidelines (and this is something I confirmed when I was still in underwriting) allow for one year of self-employment in specific circumstances. If you can show that your prior W-2 employment was in the same field or industry as your self-employment, and that your income has remained stable or increased, some lenders will work with a single year of tax returns. A former staff nurse who went into private practice as an independent consultant, for example, has a reasonable case for a one-year history approval.
+Fannie Mae's guidelines allow for one year of self-employment in specific circumstances. If you can show that your prior W-2 employment was in the same field or industry as your self-employment, and that your income has remained stable or increased, some lenders will work with a single year of tax returns. For example, someone who transitioned from employment as a nurse to independent consulting in the same field has a reasonable case for a one-year history approval.
 
 The catch: you need a lender willing to manually underwrite the file and make that judgment call. Not every loan officer knows this is possible, or wants to go through the extra work.
 
@@ -128,7 +124,7 @@ The system is imperfect. You know that. But there are things that genuinely move
 
 **Your two-year tax picture matters more than this year's revenue.** If you're planning to buy in 2027, your 2025 and 2026 tax returns are what lenders will use. Think carefully about aggressive deductions in 2025 if you want to maximize your qualifying income for a purchase 18 months from now. Your CPA and your mortgage goals may pull in different directions here. Acknowledge that tension explicitly, and decide which priority wins for those years.
 
-**Your credit score has more leverage than you might think.** Above a 740, lenders often apply their most favorable guidelines. Below 680, you'll face more scrutiny and potentially worse pricing, on top of the self-employment hurdles.
+Credit score matters significantly for self-employed borrowers. Above a 740, lenders often apply their most favorable guidelines. Below 680, you'll face more scrutiny and potentially worse pricing, on top of the self-employment hurdles.
 
 **Keep two years of business bank statements clean and accessible.** This is less about what the statements show and more about whether you can produce them quickly. A 30-day delay in document gathering can kill a deal if the seller is impatient or rates are moving.
 
@@ -147,7 +143,6 @@ A good home-buying checklist or financial planning workbook can also help you tr
 - [IRS Schedule C Instructions](https://www.irs.gov/instructions/i1040sc): Reference for what counts as net self-employment income for tax (and therefore lending) purposes
 
 ---
-
 
 ---
 

@@ -25,7 +25,7 @@ author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 lastmod: 2026-07-08
 ---
-My second year underwriting mortgages, a borrower came in furious. She'd taken out a home equity loan eighteen months earlier to renovate her kitchen, and now she needed another $15,000 for a bathroom she hadn't planned on. She had the equity. She had the income. But she had to go through a whole new loan application, pay closing costs again, and wait six weeks. "Why didn't anyone tell me I had options?" she asked. I didn't have a great answer for her.
+A common mistake is not exploring all options before taking out a home equity loan. Someone who needs additional funds later may not realize they could have structured their initial loan differently, potentially avoiding a second application, additional closing costs, and another waiting period.
 
 That question has stuck with me. Because the difference between a HELOC and a home equity loan isn't just a product feature buried in a brochure. It's a decision that affects how much flexibility you have, how much risk you're carrying, and sometimes thousands of dollars in interest over the life of the borrowing. Loan officers don't always slow down to explain it properly, partly because they're paid to close loans, not to make sure you picked the right one.
 
@@ -45,7 +45,6 @@ So let's fix that.
 ## What You're Actually Choosing Between
 
 **Misconception**: Most people think you need 20% home equity to qualify for a HELOC or home equity loan. But lenders increasingly offer products with equity requirements as low as 10-15%. According to 2024 data from the Consumer Financial Protection Bureau, approximately 35% of HELOCs issued required less than 15% equity, up from just 18% in 2020. Some credit unions and online lenders now offer equity-based lending starting at 10% equity with strong credit scores. However, lower equity thresholds typically come with higher interest rates and stricter credit requirements, borrowers with less than 15% equity pay an average of 1.5-2% more in APR compared to those with 20%+ equity.
-
 
 Both products do the same thing at a high level: they let you borrow against the equity you've built in your home. Your home secures the debt. If you stop paying, the lender can foreclose. That part is identical, and it's the part borrowers sometimes forget when these products get compared to personal loans or credit cards.
 
@@ -75,7 +74,7 @@ If you know exactly how much you need and you need it all at once, a home equity
 
 Think: paying off a specific amount of high-interest debt, funding a home addition with a firm contractor bid, covering a medical bill, or buying a car. The use case is defined, the amount is defined, and the fixed payment fits into a monthly budget without surprises.
 
-I've seen borrowers use home equity loans extremely well for debt consolidation, particularly when rolling in credit card balances at 24-28% APR into a home equity loan at a fraction of that rate. The math works. The danger is behavioral: once the credit cards are paid off, some people run them back up and now have both the home equity loan payment and new card debt. The loan didn't fail them. They failed the loan. That's worth being honest with yourself about before you go this route.
+Home equity loans can work well for debt consolidation, particularly when rolling in credit card balances at 24-28% APR into a home equity loan at a fraction of that rate. The math works. The danger is behavioral: once the credit cards are paid off, some people run them back up and now have both the home equity loan payment and new card debt. The loan didn't fail them. They failed the loan. That's worth being honest with yourself about before you go this route.
 
 Closing costs on home equity loans typically run 2-5% of the loan amount, though some lenders advertise low or no-closing-cost options (read the fine print, because those costs often get rolled into a slightly higher rate). On a $60,000 loan, you might pay $1,200 to $3,000 upfront. Budget for it.
 
@@ -87,7 +86,7 @@ The key advantage is that you only pay interest on what you've drawn, not the fu
 
 The HELOC also gives you reusability during the draw period. Pay down $10,000 of what you borrowed, and that $10,000 becomes available again, like a revolving line. For an ongoing project or a self-employed borrower with lumpy income, that flexibility has real value.
 
-Here's the thing most people don't realize: the end of the draw period can be a financial shock if you haven't planned for it. Say you've been paying interest-only on $60,000 for ten years, and now the repayment period starts. Suddenly you're paying principal plus interest on a much larger payment than you might have imagined. The CFPB has flagged this "payment shock" as one of the most common HELOC-related borrower complaints. Before you open a HELOC, run the numbers on what your payment becomes in year eleven. Not a vague estimate. Actual numbers, with your actual balance and the current rate plus your lifetime cap rate. Both scenarios.
+The end of the draw period can be a financial shock if you haven't planned for it. Say you've been paying interest-only on $60,000 for ten years, and now the repayment period starts. Suddenly you're paying principal plus interest on a much larger payment than you might have imagined. The CFPB has flagged this "payment shock" as one of the most common HELOC-related borrower complaints. Before you open a HELOC, run the numbers on what your payment becomes in year eleven. Not a vague estimate. Actual numbers, with your actual balance and the current rate plus your lifetime cap rate. Both scenarios.
 
 If you want to do this math yourself before sitting across from a loan officer, *Mortgages For Dummies* (available on Amazon, and yes, the site may earn a small commission) walks through these calculations in plain terms. It's not glamorous, but neither is getting blindsided by a payment increase.
 

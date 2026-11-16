@@ -44,8 +44,6 @@ This is completely legal and fully disclosed in your closing documents, specific
 
 > **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where things get reassuring, if you know the rules. The Real Estate Settlement Procedures Act (RESPA) sets specific requirements for how servicers must handle a transfer, and as of July 2026, these protections are still fully in place and enforced.
 
 Here's what the law requires: your current servicer must send you a goodbye notice at least 15 days before the transfer date, and your new servicer must send you a hello notice no later than 15 days after the transfer takes effect. In practice, many servicers send both letters around the same time, so you often get a packet that covers both. The notices must include the new servicer's name and contact information, the date the transfer is effective, and where to send your payments going forward.
@@ -58,11 +56,11 @@ A worked example from my early underwriting years: a borrower's loan transferred
 
 The 60-day grace period doesn't mean you can ignore the transfer indefinitely. And there are real failure points in this process that catch people off guard.
 
-The first is escrow. If you have an impound account where your servicer collects for property taxes and homeowner's insurance, all of that balance has to transfer correctly. I've seen errors where the balance is miscalculated or doesn't show up correctly in the new system for the first billing cycle. Pull your escrow statement from your old servicer before the transfer and compare it to what the new servicer shows you when you set up your account. The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) has a straightforward guide on what your escrow statement should contain and how to dispute errors.
+The first is escrow. If you have an impound account where your servicer collects for property taxes and homeowner's insurance, all of that balance has to transfer correctly. Errors can occur where the balance is miscalculated or doesn't show up correctly in the new system for the first billing cycle. Pull your escrow statement from your old servicer before the transfer and compare it to what the new servicer shows you when you set up your account. The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) has a straightforward guide on what your escrow statement should contain and how to dispute errors.
 
 The second is your new monthly payment amount. If your escrow is recalculated at transfer (which servicers are sometimes allowed to do), your payment could tick up slightly. Not dramatically, but enough to bounce an auto-pay if you're running close on your checking account.
 
-Third, and this is the one I'd actually worry about most: autopay doesn't transfer. Whatever you had set up with your old servicer is gone. You have to establish new autopay with the new servicer from scratch. I've seen this catch people who had used the same account for years and assumed it would carry over. It never does.
+Third, and this is the one I'd actually worry about most: autopay doesn't transfer. Whatever you had set up with your old servicer is gone. You have to establish new autopay with the new servicer from scratch. This often catches borrowers who had used the same account for years and assumed it would carry over. It never does.
 
 A second worked example: a borrower in Atlanta had his servicing transferred in early spring. He assumed his auto-draft was active with the new company. It wasn't. He missed a payment, didn't catch it until the next statement arrived, and had already crossed the 30-day mark. That single 30-day late hit dropped his credit score by about 60 points at the time of his application for a home equity line. We had to write a letter of explanation and the underwriter scrutinized every account he owned. Preventable.
 
@@ -85,7 +83,6 @@ If you feel like you're getting nowhere, a [HUD-approved housing counselor](http
 - Urban Institute Housing Finance Policy Center: Research on mortgage servicing market structure and the frequency of servicing rights transfers in the secondary market
 
 ---
-
 
 ---
 

@@ -25,7 +25,7 @@ author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 lastmod: 2026-07-08
 ---
-Most people walk into a lender's office convinced their [credit score](/credit-score-for-mortgage-approval/) is everything. I used to hear it constantly. The borrower with a 760 who can't figure out why they got declined. What they never grasped is that lenders spend about 30 seconds glancing at that score before zeroing in on the number that actually matters: debt-to-income ratio. I've watched people with near-perfect credit get rejected and others with mediocre scores get approved, all because of DTI. If you haven't run a serious look at this number before applying for a mortgage, you're working backwards.
+Many people believe their [credit score](/credit-score-for-mortgage-approval/) is the primary factor lenders consider. In reality, lenders focus heavily on debt-to-income ratio after a quick review of the credit score. Borrowers with excellent credit can be rejected while those with mediocre scores get approved, depending on DTI. Running the numbers on your DTI before applying for a mortgage is essential.
 
 ## What Debt-to-Income Ratio Actually Means (And How Lenders Calculate It)
 
@@ -55,7 +55,7 @@ The math itself is simple. Add all monthly minimum debt payments plus your estim
 
 I want to push back on the oversimplified "keep your DTI under 43%" advice everywhere. That number's got real roots, but it's not the whole story.
 
-**Conventional loans (Fannie Mae/Freddie Mac):** The standard guideline is a 45% back-end DTI maximum. But Fannie Mae's automated underwriting system, Desktop Underwriter, can approve loans up to 50% DTI if other factors check out. We're talking significant cash reserves, a large down payment, or a credit score above 760. I've seen 50% DTI conventional approvals happen. They're rare, and the terms aren't always great, but they exist.
+**Conventional loans (Fannie Mae/Freddie Mac):** The standard guideline is a 45% back-end DTI maximum. Fannie Mae's automated underwriting system, Desktop Underwriter, can approve loans up to 50% DTI if other factors check out, such as significant cash reserves, a large down payment, or a credit score above 760. These approvals are rare, and the terms may not be as favorable.
 
 **FHA loans:** The Federal Housing Administration technically allows back-end DTI up to 43% as a standard ceiling. Their automated system pushes to 50% for strong borrowers though. The front-end ratio for FHA is 31%. FHA becomes the option when conventional DTI limits feel too tight, though mortgage insurance premiums for the life of the loan are a real cost that shifts the numbers considerably.
 

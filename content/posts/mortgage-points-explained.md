@@ -25,7 +25,7 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 lastmod: 2026-07-08
 ---
-You're sitting across from a loan officer with a three-inch stack of closing documents in front of you. Somewhere near the top of the loan estimate is a line that says "Discount Points: 1.000 ($4,200)." They mention it briefly, say it'll lower your rate, then move on. If you don't stop them right there and ask what that actually means for your loan, you've just agreed to pay thousands of dollars without understanding what you're buying. I've watched it happen more times than I'd like.
+A loan estimate may include a line for "Discount Points: 1.000 ($4,200)." A loan officer might mention it briefly, note that it'll lower your rate, then move on. It's easy to miss the significance: if you don't ask what that actually means for your loan, you could end up paying thousands of dollars without understanding what you're buying.
 
 Mortgage points sound simple enough. But they have real financial teeth. Get them right and you'll save a meaningful chunk over the life of your loan. Get them wrong and you've handed your lender a premium you'll never recoup.
 
@@ -85,7 +85,7 @@ Paying points isn't good or bad. It's a bet on time. The longer you stay in the 
 - Your cash reserves are thin (you want 3-6 months of housing expenses saved before taking on a mortgage)
 - You're already stretching to afford closing costs
 
-I've watched buyers pay two points for a lower rate, then refinance 18 months later when rates dropped. They essentially donated money to their lender twice.
+A borrower who pays two points for a lower rate and then refinances 18 months later when rates drop has essentially paid money to their lender twice with little to show for it.
 
 Before you layer points into an ARM, read through [fixed vs. adjustable rate mortgages](/fixed-vs-adjustable-rate-mortgage/). The math changes significantly when your rate can move.
 

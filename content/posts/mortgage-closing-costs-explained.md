@@ -27,7 +27,7 @@ author_bio: "Susan Taylor has spent years helping borrowers repair credit and qu
 
 lastmod: 2026-07-08
 ---
-You've found the house. You've locked your rate. You've started packing boxes. Then the Closing Disclosure lands in your inbox and you see a number that stops you cold: $9,400 in closing costs on top of your down payment. Nobody warned you it would be this much. I've watched this exact moment knock buyers sideways for sixteen years, and it's almost always preventable with a little preparation.
+You've found the house. You've locked your rate. You've started packing boxes. Then the Closing Disclosure lands in your inbox and you see a number that stops you cold: $9,400 in closing costs on top of your down payment. Nobody warned you it would be this much. This moment often catches buyers off guard, but it's almost always preventable with a little preparation.
 
 ## What Closing Costs Actually Are (And Why They Exist)
 
@@ -108,7 +108,7 @@ Federal rules under RESPA (the Real Estate Settlement Procedures Act) limit how 
 
 If you see fees in your Closing Disclosure that weren't on your Loan Estimate, or that increased beyond legal tolerances, flag them immediately with your loan officer. Lenders are required to cure violations by crediting you at closing. This happens more often than it should, and many buyers never catch it because they don't know the rules. You do.
 
-I've seen clients quietly absorb hundreds of dollars in impermissible fee increases simply because no one told them they had the right to push back.
+Many buyers absorb hundreds of dollars in impermissible fee increases simply because they don't know they have the right to push back.
 
 If you're uncertain about any document or feel like you're being rushed through the process, [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) are available at low or no cost and can review your documents with you independently before you sign anything.
 

@@ -31,9 +31,7 @@ Both happen when a homeowner can't keep up with [mortgage payments](/how-to-set-
 
 A foreclosure is the lender taking the wheel. You stop paying, the clock starts ticking, and eventually the bank repossesses the home through a legal process and sells it to recover what you owe. A [short sale](/short-sale-mortgage-impact/) is you taking the wheel, with the bank's permission. You sell the home for less than the outstanding mortgage balance, the lender agrees to accept that lower amount, and you avoid the courtroom drama. In theory. In practice, short sales are their own special kind of bureaucratic purgatory, which I'll get to.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A short sale typically damages your credit less than foreclosure: roughly 100-150 points vs. 150-200+ points.</li><li style="margin:5px 0">Foreclosure timelines vary by state: as little as 90 days (non-judicial) to 2+ years (judicial states like New York).</li><li style="margin:5px 0">Short sales require lender approval and average 3-6 months to close, sometimes longer.</li><li style="margin:5px 0">After foreclosure, Fannie Mae guidelines currently require a 7-year wait before a new conventional mortgage; short sale is typically 4 years.</li><li style="margin:5px 0">Forgiven debt in either scenario may be taxable income, consult a tax professional before signing anything.</li></ul></div>
-
 
 ## What Actually Happens in a Foreclosure
 
@@ -49,15 +47,13 @@ One thing no one tells you up front: in some states, lenders can pursue a defici
 
 > **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 A short sale sounds cooperative. Homeowner lists the home, buyer makes an offer, lender says yes, everyone moves on. The reality involves more waiting than a DMV line.
 
 First, you need to prove hardship to the lender. That means a hardship letter, bank statements, tax returns, a listing agreement, and a preliminary HUD-1 statement, all submitted before the lender will even consider approving the sale. They're essentially asking: "Why should we take less than we're owed?" You'd better have a compelling answer.
 
 Then the lender does their own appraisal (called a BPO, or Broker Price Opinion). If their number comes in higher than the offer, they'll counter or reject. The buyer might walk. You start over.
 
-A reader emailed me last fall about a short sale she'd been trying to close for seven months. The lender had a second mortgage on the property through a different servicer, and both had to sign off separately. That's surprisingly common and almost never mentioned in the "short sale pros" listicles. Two lenders means two approval processes, two sets of paperwork, and twice the chances something falls apart. Her deal eventually closed in month nine.
+Short sales involving multiple lenders are surprisingly common and almost never mentioned in the "short sale pros" listicles. When a property has a second mortgage through a different servicer, both lenders must sign off separately. Two lenders means two approval processes, two sets of paperwork, and twice the chances something falls apart. These situations regularly extend timelines by several months.
 
 The one real advantage: you participated. You were a cooperating seller, not a defendant. That distinction matters for your next mortgage application.
 
@@ -77,7 +73,7 @@ This is usually the first thing people ask, and the answer is more nuanced than 
 
 The CFPB has straightforward [resources on this](https://www.consumerfinance.gov/owning-a-home/) if you want to read the federal guidelines directly rather than trust a third-party summary.
 
-One thing I've seen trip people up: even a "settled" notation on your credit report shows up as negative. The short sale still hurt your score. The meaningful difference is the waiting period before you can get a new conventional mortgage, which is three years shorter than post-foreclosure. If homeownership is your goal again, that gap is significant.
+Even a "settled" notation on your credit report shows up as negative. The short sale still hurt your score. The meaningful difference is the waiting period before you can get a new conventional mortgage, which is three years shorter than post-foreclosure. If homeownership is your goal again, that gap is significant.
 
 ## What About Taxes?
 
@@ -120,7 +116,6 @@ If you're already months behind and neither option sounds good, a HUD-approved h
 - [HUD-Approved Housing Counseling](https://www.hud.gov/program_offices/housing/sfh/hcc/hcs): Free counseling resources for homeowners facing financial hardship or foreclosure.
 
 ---
-
 
 ---
 

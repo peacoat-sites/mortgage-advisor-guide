@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most first-time buyers walk in thinking they already know the answer. FHA loans are for people with bad credit. Conventional loans are for people who have their act together. That's backwards, and it costs people thousands.
 
-After sixteen years in the mortgage industry, I've watched borrowers pick the wrong product over and over again. Usually because a loan officer steered them toward whichever option was easier to close or paid a better commission. That's not cynicism. That's just how mortgage origination works. The loan officer willing to spend forty-five minutes explaining the long-term cost difference between FHA MIP and conventional PMI is rare. So here we are.
+Borrowers often pick the wrong mortgage product because loan officers may steer them toward whichever option is easier to close or pays a better commission. The loan officer willing to spend forty-five minutes explaining the long-term cost difference between FHA MIP and conventional PMI is rare.
 
 <div class="value-module">
  <div class="vm-head">FHA vs Conventional: 5-Year Cost Comparison</div>
@@ -90,7 +90,7 @@ This trips people up more than anything else. FHA has minimum property standards
 
 Conventional loans don't have the same property condition requirements. The appraisal is about value. This matters a lot in markets with older housing stock or sellers offloading properties that need work. Sellers know about FHA standards. Some actively pass on FHA offers to avoid required repairs. In a hot market, that's a real disadvantage.
 
-I've watched good borrowers lose homes they wanted because the FHA appraiser flagged a deteriorating deck and the seller refused the $600 fix. Deal dead. That's not a horror story. That's Tuesday.
+For example, an FHA appraiser might flag a deteriorating deck and the seller may refuse a $600 fix, killing the deal. This happens often with FHA loans.
 
 ---
 

@@ -48,7 +48,7 @@ This is the conversation most loan officers skip entirely.
 
 The deduction skews heavily toward higher-income borrowers with larger loans. That's precisely why it gets criticized. The borrowers most likely to itemize are those with mortgage balances well above $400,000, significant state income taxes (especially in California, New York, New Jersey, or Illinois), or other deductible expenses that push them over the standard deduction threshold.
 
-If you're in a lower-cost market with a modest loan balance, the math probably won't work in your favor. I've had borrowers furious at their tax preparer after closing because "the loan officer said I'd get a big deduction." The loan officer wasn't lying, exactly. They just didn't tell the whole story.
+If you're in a lower-cost market with a modest loan balance, the math probably won't work in your favor. Some borrowers are surprised at tax time to learn that a loan officer's mention of a deduction didn't account for the full picture. The loan officer may not have explained that the deduction only applies if you itemize, or that closing costs can offset the benefit.
 
 > **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -91,7 +91,6 @@ The honest summary is this: mortgage tax benefits matter for some borrowers and 
 - [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
 - [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)
 - [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

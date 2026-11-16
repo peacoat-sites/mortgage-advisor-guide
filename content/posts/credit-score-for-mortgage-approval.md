@@ -25,7 +25,7 @@ author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 lastmod: 2026-07-08
 ---
-Your credit score is a three-digit number that can mean the difference between a 6.5% mortgage rate and a 7.8% rate on a $350,000 loan. Run those numbers and you're looking at a gap of roughly $300 per month, or tens of thousands of dollars over the life of the loan. I've watched borrowers walk away from closing tables confused about why their rate was higher than what they'd seen advertised, and almost every time, the answer traces back to a credit score they hadn't checked in years.
+Your credit score is a three-digit number that can mean the difference between a 6.5% mortgage rate and a 7.8% rate on a $350,000 loan. Run those numbers and you're looking at a gap of roughly $300 per month, or tens of thousands of dollars over the life of the loan. Borrowers often leave closing confused about higher-than-expected rates, which frequently traces back to a credit score that hasn't been checked in years.
 
 ---
 
@@ -60,7 +60,7 @@ Qualifying for a mortgage and getting a good mortgage are two different things. 
 
 Lenders price risk into your interest rate. A borrower with a 620 score is statistically more likely to default than one with a 760 score, and lenders charge accordingly. On a conventional loan, the difference between a 620 and a 760 score can result in an interest rate that's a full percentage point or more higher, depending on your down payment and loan size. That gap compounds over 30 years into very real dollars.
 
-I've seen clients insist they want to buy now because they're tired of renting, and I understand the emotional logic. But sometimes waiting six months to raise a score from 640 to 680 saves more money than two years of rent ever cost. The math doesn't always favor urgency.
+Many buyers feel pressure to purchase because they're tired of renting. But sometimes waiting six months to raise a score from 640 to 680 saves more money than two years of rent ever cost. The math doesn't always favor urgency.
 
 If you're still figuring out what monthly payment you can comfortably handle, thinking through [how much house you can afford](/how-much-house-can-i-afford/) is the right starting point before you ever talk to a lender.
 
@@ -118,7 +118,7 @@ A few misconceptions come up constantly, and they're worth addressing directly.
 
 **Myth: Checking your own credit hurts your score.** Checking your own score is a soft inquiry and has zero impact on your credit. This myth causes people to avoid monitoring their own credit, which is exactly backward.
 
-**Myth: You need perfect credit to get a mortgage.** You don't. You need good credit and a complete, consistent financial picture. I've seen clients with scores in the mid-600s close on solid loans with reasonable rates because everything else was in order.
+**Myth: You need perfect credit to get a mortgage.** You don't. You need good credit and a complete, consistent financial picture. Borrowers with scores in the mid-600s can close on solid loans with reasonable rates when the rest of their financial profile is complete and consistent.
 
 **Myth: Pre-approval means your credit score is locked in.** Pre-approvals are based on a credit pull that's typically good for 90 to 120 days. If your score drops during that window, your approval terms can change. Lenders often run a second credit check just before closing.
 

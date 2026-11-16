@@ -27,7 +27,7 @@ faqs:
 
 Forty-three days. That's how long I watched a veteran client of mine wait for a condo approval that should have taken a week, because nobody told him upfront that his dream unit was in a complex that had never been VA-approved. He had already locked his rate. The frustration in his voice when I had to explain what was happening is something I think about every time someone asks me about VA loans and condos.
 
-Here's the thing: VA condo rules aren't unfair. They exist to protect buyers from purchasing into associations with financial problems or shady governing documents. But they are genuinely more complicated than buying a single-family home with a VA loan, and most buyers find out about that complexity at exactly the wrong moment. Let's get ahead of it.
+VA condo rules aren't unfair. They exist to protect buyers from purchasing into associations with financial problems or shady governing documents. But they are genuinely more complicated than buying a single-family home with a VA loan, and most buyers find out about that complexity at exactly the wrong moment. Let's get ahead of it.
 
 ## Why VA Loans Treat Condos Differently
 
@@ -40,8 +40,6 @@ What most people don't realize is that this approval can expire. A complex might
 ## The Approved vs. Unapproved Condo Problem
 
 > **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The VA maintains a searchable database of approved condos. As of July 2026, you can look up any project using the VA's Condo Search tool at the official VA.gov portal. It takes about 90 seconds. Do it before you write an offer. Seriously. I've seen buyers fall in love with a unit, go through inspections, negotiate repairs, and then discover the project is unapproved. At that point, you have three options, and none of them are fun.
 
@@ -66,7 +64,7 @@ When a condo project applies for VA approval, the reviewer is essentially auditi
 
 That last one surprises people. A cool live-work building or a complex with a big commercial anchor tenant can fail VA approval purely on the square footage ratio, even if everything else looks fine.
 
-The legal documents issue is one I want to flag specifically. Some HOA governing documents include clauses that give the association a right of first refusal on unit sales, or charge transfer fees when VA buyers exercise certain rights. The VA considers some of these provisions unacceptable because they could interfere with the VA's ability to take title if it ever had to foreclose. I've seen otherwise beautiful projects denied because of a single paragraph buried on page 34 of the CC&Rs.
+The legal documents issue is one I want to flag specifically. Some HOA governing documents include clauses that give the association a right of first refusal on unit sales, or charge transfer fees when VA buyers exercise certain rights. The VA considers some of these provisions unacceptable because they could interfere with the VA's ability to take title if it ever had to foreclose. Projects have been denied because of provisions buried deep in the CC&Rs that conflict with VA lending requirements.
 
 ## The Approval Process, Step by Step
 
@@ -99,7 +97,6 @@ Also, approval isn't permanent. Projects need to stay current. The VA can and do
 - VA Circular 26-18-13: VA's guidance on condominium project approval, updated procedures for lender-certified projects
 
 ---
-
 
 ---
 

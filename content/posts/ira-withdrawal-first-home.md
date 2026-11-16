@@ -14,7 +14,7 @@ slug: "ira-withdrawal-first-home"
 affiliate_disclosure: true
 lastmod: 2026-07-08
 ---
-You're sitting at a closing table, home of your dreams within reach, and your loan officer casually mentions you could pull from your IRA penalty-free to cover the down payment. Sounds like a lifeline. I've watched borrowers light up at that suggestion, and then sign paperwork they didn't fully understand, only to get hit with a tax bill that genuinely shocked them.
+You're sitting at a closing table, home of your dreams within reach, and your loan officer casually mentions you could pull from your IRA penalty-free to cover the down payment. Sounds like a lifeline. A common mistake is underestimating the tax bill that comes with an IRA withdrawal. Borrowers sometimes focus on the gross withdrawal amount and sign paperwork without fully understanding the tax consequences, only to face a shock at tax time.
 
 Here's what that loan officer probably didn't explain: "penalty-free" and "tax-free" are not the same thing. Not even close.
 
@@ -27,7 +27,7 @@ Here's what that loan officer probably didn't explain: "penalty-free" and "tax-f
 
 The IRS gives first-time homebuyers a specific exemption from the 10% early withdrawal penalty on IRA distributions. You can take up to $10,000 lifetime from a traditional IRA before age 59½ for a "first-time home purchase" without owing that penalty. The $10,000 is a lifetime cap, not an annual one. Use $6,000 now, and you've got $4,000 left for the rest of your life, even if you buy another qualifying home decades from now.
 
-What most people don't realize is that you still owe ordinary income tax on every dollar you pull from a traditional IRA. If you're in the 22% federal bracket and you withdraw $10,000, you're netting roughly $7,800 after taxes, less whatever your state takes. That $10,000 on paper is not $10,000 in your pocket. I've seen buyers budget around the gross number and end up scrambling at closing.
+What most people don't realize is that you still owe ordinary income tax on every dollar you pull from a traditional IRA. If you're in the 22% federal bracket and you withdraw $10,000, you're netting roughly $7,800 after taxes, less whatever your state takes. That $10,000 on paper is not $10,000 in your pocket. Budgeting around the gross withdrawal amount instead of the after-tax amount can leave you short at closing.
 
 The Roth IRA is a different animal, and honestly a better one for this purpose. With a Roth, you can always withdraw your contributions (not earnings) at any time, tax-free and penalty-free, for any reason. You don't even need the first-home exemption for that part. The first-home exemption kicks in for Roth earnings: if your Roth has been open at least five years, you can withdraw up to $10,000 in earnings tax-free and penalty-free for a first home purchase. That's actually free money, not just deferred money.
 
@@ -35,9 +35,7 @@ The Roth IRA is a different animal, and honestly a better one for this purpose. 
 
 > **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-The IRS definition of first-time homebuyer is more generous than the plain language suggests. You qualify if you (and your spouse, if applicable) haven't owned a principal residence in the past two years. That's it. You could have owned a home before, sold it, rented for 25 months, and qualify again. I've helped borrowers understand this who assumed they'd permanently lost the exemption after a prior sale.
+The IRS definition of first-time homebuyer is more generous than the plain language suggests. You qualify if you (and your spouse, if applicable) haven't owned a principal residence in the past two years. That's it. You could have owned a home before, sold it, rented for 25 months, and qualify again.
 
 The home being purchased has to be a principal residence, not a vacation property or investment property. And the funds have to be used within 120 days of withdrawal. Miss that window and the exemption disappears. The 120-day rule trips people up more than almost anything else in this process, especially when deals fall through and they've already taken the distribution.
 
@@ -102,7 +100,6 @@ For most people, yes. Roth contributions come out tax-free and penalty-free with
 - [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
 - [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)
 - [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

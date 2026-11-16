@@ -20,9 +20,7 @@ On July 9, 2026, the Consumer Financial Protection Bureau published a formal Req
 
 That sounds like bureaucratic housekeeping. It isn't. These are the rules that govern what lenders have to tell you, when they have to tell you, and how long you have to change your mind before you're locked in. Changes here affect real people at real closing tables.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The CFPB comment deadline is August 10, 2026 ,  any borrower can submit input at regulations.gov using Docket No. CFPB-2026-0018.</li><li style="margin:5px 0">The 30-year fixed rate is 6.55% as of July 16, 2026, making closing cost and timing reforms especially consequential right now.</li><li style="margin:5px 0">A proposed "materiality-based" TRID standard could reduce closing delays that currently cost buyers rate-lock extensions and stress.</li><li style="margin:5px 0">The CFPB may eliminate the 3-day rescission waiting period for refinances, which would speed funding but remove a key consumer safety net.</li><li style="margin:5px 0">Qualified Mortgage reform is on the active agenda, which could loosen who qualifies for the safest, most regulated loan products.</li></ul></div>
-
 
 ## What TRID Actually Does, and Why Changing It Matters
 
@@ -36,8 +34,6 @@ The proposal on the table would replace those rigid timing triggers with what th
 
 > **Helpful resource:** [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 If you're refinancing your primary home, federal law gives you three business days after closing to back out. No penalty, no questions. You sign, then you have three days to change your mind. That's your right of rescission under the Truth in Lending Act, and for people who feel pressured or confused at closing, it's a genuine safety net.
 
 The CFPB is now asking whether rate-and-term refinances and cash-out refinances should be exempt from that three-day waiting period. The argument for removing it: loan funding happens faster, which is good for the lender and, theoretically, good for a borrower who needs funds quickly. The argument against: that three-day window is when some borrowers actually read what they signed. It's when people call their kids, talk to a financial advisor, or just sleep on it. Once that's gone, it's gone.
@@ -50,7 +46,7 @@ The CFPB's July 6, 2026 regulatory agenda, analyzed by Financial Services Perspe
 
 A Qualified Mortgage is basically the gold standard of home loans. Lenders who make QMs get legal protection if a borrower defaults. In return, QMs have to meet certain standards: debt-to-income limits, no excessive fees, no risky loan features. That structure is what kept the worst of the pre-2008 products off the market.
 
-Reforming QM could open credit to more borrowers who currently don't qualify. It could also reintroduce loan structures with more risk, and if the rules loosen significantly, some of those loans will end up with borrowers who can't comfortably carry them. That's not a prediction, it's a pattern. Here's a quick look at how QM and non-QM loans compare today:
+Reforming QM could open credit to more borrowers who currently don't qualify. It could also reintroduce loan structures with more risk, and if the rules loosen significantly, some of those loans will end up with borrowers who can't comfortably carry them. Loosening QM rules has historically led to riskier loan structures reaching borrowers who struggle to carry them. Here's a quick look at how QM and non-QM loans compare today:
 
 | Feature | Qualified Mortgage (QM) | Non-QM Loan |
 | --- | --- | --- |

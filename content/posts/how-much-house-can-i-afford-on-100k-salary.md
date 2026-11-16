@@ -43,13 +43,11 @@ The back-end DTI (all debt combined) caps at 43% for most loans, which is $3,583
 
 This is where the "afford" question gets personal. If you've got $600 a month going to a car payment and $300 in student loans, you've already used $900 of your available back-end DTI cushion. Your housing payment may need to come down to $2,200 or less to stay within guidelines.
 
-I've seen people get pre-approved for more than they should borrow because they were technically within the 43% back-end threshold. Being approved isn't the same as being comfortable. The mortgage will be paid, but groceries and emergencies will feel tight.
+Many borrowers get pre-approved for more than they should borrow because they're technically within the 43% back-end threshold. Being approved isn't the same as being comfortable. The mortgage gets paid, but groceries and emergencies will feel tight.
 
 ## What $100K Actually Gets You (By the Numbers, as of July 2026)
 
 > **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let's run three real scenarios. These use current rates (as of July 2026, 30-year fixed conventional rates are generally hovering in the mid-to-upper 6% range, though they shift daily, and I'm not going to quote you a specific rate as if it's guaranteed). I'm using 6.75% as a working assumption, but use a mortgage calculator to plug in whatever rate you're quoted. The [Consumer Financial Protection Bureau's loan estimate explainer](https://www.consumerfinance.gov/owning-a-home/) is a great place to understand what's in that payment.
 
@@ -59,7 +57,7 @@ Let's run three real scenarios. These use current rates (as of July 2026, 30-yea
 | Middle-ground buyer | $350,000 | $35,000 (10%) | $315,000 + PMI | ~$2,043 + ~$130 PMI | ~$580 | ~$2,753 | ~33% |
 | Stretching the limit | $450,000 | $22,500 (5%) | $427,500 + PMI | ~$2,774 + ~$180 PMI | ~$750 | ~$3,704 | ~44% |
 
-That last row is technically approvable in some programs. But $3,704 a month on an $8,333 gross income means you're taking home maybe $6,200 after taxes, contributing nothing to retirement, and hoping nothing breaks in the first year. I've watched that scenario become very stressful, very fast.
+That last row is technically approvable in some programs. But $3,704 a month on an $8,333 gross income means you're taking home maybe $6,200 after taxes, contributing nothing to retirement, and hoping nothing breaks in the first year. That scenario often becomes very stressful, very fast.
 
 The taxes and insurance estimates in that table will vary significantly by location. Property taxes in Texas or New Jersey can be 2-2.5% of the home's value annually. In states like Hawaii or Alabama, they're much lower. Don't gloss over that column.
 
@@ -88,7 +86,7 @@ Same house price, $500+ difference in monthly cost. Location isn't a footnote. I
 
 ## What I'd Actually Do, If I Were You
 
-I thought for a long time that lenders were giving borrowers solid guidance when they issued pre-approval letters. Then I underwrote enough files to see the full picture, and I changed my mind. A pre-approval tells you the maximum you can borrow within lending guidelines. It doesn't tell you the maximum you can borrow and still sleep well at night.
+A pre-approval tells you the maximum you can borrow within lending guidelines. It doesn't tell you the maximum you can borrow and still sleep well at night.
 
 Here's the approach I'd take. Start with your real after-tax take-home pay, not your gross. Calculate what 30-35% of that is. That's your housing budget ceiling. Then work backward to the home price.
 
@@ -113,7 +111,6 @@ I'm not saying don't compete. I'm saying know the price of winning.
 - [Tax Foundation – Property Taxes by State](https://taxfoundation.org/data/all/state/property-taxes-by-state-county/): Comparative property tax rates across U.S. states and counties.
 
 ---
-
 
 ---
 

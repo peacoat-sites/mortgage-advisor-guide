@@ -25,7 +25,7 @@ faqs:
    a: "Yes, and you absolutely should. Most insurers will write a policy for a buyer with equitable title. Make sure the policy names both you and the seller (as the legal title holder) appropriately, and keep documentation that you're current on your premiums."
 lastmod: 2026-07-08
 ---
-Maybe you've been turned down by a traditional lender. Maybe your credit score took a hit a few years back, or you're self-employed and your tax returns make your income look like origami. Whatever the reason, a land contract might have come up in conversation, and right now you're probably somewhere between intrigued and a little nervous. That's completely reasonable.
+Land contracts often appeal to borrowers who've been turned down by traditional lenders, have lower credit scores, or are self-employed with tax returns that complicate income verification. If you're considering one, it's reasonable to feel both intrigued and cautious. That's completely reasonable.
 
 Here's what I tell people who ask me about land contracts: they can be genuinely useful tools, and they can also be traps. Which one you're walking into depends almost entirely on how well you understand what you're agreeing to before you sign anything.
 
@@ -47,9 +47,9 @@ The seller sets everything: the purchase price, the interest rate, the down paym
 
 Land contracts show up most often in three situations: buyers who can't qualify for a [conventional loan](/conventional-loan-requirements/) right now, rural or distressed properties that are hard to finance through traditional channels, and sellers who want to generate installment income rather than take a lump sum. When all three conditions align, a land contract can genuinely help everyone involved.
 
-You might be wondering whether lenders look down on land contract history when you eventually try to refinance. Honestly, it depends. If you've made 24 months of on-time payments and the transaction was structured cleanly, a lot of lenders will count that payment history positively. What they want to see is a written contract, clear payment records, and proof that you've been maintaining the property. Keep every receipt and every bank statement from day one.
+You might be wondering whether lenders look down on land contract history when you eventually try to refinance. It depends. If you've made 24 months of on-time payments and the transaction was structured cleanly, a lot of lenders will count that payment history positively. What they want to see is a written contract, clear payment records, and proof that you've been maintaining the property. Keep every receipt and every bank statement from day one.
 
-The interest rates on land contracts are negotiated, not set by market indexes, which means sellers can charge significantly more than a bank would. I've seen contracts written at 8%, 9%, even 10% when prevailing conventional rates were considerably lower. That spread costs you real money over time. Run the numbers before you agree to anything.
+The interest rates on land contracts are negotiated, not set by market indexes, which means sellers can charge significantly more than a bank would. Land contracts are sometimes written at rates like 8%, 9%, or even 10% when conventional rates are considerably lower. That spread costs you real money over time. Run the numbers before you agree to anything.
 
 ## The Risks That Don't Get Explained Clearly Enough
 
@@ -98,7 +98,6 @@ A land contract isn't a destination. At least, it shouldn't be. The goal is to g
 - [Freddie Mac's homebuyer resources](https://myhome.freddiemac.com/)
 - [this one on Amazon](https://www.amazon.com/s?k=home+buying+workbook)
 - [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

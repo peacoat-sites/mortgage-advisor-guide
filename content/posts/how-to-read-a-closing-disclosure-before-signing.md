@@ -25,15 +25,13 @@ faqs:
     a: "The CD can be revised if something material changes before closing, like your loan amount, your interest rate, or a significant change in a third-party fee. Each revision resets the three-business-day clock. This is rare and usually signals a real change in your loan terms, so pay attention if you receive a revised CD and start the comparison process over."
 ---
 
-Three days before closing on my first house, I got a 5-page document in my email with no explanation other than "please review before signing." I stared at it for twenty minutes, felt completely lost, and then called my loan officer who told me not to worry about it and that everything "looked standard." I signed. Two years later, when I was working as an underwriter and actually reading these things for a living, I went back and found a $1,247 lender fee that I'd never been quoted and didn't understand. It was buried in Section A on page two.
+A common mistake is signing closing documents without carefully reviewing them. Hidden fees can appear on the Closing Disclosure that weren't clearly quoted on the Loan Estimate. These charges are often buried in the fine print and easy to miss without a careful line-by-line review.
 
 That document was the [Closing Disclosure](/closing-disclosure-explained/). And "don't worry about it, it's standard" is maybe the worst piece of advice a borrower can receive.
 
 You have three business days to review your Closing Disclosure before closing. That's a federal requirement, not a courtesy. Use every hour of it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">You have 3 business days to review your Closing Disclosure before closing, federal law requires this.</li><li style="margin:5px 0">Compare every fee on your CD to your original Loan Estimate; unexplained increases are a red flag.</li><li style="margin:5px 0">Check the loan terms box on page 1 first: your rate, loan amount, and whether it can change.</li><li style="margin:5px 0">Section B fees (third-party services) can shift; Section A fees (lender fees) should not change at all.</li><li style="margin:5px 0">Ask about any fee over $50 that wasn't on your Loan Estimate, you have every right to an explanation.</li></ul></div>
-
 
 ## What a Closing Disclosure Actually Is (and Why It's Different from Your Loan Estimate)
 
@@ -47,11 +45,9 @@ The thing most people don't realize: some fees are legally "zero tolerance," mea
 
 > **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Top of page 1 is the loan terms box. It takes about 90 seconds to read and it tells you the most important things:
 
-Your loan amount, your interest rate, your monthly principal-and-interest payment, whether your rate can rise, whether your loan has a prepayment penalty, and whether it has a balloon payment. I've seen buyers skip straight to the settlement charges on page 2 and miss that their rate was listed as adjustable when they thought they'd locked a fixed rate. One couple I worked with in 2023 almost closed on a 5/1 ARM because neither they nor their agent noticed the "YES" box under "Can this amount increase after closing?"
+Your loan amount, your interest rate, your monthly principal-and-interest payment, whether your rate can rise, whether your loan has a prepayment penalty, and whether it has a balloon payment. Many buyers skip straight to the settlement charges on page 2 and miss critical details like whether the rate is adjustable. If your rate can increase after closing, that option should be clearly marked, and you need to know about it before signing.
 
 Check those YES/NO boxes. If anything says YES that you didn't expect, stop and call your loan officer before you do anything else.
 
@@ -79,7 +75,7 @@ Worked example: A reader named Marcus emailed me last spring. His lender's under
 
 ## Prepaid Interest: The Number That Confuses Everyone
 
-Almost every borrower I've worked with has asked the same question when they see the "prepaid interest" line: "Why am I paying interest before I even own the house?"
+Many borrowers ask about the "prepaid interest" line: "Why am I paying interest before I even own the house?"
 
 Here's how it works. Your first mortgage payment is due on the first of the month following your closing, but usually with a full month's gap. Close on July 15th, and your first payment is September 1st. But you own the house starting July 15th, so you owe interest from July 15th to July 31st. That's the prepaid interest on your Closing Disclosure. It's daily interest on your loan amount for however many days remain in the month of closing.
 
@@ -93,7 +89,7 @@ Some buyers strategically close late in the month to reduce this number. Totally
 
 The bottom of page 1 and top of page 3 both show your "cash to close." This is the total you need to bring to the settlement table, typically as a wire transfer or certified check (personal checks are usually not accepted).
 
-Compare this number to what your Loan Estimate showed. It should be close. If it's significantly higher, something in the fee structure or your escrow calculation changed, and you want to know why before you wire money. I've seen "clerical errors" in escrow calculations that added $1,500-2,000 to a borrower's cash to close with no explanation offered.
+Compare this number to what your Loan Estimate showed. It should be close. If it's significantly higher, something in the fee structure or your escrow calculation changed, and you want to know why before you wire money. Escrow calculation errors can add significant amounts to your cash-to-close figure, sometimes $1,500-2,000, with no explanation offered.
 
 One thing worth knowing: your lender is required to provide the Closing Disclosure at least three business days before closing. If you get it Thursday evening and you're closing Monday morning, the clock starts Friday. That gives you Friday, Saturday (counts as a business day for this purpose), and Sunday. If something looks wrong and you can't reach anyone until Monday morning, that's a real problem. Read it the minute it arrives.
 
@@ -117,7 +113,6 @@ Worked example: Same $400,000 loan, 30 years at 6.75%. Add $200/month to princip
 - HUD Settlement Costs Booklet (current edition): Plain-language explanation of closing costs, escrow, and what each fee covers at settlement
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

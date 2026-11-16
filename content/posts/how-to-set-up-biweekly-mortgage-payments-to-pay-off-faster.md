@@ -70,7 +70,7 @@ So if your P&I payment is $2,329, you'd pay $2,523 each month ($2,329 plus $194)
 
 If you genuinely want to pay every two weeks rather than monthly, that's fine, but you need to make sure a few things are in place first.
 
-Your lender accepts biweekly payments and applies them as received. Call your servicer and ask this explicitly. Don't assume. I've seen servicers that will accept your payment but won't apply it until the contractual due date, which defeats the purpose entirely.
+Your lender accepts biweekly payments and applies them as received. Call your servicer and ask this explicitly. Don't assume. Some servicers will accept your payment but won't apply it until the contractual due date, which defeats the purpose entirely.
 
 The payment is applied to principal, not held. Ask if there's a "suspense account" in the process. If there is, and they're not applying it until the full amount is in, the benefit is delayed.
 

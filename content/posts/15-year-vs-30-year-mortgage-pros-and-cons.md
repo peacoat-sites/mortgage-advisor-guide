@@ -25,12 +25,11 @@ author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 lastmod: 2026-07-08
 ---
-Most people treat this decision like a math problem. They pull up a mortgage calculator, see that the 15-year saves them $80,000 in interest, and start mentally patting themselves on the back for being so financially disciplined. What they miss is that the 15-year mortgage is also one of the fastest ways to wreck your financial flexibility, and I've watched it happen more times than I'd like to count.
+Most people treat this decision like a math problem. They pull up a mortgage calculator, see that the 15-year saves them $80,000 in interest, and start mentally patting themselves on the back for being so financially disciplined. What they miss is that the 15-year mortgage can strain financial flexibility when unexpected expenses arise.
 
 I spent years as an underwriter quietly rooting for borrowers who chose the 15-year. Seemed smart. Seemed responsible. Then I started paying more attention to what happened to those borrowers five years in, and my thinking shifted considerably.
 
 That's not an argument for one loan over the other. It's an argument for understanding both with real specificity before you sign anything.
-
 
 <div class="value-module">
  <div class="vm-head">Monthly Payment & Total Cost Comparison</div>
@@ -85,8 +84,6 @@ The 15-year tends to make the most sense for borrowers who have genuinely stable
 
 The 30-year tends to be the smarter call for first-time buyers still building financial stability, anyone with variable income, borrowers carrying any high-interest debt that should be paid down first, and people earlier in careers where the earnings trajectory is up but not yet realized.
 
-These aren't ironclad rules. They're patterns I've watched over a long time.
-
 One thing I'd push back on is the reflexive advice to "just get the 15-year if you can afford it." The word "afford" is doing too much work in that sentence. Technically qualifying for the payment is not the same as actually being able to absorb it in a worst-case year. If you're not sure where your finances are, a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can walk through your specific numbers with no sales incentive attached, which is more than you can say for most loan officers.
 
 If you want to go deeper on the analytical side before you talk to anyone, there are solid home-buying guides worth having on hand. Running the actual numbers on your specific loan amount, rate, and alternative investment assumptions will tell you more than any general article can.
@@ -95,7 +92,7 @@ If you want to go deeper on the analytical side before you talk to anyone, there
 
 The tax deduction angle has mostly collapsed in importance since the 2017 tax law changes nearly doubled the standard deduction. Most borrowers no longer itemize, which means the mortgage interest deduction that used to factor into these comparisons is, for most people, irrelevant. Don't let anyone use it as a selling point for either loan.
 
-Also: refinancing changes everything. If you take a 30-year and rates drop significantly three years in, you can refinance into a shorter-term loan at that point and potentially enjoy lower rates and faster payoff simultaneously. If you've locked into a 15-year at a rate that later looks high, your refinance leverage is different. Not necessarily worse, but different.
+Also: refinancing changes everything. If you take a 30-year and rates drop significantly three years in, you can refinance into a shorter-term loan at that point and potentially enjoy lower rates and faster payoff simultaneously. If you've locked into a 15-year at a rate that later looks high, your refinance options are different. Not necessarily worse, but different.
 
 And points. Loan officers will sometimes offer rate buydowns on 15-year loans that look compelling, but the breakeven math needs to actually work out for your anticipated time in the home. If you're buying a starter home and there's any chance you'll move in six years, paying points to reduce a 15-year rate is often a bad deal.
 

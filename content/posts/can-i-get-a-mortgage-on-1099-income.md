@@ -29,9 +29,7 @@ Roughly one in three American workers now earns some or all of their income thro
 
 So if you're self-employed, a freelancer, an independent contractor, or you run a one-person business and you're wondering whether you can actually get approved for a mortgage, here's the short answer: yes, usually. The longer answer is that you can, but it's going to require more documentation, more patience, and a willingness to understand exactly what lenders are looking for. You might be wondering whether your situation is too complicated, whether your income fluctuations will kill your chances, or whether lenders will even take you seriously. Those are the right questions. Let me work through them.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">1099 borrowers can qualify for conventional, FHA, and bank statement loans as of 2026.</li><li style="margin:5px 0">Lenders use a 2-year average of net self-employment income, not gross revenue, which often shocks applicants.</li><li style="margin:5px 0">Bank statement loans exist for borrowers who can't show strong tax returns but have solid cash flow.</li><li style="margin:5px 0">A debt-to-income ratio below 43% is the standard threshold; 36% or lower gives you better rates.</li><li style="margin:5px 0">Two years of self-employment history is the usual minimum, but some lenders accept 12 months with caveats.</li></ul></div>
-
 
 ## What Lenders Actually See When They Look at Your Income
 
@@ -44,8 +42,6 @@ Lenders will typically take a two-year average of your net self-employment incom
 ## The Two Main Routes: Conventional vs. Bank Statement Loans
 
 > **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Not all mortgage products treat 1099 income the same way, and choosing the right one matters more than most people realize.
 
@@ -67,9 +63,7 @@ Here's a side-by-side so you can see the real differences:
 | DTI ceiling | 45-50% | 43-50% (lender-dependent) | 43-57% (with compensating factors) |
 | Who it's best for | Strong net income, low write-offs | High gross revenue, many deductions | Lower credit, limited down payment |
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical qualifying income: $100K gross, self-employed</div><div class="sc-row"><span class="sc-label">Conventional (net after deductions)</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">$58,000</span></div><div class="sc-row"><span class="sc-label">Bank statement (12-mo avg deposits, 50% expense </span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">$75,000</span></div><div class="sc-row"><span class="sc-label">FHA (net after deductions)</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">$58,000</span></div><div class="sc-row"><span class="sc-label">Actual gross 1099 revenue</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$100,000</span></div><div class="sc-src">Source: Industry underwriting guidelines, August 2026</div></div>
-
 
 The chart above shows something I explain to almost every self-employed client: the number the lender uses can be dramatically different depending on which product you choose. That $17,000 gap between conventional and bank statement qualifying income can be the difference between an approval and a denial.
 
@@ -101,13 +95,13 @@ Worked example: A freelance software consultant in Austin earns $150,000 gross p
 
 A few things can genuinely strengthen your position as a 1099 borrower, and a few of them go against what you'd expect.
 
-First, reserves. Cash reserves sitting in a verifiable account after closing can offset a lot of lender hesitation about income variability. Having 6 to 12 months of mortgage payments in savings signals that you can weather a slow quarter without missing payments. The FHFA guidelines acknowledge reserves as a compensating factor, and in my experience underwriters use them aggressively when income documentation is anything less than clean.
+First, reserves. Cash reserves sitting in a verifiable account after closing can offset a lot of lender hesitation about income variability. Having 6 to 12 months of mortgage payments in savings signals that you can weather a slow quarter without missing payments. The FHFA guidelines acknowledge reserves as a compensating factor, and underwriters often weight them heavily when income documentation is anything less than clean.
 
 Second, the length of your self-employment history matters more than the dollar amount. Two years is the standard floor. Some lenders will look at 12 months if you were previously employed in the same field and transitioned to freelance, but that's a tighter path and fewer lenders will take it.
 
 Third, consider talking to a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) before you apply. I know that sounds like boilerplate advice, but I mean it specifically for 1099 borrowers: a good counselor has seen dozens of self-employed applicants and knows which lenders in your area are genuinely experienced with irregular income versus which ones will send you through two weeks of document hell and then deny you anyway. That distinction alone is worth the conversation.
 
-And if you want to go deeper on preparing your financial profile before you apply, something like the [Home Buying Checklist for First-Time Buyers](https://www.amazon.com/s?k=home+buying+checklist+first+time+buyers&tag=contentportfo-20) (Amazon, and yes, the site may earn a commission) can help you organize the documentation process before you're sitting in a loan officer's office scrambling. It's not a substitute for professional guidance, but organizing your paperwork before you apply is one of the highest-leverage things you can do.
+A [Home Buying Checklist for First-Time Buyers](https://www.amazon.com/s?k=home+buying+checklist+first+time+buyers&tag=contentportfo-20) (Amazon, and yes, the site may earn a commission) can help you organize the documentation process. It's not a substitute for professional guidance, but organizing your paperwork before you apply is one of the highest-leverage things you can do.
 
 ## Sources
 
@@ -118,7 +112,6 @@ And if you want to go deeper on preparing your financial profile before you appl
 - [Consumer Financial Protection Bureau: Debt-to-Income Ratio Explained](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/): CFPB explanation of DTI calculation and its role in mortgage qualification.
 
 ---
-
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

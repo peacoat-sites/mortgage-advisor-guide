@@ -25,8 +25,7 @@ author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
 lastmod: 2026-07-08
 ---
-Most people spend more time reading the menu at a new restaurant than they spend reading their Closing Disclosure. I've watched borrowers sign a stack of documents at the closing table, Closing Disclosure included, without really understanding what they agreed to. And I get it: by that point you're exhausted, excited, and trusting that somebody caught the details. But here's what I wish more borrowers knew before that moment arrived: the Closing Disclosure is the single most important document in your entire mortgage transaction, and you legally have three business days to review it before anyone can ask you to sign anything. That window exists for a reason. Use it.
-
+Most people spend more time reading the menu at a new restaurant than they spend reading their Closing Disclosure. Many borrowers sign documents at the closing table without fully understanding what they agreed to. By that point, it's easy to feel exhausted and trust that someone else caught the details. But the Closing Disclosure is the single most important document in your entire mortgage transaction, and you legally have three business days to review it before anyone can ask you to sign anything. That window exists for a reason. Use it.
 
 <div class="value-module">
  <div class="vm-head">CD vs Loan Estimate: Line-by-Line Check</div>
@@ -41,9 +40,9 @@ Most people spend more time reading the menu at a new restaurant than they spend
 
 The Closing Disclosure (CD) is a five-page federal form that lays out the final terms of your mortgage loan. It replaced the old HUD-1 Settlement Statement back in 2015 as part of the TRID rule (TILA-RESPA Integrated Disclosure), and it was genuinely an upgrade. The form is standardized, which means your lender can't design it to hide things. Every fee, every rate, every term is in a specific place on a specific page, whether you're borrowing from a credit union in Vermont or a national lender in Texas.
 
-What struck me when I first started working with the new form was how much information it actually contains that borrowers skip over. Your loan amount, interest rate, whether your rate can adjust, whether you have a prepayment penalty, whether there's a balloon payment, your projected monthly payment broken down into principal, interest, mortgage insurance, and escrow: it's all there on page one, before you even get to the fees.
+The Closing Disclosure contains crucial information that borrowers often skip over. Your loan amount, interest rate, whether your rate can adjust, whether you have a prepayment penalty, whether there's a balloon payment, your projected monthly payment broken down into principal, interest, mortgage insurance, and escrow: it's all there on page one, before you even get to the fees.
 
-The CD also shows your cash to close, which is the actual dollar amount you need to bring to the closing table. That number isn't the same as your down payment. It includes your down payment plus [closing costs](/what-are-typical-closing-costs-for-a-home-buyer/) minus any credits or deposits you've already made. I've seen borrowers show up underfunded because they confused the two.
+The CD also shows your cash to close, which is the actual dollar amount you need to bring to the closing table. That number isn't the same as your down payment. It includes your down payment plus [closing costs](/what-are-typical-closing-costs-for-a-home-buyer/) minus any credits or deposits you've already made. Borrowers sometimes show up underfunded because they confuse these two amounts.
 
 ## How to Compare Your Closing Disclosure to Your Loan Estimate
 
@@ -66,7 +65,7 @@ The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) has resources
 
 **Page three** shows your cash to close calculation and a summary of all transactions. It also shows what the seller is paying, if anything, and any credits applied to your account.
 
-**Page four** covers loan disclosures. This is where you'll find out if your loan has a demand feature, meaning the lender could call the loan due early under certain conditions. It also shows whether it's assumable and details about escrow. Don't skip this one. In 16 years of underwriting, I've seen borrowers genuinely surprised by things on page four that were sitting right there in plain text.
+**Page four** covers loan disclosures. This is where you'll find out if your loan has a demand feature, meaning the lender could call the loan due early under certain conditions. It also shows whether it's assumable and details about escrow. Don't skip this one. Borrowers are often surprised by things on page four that are sitting right there in plain text.
 
 **Page five** has the loan calculations: total interest paid over the life of the loan, the annual percentage rate (APR), and the total payments figure. The APR is higher than your interest rate because it reflects the cost of the loan including fees. If your APR is dramatically higher than your rate, that tells you something about your fee structure.
 

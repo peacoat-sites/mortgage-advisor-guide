@@ -25,7 +25,7 @@ author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 lastmod: 2026-07-08
 ---
-Most people believe you need 20% down to buy a house. That single myth keeps more qualified buyers on the sidelines than almost anything else. I've sat across from borrowers with solid income, clean credit, and real savings who had talked themselves out of homeownership because they were chasing a number they didn't actually need. The reality is that today's mortgage market offers down payment options ranging from zero to 20% and beyond, each with its own set of tradeoffs, costs, and qualifying requirements. Understanding those differences isn't just useful. It's the difference between buying a home this year and waiting three more years for a savings target you may not need.
+Most people believe you need 20% down to buy a house. That single myth keeps more qualified buyers on the sidelines than almost anything else. Many qualified borrowers with solid income, clean credit, and real savings have talked themselves out of homeownership because they were chasing a number they didn't actually need. Today's mortgage market offers down payment options ranging from zero to 20% and beyond, each with its own set of tradeoffs, costs, and qualifying requirements. Understanding those differences can mean the gap between buying a home this year and waiting three more years for a savings target you may not need.
 
 ## The Down Payment Spectrum: What Your Options Actually Look Like
 
@@ -58,7 +58,7 @@ Private mortgage insurance gets a bad reputation. I get it. It's a monthly cost 
 
 PMI on a conventional loan typically runs 0.2% to 2% of your loan amount annually, depending on your credit score, loan-to-value ratio, and the lender. On a $350,000 loan with a 10% down payment, you might pay somewhere between $100 and $200 per month in PMI. Real money, absolutely.
 
-Here's where it gets interesting. If the alternative to paying PMI is waiting 18 more months to save that extra down payment while home prices rise 4% to 6% in your market, you might spend far more chasing that 20% target than the PMI ever would have cost. I've seen clients do this math and realize they were saving for a moving target.
+If the alternative to paying PMI is waiting 18 more months to save that extra down payment while home prices rise 4% to 6% in your market, you might spend far more chasing that 20% target than the PMI ever would have cost.
 
 PMI on a conventional loan is also not permanent. Once you reach 20% equity through principal paydown and/or home appreciation, you can request cancellation. Under the Homeowners Protection Act, lenders must automatically cancel PMI when your loan balance reaches 78% of the original purchase price, provided you're current on payments.
 

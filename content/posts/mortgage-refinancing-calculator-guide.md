@@ -25,7 +25,7 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 lastmod: 2026-07-08
 ---
-You're sitting at the kitchen table with a mailer promising you could "save hundreds every month" by refinancing. The number's tempting. Your current rate feels high compared to what friends mention casually. So you find an online calculator, plug in some numbers, and get a monthly savings figure that makes you want to call a lender right now. I've watched this exact moment blow up more times than I can count, not because the calculator was broken, but because the borrower didn't know which numbers to trust, which fields actually mattered, and what the tool quietly skipped over. A refinancing calculator is powerful. It's also massively misused. Let's change that.
+You're sitting at the kitchen table with a mailer promising you could "save hundreds every month" by refinancing. The number's tempting. Your current rate feels high compared to what friends mention casually. So you find an online calculator, plug in some numbers, and get a monthly savings figure that makes you want to call a lender right now. This moment often backfires not because the calculator is broken, but because borrowers don't know which numbers to trust, which fields actually matter, and what the tool quietly skips over. A refinancing calculator is powerful. It's also massively misused. Let's change that.
 
 ## What a Mortgage Refinancing Calculator Actually Does (and Doesn't Do)
 
@@ -100,7 +100,7 @@ Cash-out refinancing changes the entire equation. You're not swapping rates. You
 
 You owe $280,000 but want to pull $40,000 for a renovation? Your new loan is $320,000. Even at a lower rate, monthly payments jump and total interest balloons. The "savings" frame doesn't apply. Instead ask: what's the total cost of this borrowed money versus a home equity loan or personal loan?
 
-Cash-out refis can make sense, but the calculator must reflect the full new balance from day one. I've seen borrowers use their current balance, get surprised when the actual payment arrives higher, and blame the calculator. That's user error.
+Cash-out refis can make sense, but the calculator must reflect the full new balance from day one. Borrowers who use their current balance often get surprised when the actual payment arrives higher. That's user error.
 
 Also know this: cash-out refinances come with slightly higher rates than rate-and-term refinances because they're riskier for lenders. Make sure your rate quote matches the correct product type.
 

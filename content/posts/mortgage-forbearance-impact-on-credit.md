@@ -34,7 +34,7 @@ That's where people get blindsided.
 
 Under the CARES Act framework (still the standard model servicers follow), a properly documented [forbearance agreement](/mortgage-forbearance-explained/) means your servicer should not report your account as delinquent to the credit bureaus during the forbearance period. Your account shows as "current." On paper, that sounds clean.
 
-Here's the catch: servicers can, and sometimes do, add a comment code to your tradeline. Something like "affected by natural disaster" or "forbearance plan." That notation doesn't directly lower your score. But it sits in your file like a flag, and every lender who pulls your credit sees it. Automated underwriting systems don't always penalize it. Human underwriters do.
+Servicers can add a comment code to your tradeline. Something like "affected by natural disaster" or "forbearance plan." That notation doesn't directly lower your score. But it sits in your file like a flag, and every lender who pulls your credit sees it. Automated underwriting systems don't always penalize it. Human underwriters do.
 
 I spent years reviewing files on the back end of loan approvals. When I saw a forbearance notation on a mortgage tradeline, my next question was always: why? What happened in that borrower's financial life, and is it resolved? A clean payment history before and after the forbearance helped. Vague explanations from borrowers who couldn't document the recovery hurt them badly.
 
@@ -50,8 +50,6 @@ The score itself may survive forbearance intact. The file tells a different stor
 | Repayment plan | Highest delinquency risk | Normal payment + portion of missed payments monthly | Budget-conscious borrowers only if numbers genuinely work |
 
 > **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Getting into forbearance is the easy part. Your servicer has a script for that call. Getting out cleanly is where borrowers make costly mistakes that echo for years.
 
@@ -87,7 +85,6 @@ If you're planning to buy or refinance within two years of a forbearance, pull y
 
 ---
 
-
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
@@ -101,7 +98,6 @@ If you're planning to buy or refinance within two years of a forbearance, pull y
 - [HUD-approved housing counselor network](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
 - [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20)
 - [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

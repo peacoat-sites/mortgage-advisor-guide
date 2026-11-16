@@ -25,7 +25,7 @@ author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 lastmod: 2026-07-08
 ---
-Most first-time buyers walk into a lender's office convinced the mortgage process starts with finding a house. It doesn't. By the time you've fallen in love with a property, made an offer, and started negotiating, the financial decisions that actually determine what you can afford and what you'll pay have already been made, or should have been. I've watched borrowers lose houses, overpay by tens of thousands in interest, or get stuck in loan products they didn't fully understand, all because they started too late or in the wrong order.
+Most first-time buyers walk into a lender's office convinced the mortgage process starts with finding a house. It doesn't. By the time you've fallen in love with a property, made an offer, and started negotiating, the financial decisions that actually determine what you can afford and what you'll pay have already been made, or should have been. Borrowers who start the mortgage process after finding a house often lose out on better rates, overpay tens of thousands in interest, or end up in loan products they don't fully understand.
 
 This guide walks you through the process the way it actually works, not the way lenders' marketing brochures describe it.
 
@@ -37,9 +37,9 @@ Before you contact a single lender, you need to know three numbers cold: your cr
 
 **Credit score first.** Conventional loans backed by Fannie Mae and Freddie Mac generally require a minimum 620, but you'll want to be closer to 740 or above to access the best pricing. Below 700 and you're paying meaningful loan-level price adjustments, which are essentially risk surcharges built into your rate. FHA lets you go as low as 580 with 3.5% down, or even 500 with 10% down, but the mortgage insurance costs on FHA can be steep.
 
-Here's the thing most people don't realize: your credit app on your phone doesn't show the same score a mortgage lender pulls. Lenders use a tri-merge report from Experian, Equifax, and TransUnion, and they often use older FICO scoring models like FICO 2, 4, and 5, not the newest versions. Pull your full reports at [AnnualCreditReport.com](https://www.annualcreditreport.com) and look for errors.
+Your credit app on your phone doesn't show the same score a mortgage lender pulls. Lenders use a tri-merge report from Experian, Equifax, and TransUnion, and they often use older FICO scoring models like FICO 2, 4, and 5, not the newest versions. Pull your full reports at [AnnualCreditReport.com](https://www.annualcreditreport.com) and look for errors.
 
-**DTI is your total monthly debt payments divided by your gross monthly income.** Most conventional loans want to see a back-end DTI (all debts including the proposed mortgage) below 43%, though some automated underwriting systems will approve up to 50% under the right conditions. FHA is a bit more flexible. I've seen loan officers quote purchasing power without asking about a car payment or student loan, which inflates what clients think they can borrow. Know your own number.
+**DTI is your total monthly debt payments divided by your gross monthly income.** Most conventional loans want to see a back-end DTI (all debts including the proposed mortgage) below 43%, though some automated underwriting systems will approve up to 50% under the right conditions. FHA is a bit more flexible. Loan officers sometimes quote purchasing power without accounting for a car payment or student loan, which can inflate what you think you can borrow. Know your own number.
 
 Cash matters more than people expect. Your down payment is only part of it. You'll also need closing costs, which typically run 2% to 5% of the loan amount, and reserves, money left in the bank after closing. Some loan programs require two to six months of housing payments sitting in reserve post-close. That cash has to be sourced and seasoned, meaning documented and sitting in your account for at least 60 days. A large deposit from a family gift that shows up right before closing triggers underwriting scrutiny and requires a paper trail.
 
@@ -119,8 +119,6 @@ HUD-sponsored homebuyer education is worth doing even if it's not required for y
 
 ## The Steps in Order: What to Actually Do
 
-Follow this sequence and you'll avoid most of the costly mistakes I've seen first-timers make.
-
 1. **Pull your credit reports.** All three bureaus. Dispute any errors. Give yourself at least 60 to 90 days to resolve problems before applying.
 2. **Calculate your real DTI.** Add up every minimum monthly debt payment. Divide by gross monthly income. Aim for 36% or below if possible.
 3. **Determine your available cash.** Down payment plus closing costs plus reserves. Be honest.
@@ -133,7 +131,7 @@ Follow this sequence and you'll avoid most of the costly mistakes I've seen firs
 
 ---
 
-The mortgage process rewards preparation more than any other factor. You don't need a perfect financial profile to buy a home, but you do need to understand what lenders are actually evaluating, where the real costs live, and which decisions are reversible versus which ones follow you for 30 years. Give yourself a runway of six months to a year before you plan to buy, and use that time to get your documentation, credit, and cash position clean. The buyers I've seen close smoothly and confidently weren't luckier than the ones who scrambled. They just started earlier.
+The mortgage process rewards preparation more than any other factor. You don't need a perfect financial profile to buy a home, but you do need to understand what lenders are actually evaluating, where the real costs live, and which decisions are reversible versus which ones follow you for 30 years. Give yourself a runway of six months to a year before you plan to buy, and use that time to get your documentation, credit, and cash position clean. Buyers who close smoothly and confidently aren't luckier than the ones who scramble. They just started earlier.
 
 ## Sources & References
 

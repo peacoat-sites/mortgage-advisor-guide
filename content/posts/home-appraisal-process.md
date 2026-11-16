@@ -49,7 +49,7 @@ The physical inspection is usually 30 to 90 minutes, depending on the size of th
 
 One thing nobody tells buyers: the appraiser isn't there to find every defect. That's the home inspector's job. The appraiser is looking for things that would affect market value or make the home ineligible for financing. A cracked tile in the bathroom won't kill your appraisal. A foundation that's visibly compromised might.
 
-If you're the buyer, you probably won't be at the appraisal at all. Most listing agents or sellers are present, or the appraiser goes in with a lockbox code. As a borrower, you can submit a packet of information to the appraiser ahead of time: relevant comps you've found, a list of recent improvements the seller made, permits pulled. The appraiser doesn't have to use any of it, but they're required to consider it. I've seen that packet make a $12,000 difference in the final number.
+If you're the buyer, you probably won't be at the appraisal at all. Most listing agents or sellers are present, or the appraiser goes in with a lockbox code. As a borrower, you can submit a packet of information to the appraiser ahead of time: relevant comps you've found, a list of recent improvements the seller made, permits pulled. The appraiser doesn't have to use any of it, but they're required to consider it.
 
 ## How They Come Up With the Number
 
@@ -95,7 +95,7 @@ A few notes on that table. Rural properties cost more because the appraiser has 
 
 ## One Thing I Got Wrong for Years
 
-For a long time, I told borrowers that the appraiser's job was to confirm the purchase price. That's how I'd heard it explained when I first started in underwriting. Wrong. The appraiser's job is to give an independent opinion of market value, full stop. If that opinion is lower than the contract price, that's information, not a failure. It took me watching a few borrowers overpay for properties that later lost significant value to really internalize that distinction. An appraisal protecting you from overpaying is the system working correctly, even when it doesn't feel that way.
+A common misconception is that the appraiser's job is to confirm the purchase price. The appraiser's job is to give an independent opinion of market value, full stop. If that opinion is lower than the contract price, that's information, not a failure. An appraisal protecting you from overpaying is the system working correctly, even when it doesn't feel that way. An appraisal protecting you from overpaying is the system working correctly, even when it doesn't feel that way.
 
 If you want to go deeper on your rights as a buyer and what appraisers are actually required to do, [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can walk you through this at no cost. And [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) have a plain-English breakdown of the appraisal's role in the lending process that I've recommended to readers before.
 

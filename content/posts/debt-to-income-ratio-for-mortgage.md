@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You submitted your mortgage application feeling confident. Good credit score, steady job, money in the bank. Then the loan officer calls and says you've been denied. The reason? Your debt-to-income ratio is too high.
 
-Most buyers never think about this number until it stops them cold. It derails more applications than bad credit does. In my experience reviewing thousands of files, DTI is the silent deal-killer that catches even financially responsible borrowers off guard.
+Most buyers never think about this number until it stops them cold. It derails more applications than bad credit does. DTI is the silent deal-killer that catches even financially responsible borrowers off guard.
 
 ## What Debt-to-Income Ratio Actually Means (and Why Lenders Care So Much)
 
@@ -110,7 +110,7 @@ If your number is too high, you have two levers: reduce your monthly debt paymen
 
 **Pay off small installment loans.** If you have a personal loan with six payments left, paying it off before applying removes that obligation from your DTI calculation entirely.
 
-**Avoid new debt before and during the application.** A car purchase six months before applying could knock you out of approval. I've seen buyers lose rate locks because they financed furniture after signing a purchase contract.
+**Avoid new debt before and during the application.** A car purchase six months before applying could knock you out of approval. Financing furniture after signing a purchase contract can cost you a rate lock.
 
 **Increase documented income.** Getting a part-time job, asking for a raise, or waiting until a recent salary increase has been in place long enough to count (typically 30 days on the new pay stub) can shift your ratio meaningfully.
 

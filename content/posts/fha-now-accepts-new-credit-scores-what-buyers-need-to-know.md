@@ -14,7 +14,7 @@ slug: "fha-now-accepts-new-credit-scores-what-buyers-need-to-know"
 affiliate_disclosure: true
 lastmod: 2026-07-07
 ---
-Most people assume their credit score is their credit score. One number, one fate. What I've spent the last week digging into suggests that assumption is about to get a lot more complicated, and for millions of potential homebuyers, that's genuinely good news.
+Most people assume their credit score is their credit score. One number, one fate. Credit scoring is actually more complex than a single number, and changes in how lenders evaluate creditworthiness could benefit millions of potential homebuyers.
 
 On April 22, 2026, HUD Secretary Scott Turner announced that FHA would begin accepting VantageScore 4.0 and FICO Score 10T alongside the Classic FICO models that have dominated mortgage underwriting for decades. FHA confirmed the shift through [FHA INFO 2026-11](https://www.hud.gov/hud-partners/single-family-fha-info) in May 2026. This isn't a minor tweak to the fine print. It's the biggest structural change to FHA credit evaluation in years, and it's landing right as the summer homebuying season hits full stride with 30-year fixed rates sitting at 6.47% as of June 18, 2026, according to Freddie Mac's Primary Mortgage Market Survey.
 
@@ -37,8 +37,6 @@ What surprised me was the framing from the government side. The joint announceme
 ## The Conventional Loan Precedent
 
 > **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I'll be honest: FHA is actually late to this particular party. Fannie Mae and Freddie Mac began accepting FICO 10T and VantageScore 4.0 for conventional loans in 2025. Lenders and mortgage servicers have had roughly a year to build out systems and start learning how these models behave in practice. FHA's adoption now brings government-backed loans into alignment with that conventional market shift and, critically, extends it to the lower-down-payment borrowers who rely on FHA most heavily.
 

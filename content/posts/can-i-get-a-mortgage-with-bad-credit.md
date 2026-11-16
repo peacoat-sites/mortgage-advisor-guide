@@ -37,15 +37,13 @@ First, let's get specific, because "bad credit" means different things depending
 
 In mortgage terms, anything below 620 is generally considered subprime territory for conventional loans. Scores from 580 to 619 put you in a tough spot for most standard products but can still qualify for government-backed loans. Below 580, your options get narrower fast, though they don't disappear entirely.
 
-What most people don't realize is that the score a mortgage lender sees is usually different from the free score you checked on Credit Karma last Tuesday. Lenders pull a tri-merge report, which means they get scores from all three bureaus (Equifax, Experian, and TransUnion), and they use the middle score of the three, not the highest. I've seen borrowers walk in confident they were at 610 and find out their middle score was 571. That difference can change your loan options completely.
+The score a mortgage lender sees is usually different from free credit scores. Lenders pull a tri-merge report, which means they get scores from all three bureaus (Equifax, Experian, and TransUnion), and they use the middle score of the three, not the highest. That difference can change your loan options completely.
 
 Also: lenders don't just look at the number. A 580 with one old collection that's been paid is a very different risk profile than a 580 with recent missed payments and an active delinquency. The context of your credit history matters.
 
 ## The Loan Types That Actually Help Bad-Credit Borrowers
 
 > **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where I'd spend the most time if I were sitting across the table from you.
 
@@ -74,7 +72,7 @@ Here's a comparison that might save you a few phone calls:
 
 I'm going to be honest with you: if your score is below 580 and you're trying to close on a home in the next 60 days, that's going to be hard. Not impossible, but hard. The more realistic question is often "what's the fastest path to approvable?"
 
-Here's a rough sequence that I've seen work, based on actual cases I processed over my career:
+Here's a rough sequence that can work:
 
 **Step 1: Pull your actual credit reports.** Not just your scores. The full reports, free at AnnualCreditReport.com. You're looking for errors (which are more common than you'd think, roughly one in five reports has an error according to FTC data), outdated collections past the seven-year mark, and any accounts that don't belong to you. Disputing a legitimate error once got a borrower of mine from 564 to 601 in six weeks.
 
@@ -115,7 +113,6 @@ The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) publishes dat
 - FTC Consumer Report (2021): "In Brief: The Credit Report Study" (referenced figure: approximately 1 in 5 reports contains an error that affects credit).
 
 ---
-
 
 ---
 

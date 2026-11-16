@@ -21,11 +21,11 @@ That's where a lot of summer buyers find themselves right now. At his first FOMC
 
 ## What Actually Moves Mortgage Rates (It's Not Just the Fed)
 
-Here's the thing most borrowers get wrong: the Fed doesn't set your mortgage rate. The Federal funds rate is an overnight lending rate between banks. Your 30-year fixed is priced primarily off the 10-year Treasury yield, with a spread layered on top to compensate lenders for risk. Under normal market conditions, that spread sits around 1.5 percentage points. Right now it's running closer to 2.0 full percentage points, which is historically elevated and independently responsible for keeping mortgage costs higher than they'd otherwise be.
+A common misconception is that the Fed sets your mortgage rate. The Federal funds rate is an overnight lending rate between banks. Your 30-year fixed is priced primarily off the 10-year Treasury yield, with a spread layered on top to compensate lenders for risk. Under normal market conditions, that spread sits around 1.5 percentage points. Right now it's running closer to 2.0 full percentage points, which is historically elevated and independently responsible for keeping mortgage costs higher than they'd otherwise be.
 
 Why is the spread so wide? Lender uncertainty, mostly. When investors aren't sure which direction rates are heading, they demand more cushion. When inflation runs hot, as it is right now at 4.2%, double the Fed's 2% target, the bond market gets nervous and yields rise. Mortgage rates follow. So even if the Fed holds rates flat at the July 28-29 FOMC meeting, you could still see your rate quote move based on what the CPI report on July 15 shows. A hotter-than-expected inflation print would almost certainly push the 10-year yield higher, and your lender's rate sheet would adjust within hours.
 
-I've seen borrowers get blindsided by this timing issue more times than I can count. They get a pre-approval rate quote, wait three weeks, and then wonder why the number changed when "the Fed didn't do anything."
+Borrowers often get blindsided by rate changes. A pre-approval rate quote can shift within weeks, even when the Fed takes no action.
 
 ## The Warsh Factor: Why This Chair Matters More Right Now
 
@@ -39,8 +39,6 @@ I've seen borrowers get blindsided by this timing issue more times than I can co
 | Early July 2026 (7 weeks) | ~6.5% | - | Freddie Mac persistence signal |
 
 > **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Warsh isn't Jerome Powell, and that matters. Powell spent years carefully managing market expectations with forward guidance, telegraphing moves well in advance. Warsh has a different profile. He's been publicly skeptical of the Fed's ability to control inflation through communication alone and has historically leaned toward tighter policy. The June meeting reflected that: no cuts projected, a hawkish dot plot, and language that, as Redfin noted in their coverage of the June 17 meeting, points to mortgage rates likely staying high through at least the remainder of 2026.
 
@@ -60,7 +58,7 @@ The honest answer is nobody knows, including the Fed. What I do know is that loc
 
 ## What You Should Actually Do Right Now
 
-I'm not going to tell you to wait for rates to drop, because I've watched people say that since early 2022 and they're still waiting. What I will tell you is this: if you're under contract, have a conversation with your loan officer this week about a float-down option or a longer rate lock. Some lenders offer 60-to-90 day locks with a one-time float-down provision, meaning if rates improve before closing, you can capture the lower rate. They're not free, typically adding 0.125%-0.25% to your rate, but in a volatile market ahead of two known catalyst dates, that insurance has real value.
+If you're under contract, have a conversation with your loan officer this week about a float-down option or a longer rate lock. Some lenders offer 60-to-90 day locks with a one-time float-down provision, meaning if rates improve before closing, you can capture the lower rate. They're not free, typically adding 0.125%-0.25% to your rate, but in a volatile market ahead of two known catalyst dates, that insurance has real value.
 
 If you're still shopping and haven't gone under contract, run your numbers at 7%, not 6.6%. If 7% breaks your budget, that's critical information. It means your comfortable price point is lower than you think, and you should be shopping accordingly rather than hoping the rate environment bails you out.
 

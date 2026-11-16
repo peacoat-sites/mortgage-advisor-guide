@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 A low appraisal doesn't kill a deal. It just changes the math in ways most buyers aren't prepared for, and that panic is exactly what sellers and listing agents count on.
 
-I've seen buyers walk away from houses they loved because their loan officer handed them a one-page explanation and shrugged. I've also seen buyers keep those same deals together by understanding what their actual options were. The difference almost always came down to information, not luck.
+Buyers who understand their options are more likely to keep deals together. The difference almost always comes down to information, not luck.
 
 Here's what you need to know before you make any decisions.
 
@@ -37,7 +37,7 @@ Your lender doesn't care what you agreed to pay for the house. They only care wh
 
 On a conventional loan with a 20% [down payment](/mortgage-down-payment-options/), that shift can blow the whole thing up. You were planning to put down $84,000 (20% of $420,000) and borrow $336,000. Now the lender will only loan up to 80% of $395,000, which is $316,000. To keep the deal at the original purchase price, you'd need to cover that extra $20,000 out of pocket in addition to your original down payment. That's $20,000 you may not have sitting around.
 
-Here's the thing most people don't realize: a low appraisal isn't a verdict. It's an opening move.
+A low appraisal isn't a verdict. It's an opening move.
 
 ## Your Four Actual Options
 
@@ -47,7 +47,7 @@ Here's the thing most people don't realize: a low appraisal isn't a verdict. It'
 
 **Cover the gap yourself.** If you have the cash and you genuinely believe the house is worth the contract price (maybe the appraiser missed a key comparable), you can pay the difference out of pocket. Some buyers do this in competitive markets where they've already lost three other offers. I'd only recommend it if your agent has independently confirmed the value is supportable, because throwing cash at an inflated price is exactly how people end up underwater on day one.
 
-**Request a reconsideration of value (ROV).** This is a formal process where you challenge the appraisal with documented evidence: recent comparable sales the appraiser didn't include, errors in square footage or condition, renovations that weren't properly credited. Your lender submits this on your behalf. ROVs don't always work. Appraisers don't love being challenged and they don't have to change their number, but I've seen them succeed when there was a clear factual error or when the buyer's agent found a legitimately comparable sale within the same 90-day window that the appraiser somehow missed. It costs nothing to try before you do anything else.
+**Request a reconsideration of value (ROV).** This is a formal process where you challenge the appraisal with documented evidence: recent comparable sales the appraiser didn't include, errors in square footage or condition, renovations that weren't properly credited. Your lender submits this on your behalf. ROVs don't always work. Appraisers don't have to change their number, but they may succeed when there's a clear factual error or when the buyer's agent finds a legitimately comparable sale within the same 90-day window that the appraiser missed. It costs nothing to try before you do anything else.
 
 **Walk away using your [appraisal contingency](/mortgage-contingency-explained/).** If your contract includes an appraisal contingency (and it absolutely should), a low appraisal gives you the right to exit the contract and get your earnest money back. Full stop. If you waived that contingency in a competitive bidding situation, you're in a harder spot. Talk to a real estate attorney before you do anything.
 
@@ -71,7 +71,7 @@ Conventional loans give you more flexibility. PMI and loan-to-value ratios work 
 
 In hotter markets, sellers sometimes ask buyers to sign an "appraisal gap clause" as part of the offer. This is a contractual agreement that you'll cover a certain dollar amount of any gap between the appraised value and the purchase price. For example: "Buyer agrees to cover up to $15,000 of any appraisal gap."
 
-I've seen this used thoughtfully and I've seen it used recklessly. If you're signing one, know your exact ceiling and make sure you actually have that cash accessible at closing. Lenders will ask for documentation. Also understand that agreeing to an appraisal gap clause doesn't mean you waive your right to walk away if the gap exceeds that ceiling, but that needs to be explicitly stated in the contract language. Don't assume. Have your agent or attorney confirm it in writing.
+If you're signing an appraisal gap clause, know your exact ceiling and make sure you actually have that cash accessible at closing. Lenders will ask for documentation. Agreeing to an appraisal gap clause doesn't mean you waive your right to walk away if the gap exceeds that ceiling, but that needs to be explicitly stated in the contract language. Have your agent or attorney confirm it in writing.
 
 The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) has solid plain-language guidance on how appraisals factor into loan approval that's worth reading if you want to understand lender requirements before your closing.
 

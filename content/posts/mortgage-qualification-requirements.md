@@ -95,7 +95,7 @@ Not all mortgages are created equal, and the requirements shift significantly de
 | USDA | 640 (most lenders) | 0% | ~41% | Yes (upfront and annual fee) |
 | Jumbo | 700-720+ | 10-20%+ | ~43% | Varies by lender |
 
-FHA loans carry mortgage insurance premium (MIP) for the life of the loan if you put down less than 10%. That's different from conventional PMI, which falls off automatically once you reach 20% equity under federal law. Over a 30-year loan, that difference in how long you pay insurance can cost you tens of thousands of dollars. I've watched borrowers lock into FHA loans because of the easier qualification, not realizing they'd be paying insurance indefinitely.
+FHA loans carry mortgage insurance premium (MIP) for the life of the loan if you put down less than 10%. That's different from conventional PMI, which falls off automatically once you reach 20% equity under federal law. Over a 30-year loan, that difference in how long you pay insurance can cost you tens of thousands of dollars. Borrowers sometimes choose FHA loans for easier qualification without realizing they'll pay insurance for the life of the loan.
 
 VA loans are genuinely the best deal available for eligible veterans and service members. Zero down, no PMI, and competitive rates. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) regularly publishes data on loan performance and conforming loan limits, which affect how VA and conventional loan limits are set each year. If you're eligible and not using a VA loan, it's worth asking why.
 
@@ -130,7 +130,7 @@ If you want to go deeper on preparing financially before you apply, a solid home
 
 Even borrowers who look strong on paper can get tripped up by things they didn't see coming.
 
-**Recent large purchases on credit.** Buying a car or opening new credit cards before closing can change your DTI and drop your score simultaneously. Lenders often run a soft credit check right before closing. I've watched deals fall apart at the five-yard line because someone went out and financed furniture.
+**Recent large purchases on credit.** Buying a car or opening new credit cards before closing can change your DTI and drop your score simultaneously. Lenders often run a soft credit check right before closing. Deals can fall apart near closing if a borrower finances a large purchase, which changes their DTI or credit score.
 
 **Undisclosed debts.** If you cosigned on a student loan for your kid or guaranteed a business line of credit, those liabilities show up. You can't leave them off the application.
 

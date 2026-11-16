@@ -30,7 +30,7 @@ Most borrowers assume a refinance is the "easy" version of getting a mortgage. Y
 
 I thought the same thing, honestly, the first time I refinanced. I gave myself three weeks. I closed in 51 days and nearly lost my rate lock in the process. That experience taught me more about how this process actually works than 16 years of underwriting had, because when it's your own money on the line, you pay attention differently.
 
-The real answer to "how long does this take" is somewhere between 30 and 60 days for most borrowers, with 45 days being a reasonable planning assumption. But that range hides a lot. [Streamline refinances](/streamline-refinance-options/) can close in as little as 21 days. Cash-out refis during a busy rate market? I've seen those drag past 75 days. What determines where you fall in that range is almost never what borrowers expect.
+The real answer to "how long does this take" is somewhere between 30 and 60 days for most borrowers, with 45 days being a reasonable planning assumption. But that range hides a lot. [Streamline refinances](/streamline-refinance-options/) can close in as little as 21 days. Cash-out refis during a busy rate market can drag past 75 days. What determines where you fall in that range is almost never what borrowers expect.
 
 ## The Stages, and Where Time Actually Gets Lost
 
@@ -45,19 +45,17 @@ The real answer to "how long does this take" is somewhere between 30 and 60 days
 
 Here's what a standard refinance looks like broken into its real phases, not the marketing-friendly version:
 
-**Application and initial disclosures: Days 1-5.** This part moves fast, or should. You apply, the lender pulls credit, and within three business days they're legally required to send you a Loan Estimate. The LE is important, read it carefully, because those numbers are the closest thing to a commitment you'll get until closing. What I've seen slow this phase down is incomplete applications. If you don't have your last two years of W-2s, two months of bank statements, and your current mortgage statement ready before you apply, you're adding days before you even start.
+**Application and initial disclosures: Days 1-5.** This part moves fast, or should. You apply, the lender pulls credit, and within three business days they're legally required to send you a Loan Estimate. The LE is important, read it carefully, because those numbers are the closest thing to a commitment you'll get until closing. Incomplete applications slow this phase down. If you don't have your last two years of W-2s, two months of bank statements, and your current mortgage statement ready before you apply, you're adding days before you even start.
 
-**Appraisal: Days 5-21.** I'll be honest: this is usually the longest single wait in the process, and it's almost entirely outside your control. The lender orders an appraisal after you pay the appraisal fee (typically $400-$600 for a single-family home, though I've seen this run higher in rural markets). The appraiser schedules, visits, and writes the report. In a high-volume market, that report might not land until day 18 or 20. Some lenders can use automated valuation models or appraisal waivers for lower-risk loans, which shaves this down to almost nothing. Ask your lender upfront whether you're eligible. If you get a waiver, you just saved yourself 10-14 days.
+**Appraisal: Days 5-21.** This is usually the longest single wait in the process, and it's almost entirely outside your control. The lender orders an appraisal after you pay the appraisal fee (typically $400-$600 for a single-family home, though costs can run higher in rural markets). The appraiser schedules, visits, and writes the report. In a high-volume market, that report can take until day 18 or 20. Some lenders can use automated valuation models or appraisal waivers for lower-risk loans, which shaves this down to almost nothing. Ask your lender upfront whether you're eligible. If you get a waiver, you just saved yourself 10-14 days.
 
 **Underwriting: Days 15-30 (often overlapping with appraisal).** What surprised me when I moved from underwriting to writing about mortgages was how little borrowers understand about what's actually happening in this phase. An underwriter is reviewing every document you've submitted, cross-referencing your income against your tax returns, checking your assets, and making sure the property appraises at or above the loan amount. They'll issue conditions, specific items they need before they can approve the loan. You might get a request for a letter of explanation on a bank deposit from six months ago, or a new pay stub because yours is now 30 days old. How fast you respond to those conditions determines how fast you close. Lenders who are slammed with volume can also have underwriting turn times of 10 business days or more. Ask what their current turn time is before you choose them.
 
-**Closing disclosure and the waiting period: Days 35-45.** Federal law requires a three-business-day waiting period after you receive the Closing Disclosure before you can sign. This isn't negotiable. It exists so you have time to compare the CD to the Loan Estimate and flag any fees that changed. I've seen borrowers get caught off guard by this and delay closing because they thought they could sign immediately. Plan for it from the start.
+**Closing disclosure and the waiting period: Days 35-45.** Federal law requires a three-business-day waiting period after you receive the Closing Disclosure before you can sign. This isn't negotiable. It exists so you have time to compare the CD to the Loan Estimate and flag any fees that changed. Borrowers who aren't aware of this waiting period sometimes delay closing because they expect to sign immediately. Plan for it from the start.
 
 **Closing and the rescission period: Days 45-49.** You sign, but for a refinance on a primary residence, there's a three-business-day right of rescission. The lender legally cannot fund the loan until that window expires. (This does not apply to investment properties or vacation homes.) So even after you sign, you're waiting another three business days. Funds typically disburse on day four after signing, and your old loan gets paid off within a few days after that.
 
 ---
-
-A few worked examples that reflect what I've seen in practice:
 
 Straightforward rate-and-term refi, salaried W-2 borrower, good credit, appraisal waiver granted → clean file, responsive borrower, no conditions issued → closed in 27 days.
 
@@ -69,13 +67,11 @@ Cash-out refinance, self-employed borrower, lender ordered full appraisal, busy 
 
 > **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Borrowers aren't powerless here, even if it sometimes feels that way.
 
-The single highest-leverage thing you can do is respond to every lender request the same day it arrives. Underwriting conditions have a clock attached to them. If a condition comes in Friday afternoon and you respond Monday, you've lost a business day in the queue. I've watched closings miss their lock expiration because a borrower took four days to upload a document that took 10 minutes to find.
+Respond to every lender request the same day it arrives. Underwriting conditions have a clock attached to them. If a condition comes in Friday afternoon and you respond Monday, you lose a business day in the queue. Closings can miss their lock expiration when a borrower takes four days to upload a document that takes 10 minutes to find.
 
-The second thing: don't open new credit, make large undocumented deposits, or change jobs during the process. Any of these can re-trigger underwriting review and add days. This sounds obvious, but I've watched a borrower almost torpedo their own closing by applying for a furniture store credit card (for the new living room they were buying to celebrate the refi). The underwriter caught it in the final credit refresh. It didn't kill the loan, but it cost four extra days and a very stressful phone call.
+The second thing: don't open new credit, make large undocumented deposits, or change jobs during the process. Any of these can re-trigger underwriting review and add days. This sounds obvious, but Applying for new credit during the mortgage process, such as a furniture store credit card, can trigger underwriting review. If caught in the final credit refresh, this can add days and create complications.
 
 And get your paperwork ready before you apply. I put together a checklist I've given to dozens of people over the years: last two years of federal tax returns (all pages), last two years W-2s or 1099s, last 30 days of pay stubs, last two months of all financial account statements, your current mortgage statement, and your homeowner's insurance declaration page. If you have rental properties, business ownership, or other complexity, that list gets longer. [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) also has a solid document checklist if you want a second opinion on what to gather.
 
@@ -100,7 +96,6 @@ If you're feeling uncertain about the process at any stage, a [HUD-approved hous
 - Mortgage Bankers Association Origination Data (current as of 2026): Industry-tracked data on average refinance closing timelines by loan type and market conditions.
 
 ---
-
 
 ---
 

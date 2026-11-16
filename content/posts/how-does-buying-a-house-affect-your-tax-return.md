@@ -25,7 +25,7 @@ faqs:
     a: "Honestly, yes, at least once. The first tax year after purchase is the most confusing, and a one-hour session with a CPA who handles homeowner returns is worth more than hours of DIY research. They can assess whether itemizing makes sense for your specific situation, flag things like points or PMI, and set you up for future years."
 ---
 
-Most first-time buyers I worked with expected a big tax windfall after closing. The reality? The IRS estimates that only about 13% of all tax filers actually itemize their deductions, which means the majority of homeowners never directly claim a single mortgage-related tax break. That number stopped me cold when I first saw it. I'd spent years explaining [mortgage interest](/are-mortgage-interest-payments-tax-deductible-in-2026/) deductions to borrowers, assuming they'd all benefit, and the truth is a lot more complicated than any mortgage brochure will tell you.
+Many first-time buyers expect a big tax windfall after closing. The reality? The IRS estimates that only about 13% of all tax filers actually itemize their deductions, which means the majority of homeowners never directly claim a single mortgage-related tax break. The [mortgage interest](/are-mortgage-interest-payments-tax-deductible-in-2026/) deduction is more complicated than most mortgage brochures suggest.
 
 I'll be honest: the tax story around homeownership is one of the most misunderstood parts of the whole buying process. Sellers and lenders talk up the "[tax benefits](/mortgage-tax-benefits/)" like they're free money. Sometimes they are. Often they're not. And what you actually get depends on your specific financial situation in ways that a five-minute conversation at closing just can't cover.
 

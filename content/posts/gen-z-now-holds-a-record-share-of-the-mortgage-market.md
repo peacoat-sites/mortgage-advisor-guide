@@ -16,13 +16,11 @@ affiliate_disclosure: true
 
 Something quietly historic happened in the mortgage market this spring, and most people outside the industry didn't notice. Gen Z, buyers born roughly between 1997 and 2012, locked in 20% of all purchase mortgages in Q2 2026, the largest share this generation has ever held, according to ICE Mortgage Technology's July 2026 Mortgage Monitor. That's 1 in every 5 home purchase rate locks. For context, Baby Boomers, a generation that owned the housing market for decades, now account for just 11% of purchase lending. The generational handoff that everyone predicted is actually happening. [Right now](/should-you-take-an-arm-right-now-to-beat-high-fixed-rates/).
 
-I'll be honest, when I first saw these numbers from ICE's July 6th report, I expected them to tell a simple story: young buyers finally got some relief and jumped in. The real story is messier. Rates are still bruising. The 30-year fixed climbed to 6.70% as of July 23, 2026. [Home prices](/record-home-prices-meet-rising-rates-what-buyers-must-know-now/) re-accelerated in June to their strongest annual pace in over a year. And the median monthly mortgage payment hit $2,198 in May 2026, per the Mortgage Bankers Association's purchase applications payment index. Gen Z isn't buying into a friendly market. They're buying anyway, and they're getting creative about how.
+The numbers from ICE's July 6th report might suggest young buyers got relief and jumped in, but the picture is messier. Rates are still bruising. The 30-year fixed climbed to 6.70% as of July 23, 2026. [Home prices](/record-home-prices-meet-rising-rates-what-buyers-must-know-now/) re-accelerated in June to their strongest annual pace in over a year. And the median monthly mortgage payment hit $2,198 in May 2026, per the Mortgage Bankers Association's purchase applications payment index. Gen Z isn't buying into a friendly market. They're buying anyway, and they're getting creative about how.
 
 What surprised me most was where the money is coming from. Alternative [down payment](/gift-funds-for-down-payment-rules/) sources, things like family gifts, personal loans, and retirement account withdrawals, hit a 7-year high in 2026, making up 29% of all purchase down payments. One in five Gen Z buyers used a gift (13%) or borrowed funds (8%) to close. That's not a footnote. That's a structural shift in how a generation is financing homeownership.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Gen Z hit a record 20% share of all purchase rate locks in Q2 2026, per ICE Mortgage Monitor.</li><li style="margin:5px 0">The median monthly mortgage payment reached $2,198 in May 2026, per the MBA.</li><li style="margin:5px 0">29% of 2026 purchase down payments came from gifts, loans, or retirement withdrawals, a 7-year high.</li><li style="margin:5px 0">Gen Z represents 27% of FHA purchase lending and nearly one-third of all first-time homebuyer loans.</li><li style="margin:5px 0">Gen Z and Millennials together now control nearly two-thirds of the 2026 purchase mortgage market.</li></ul></div>
-
 
 ## FHA Is Doing a Lot of the Heavy Lifting
 
@@ -35,8 +33,6 @@ That said, for a buyer with limited savings and a credit score in the mid-600s, 
 ## The Down Payment Problem Is Getting Solved in Uncomfortable Ways
 
 > **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The 29% figure for alternative down payment sources deserves more attention than it's getting. A 7-year high means this isn't a blip. It reflects a housing market where prices have outrun savings rates for years, and buyers are improvising.
 
@@ -56,9 +52,7 @@ Family gifts are cleaner, but they're not universal. Not everyone has parents wh
 
 Gen Z and Millennials together account for nearly two-thirds of 2026's purchase lending market, per ICE's Mortgage Monitor. That's a massive concentration of buying power in two generations who came of age during financial crises, pandemic disruptions, and student loan mountains.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">2026 Purchase Lending Market Share by Generation</div><div class="sc-row"><span class="sc-label">Gen Z</span><span class="sc-track"><span class="sc-bar" style="width:45%"></span></span><span class="sc-val">20%</span></div><div class="sc-row"><span class="sc-label">Millennials</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">44%</span></div><div class="sc-row"><span class="sc-label">Gen X</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">22%</span></div><div class="sc-row"><span class="sc-label">Baby Boomers</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">11%</span></div><div class="sc-src">Source: ICE Mortgage Monitor, July 2026</div></div>
-
 
 What this means for buyers is that lenders are paying attention. Products targeting first-time buyers, down payment assistance programs, and lower credit score thresholds are increasingly competitive because lenders want this business. That's actually good news for buyers who know how to shop. Don't take the first offer. Rate shopping on a $350,000 loan, even finding 0.25% better, saves you roughly $18,000 over 30 years.
 
