@@ -39,10 +39,6 @@ One thing that got quietly dropped during the reconciliation process also matter
 
 ## What This Means for Home Prices (Be Honest With Yourself Here)
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The median U.S. home price currently sits around $403,000. That's up 77% from roughly $227,000 in 2011. Redfin estimates that buyers need a household income of about $116,780 to afford the average home today. Those numbers aren't moving dramatically because of who's buying at the margins. They're moving because there aren't enough homes.
 
 CBS News asked the right question this week: could this law actually lower home prices? The cautious answer is: not directly, and not soon. The institutional investor ban removes a category of competition at the purchase level, but it doesn't build a single new home. Supply is the core problem, and a ban on a fraction of buyers doesn't solve a structural undersupply problem that's been building for over a decade.

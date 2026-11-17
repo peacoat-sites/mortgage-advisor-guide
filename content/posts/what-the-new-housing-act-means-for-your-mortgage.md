@@ -27,10 +27,6 @@ This matters more than people give it credit for. There are entire markets, most
 
 ## What the Investor Restriction Means for Inventory (and for You)
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 You might be wondering whether a bill this ambitious can actually move the needle on inventory. The short answer: maybe, but not overnight.
 
 One of the more aggressive provisions restricts large institutional investors, defined as entities controlling at least 350 single-family homes, from purchasing new single-family homes. The intent is straightforward: get those properties in front of individual buyers instead. The Urban Institute noted in its June 30 analysis that the real work of implementation starts now, and that's exactly right. A statutory restriction is one thing. The regulatory guidance, enforcement mechanisms, and legal challenges that follow are another story entirely.
@@ -62,7 +58,7 @@ The ROAD Act, if it becomes law, represents a genuine attempt to address problem
 ## Sources
 
 - [Inside the Deal: What's in the Final 21st Century ROAD to Housing Act](https://bipartisanpolicy.org/issue-brief/inside-the-deal-whats-in-the-final-21st-century-road-to-housing-act/) (June 23, 2026)
-- [Congress passes the largest housing affordability bill in decades ,  and Trump cancels the signing](https://www.npr.org/2026/06/23/nx-s1-5867575/congress-passes-housing-affordability-bill) (June 24, 2026)
+- [Congress passes the largest housing affordability bill in decades, and Trump cancels the signing](https://www.npr.org/2026/06/23/nx-s1-5867575/congress-passes-housing-affordability-bill) (June 24, 2026)
 - [What to Know About the Landmark Housing Bill Congress Just Passed](https://time.com/article/2026/06/23/housing-bill-congress-affordability-supply/) (June 23, 2026)
 - [The 21st Century ROAD to Housing Act: Congress Passes Final Bill](https://www.bakerbotts.com/thought-leadership/publications/2026/june/the-21st-century-road-to-housing-act-congress-passes-final-bill) (Late June 2026)
 - [Congress Has Finally Passed Major Housing Reform. The Real Work Starts Now.](https://www.urban.org/urban-wire/congress-has-finally-passed-major-housing-reform-real-work-starts-now) (June 30, 2026)

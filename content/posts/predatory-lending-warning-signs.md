@@ -44,8 +44,6 @@ If anyone makes you feel that you don't have time to think, you have all the tim
 
 ## The Loan That Keeps Changing
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You get a quote for 6.5%. You come to closing and the paperwork says 7.1%. The loan officer shrugs and says something shifted, or your credit tier came back slightly different, or the lock period expired. Maybe one of those things is even true.
 
 But watch for a pattern of small changes that each seem explainable individually. This is called "bait and switch," and it's one of the most common predatory tactics I saw during my time working near the subprime corridor. Each change is small enough that walking away feels irrational. Together, they add up to a meaningfully worse loan.

@@ -34,17 +34,13 @@ In late February, when the conflict erupted, rates surged as high as 6.94% in th
 
 ## What the Forecasts Actually Say (And What They're Not Saying)
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's what I tell people when they ask whether to wait for rates to drop: the honest forecasts are modest. The Mortgage Bankers Association projects the 30-year rate will average around 6.5% for the rest of 2026. Fannie Mae is slightly more optimistic, forecasting a dip to 6.4%. Neither organization expects a return to sub-6% territory anytime soon.
 
 | Forecaster | 30-Year Rate Forecast (Rest of 2026) | Sub-6% Expected? |
 | --- | --- | --- |
 | Mortgage Bankers Association | ~6.5% average | No |
 | Fannie Mae | ~6.4% | No |
-| Current rate (Aug. 6, 2026) | 6.69% | ,  |
+| Current rate (Aug. 6, 2026) | 6.69% |, |
 
 That's not a crash. It's a slow drift downward, if conditions cooperate. And conditions right now aren't cooperating. The Iran conflict has added a layer of inflation pressure that the Fed wasn't counting on, and until that resolves, don't expect dramatic rate relief.
 

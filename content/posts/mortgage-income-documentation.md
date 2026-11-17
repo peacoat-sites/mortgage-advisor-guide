@@ -37,8 +37,6 @@ The documentation isn't about distrust. It's about building a paper trail that t
 
 ## W-2 Employees: Simpler, But Not Simple
 
-> **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you have a traditional job where your employer withholds taxes and you receive a W-2 at year-end, you're starting from the most straightforward position. But "straightforward" doesn't mean "hands off."
 
 Here's the standard package a lender will typically want from W-2 employees:

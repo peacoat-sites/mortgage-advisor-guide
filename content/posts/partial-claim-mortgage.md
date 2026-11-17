@@ -46,8 +46,6 @@ As of July 2026, partial claims remain a core tool in HUD's loss mitigation wate
 
 ## How the Process Actually Works
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where a lot of borrowers get tripped up: you don't apply for a partial claim directly with HUD. You go through your mortgage servicer. HUD authorizes the servicer to offer it, and the servicer evaluates your eligibility.
 
 The general sequence looks like this:

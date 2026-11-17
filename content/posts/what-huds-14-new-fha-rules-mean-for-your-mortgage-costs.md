@@ -28,10 +28,6 @@ The other 13 changes are mostly procedural: streamlined documentation requiremen
 
 ## The 203(k) Rehab Loan Just Got a Real Upgrade
 
-> **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This one deserves attention, especially if you're eyeing a fixer-upper. The Limited 203(k) Rehabilitation Loan lets you borrow the purchase price plus renovation costs in a single FHA loan. Before June 23, the cap on total rehab costs was $35,000, you could only make two draw requests during construction, and you had six months to finish.
 
 Those numbers made the program genuinely frustrating. Contractors complained about cash flow because they could only pull funds twice. Six months isn't realistic for anything beyond cosmetic work. And $35,000 doesn't cover a kitchen gut-renovation in most U.S. markets in 2026.

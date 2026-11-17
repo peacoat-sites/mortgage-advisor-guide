@@ -51,8 +51,6 @@ Not every mortgage is assumable. Conventional loans backed by Fannie Mae and Fre
 
 ## Why This Matters So Much Right Now
 
-> **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I've seen assumption interest come and go depending on rate cycles. For about a decade, when rates were low across the board, nobody cared. Why assume a 3.5% loan when you could originate a new one at 3.25%? There was no premium to capture.
 
 That math has flipped completely.

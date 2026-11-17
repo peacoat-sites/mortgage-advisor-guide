@@ -37,8 +37,6 @@ Here's what matters more than the exact score drop: how quickly you rebuild. Som
 | VA | 2 years | 0% (with entitlement) | N/A | Most borrower-friendly timeline |
 | USDA | 3 years | 0% | N/A | Limited to eligible rural areas |
 
-> **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where precision matters, because the rules are different for every loan type and loan officers don't always volunteer the full picture.
 
 **Conventional loans (Fannie Mae / Freddie Mac):** Four years from the short sale completion date, with standard underwriting. That drops to two years if you can document extenuating circumstances, which Fannie defines as nonrecurring events beyond your control, things like job loss from a company closure or a major medical event, not just "the market crashed and I was underwater." Two years with extenuating circumstances requires a maximum 90% loan-to-value ratio, meaning at least 10% down. The Federal Housing Finance Agency (FHFA), which oversees Fannie and Freddie, publishes updates to these guidelines, and it's worth checking their site directly rather than relying on secondhand summaries.

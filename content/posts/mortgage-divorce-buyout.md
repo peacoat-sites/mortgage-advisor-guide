@@ -41,8 +41,6 @@ So a proper buyout means two things happen: you refinance into a new loan in jus
 
 ## How the numbers actually work
 
-> **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Before you do anything, you need to know the home's current market value and how much equity you're splitting. Equity is simple: home value minus what you still owe on the mortgage.
 
 Let's say your home is worth $420,000 and you have $180,000 left on the mortgage. That's $240,000 in equity. If you're splitting it 50/50, your ex is owed $120,000. To buy them out, you'd refinance the home into a new loan of about $300,000 ($180,000 to pay off the old mortgage plus $120,000 that goes to your ex).

@@ -41,8 +41,6 @@ In a competitive market, showing up with just a pre-qualification is like showin
 
 ## The Documents You'll Need Before You Apply
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where most buyers underestimate the process. Lenders want a lot of paper, and scrambling to find it after you're under a deadline is miserable. Get organized before you fill out a 1003 (that's the Uniform Residential Loan Application every lender uses).
 
 Here's what you'll typically need:

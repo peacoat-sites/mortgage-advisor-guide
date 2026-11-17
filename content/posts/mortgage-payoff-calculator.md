@@ -40,10 +40,6 @@ The calculator works by simulating your amortization schedule. Each month, your 
 
 ## The Inputs That Actually Matter (and the One People Get Wrong)
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Every payoff calculator asks for the same basic things: current loan balance, interest rate, remaining term, and your current monthly payment. Most people enter these correctly. The one they get wrong is the current balance.
 
 Your loan balance is not the original loan amount. It's not what you see on Zillow as your equity estimate, either. It's the payoff amount on your most recent statement, or what your servicer calls the "principal balance." These numbers can differ slightly depending on where you are in your payment cycle, so grab an actual statement.

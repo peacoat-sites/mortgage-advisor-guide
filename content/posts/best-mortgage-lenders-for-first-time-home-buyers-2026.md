@@ -55,8 +55,6 @@ A few concrete things to look for:
 | Credit Unions | Members seeking competitive rates | Lower fees, more flexibility, portfolio holding | Limited to members, fewer locations |
 | Online/Direct Lenders | Tech-comfortable buyers | Faster process, transparent fees, easy comparison | Less in-person support, self-directed experience |
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The industry has four main lanes, and each has real trade-offs.
 
 **Big national banks** often have brand recognition and the ability to bundle your mortgage with existing accounts. Some offer loyalty discounts on rates if you've got a checking or investment account with them. The downside: they tend to have stricter underwriting overlays, meaning they sometimes add requirements on top of what Fannie, Freddie, or the FHA actually requires. First-time buyers with thin credit files or non-traditional income can find them inflexible.

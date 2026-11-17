@@ -43,8 +43,6 @@ The [rate you're quoted](/mortgage-rate-lock-explained/) is also not a universal
 
 ## The Real Forces Driving Rates Right Now
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Mortgage rates don't come out of thin air, and they're not set by the Federal Reserve, which is one of the most persistent misconceptions I hear. The Fed controls the federal funds rate, which is an overnight lending rate between banks. It influences mortgage rates indirectly, mostly through its effect on inflation expectations and bond markets, but the connection isn't direct.
 
 Mortgage rates, especially for 30-year fixed loans, track most closely with the **[10-year U.S. Treasury yield](/current-mortgage-rates/)**. When investors feel nervous about economic growth and pile into the safety of Treasury bonds, bond prices rise and yields fall. Mortgage rates tend to follow. When the economy looks strong and investors move money out of bonds into riskier assets like stocks, yields rise. So do mortgage rates. That's why you'll see rates spike after a strong jobs report or a higher-than-expected inflation print.

@@ -54,8 +54,6 @@ Borrowers with excellent credit and plenty of assets can lose weeks of time simp
 
 ## Identity and Personal Information Documents
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Start here. Before a lender can do anything, they need to verify who you are.
 
 You'll need a government-issued photo ID, typically a driver's license or passport. If you've recently changed your name, bring documentation like a marriage certificate to explain any discrepancies between your ID and other records.

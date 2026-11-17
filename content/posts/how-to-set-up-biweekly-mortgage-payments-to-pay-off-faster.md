@@ -58,8 +58,6 @@ The problem is obvious: the holding period. If they're collecting your money biw
 
 Some servicers have actually improved this and apply each half-payment as it comes in, which is the right way to do it. But you need to read the program agreement carefully, not just the marketing brochure. Ask specifically: "When is each half-payment applied to my loan balance?" If you can't get a clear answer, that's a red flag.
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## How to Do This Yourself, Without Paying Anyone
 
 Here's the part I wish every first-time buyer heard before signing up for a program.

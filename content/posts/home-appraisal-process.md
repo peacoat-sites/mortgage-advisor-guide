@@ -43,8 +43,6 @@ That's not a conspiracy. It's actually the system working as designed. Lenders l
 
 ## What Happens During the Visit
 
-> **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The physical inspection is usually 30 to 90 minutes, depending on the size of the house. The appraiser is measuring square footage, noting condition, counting bedrooms and bathrooms, looking at the roof, the HVAC, the foundation, the kitchen and bath finishes. They're flagging anything that affects safety or habitability, like peeling paint on a pre-1978 home (lead paint rules are strict on FHA loans), missing handrails, or a water heater that's clearly past its life.
 
 One thing nobody tells buyers: the appraiser isn't there to find every defect. That's the home inspector's job. The appraiser is looking for things that would affect market value or make the home ineligible for financing. A cracked tile in the bathroom won't kill your appraisal. A foundation that's visibly compromised might.

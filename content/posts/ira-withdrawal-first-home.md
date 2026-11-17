@@ -33,8 +33,6 @@ The Roth IRA is a different animal, and honestly a better one for this purpose. 
 
 ## The "First-Time Buyer" Definition Is Broader Than You Think
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The IRS definition of first-time homebuyer is more generous than the plain language suggests. You qualify if you (and your spouse, if applicable) haven't owned a principal residence in the past two years. That's it. You could have owned a home before, sold it, rented for 25 months, and qualify again.
 
 The home being purchased has to be a principal residence, not a vacation property or investment property. And the funds have to be used within 120 days of withdrawal. Miss that window and the exemption disappears. The 120-day rule trips people up more than almost anything else in this process, especially when deals fall through and they've already taken the distribution.

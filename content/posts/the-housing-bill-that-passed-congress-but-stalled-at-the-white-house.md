@@ -34,8 +34,6 @@ Neither of these changes happens overnight. Even if the bill becomes law tomorro
 
 ## The Constitutional Clock Is Ticking
 
-> **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You might be wondering: if Trump won't sign it, can Congress just move on without him?
 
 Technically, yes, but it's complicated. Under the Constitution, if the President neither signs nor vetoes a bill within 10 business days while Congress is in session, it automatically becomes law without his signature. That's the optimistic scenario for housing reform advocates right now. The clock started running on June 23 when the bill arrived at the White House.

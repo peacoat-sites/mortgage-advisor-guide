@@ -53,8 +53,6 @@ That's an important thing to flag before you talk to any lender. Ask specificall
 
 ## The Government-Backed Loan Picture
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 [FHA, VA, and USDA loans](/fha-loan-requirements-and-benefits/) can all be used on manufactured homes, but the eligibility requirements are tighter than most people expect.
 
 For an FHA Title II loan (the one that finances both the home and land together as real property), the home must have been built after June 15, 1976, when HUD's construction and safety standards went into effect. It has to be at least 400 square feet. It must be on a permanent foundation. And critically, it can't have ever been used as a rental property or moved from its original installation site. That last one disqualifies a lot of homes.

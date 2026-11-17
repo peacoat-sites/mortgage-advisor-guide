@@ -38,10 +38,6 @@ EO 14393 puts a number on the problem: banks under $30 billion in assets and und
 
 ## The Regulation X Overhaul Is the Part That Affects You Most Right Now
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Of everything on the CFPB's plate, the one that hits borrowers most directly is a planned final rule overhauling loss mitigation procedures under Regulation X. Loss mitigation is the process your loan servicer is supposed to follow if you fall behind on payments, things like loan modifications, repayment plans, and forbearance. Right now those procedures are complicated, inconsistent, and, depending on who services your loan, can feel like trying to get help from a wall.
 
 According to the National Law Review's analysis of the CFPB's 2026 regulatory agenda, mortgage-related rulemakings are the bureau's dominant priority for the rest of this year. The Regulation X changes are specifically aimed at servicers, the companies that collect your payments every month (which is often not the company that gave you the loan in the first place). If you've ever been through a financial hardship and tried to work with your servicer, you know how badly this process can go. A cleaner, more standardized loss mitigation rule could genuinely matter, especially if rates stay elevated and more borrowers hit rough patches.

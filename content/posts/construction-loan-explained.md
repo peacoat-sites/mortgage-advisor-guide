@@ -41,8 +41,6 @@ During the construction phase, you typically pay interest only on the money that
 
 ## The Two Main Types
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There are really two flavors of construction loans, and picking the wrong one can cost you thousands in closing costs.
 
 **Construction-to-permanent loans** (sometimes called "single-close" or "one-time-close") convert automatically into a regular mortgage when construction wraps up. You close once, pay closing costs once, and your rate locks in at the start (though rate lock specifics vary a lot by lender and loan program).

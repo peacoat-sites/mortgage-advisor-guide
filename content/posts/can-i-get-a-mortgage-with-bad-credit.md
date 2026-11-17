@@ -43,8 +43,6 @@ Also: lenders don't just look at the number. A 580 with one old collection that'
 
 ## The Loan Types That Actually Help Bad-Credit Borrowers
 
-> **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I'd spend the most time if I were sitting across the table from you.
 
 **FHA loans** are the most common path for people with credit challenges, and for good reason. The Federal Housing Administration guarantees these loans, which means the lender takes on less risk, so they're willing to lend to borrowers with lower scores. As of July 2026, FHA guidelines technically allow scores as low as 500, though you'll need a 10% down payment at that level. If you're at 580 or above, you can qualify with 3.5% down. That's a meaningful difference if you're working with limited savings.

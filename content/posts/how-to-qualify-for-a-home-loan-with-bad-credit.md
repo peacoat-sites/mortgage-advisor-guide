@@ -48,8 +48,6 @@ Still, scores below 580 do shut off most conventional lending options. Here's wh
 | USDA Loans | Typically 640 (manual underwriting possible below) | 0% | Geographic and income-restricted; 100% financing |
 | Non-QM Loans | As low as 500 | Varies | Outside QM guidelines; significantly higher rates/fees |
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most borrowers don't dig deep here because most loan officers only mention one or two options. There are actually several distinct paths.
 
 **FHA Loans** are the best-known route for borrowers with credit issues, and there's a good reason. The Federal Housing Administration backs these loans, letting lenders take on more risk than they'd accept with a conventional product. The minimum credit score for FHA is technically 500, but here's the catch nobody mentions: borrowers with scores between 500 and 579 must put down at least 10%. Hit 580 and that minimum drops to 3.5%. Most lenders also impose their own "lender overlays," meaning their internal minimum might be 580 or 620 even though FHA technically allows 500. You have to shop around.

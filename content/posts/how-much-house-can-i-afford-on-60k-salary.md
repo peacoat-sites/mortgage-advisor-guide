@@ -54,8 +54,6 @@ PMI typically runs 0.5% to 1.5% of the loan amount annually. On a $220,000 loan,
 
 ## The Down Payment Problem Most Calculators Ignore
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where a lot of first-time buyers get tripped up. They find an online calculator, plug in their income, and get a purchase price. What they don't realize is that the calculator assumed a 20% down payment they don't have.
 
 Put 3.5% down on a $220,000 home (FHA minimum) and your loan is $212,300. Put 20% down and it's $176,000. That's a meaningfully different monthly payment, and the smaller down payment version also carries PMI for years.

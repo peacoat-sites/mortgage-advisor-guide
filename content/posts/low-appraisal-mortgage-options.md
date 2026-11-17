@@ -41,8 +41,6 @@ A low appraisal isn't a verdict. It's an opening move.
 
 ## Your Four Actual Options
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 **Renegotiate the purchase price.** This is the most straightforward path and works more often than buyers expect, especially in markets where homes have been sitting longer or rates have risen since the original listing. You show the seller the appraisal, explain the lender won't fund the gap, and ask them to meet you at $395,000. They might say no. They might counter. In a softer market, they often come down. Your buyer's agent matters here. This is a negotiation, not a form letter.
 
 **Cover the gap yourself.** If you have the cash and you genuinely believe the house is worth the contract price (maybe the appraiser missed a key comparable), you can pay the difference out of pocket. Some buyers do this in competitive markets where they've already lost three other offers. I'd only recommend it if your agent has independently confirmed the value is supportable, because throwing cash at an inflated price is exactly how people end up underwater on day one.

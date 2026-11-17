@@ -56,8 +56,6 @@ If your Chapter 7 was caused by circumstances beyond your control (medical bills
 
 ## What "Rebuilding Credit" Actually Means Here
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A common misconception is that rebuilding credit just means getting a credit card and paying it off. Technically true, but incomplete in ways that cost people real money.
 
 Lenders looking at a post-bankruptcy application are reading your credit history like a timeline. They want to see that after the bankruptcy, you started fresh and showed a pattern, not a moment. One secured card opened at month 3, used lightly, paid in full every month, maybe a credit-builder loan from a local credit union around month 6, and then consistent on-time payments across both for two-plus years. That pattern tells a story. A single card opened right before you apply, with a spotty payment history, tells a very different one.

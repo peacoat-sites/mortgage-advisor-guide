@@ -39,8 +39,6 @@ One more thing on collateral: because your home is on the line with both product
 
 ## HELOC: The Flexible Option With a Catch
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A HELOC, or home equity line of credit, works more like a credit card than a loan. You're approved for a maximum credit limit, and you draw from it as needed during what's called the draw period, typically 10 years. You only pay interest on what you actually use. Then the repayment period kicks in, usually another 10 to 20 years, and you pay down principal plus interest.
 
 The flexibility is genuinely appealing. If you're remodeling a bathroom and you're not sure whether the contractor's bid will come in at $18,000 or $30,000, a HELOC lets you draw what you need when you need it. You're not sitting on a lump sum of borrowed money accumulating interest while you wait for the tile to be delivered.

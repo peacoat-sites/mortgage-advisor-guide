@@ -48,8 +48,6 @@ What they share is a real ability to repay that doesn't show up neatly in a pay 
 | Asset-Depletion | Total liquid assets divided by 60-120 months | High-net-worth retirees, minimal reportable income | 20-30% | Requires substantial asset reserves |
 | Recent Credit Event | Traditional income + time-since-event requirement | Post-bankruptcy, foreclosure, short sale borrowers | Variable | Rates 1-3% higher than conventional |
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Bank statement loans are the most common. Instead of tax returns, the lender pulls 12 or 24 months of personal or business bank statements and calculates a deposit average as your qualifying income. Here's the thing: most lenders apply an expense factor, somewhere between 30% and 50%, to business deposits before counting them as income. You deposit $20,000 a month? They might count only $12,000 to $14,000. Borrowers are regularly shocked when their qualifying income comes back lower than expected.
 
 DSCR loans work differently. The lender looks at whether the property's projected monthly rent (or actual rent on an existing lease) covers the mortgage payment, aiming for a 1.0 ratio or higher. Some lenders will go to 0.75, but you'll pay for that flexibility in rate. Your personal income is basically irrelevant. I've seen [real estate investors](/investment-property-mortgage/) close DSCR loans with nothing but a lease and an appraisal.

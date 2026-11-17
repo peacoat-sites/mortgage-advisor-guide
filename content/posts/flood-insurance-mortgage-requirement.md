@@ -43,8 +43,6 @@ One thing I didn't fully understand until I started reading loan files closely: 
 
 ## What Flood Insurance Actually Costs
 
-> **Helpful resource:** [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I want to be honest with you, because the range is genuinely wide.
 
 FEMA's National Flood Insurance Program (NFIP), which has historically been the main source of flood coverage, rolled out a new pricing model called Risk Rating 2.0 back in late 2021. As of 2026, all existing and new policies are priced under this system. The idea was to make premiums reflect actual risk more accurately rather than just your flood zone designation. In practice, that meant some homeowners saw their premiums drop, and a lot of coastal homeowners saw significant increases.

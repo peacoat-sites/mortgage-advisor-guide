@@ -32,8 +32,6 @@ That said, for a buyer with limited savings and a credit score in the mid-600s, 
 
 ## The Down Payment Problem Is Getting Solved in Uncomfortable Ways
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The 29% figure for alternative down payment sources deserves more attention than it's getting. A 7-year high means this isn't a blip. It reflects a housing market where prices have outrun savings rates for years, and buyers are improvising.
 
 Here's a quick breakdown of the three main approaches and what they actually cost you:
@@ -69,10 +67,10 @@ The record-breaking Gen Z numbers in ICE's July 2026 data are worth celebrating 
 ## Sources
 
 - [ICE Mortgage Monitor: Gen Z Accounts for Record 1 in 5 Purchase Mortgage Locks](https://mortgagetech.ice.com/resources/data-reports/july-2026-mortgage-monitor) (July 6, 2026)
-- [Gen Z Posts Record Share of Mortgage Rate Locks in Q2 2026 ,  HousingWire](https://www.housingwire.com/articles/gen-z-hits-record-share-mortgage-rate-locks-q2-2026/) (July 2026)
-- [Gen Z Claims a Record Share of US Purchase Mortgage Market ,  Mortgage Professional America](https://www.mpamag.com/us/mortgage-industry/industry-trends/gen-z-claims-a-record-share-of-us-purchase-mortgage-market/581393) (July 2026)
-- [Move Over Millennials: Gen Z Now Accounts for One in Five Home Purchases ,  New American Funding](https://www.newamericanfunding.com/learning-center/housing-news/move-over-millennials-gen-z-now-accounts-for-one-in-five-home-purchases/) (July 2026)
-- [Gen Z Just Hit A Record Share Of The Mortgage Market ,  Inman](https://www.inman.com/2026/07/06/gen-z-mortgage-market/) (July 6, 2026)
+- [Gen Z Posts Record Share of Mortgage Rate Locks in Q2 2026, HousingWire](https://www.housingwire.com/articles/gen-z-hits-record-share-mortgage-rate-locks-q2-2026/) (July 2026)
+- [Gen Z Claims a Record Share of US Purchase Mortgage Market, Mortgage Professional America](https://www.mpamag.com/us/mortgage-industry/industry-trends/gen-z-claims-a-record-share-of-us-purchase-mortgage-market/581393) (July 2026)
+- [Move Over Millennials: Gen Z Now Accounts for One in Five Home Purchases, New American Funding](https://www.newamericanfunding.com/learning-center/housing-news/move-over-millennials-gen-z-now-accounts-for-one-in-five-home-purchases/) (July 2026)
+- [Gen Z Just Hit A Record Share Of The Mortgage Market, Inman](https://www.inman.com/2026/07/06/gen-z-mortgage-market/) (July 6, 2026)
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

@@ -34,10 +34,6 @@ That $67-per-month difference between July 2 and July 10 doesn't sound catastrop
 
 ## Why Inventory Isn't Going to Save You (Yet)
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 You might be wondering if more homes hitting the market could offset the price pressure. The short answer is: not at current levels.
 
 Housing inventory stood at just 1.56 million units at the end of June, only 1.3% above last year. NAR Chief Economist Lawrence Yun has been explicit about what's needed: a 30 to 40% increase in inventory to bring the market into balance. We're nowhere near that. What we have now is a market where sellers hold nearly all the cards, prices keep climbing because there's simply not enough supply, and buyers are squeezed from both ends.

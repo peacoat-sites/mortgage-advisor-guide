@@ -52,8 +52,6 @@ One detail that tripped up a client of mine a few years back: she found a beauti
 
 ## Down Payment and Credit: The Numbers You Actually Need
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where people often get surprised in a different direction. Condo mortgage requirements for your personal finances aren't wildly different from a single-family home, but there are a few wrinkles.
 
 For a conventional loan on a warrantable condo, you'll typically need a minimum of 10% down, not the 3% that some conventional programs allow for houses. A few lenders will go to 5% down, but they'll price that risk into your rate. With 20% down or more, you avoid [private mortgage insurance](/average-cost-of-private-mortgage-insurance-per-month/) (PMI) and generally get the cleanest approval path. Credit score minimums usually sit around 620 for conventional, though the best rates kick in around 740 and above.

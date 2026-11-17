@@ -50,10 +50,6 @@ Here's my honest ranking.
 
 ## The Fine Print on HELOCs That Loan Officers Rush Past
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Variable rates are obvious. Here's what isn't.
 
 [Draw periods and repayment periods](/heloc-draw-period-explained/) are two completely different things, and the payment shock at the transition catches borrowers off guard more than almost anything else I saw in underwriting. A typical HELOC has a 10-year draw period where you pay interest only. Then the repayment period kicks in, usually 10 to 20 years, and suddenly you're paying principal plus interest on the full outstanding balance. I reviewed a file once where a borrower's monthly payment jumped from $380 to $1,140 on the same balance, purely from the draw-to-repayment transition. She didn't see it coming. Her loan officer had focused the entire closing conversation on the low initial rate.

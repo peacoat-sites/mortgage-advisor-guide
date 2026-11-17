@@ -41,8 +41,6 @@ One more thing: don't lead with panic. Lead with a request for a "complete loss 
 
 ## Forbearance: What It Is and What It Isn't
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Forbearance is a temporary pause or reduction in payments. It does not erase what you owe.
 
 This seems obvious when stated plainly, but during the COVID-19 forbearance programs, thousands of borrowers genuinely believed their missed payments were forgiven. They weren't. When the forbearance period ended, servicers had to offer options for repaying those months, but the debt was always there. Some servicers initially tried to demand lump-sum repayment of all missed payments immediately, which caused a separate wave of panic. The CFPB stepped in with guidance to prevent that from happening automatically, but the point stands: always ask exactly how the deferred amounts will be collected before you agree to anything.

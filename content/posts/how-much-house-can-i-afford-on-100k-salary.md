@@ -47,8 +47,6 @@ Many borrowers get pre-approved for more than they should borrow because they're
 
 ## What $100K Actually Gets You (By the Numbers, as of July 2026)
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let's run three real scenarios. These use current rates (as of July 2026, 30-year fixed conventional rates are generally hovering in the mid-to-upper 6% range, though they shift daily, and I'm not going to quote you a specific rate as if it's guaranteed). I'm using 6.75% as a working assumption, but use a mortgage calculator to plug in whatever rate you're quoted. The [Consumer Financial Protection Bureau's loan estimate explainer](https://www.consumerfinance.gov/owning-a-home/) is a great place to understand what's in that payment.
 
 | Scenario | Home Price | Down Payment | Loan Amount | Est. Monthly P&I | Est. Taxes + Insurance | Total Est. Payment | DTI (front-end) |

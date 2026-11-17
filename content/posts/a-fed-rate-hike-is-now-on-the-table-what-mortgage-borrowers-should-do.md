@@ -30,10 +30,6 @@ Fannie Mae and the Mortgage Bankers Association have both revised their forecast
 
 ## The Lock Decision Is a Risk Management Call, Not a Rate Prediction
 
-> **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Borrowers ask me constantly whether they should lock or float. Wrong framing. The real question is: what does the downside cost you?
 
 If you're under contract with a closing in the next 30-45 days, floating past July 28 is speculative. You're gambling that a 73% probability of no hike translates into a rate improvement, against a 27% probability that costs you another quarter-point or more. The median monthly mortgage payment already sits at $2,198 as of May 2026, per the Mortgage Bankers Association's purchase applications payment index. On a $400,000 loan, a 25 basis point move adds roughly $65-70 per month. Over 30 years, that's real money for a bet most people don't consciously choose to make.

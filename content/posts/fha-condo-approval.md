@@ -45,8 +45,6 @@ The approved project list lives on HUD's Condo Project Search tool, which you ca
 | Full Project Approval | No minimum | No requirement | No limit | No requirement | Every 3 years |
 | Single Unit Approval (SUA) | At least 5 units | At least 50% | Maximum 35% | Maximum 15% (60+ days) | N/A |
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 **Full project approval** is exactly what it sounds like. The entire development goes through HUD review. Lenders or HOAs submit financials, insurance documents, occupancy data, and more. If approved, any unit in the project is eligible for [FHA financing](/fha-vs-conventional-loan-which-is-better-for-first-time-buyers/) (assuming the borrower qualifies). Approvals expire every three years, which is where a lot of projects quietly fall off the list without anyone noticing until a buyer shows up with an FHA loan.
 
 **Single Unit Approval** is the more practical tool today, and what surprised me when I dug into how lenders were actually using it is that many borrowers have never heard of it. Under SUA, a buyer can get FHA financing on an individual condo unit even when the project itself doesn't have full approval, provided the project meets certain baseline requirements. The main ones, as of July 2026:

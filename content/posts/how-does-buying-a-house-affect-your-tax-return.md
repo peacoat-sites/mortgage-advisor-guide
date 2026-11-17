@@ -43,8 +43,6 @@ Your lender will send you a Form 1098 each January showing exactly how much mort
 
 ## Property Taxes: Yes, But There's a Ceiling
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You can deduct state and local taxes (called SALT), which includes property taxes, but the TCJA capped that deduction at $10,000 per year ($5,000 if married filing separately). If you own in New Jersey, Connecticut, New York, California, or Illinois, where property tax bills can easily run $12,000 to $25,000 a year, you're leaving real money on the table above that cap. The [CFPB's homeownership resources](https://www.consumerfinance.gov/owning-a-home/) lay this out clearly if you want more background.
 
 The scenario where itemizing makes the most sense usually looks like this: you have a large mortgage (high interest payments in the early years), high property taxes, and possibly significant charitable contributions or unreimbursed medical expenses that stack up enough to beat the standard deduction. Otherwise? You take the standard deduction, and the house made no difference to your federal return that year.

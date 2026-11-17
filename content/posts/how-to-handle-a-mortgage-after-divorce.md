@@ -45,8 +45,6 @@ The lender's position is simple and cold: if your name is on the loan, you owe t
 
 ## Your Real Options (and What Each One Actually Costs)
 
-> **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There are four paths divorcing homeowners actually have. Each one has real tradeoffs, and the right one depends almost entirely on your specific financial situation, not on what feels fair emotionally.
 
 | Option | How It Works | Timeline | Main Requirement | Biggest Risk |

@@ -39,8 +39,6 @@ The Consumer Financial Protection Bureau's refinancing guidance is worth saving.
 
 ## The Six Numbers You Need Before You Touch a Calculator
 
-> **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most people open a calculator before they have real inputs, then make decisions on a fantasy scenario. Grab these six numbers first.
 
 **1. Your current remaining loan balance.** Not what you originally borrowed. What you still owe today. Pull your most recent mortgage statement.

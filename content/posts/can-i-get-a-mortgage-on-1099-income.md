@@ -41,8 +41,6 @@ Lenders will typically take a two-year average of your net self-employment incom
 
 ## The Two Main Routes: Conventional vs. Bank Statement Loans
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not all mortgage products treat 1099 income the same way, and choosing the right one matters more than most people realize.
 
 **Conventional loans** (backed by Fannie Mae or Freddie Mac) are available to 1099 borrowers but rely on your tax returns. Specifically, lenders will pull your 1040, your Schedule C or S-corp K-1, and two years of business returns if applicable. The Federal Housing Finance Agency (FHFA) publishes the underwriting guidelines that govern these loans, and self-employment documentation requirements are spelled out clearly there. This is worth reading if you want to understand exactly what box your lender is trying to check.

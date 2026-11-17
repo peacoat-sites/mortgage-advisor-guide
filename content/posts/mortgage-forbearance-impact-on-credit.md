@@ -49,8 +49,6 @@ The score itself may survive forbearance intact. The file tells a different stor
 | Loan modification | Signals debt restructuring under stress | Loan terms restructured; new notation possible | Borrowers needing permanent relief; conventional loans more forgiving than jumbo |
 | Repayment plan | Highest delinquency risk | Normal payment + portion of missed payments monthly | Budget-conscious borrowers only if numbers genuinely work |
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Getting into forbearance is the easy part. Your servicer has a script for that call. Getting out cleanly is where borrowers make costly mistakes that echo for years.
 
 There are four typical exit options: a lump-sum repayment of all missed payments, a repayment plan spread over several months, a [loan modification that restructures](/mortgage-loan-modification-options/) the terms, or a deferral that moves the missed payments to the end of the loan. Each one hits your credit report differently.

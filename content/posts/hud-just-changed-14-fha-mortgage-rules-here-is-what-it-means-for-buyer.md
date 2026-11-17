@@ -38,8 +38,6 @@ Whether lenders actually pass those savings along is a different question. Ask y
 
 ## The 203(k) Change Is Bigger Than It Looks for Rehab Buyers
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you've ever tried to use a Limited 203(k) loan, you know the experience can feel like the federal government designed it to discourage you. The program exists specifically to help buyers finance both a home purchase and the repairs it needs in a single loan, which sounds perfect for today's inventory of aging housing stock. In practice, the draw process for paying contractors has been one of the bigger headaches.
 
 HUD's June 23 changes allow for more contractor draw requests under the Limited 203(k) Rehabilitation Mortgage Insurance Program. That's a quiet but genuinely useful update.
@@ -75,10 +73,10 @@ These 14 updates are real improvements, and 150-plus streamlining actions do add
 ## Sources
 
 - [HUD Slashes More Red Tape to Lower Costs, Improve Affordability](https://www.hud.gov/news/hud-no-26-051) (June 23, 2026)
-- [HUD rolls out 14 FHA single-family mortgage changes , HousingWire](https://www.housingwire.com/articles/hud-fha-14-changes/) (June 23, 2026)
-- [HUD trims FHA red tape; groups want MIP cut next , National Mortgage News](https://www.nationalmortgagenews.com/news/hud-trims-fha-red-tape-groups-want-mip-cut-next) (June 24, 2026)
-- [HUD continues FHA single-family streamlining with 14 new policy changes , Scotsman Guide](https://www.scotsmanguide.com/news/hud-continues-fha-single-family-streamlining-with-14-new-policy-changes/) (June 2026)
-- [FHA INFO Messages: Single Family Housing Industry News , HUD.gov](https://www.hud.gov/hud-partners/single-family-fha-info) (June 23, 2026)
+- [HUD rolls out 14 FHA single-family mortgage changes, HousingWire](https://www.housingwire.com/articles/hud-fha-14-changes/) (June 23, 2026)
+- [HUD trims FHA red tape; groups want MIP cut next, National Mortgage News](https://www.nationalmortgagenews.com/news/hud-trims-fha-red-tape-groups-want-mip-cut-next) (June 24, 2026)
+- [HUD continues FHA single-family streamlining with 14 new policy changes, Scotsman Guide](https://www.scotsmanguide.com/news/hud-continues-fha-single-family-streamlining-with-14-new-policy-changes/) (June 2026)
+- [FHA INFO Messages: Single Family Housing Industry News, HUD.gov](https://www.hud.gov/hud-partners/single-family-fha-info) (June 23, 2026)
 
 ---
 

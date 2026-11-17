@@ -56,8 +56,6 @@ The other thing a deed in lieu does NOT automatically eliminate: junior liens. S
 | Junior Lien Exposure | Risk if not cleared | Risk if not cleared | Risk if not cleared |
 | Relocation Assistance | Possible (negotiate) | None typically | None typically |
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not always. Let me be direct about that. A deed in lieu is the right move in a fairly specific set of circumstances.
 
 You're underwater on the home. You've exhausted forbearance. A [loan modification isn't viable](/mortgage-loan-modification-options/) because the payment is unworkable even at a reduced rate. You don't have a buyer lined up for a short sale, or you simply don't have the emotional bandwidth for a multi-month short sale process with strangers walking through your house. You want this chapter to be over.

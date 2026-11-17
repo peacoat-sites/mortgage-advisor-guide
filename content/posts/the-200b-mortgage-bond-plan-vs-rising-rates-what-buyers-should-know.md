@@ -32,10 +32,6 @@ The $200 billion plan didn't fail exactly. It just ran into a wall of larger eco
 
 ## What the Forecasts Actually Say
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Both Fannie Mae and the Mortgage Bankers Association have weighed in for the rest of 2026, and neither is predicting the kind of drop that would fundamentally change affordability. Here's how those projections stack up against where we are today.
 
 | Source | Projection | Timeframe |
@@ -71,11 +67,11 @@ The $200 billion plan was real, the intention was real, and the one-day rate dro
 
 ## Sources
 - [Freddie Mac Primary Mortgage Market Survey](https://www.freddiemac.com/pmms) (July 16, 2026)
-- [How Trump's Latest Bond-Buying Plan Could Influence Mortgage Rates ,  Yahoo Finance](https://finance.yahoo.com/news/how-trumps-latest-bond-buying-plan-could-influence-mortgage-rates-and-affordability-165946400.html) (January 9, 2026)
-- [Mortgage Rates Forecast: July to September 2026 ,  Norada Real Estate](https://www.noradarealestate.com/blog/mortgage-rates-forecast-next-90-days-july-to-sept-2026/) (July 17, 2026)
-- [Pending Home Sales Decline ,  Mortgage News Daily](https://www.mortgagenewsdaily.com/newsletter/n/20260717) (July 17, 2026)
-- [Today's Mortgage Rates Rise to Seasonal Highs: July 17, 2026 ,  U.S. News](https://money.usnews.com/loans/mortgages/articles/mortgage-rates-today-july-17-2026) (July 17, 2026)
-- [Trump Wants the Government to Buy Mortgages. Will That Lower Rates? ,  Money](https://money.com/trump-mortgage-rates-plan/) (January 15, 2026)
+- [How Trump's Latest Bond-Buying Plan Could Influence Mortgage Rates, Yahoo Finance](https://finance.yahoo.com/news/how-trumps-latest-bond-buying-plan-could-influence-mortgage-rates-and-affordability-165946400.html) (January 9, 2026)
+- [Mortgage Rates Forecast: July to September 2026, Norada Real Estate](https://www.noradarealestate.com/blog/mortgage-rates-forecast-next-90-days-july-to-sept-2026/) (July 17, 2026)
+- [Pending Home Sales Decline, Mortgage News Daily](https://www.mortgagenewsdaily.com/newsletter/n/20260717) (July 17, 2026)
+- [Today's Mortgage Rates Rise to Seasonal Highs: July 17, 2026, U.S. News](https://money.usnews.com/loans/mortgages/articles/mortgage-rates-today-july-17-2026) (July 17, 2026)
+- [Trump Wants the Government to Buy Mortgages. Will That Lower Rates?, Money](https://money.com/trump-mortgage-rates-plan/) (January 15, 2026)
 
 *Photo: [Picas Joe](https://www.pexels.com/@picasjoe) via Pexels*
 

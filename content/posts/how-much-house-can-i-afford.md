@@ -49,8 +49,6 @@ A lender's qualification standards don't account for whether you'll have money l
 
 ## The Real Affordability Formula: Start With Your Budget, Not a Ratio
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Forget working backward from a purchase price. Work forward from what you actually want your life to look like.
 
 Pull up your last three months of bank statements. Find your real monthly spending on food, transportation, utilities, childcare, subscriptions, clothing, everything else. Add your non-housing debt payments. Now subtract all of that from your actual monthly take-home pay. What's left is the maximum universe of money available for housing costs.

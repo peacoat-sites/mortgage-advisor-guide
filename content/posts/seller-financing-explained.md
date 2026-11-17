@@ -46,8 +46,6 @@ There are also hybrid structures. [Land contracts](/land-contract-mortgage/) (al
 
 ## What Buyers Are Actually Getting
 
-> **Helpful resource:** [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The appeal is speed and flexibility. No appraisal required by an outside lender. No weeks of waiting for underwriting. No [debt-to-income ratio](/conventional-loan-requirements/) being computed against Freddie Mac guidelines. The seller can decide to lend based on whatever criteria they choose, including your job stability, your story, your track record with the property if you've been renting it from them.
 
 Interest rates on seller-financed deals are typically above conventional market rates. That's the tradeoff for the flexibility. How much above? It depends entirely on negotiation, but don't expect the seller to charge you below what they could earn in a reasonably safe investment. They're taking on credit risk and holding an illiquid asset.

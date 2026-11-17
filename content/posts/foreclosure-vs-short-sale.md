@@ -45,8 +45,6 @@ One thing no one tells you up front: in some states, lenders can pursue a defici
 
 ## The Short Sale Process (And Why It's Harder Than It Sounds)
 
-> **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A short sale sounds cooperative. Homeowner lists the home, buyer makes an offer, lender says yes, everyone moves on. The reality involves more waiting than a DMV line.
 
 First, you need to prove hardship to the lender. That means a hardship letter, bank statements, tax returns, a listing agreement, and a preliminary HUD-1 statement, all submitted before the lender will even consider approving the sale. They're essentially asking: "Why should we take less than we're owed?" You'd better have a compelling answer.

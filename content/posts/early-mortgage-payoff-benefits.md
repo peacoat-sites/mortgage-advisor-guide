@@ -43,8 +43,6 @@ The Federal Housing Finance Agency tracks mortgage originations and borrower beh
 
 ## The Real Math of Paying Extra
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me give you three concrete scenarios, all based on a $350,000 loan at 6.75%, 30-year fixed term.
 
 | Strategy | Extra Monthly Payment | Loan Paid Off In | Total Interest Paid | Interest Saved |

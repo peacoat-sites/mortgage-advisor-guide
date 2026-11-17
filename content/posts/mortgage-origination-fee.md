@@ -41,8 +41,6 @@ The industry average, per Freddie Mac's 2024 Cost of Mortgage Survey, sits aroun
 
 ## How It Compares to Other Closing Costs
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Closing costs confuse almost everyone. The origination fee is just one piece of a larger puzzle, and conflating it with other fees is an easy mistake. (I made it myself the first time I reviewed a closing disclosure as a borrower rather than an underwriter. Humbling experience.)
 
 Here's a breakdown of the most common closing cost categories so you can see where origination sits relative to everything else:

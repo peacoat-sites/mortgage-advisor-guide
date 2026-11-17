@@ -65,8 +65,6 @@ Cash-out refinance, self-employed borrower, lender ordered full appraisal, busy 
 
 ## What You Can Actually Control
 
-> **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Borrowers aren't powerless here, even if it sometimes feels that way.
 
 Respond to every lender request the same day it arrives. Underwriting conditions have a clock attached to them. If a condition comes in Friday afternoon and you respond Monday, you lose a business day in the queue. Closings can miss their lock expiration when a borrower takes four days to upload a document that takes 10 minutes to find.

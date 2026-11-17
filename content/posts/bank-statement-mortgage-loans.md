@@ -43,10 +43,6 @@ Retirees with substantial assets but low reported income sometimes use a related
 
 ## How Lenders Calculate Your Income
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This is where it gets granular, and you should understand it before you apply.
 
 Lenders pull either 12 or 24 months of statements and add up all deposits. Then they subtract non-income items (transfers between your own accounts, loan proceeds, refunds) and apply what's called an expense ratio. For business accounts, the expense ratio typically runs between 40% and 50%, meaning the lender assumes roughly half your deposits are business expenses. For personal accounts, the ratio is usually lower, around 10-30%.

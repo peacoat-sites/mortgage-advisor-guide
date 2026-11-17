@@ -50,8 +50,6 @@ The 30-year isn't the lazy choice. It's the flexible choice. And flexibility has
 
 ## What the 15-Year Gets Right
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The forced savings argument is legitimate. If you're someone who'd spend that $1,000 monthly difference on things you won't remember in five years, the 15-year mortgage is doing meaningful work. It's making wealth-building automatic. You can't skip it. You can't decide to invest it "next month." It just happens.
 
 There's also the rate advantage. Because you're paying principal down so aggressively early on, your equity position builds fast. Not gradually. A borrower two years into a 15-year mortgage has substantially more equity than someone two years into a 30-year on the same purchase price, even accounting for the rate difference. That matters if you ever need to refinance, access a home equity line, or just want to understand your real net worth.

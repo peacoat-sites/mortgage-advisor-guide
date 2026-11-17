@@ -69,12 +69,12 @@ June 2026 has handed buyers a narrow, potentially fleeting window. Whether it's 
 
 ## Sources
 
-- [Yahoo Finance , Mortgage and refinance interest rates today, June 18, 2026](https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-dropped-this-week-as-iran-peace-deal-took-shape-mortgage-and-refinance-interest-rates-today-june-18-2026-100000045.html) (June 18, 2026)
-- [U.S. News , Iran Peace Agreement Offers Hope for Lower Mortgage Rates This Spring](https://money.usnews.com/loans/mortgages/articles/iran-peace-agreement-offers-hope-for-lower-mortgage-rates-this-spring) (June 16, 2026)
-- [ABC News , Mortgage rates are dropping. Here's why.](https://abcnews.com/Business/mortgage-rates-dropping/story?id=133967998) (June 17, 2026)
-- [Mortgage Professional America , Iran deal could mean mortgage rate relief](https://www.mpamag.com/us/news/general/iran-deal-could-mean-mortgage-rate-relief-but-dont-expect-a-dramatic-drop/578914) (June 16, 2026)
-- [Lower Mortgage , Will Mortgage Rates Fall After The U.S.-Iran Agreement?](https://www.lower.com/insights/will-mortgage-rates-fall-after-the-us-iran-agreement) (June 16, 2026)
-- [HousingWire , How much will mortgage rates fall with the Iran deal and Fed week?](https://www.housingwire.com/articles/mortgage-rates-iran-fed-week/) (June 16, 2026)
+- [Yahoo Finance, Mortgage and refinance interest rates today, June 18, 2026](https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-dropped-this-week-as-iran-peace-deal-took-shape-mortgage-and-refinance-interest-rates-today-june-18-2026-100000045.html) (June 18, 2026)
+- [U.S. News, Iran Peace Agreement Offers Hope for Lower Mortgage Rates This Spring](https://money.usnews.com/loans/mortgages/articles/iran-peace-agreement-offers-hope-for-lower-mortgage-rates-this-spring) (June 16, 2026)
+- [ABC News, Mortgage rates are dropping. Here's why.](https://abcnews.com/Business/mortgage-rates-dropping/story?id=133967998) (June 17, 2026)
+- [Mortgage Professional America, Iran deal could mean mortgage rate relief](https://www.mpamag.com/us/news/general/iran-deal-could-mean-mortgage-rate-relief-but-dont-expect-a-dramatic-drop/578914) (June 16, 2026)
+- [Lower Mortgage, Will Mortgage Rates Fall After The U.S.-Iran Agreement?](https://www.lower.com/insights/will-mortgage-rates-fall-after-the-us-iran-agreement) (June 16, 2026)
+- [HousingWire, How much will mortgage rates fall with the Iran deal and Fed week?](https://www.housingwire.com/articles/mortgage-rates-iran-fed-week/) (June 16, 2026)
 
 ---
 

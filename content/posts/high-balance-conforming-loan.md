@@ -48,8 +48,6 @@ The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) publishes the
 
 ## Why Your Rate Will Be Slightly Higher (and How Much)
 
-> **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A common mistake is assuming that if a loan is still "conforming," it prices like a standard conforming loan. It doesn't.
 
 Lenders charge slightly higher interest rates on high-balance loans, typically 0.10% to 0.30% above what you'd get on a standard conforming loan with identical credit and down payment. That spread depends on the lender, market conditions, and how hungry competing banks are for business in your area right now.

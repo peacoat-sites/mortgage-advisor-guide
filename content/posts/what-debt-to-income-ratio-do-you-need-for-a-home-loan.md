@@ -51,8 +51,6 @@ The math itself is simple. Add all monthly minimum debt payments plus your estim
 | USDA | ~41% | ~29% | Compensating factors may apply |
 | Jumbo | 43% or below (many prefer 38-40%) | Not specified | Portfolio lender standards; less flexibility with larger loan amounts |
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I want to push back on the oversimplified "keep your DTI under 43%" advice everywhere. That number's got real roots, but it's not the whole story.
 
 **Conventional loans (Fannie Mae/Freddie Mac):** The standard guideline is a 45% back-end DTI maximum. Fannie Mae's automated underwriting system, Desktop Underwriter, can approve loans up to 50% DTI if other factors check out, such as significant cash reserves, a large down payment, or a credit score above 760. These approvals are rare, and the terms may not be as favorable.

@@ -34,10 +34,6 @@ Under the rule that took effect July 21, it no longer is. Not under ECOA. Under 
 
 ## Where You Still Have Recourse
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The Fair Housing Act covers residential mortgage lending, full stop. The DOJ and HUD both have enforcement authority, and disparate impact claims remain on the table there. So if you're denied a mortgage or offered worse terms and you believe a lender's policy is producing racially skewed outcomes, you can still file a complaint with HUD.
 
 What you've lost is the CFPB as a backup enforcer on that same theory. The CFPB can still pursue intentional discrimination under ECOA. It can still pursue cases where there's direct evidence a lender treated you differently because of your race, sex, or national origin. The intentional discrimination standard didn't change. What changed is the CFPB's ability to hold lenders accountable for *effects* without proving intent.
@@ -87,10 +83,10 @@ The regulatory ground shifted on July 21. It didn't disappear. Knowing which foo
 
 ## Sources
 
-- [CFPB Fair Lending Rule Change: What Mortgage Borrowers Should Know ,  The Mortgage Reports](https://themortgagereports.com/131115/cfpb-fair-lending-rule-change) (May 26, 2026, updated July 2026)
-- [CFPB's 2026 Regulatory Agenda: Changes Are Coming for Mortgage Lenders and Servicers ,  Financial Services Perspectives](https://www.financialservicesperspectives.com/2026/07/cfpbs-2026-regulatory-agenda-changes-are-coming-for-mortgage-lenders-and-servicers/) (July 14, 2026)
-- [HUD Slashes More Red Tape to Lower Costs, Improve Affordability ,  HUD.gov](https://www.hud.gov/news/hud-no-26-051) (June 23, 2026)
-- [CFPB Releases Semiannual Regulatory Agenda: A Surprisingly Active Rulemaking Program ,  Consumer Finance Monitor](https://www.consumerfinancemonitor.com/2026/07/14/cfpb-releases-semiannual-regulatory-agenda-a-surprisingly-active-rulemaking-program/) (July 14, 2026)
+- [CFPB Fair Lending Rule Change: What Mortgage Borrowers Should Know, The Mortgage Reports](https://themortgagereports.com/131115/cfpb-fair-lending-rule-change) (May 26, 2026, updated July 2026)
+- [CFPB's 2026 Regulatory Agenda: Changes Are Coming for Mortgage Lenders and Servicers, Financial Services Perspectives](https://www.financialservicesperspectives.com/2026/07/cfpbs-2026-regulatory-agenda-changes-are-coming-for-mortgage-lenders-and-servicers/) (July 14, 2026)
+- [HUD Slashes More Red Tape to Lower Costs, Improve Affordability, HUD.gov](https://www.hud.gov/news/hud-no-26-051) (June 23, 2026)
+- [CFPB Releases Semiannual Regulatory Agenda: A Surprisingly Active Rulemaking Program, Consumer Finance Monitor](https://www.consumerfinancemonitor.com/2026/07/14/cfpb-releases-semiannual-regulatory-agenda-a-surprisingly-active-rulemaking-program/) (July 14, 2026)
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

@@ -25,8 +25,6 @@ The peace deal relieved some of that pressure. Realtor.com chief economist Danie
 
 ## The Fed Problem Nobody Wants to Talk About
 
-> **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the bigger issue. At the June 16-17 FOMC meeting, the Fed held its benchmark rate steady at 3.50-3.75%. That sounds neutral. It wasn't. The updated dot plot projections signaled that a rate hike is now more likely than a cut before the end of 2026, a hawkish pivot that immediately pushed bond yields back up and erased most of whatever rate relief the peace deal had generated. Bankrate covered the immediate aftermath in detail: the Fed's communication alone moved markets.
 
 Nicole Rueth, SVP at CrossCountry Mortgage, notes that CME FedWatch data now puts the probability of a Fed rate hike by year-end at 50%. The next decision comes July 28-29. That meeting is a live wire. If inflation data between now and then comes in hot, or if oil prices spike again on any geopolitical flare-up, the Fed has cover to hike. A 25-basis-point increase in the federal funds rate won't mechanically add 25 basis points to your 30-year fixed rate, but bond markets will price in further hikes and longer-term rates will move in response. We could be looking at 6.8% or higher by August.

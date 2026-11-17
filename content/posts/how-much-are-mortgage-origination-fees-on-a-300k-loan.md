@@ -52,8 +52,6 @@ Start with a clean Loan Estimate comparison before you talk to a second lender: 
 | No origination fee with rate bump | $300,000 | $0 | 7.125% | +$52/month | ~58 months (4.8 years) |
 | Discount points in origination | $300,000 | $6,000 (1% origination + 1% point) | 6.625% | -$72/month | ~42 months (3.5 years) |
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Three scenarios. Real math.
 
 **Scenario 1: Standard 1% origination fee**

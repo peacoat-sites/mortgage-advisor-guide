@@ -43,8 +43,6 @@ Understanding which stage you're in at any given moment is the first step toward
 
 ## The Standard Timeline: A Week-by-Week Breakdown
 
-> **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the real timeline. Not what your loan officer pitches to win your business.
 
 | Stage | Typical Timeframe |

@@ -55,8 +55,6 @@ Common issues they find:
 
 **Expired or unreleased mortgages.** An old mortgage that was paid off but never formally released in the public record is a cloud on title until it's corrected.
 
-> **Helpful resource:** [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## How the Process Works, Step by Step
 
 The timeline varies by state, market, and property complexity, but here's how it typically unfolds once you're under contract:

@@ -49,8 +49,6 @@ Overtime and bonus income don't count the same way as base salary. If you've bee
 
 ## What Your Documents Are Actually Telling Them
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The document checklist feels like punishment. Two years of W-2s, two months of bank statements, pay stubs, tax returns, letters explaining this and that. Here's why it's not arbitrary.
 
 The underwriter is building a picture of your financial life, and they need the documents to tell a consistent story. If your pay stubs show $7,500 a month but your tax returns show $62,000 a year, those two things don't match, and the underwriter has to figure out why. (That's about $5,167 a month, if you're doing the math. A $2,300 gap is going to generate a question.)

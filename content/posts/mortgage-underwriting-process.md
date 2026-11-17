@@ -43,8 +43,6 @@ To answer that, they evaluate three things: your creditworthiness, your capacity
 
 ## The Five Stages of Underwriting
 
-> **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The process isn't one big review. It's a sequence, and knowing where you are helps you understand why things take time.
 
 **Stage 1: File submission.** Your loan officer compiles the complete application package and sends it to underwriting. This includes your application, credit report, income documents, asset statements, the appraisal, title search, and more. Missing documents at this stage cause delays before underwriting even begins.

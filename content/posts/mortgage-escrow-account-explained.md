@@ -46,8 +46,6 @@ Not every loan requires escrow. Conventional loans sometimes allow you to waive 
 
 ## How the Monthly Escrow Payment Is Calculated
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where things get a little more involved, and where most borrowers start to zone out.
 
 Your servicer estimates how much your [property taxes and insurance premiums](/property-tax-escrow-mortgage/) will cost over the next 12 months. They divide that total by 12 and add it to your monthly payment. Simple. But there's a cushion built in on top of that.

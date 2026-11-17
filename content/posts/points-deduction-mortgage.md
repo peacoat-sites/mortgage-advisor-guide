@@ -43,8 +43,6 @@ Your Loan Estimate and [Closing Disclosure](/closing-disclosure-explained/) are 
 
 ## The Tax Rules, Laid Out Simply
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where most explainers lose people. The deductibility of points depends heavily on whether the loan is a purchase or a refinance. These are treated very differently.
 
 **For a home purchase:** Points are generally deductible in full in the year you paid them, as long as the loan is secured by your primary residence, paying points is an established practice in your area (it is, everywhere in the U.S.), and the points weren't paid in place of amounts ordinarily listed separately on the settlement sheet. The IRS spells this out in Publication 936, which is dry but readable enough if you make a cup of coffee first.

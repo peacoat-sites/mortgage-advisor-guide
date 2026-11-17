@@ -56,8 +56,6 @@ Here's what loan officers sometimes skip over: second mortgage DPA adds to your 
 
 ## Who Actually Qualifies
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most buyers assume they won't qualify. They're usually wrong.
 
 Income limits are the biggest filter. Most programs target low-to-moderate income households, but "moderate" is defined relative to your area's median income, not some national number. In a high-cost metro, a household earning $95,000 might still fall under 120% of area median income and qualify. The [Federal Housing Finance Agency](https://www.fhfa.gov/) publishes data on area median incomes that housing agencies use to set thresholds, and the numbers shift annually.

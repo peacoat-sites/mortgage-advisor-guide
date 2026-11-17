@@ -42,8 +42,6 @@ This is completely legal and fully disclosed in your closing documents, specific
 
 ## What Has to Happen (By Law) When Your Loan Gets Transferred
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where things get reassuring, if you know the rules. The Real Estate Settlement Procedures Act (RESPA) sets specific requirements for how servicers must handle a transfer, and as of July 2026, these protections are still fully in place and enforced.
 
 Here's what the law requires: your current servicer must send you a goodbye notice at least 15 days before the transfer date, and your new servicer must send you a hello notice no later than 15 days after the transfer takes effect. In practice, many servicers send both letters around the same time, so you often get a packet that covers both. The notices must include the new servicer's name and contact information, the date the transfer is effective, and where to send your payments going forward.

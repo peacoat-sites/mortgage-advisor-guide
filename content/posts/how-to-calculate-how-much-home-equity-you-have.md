@@ -41,8 +41,6 @@ But here's where most people stumble: they use the wrong number for one side of 
 
 ## Finding Your Current Mortgage Balance
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This side's easier to pin down. Your mortgage servicer, the company you send payments to, can give you your exact payoff amount at any given date. Log into your account online or call them and ask for a "payoff quote." It'll be slightly higher than your account balance because it includes interest accrued through the payoff date plus sometimes a small processing fee, usually a few hundred dollars.
 
 Don't just glance at last month's statement and move on. Mortgage balances change daily because of how interest accrues. If you're doing serious financial planning, get a payoff quote for a specific date.

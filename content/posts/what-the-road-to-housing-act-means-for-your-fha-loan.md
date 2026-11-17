@@ -26,10 +26,6 @@ If you're a first-time buyer looking at a $90,000 starter home in a market like 
 
 ## ADU Financing Through FHA Property Improvement Loans
 
-> **Helpful resource:** [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This one is genuinely useful and underreported. The bill expands [FHA property improvement loans](/hud-just-changed-14-fha-mortgage-rules-here-is-what-it-means-for-buyer/), essentially the Title I program, to cover accessory dwelling unit construction. ADUs, garage apartments, basement units, backyard cottages, have become the practical answer to multigenerational housing and supplemental rental income in markets where new construction is priced out of reach.
 
 The problem until now has been financing. Conventional renovation loans exist but require substantial equity and creditworthiness that many existing homeowners don't have. The FHA expansion opens a different path. According to Better's May 2026 summary of the bill, this could unlock ADU financing for a meaningful segment of homeowners who wouldn't qualify for HELOC-based or conventional renovation products.
@@ -64,11 +60,11 @@ The bill's breadth is real, but so is the gap between legislation and implementa
 
 ## Sources
 
-- [What the 2026 Housing Bill Means for Homebuyers , Better](https://better.com/content/2026-housing-bill-what-it-means-for-buyers) (May 2026)
-- [What's in the House Amendment to the 21st Century ROAD to Housing Act , Bipartisan Policy Center](https://bipartisanpolicy.org/issue-brief/whats-in-the-house-amendment-to-the-21st-century-road-to-housing-act/) (May 19, 2026)
-- [21st Century ROAD to Housing Act Passes Senate , National Mortgage Professional](https://nationalmortgageprofessional.com/news/21st-century-road-housing-act-passes-senate) (March 2026)
-- [H.R.6644 Bill Text , Congress.gov](https://www.congress.gov/bill/119th-congress/house-bill/6644/text) (May 20, 2026)
-- [2026 Federal Housing Policy Preview , Terner Center, UC Berkeley](https://ternercenter.berkeley.edu/research-and-policy/2026-federal-housing-policy-preview/) (March 18, 2026)
+- [What the 2026 Housing Bill Means for Homebuyers, Better](https://better.com/content/2026-housing-bill-what-it-means-for-buyers) (May 2026)
+- [What's in the House Amendment to the 21st Century ROAD to Housing Act, Bipartisan Policy Center](https://bipartisanpolicy.org/issue-brief/whats-in-the-house-amendment-to-the-21st-century-road-to-housing-act/) (May 19, 2026)
+- [21st Century ROAD to Housing Act Passes Senate, National Mortgage Professional](https://nationalmortgageprofessional.com/news/21st-century-road-housing-act-passes-senate) (March 2026)
+- [H.R.6644 Bill Text, Congress.gov](https://www.congress.gov/bill/119th-congress/house-bill/6644/text) (May 20, 2026)
+- [2026 Federal Housing Policy Preview, Terner Center, UC Berkeley](https://ternercenter.berkeley.edu/research-and-policy/2026-federal-housing-policy-preview/) (March 18, 2026)
 
 ---
 

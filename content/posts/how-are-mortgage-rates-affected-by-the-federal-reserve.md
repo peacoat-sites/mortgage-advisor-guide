@@ -49,8 +49,6 @@ The Fed does buy and sell these mortgage-backed securities as part of their broa
 | Strong jobs report | Fed policy unchanged | Economic strength signals, rates stay higher longer | Mortgage rates rise | Rates move up despite no Fed action |
 | Weak jobs data | Fed policy unchanged | Economic softening signals | Mortgage rates fall | Rates move down despite no Fed action |
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where the connection gets real. The Fed's interest rate decisions signal their view of the economy's health. When the Fed raises rates, they're usually saying "inflation is a problem, and we need to cool things down." Markets listen. Investors get nervous about inflation, and they demand higher yields on longer-term investments, including mortgage bonds. So mortgage rates rise.
 
 The timing is usually quick. Mortgage rates can shift within hours of a Fed announcement. For example, a rate of 6.1 percent on a Tuesday morning could move to 6.35 percent by Wednesday afternoon after an unexpected Fed statement hinting at future rate hikes.

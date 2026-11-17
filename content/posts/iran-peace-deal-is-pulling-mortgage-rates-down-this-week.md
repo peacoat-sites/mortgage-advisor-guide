@@ -32,8 +32,6 @@ Then June 15 arrived. Trump's announcement sent WTI crude down 5.2% in a single 
 
 ## Why This Isn't the Rate Breakout You're Hoping For
 
-> **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I went hunting for reasons to feel bullish about this drop, and what struck me was how fast the analysts pumped the brakes. Mortgage Professional America reported on June 15 that while the deal offers genuine relief, the structural forces pinning rates up haven't gone anywhere.
 
 Inflation is the biggest one. The May Consumer Price Index came in at 4.2%, the highest reading since 2023. That matters enormously because it tells the Fed, and the bond market, that the inflation fight isn't finished. Lower oil prices from the peace deal could help. But oil feeds into CPI with a lag, and services inflation has been stubborn regardless of what energy does.
@@ -69,7 +67,7 @@ If you're in the market, use this window with your head on straight. Lock if it 
 ## Sources
 
 - [Iran Peace Agreement Offers Hope for Lower Mortgage Rates This Spring](https://money.usnews.com/loans/mortgages/articles/iran-peace-agreement-offers-hope-for-lower-mortgage-rates-this-spring) (U.S. News & World Report, June 16, 2026)
-- [Iran Deal Could Mean Mortgage Rate Relief , But Don't Expect a Dramatic Drop](https://www.mpamag.com/us/news/general/iran-deal-could-mean-mortgage-rate-relief-but-dont-expect-a-dramatic-drop/578914) (Mortgage Professional America, June 15, 2026)
+- [Iran Deal Could Mean Mortgage Rate Relief, But Don't Expect a Dramatic Drop](https://www.mpamag.com/us/news/general/iran-deal-could-mean-mortgage-rate-relief-but-dont-expect-a-dramatic-drop/578914) (Mortgage Professional America, June 15, 2026)
 - [Mortgage Rates Hit One-Month Lows](https://www.mortgagenewsdaily.com/markets/mortgage-rates-06152026) (Mortgage News Daily, June 15, 2026)
 - [Fed Insider: The Iran Deal Isn't Good News for Your Mortgage](https://finance.yahoo.com/economy/policy/articles/fed-insider-iran-deal-isn-163545803.html) (Yahoo Finance, June 16, 2026)
 - [How Much Will Mortgage Rates Fall With the Iran Deal and Fed Week?](https://www.housingwire.com/articles/mortgage-rates-iran-fed-week/) (HousingWire, June 15, 2026)

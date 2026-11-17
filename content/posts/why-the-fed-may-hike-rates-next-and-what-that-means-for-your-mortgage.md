@@ -38,8 +38,6 @@ Borrowers often get blindsided by rate changes. A pre-approval rate quote can sh
 | May + 0.25% rate increase | - | $2,278-$2,298 | $80-$100 monthly increase |
 | Early July 2026 (7 weeks) | ~6.5% | - | Freddie Mac persistence signal |
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Warsh isn't Jerome Powell, and that matters. Powell spent years carefully managing market expectations with forward guidance, telegraphing moves well in advance. Warsh has a different profile. He's been publicly skeptical of the Fed's ability to control inflation through communication alone and has historically leaned toward tighter policy. The June meeting reflected that: no cuts projected, a hawkish dot plot, and language that, as Redfin noted in their coverage of the June 17 meeting, points to mortgage rates likely staying high through at least the remainder of 2026.
 
 What this means practically is that the floor under rates has shifted. Earlier in 2026, Fannie Mae and the Mortgage Bankers Association were forecasting a summer dip into the low-to-mid 6% range. Both organizations have since revised those forecasts, now expecting the 30-year fixed to stay in the mid-6% range for the rest of the year. The MBA also reported the median monthly mortgage payment hit $2,198 in May 2026. That's the baseline. If rates tick up another quarter point, that median payment climbs another $80-$100 per month on a typical purchase loan, which adds up to roughly $1,000 a year on a mortgage you might hold for 30 years.

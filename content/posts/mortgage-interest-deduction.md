@@ -47,8 +47,6 @@ A borrower named Marcus, a reader who emailed me after buying a $325,000 home in
 
 ## The $750,000 Cap and Who It Hits
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Loans originated after December 15, 2017 can only deduct interest on the first $750,000 of principal. (Older loans, originated before that date, are grandfathered at the old $1,000,000 cap.) So if you bought a $900,000 home with a $720,000 mortgage, you're fine. But if you borrowed $850,000, you can only deduct interest on 88% of that balance.
 
 This cap doesn't hit most buyers in the Midwest or South, where median [home prices](/record-home-prices-meet-rising-rates-what-buyers-must-know-now/) are well below $750,000. It bites hardest in coastal metros where $900,000 barely buys a two-bedroom. The IRS doesn't publish this breakdown by zip code, but the Tax Policy Center has shown that the top 20% of income earners capture the vast majority of benefits from this deduction. Which makes sense: they're buying more expensive homes, they're in higher tax brackets (so the deduction is worth more per dollar), and they're far more likely to itemize.

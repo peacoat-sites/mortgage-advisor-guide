@@ -34,10 +34,6 @@ A lot of boards are doing the math right now and realizing they're going to fall
 
 ## The Insurance Trap Nobody Warned Buyers About
 
-> **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This one caught me off guard. Starting July 1, 2026, there's a hard cap: the per-unit master policy deductible cannot exceed $50,000. Sounds reasonable until you realize that plenty of condo associations, especially in coastal markets where insurers have jacked up premiums, have raised their deductibles precisely to keep their monthly premiums manageable. If your building's master policy deductible runs higher than $50,000 per unit, the whole project gets classified as "non-warrantable."
 
 Non-warrantable means Fannie Mae and Freddie Mac won't back the loan. Full stop. You still have options, but they're portfolio loans or other non-conforming products, which typically come with higher interest rates, stricter terms, and sometimes larger down payment requirements. As TheStreet reported on August 3, 2026, this deductible cap is one of the more immediate tripwires, because insurance policy renewals often happen on a completely different schedule than home purchases.
@@ -68,11 +64,11 @@ The research here is still early on just how many buildings will fail the new st
 
 ## Sources
 
-- [Fannie Mae Condo Guidelines 2026: New 15% Reserve & Review Rules ,  BCP Mortgage](https://www.bcpmortgage.com/post/fannie-mae-condo-guidelines-2026) (July 2026)
-- [Fannie Mae Condo Shakeup Could Block Your Loan ,  TheStreet](https://www.thestreet.com/real-estate/fannie-mae-condo-rules-end-limited-review-august-2026) (August 3, 2026)
-- [Condo Review Deadline Puts Lenders On The Clock ,  National Mortgage Professional](https://nationalmortgageprofessional.com/news/condo-review-deadline-puts-lenders-clock) (Late July 2026)
-- [Full Review Condo Requirements After August 3, 2026 ,  Condo Approval Professionals](https://www.condo-approval.com/2026/07/01/full-review-condo-requirements-2026/) (July 2, 2026)
-- [Condo Review Changes: What Happens After August 3, 2026? ,  Condo Approval Professionals](https://www.condo-approval.com/2026/06/16/fannie-mae-freddie-mac-condo-review-changes-2026-2/) (June 17, 2026)
+- [Fannie Mae Condo Guidelines 2026: New 15% Reserve & Review Rules, BCP Mortgage](https://www.bcpmortgage.com/post/fannie-mae-condo-guidelines-2026) (July 2026)
+- [Fannie Mae Condo Shakeup Could Block Your Loan, TheStreet](https://www.thestreet.com/real-estate/fannie-mae-condo-rules-end-limited-review-august-2026) (August 3, 2026)
+- [Condo Review Deadline Puts Lenders On The Clock, National Mortgage Professional](https://nationalmortgageprofessional.com/news/condo-review-deadline-puts-lenders-clock) (Late July 2026)
+- [Full Review Condo Requirements After August 3, 2026, Condo Approval Professionals](https://www.condo-approval.com/2026/07/01/full-review-condo-requirements-2026/) (July 2, 2026)
+- [Condo Review Changes: What Happens After August 3, 2026?, Condo Approval Professionals](https://www.condo-approval.com/2026/06/16/fannie-mae-freddie-mac-condo-review-changes-2026-2/) (June 17, 2026)
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

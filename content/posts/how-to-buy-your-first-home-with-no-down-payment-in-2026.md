@@ -56,8 +56,6 @@ Conventional zero-down options from mainstream lenders are basically nonexistent
 
 ## What "No Down Payment" Actually Costs You
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I want to be concrete about this because vague warnings aren't useful.
 
 Take a $300,000 home. With a VA loan at a competitive rate, you're financing the full amount. With an FHA loan plus a DPA second mortgage covering 3.5% ($10,500), you're often carrying two loans with a combined balance higher than the purchase price when fees are included. Your monthly payment will be higher than it would be if you'd put 5% or 10% down, sometimes by $150 to $300 a month depending on the loan structure.

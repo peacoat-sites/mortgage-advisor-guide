@@ -40,8 +40,6 @@ The loan doesn't just disappear. Your heirs typically have about 6 months (somet
 
 ## When a Reverse Mortgage Actually Makes Sense
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Reverse mortgages can work well or go badly. The difference usually comes down to three factors: why you're doing it, what the alternative is, and how long you're likely to stay in the home.
 
 The strongest case I can make for a reverse mortgage is this: a homeowner in their late 70s or older, living in a paid-off or nearly paid-off home, who needs to supplement a fixed income to cover healthcare costs or basic living expenses, and has no plans to move. In that scenario, a reverse mortgage can extend financial stability meaningfully. You're converting an illiquid asset into usable income without selling the home you've lived in for 30 years.

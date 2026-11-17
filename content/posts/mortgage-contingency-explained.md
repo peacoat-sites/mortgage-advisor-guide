@@ -51,10 +51,6 @@ In my 16 years underwriting loans, I watched a lot of buyers sign contracts with
 | After pre-underwriting approval | Waived | High | Property-specific risks remain (appraisal, title, inspection) |
 | Missing contingency deadline | N/A | Critical | Earnest money forfeited; no exit protection |
 
-> **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Mortgage contingencies aren't open-ended. They have a deadline, typically somewhere between 21 and 45 days from the contract date, though this varies significantly by region and by how competitive the market is. As of July 2026, in high-demand metros, I'm hearing from buyers who are being pressured to accept contingency windows as short as 14 to 17 days. That is very tight.
 
 Here's what the deadline actually means: if you haven't formally invoked the contingency (by notifying the seller in writing that you can't obtain financing) before that deadline passes, you can lose your right to exit cleanly. And in some contracts, if you do nothing, the contingency is automatically waived when the clock runs out.

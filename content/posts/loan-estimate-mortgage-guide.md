@@ -45,8 +45,6 @@ Page three has the APR, the "Total Interest Percentage" (TIP), and a comparison 
 
 ## The Fee Categories That Actually Matter
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 | Fee Category | Can It Increase at Closing? | What to Watch |
 |---|---|---|
 | Origination charges (lender fees) | No | Compare across lenders; this is negotiable |

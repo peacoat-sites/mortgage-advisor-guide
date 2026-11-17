@@ -45,8 +45,6 @@ One thing I'd want every borrower to know: forbearance is not the same as deferr
 
 ## How the Process Works, Step by Step
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You don't apply for forbearance through a government website or a form you find on Google. You call your servicer directly. The number is on your monthly statement.
 
 Here's the general sequence:

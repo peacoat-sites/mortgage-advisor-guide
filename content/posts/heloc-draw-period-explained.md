@@ -56,8 +56,6 @@ One detail loan officers rarely volunteer: most HELOCs have a variable rate tied
 
 Some lenders allow you to lock a portion of your balance into a fixed rate during the draw period, sometimes called a rate-lock option or fixed-rate advance. Ask about this specifically, don't just glance at the brochure. The conversion terms vary widely and sometimes carry fees or minimum balance requirements that make them less attractive than they sound.
 
-> **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## What You Can (and Can't) Do During the Draw Period
 
 You can borrow repeatedly up to your credit limit. You can make principal payments voluntarily, reducing your balance and freeing up that credit again. You can sometimes request a credit line increase, though that typically triggers a new appraisal and underwriting review.

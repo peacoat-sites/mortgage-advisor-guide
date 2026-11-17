@@ -45,8 +45,6 @@ What gets reduced varies. But across all three, you generally won't need to prov
 | VA IRRRL | VA | No | No | No | Current loan required | Lower rate or ARM→fixed |
 | USDA Streamlined Assist | USDA | No | No | No | 12 consecutive on-time | $50+ monthly P&I reduction |
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The FHA Streamline is available to borrowers with existing FHA loans who want to lower their monthly payment, reduce their interest rate, or move from an adjustable-rate to a fixed-rate mortgage.
 
 Two versions exist: credit-qualifying and non-credit-qualifying. In the non-credit-qualifying version, your lender doesn't pull a full credit report or verify income. In the credit-qualifying version, they do, but the appraisal is still typically waived. Which one you get depends on your lender and your situation, not just your preference.

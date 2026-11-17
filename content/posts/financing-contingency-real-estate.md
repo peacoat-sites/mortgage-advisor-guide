@@ -31,7 +31,7 @@ That's what a financing contingency is for. It's the clause in your purchase agr
 
 Buyers who waive this clause to "compete" with other offers take on serious risk. Some close fine. Others lose their deposits and still don't have a house.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A financing contingency lets you exit a home purchase and recover your earnest money if your mortgage falls through.</li><li style="margin:5px 0">Most contingency windows run 21 to 30 days; shorter windows can signal problems if your finances aren't locked tight.</li><li style="margin:5px 0">Waiving the contingency to win a bidding war can cost you your full earnest deposit, often $5,000–$25,000+.</li><li style="margin:5px 0">Pre-approval is not the same as a loan commitment ,  lenders can and do reverse course after inspections or appraisals.</li><li style="margin:5px 0">In competitive markets, a strong pre-underwriting (not just pre-approval) reduces your need to waive this protection.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A financing contingency lets you exit a home purchase and recover your earnest money if your mortgage falls through.</li><li style="margin:5px 0">Most contingency windows run 21 to 30 days; shorter windows can signal problems if your finances aren't locked tight.</li><li style="margin:5px 0">Waiving the contingency to win a bidding war can cost you your full earnest deposit, often $5,000–$25,000+.</li><li style="margin:5px 0">Pre-approval is not the same as a loan commitment, lenders can and do reverse course after inspections or appraisals.</li><li style="margin:5px 0">In competitive markets, a strong pre-underwriting (not just pre-approval) reduces your need to waive this protection.</li></ul></div>
 
 ## What the clause actually says (and what people miss)
 
@@ -44,8 +44,6 @@ The part people almost always miss is the interest rate cap. For example, if a f
 Also buried in the fine print: what you're required to do to satisfy the contingency. Many contracts require you to apply for a loan within a set number of days (often 5 to 7), provide documentation promptly, and act "in good faith." If you drag your feet and the contingency deadline passes, the seller may argue you forfeited your protection.
 
 ## The timeline, broken down
-
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Here's where things get real. The financing contingency deadline isn't arbitrary, and it doesn't exist in a vacuum. It's connected to the appraisal, the inspection, and the loan underwriting timeline. A lender who tells you underwriting takes "about two weeks" is being optimistic.
 

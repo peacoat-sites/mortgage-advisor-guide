@@ -52,8 +52,6 @@ Let's start with a full picture. You have more paths than you probably know abou
 
 ## The Real Cost of PMI (And Why It Isn't Always Your Enemy)
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Private mortgage insurance gets a bad reputation. I get it. It's a monthly cost that protects the lender, not you, and it can feel like a tax on having less savings. But let's look at this straight.
 
 PMI on a conventional loan typically runs 0.2% to 2% of your loan amount annually, depending on your credit score, loan-to-value ratio, and the lender. On a $350,000 loan with a 10% down payment, you might pay somewhere between $100 and $200 per month in PMI. Real money, absolutely.

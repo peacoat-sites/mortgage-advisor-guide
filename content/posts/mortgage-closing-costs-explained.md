@@ -39,8 +39,6 @@ There are two broad categories to understand. The first is lender fees, also cal
 
 ## A Line-by-Line Breakdown of Common Charges
 
-> **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me walk through the items you'll actually see on your Loan Estimate and Closing Disclosure.
 
 **Origination fee or loan origination charge:** This is the lender's fee for creating the loan. It's sometimes expressed as a percentage of the loan amount (1% is common, though it varies) or as a flat dollar amount. Don't assume the first number you see is fixed. This is negotiable.

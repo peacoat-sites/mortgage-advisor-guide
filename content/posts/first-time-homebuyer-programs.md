@@ -56,8 +56,6 @@ One more clarification worth making: "first-time homebuyer program" is an umbrel
 
 ## The Main Types of Programs and How They Work
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The categories are where most explanations break down, lumping everything together like they're interchangeable.
 
 **Government-Backed Loan Programs**

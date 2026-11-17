@@ -63,8 +63,6 @@ Check out [our mortgage calculator](/mortgage-calculators) to get a rough sense 
 
 ## Who Actually Uses These Loans (and Why)
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You might be wondering who willingly signs up for 12% interest and $12,000 in upfront fees. More people than you'd guess, and many of them are doing it very deliberately.
 
 **Fix-and-flip investors** are the most obvious use case. They need capital quickly to buy a distressed property, they plan to renovate and sell within 6-12 months, and they can't wait the 45-60 days a conventional loan requires. More importantly, distressed properties often don't qualify for conventional financing at all. You can't get a Fannie Mae loan on a house with no functioning kitchen.

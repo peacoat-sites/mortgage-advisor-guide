@@ -45,8 +45,6 @@ The loan path is almost always the better option if your plan allows it. But it 
 
 ## The Hidden Trap in a 401(k) Loan
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what most people don't realize until it's too late: if you lose your job or quit while your 401(k) loan is outstanding, the remaining balance typically becomes due within 60 to 90 days. If you can't pay it back in that window, the IRS treats the unpaid balance as a distribution, which means taxes and the 10% penalty kick in retroactively.
 
 For example, someone could take a $35,000 401(k) loan to buy a house, then face a job loss eight months later. Suddenly they'd owe back $32,000 in under three months or face a tax bill they weren't expecting.

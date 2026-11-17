@@ -43,8 +43,6 @@ The key issue: borrowers calculate DSCR using their expected rent, not the rent 
 
 ## How DSCR Loans Are Priced vs. Conventional Investor Loans
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Current rates as of July 2026 are meaningfully higher for DSCR products than conventional 30-year investor loans, reflecting both the documentation flexibility and the risk profile. The gap has narrowed from where it was a few years ago, but it's still real.
 
 | Loan Type | Typical Down Payment | Credit Score Minimum | Rate Premium vs. Primary Home Loan | Income Docs Required |

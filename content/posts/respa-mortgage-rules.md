@@ -56,8 +56,6 @@ If someone on your transaction team is steering you hard toward a specific servi
 | Third-party services selected by lender (e.g., appraisals) | 10% tolerance | Can increase up to 10% in aggregate across category |
 | Services you can shop independently (title insurance, settlement agent) | No tolerance limit | Can vary freely |
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The two disclosure documents that define your mortgage transaction both trace back to RESPA, though the specific forms were standardized through the 2015 TRID rule (TILA-RESPA Integrated Disclosure). If you've gotten a mortgage in the last decade, you've seen them.
 
 The Loan Estimate arrives within three business days of your completed application. It's a three-page standardized form that shows your loan terms, projected monthly payments, and estimated closing costs. The key word is "estimate" for some costs but not all. RESPA divides closing costs into tolerance tiers:

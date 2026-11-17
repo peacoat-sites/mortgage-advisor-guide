@@ -26,10 +26,6 @@ That earlier spike eventually settled. Rates came back down. And that's probably
 
 ## Why Floating Right Now Is Genuinely Risky
 
-> **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's the bear case for floating your rate and hoping for a dip. The next FOMC meeting is July 28-29, 2026, and a June projection shift from the Fed now signals a rate hike, not a cut, is more likely later this year. Mortgage rates don't move in lockstep with the Fed funds rate, but they're sensitive to expectations. When the market senses the Fed is turning hawkish, bond yields rise, and mortgage rates follow.
 
 On top of that, Bankrate's July 9-15 poll of mortgage experts found that 60% expect rates to rise further from here. And two critical data points drop before the Fed meeting: the CPI inflation report on July 15 and the PCE report on July 31. If either of those comes in hot, meaning inflation still running stubborn, rates could push meaningfully higher. If they come in soft, there might be a brief window of relief. That's a lot of "ifs" stacked on top of each other.
@@ -67,12 +63,12 @@ The real takeaway from this week isn't a prediction. It's that the free ride of 
 
 ## Sources
 
-- [Iran Ceasefire Collapse Sends Mortgage Rates Climbing Again ,  Mortgage Professional America](https://www.mpamag.com/us/mortgage-industry/market-updates/iran-ceasefire-collapse-sends-mortgage-rates-climbing-again/581891) (July 9, 2026)
-- [Mortgage Rates Move Above 6.5% As Oil Spikes Again ,  Bankrate](https://www.bankrate.com/mortgages/analysis/mortgage-rates-july-8-2026/) (July 8, 2026)
-- [Mortgage Rate Trends and Predictions for July 9–15, 2026 ,  Bankrate](https://www.bankrate.com/mortgages/rate-trends/) (July 8, 2026)
-- [Today's Mortgage Rates Rise Past 6.7%: July 9, 2026 ,  U.S. News](https://money.usnews.com/loans/mortgages/articles/mortgage-rates-today-july-9-2026) (July 9, 2026)
-- [Will Interest Rates Go Down in July? Predictions 2026 ,  The Mortgage Reports](https://themortgagereports.com/32667/mortgage-rates-forecast-fha-va-usda-conventional) (July 2, 2026)
-- [Should I Lock My Mortgage Rate Now? What the Ceasefire Means for Buyers ,  Better.com](https://better.com/content/should-i-lock-my-mortgage-rate-now-2026) (April 10, 2026)
+- [Iran Ceasefire Collapse Sends Mortgage Rates Climbing Again, Mortgage Professional America](https://www.mpamag.com/us/mortgage-industry/market-updates/iran-ceasefire-collapse-sends-mortgage-rates-climbing-again/581891) (July 9, 2026)
+- [Mortgage Rates Move Above 6.5% As Oil Spikes Again, Bankrate](https://www.bankrate.com/mortgages/analysis/mortgage-rates-july-8-2026/) (July 8, 2026)
+- [Mortgage Rate Trends and Predictions for July 9–15, 2026, Bankrate](https://www.bankrate.com/mortgages/rate-trends/) (July 8, 2026)
+- [Today's Mortgage Rates Rise Past 6.7%: July 9, 2026, U.S. News](https://money.usnews.com/loans/mortgages/articles/mortgage-rates-today-july-9-2026) (July 9, 2026)
+- [Will Interest Rates Go Down in July? Predictions 2026, The Mortgage Reports](https://themortgagereports.com/32667/mortgage-rates-forecast-fha-va-usda-conventional) (July 2, 2026)
+- [Should I Lock My Mortgage Rate Now? What the Ceasefire Means for Buyers, Better.com](https://better.com/content/should-i-lock-my-mortgage-rate-now-2026) (April 10, 2026)
 
 ---
 

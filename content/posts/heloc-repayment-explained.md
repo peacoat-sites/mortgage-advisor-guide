@@ -51,8 +51,6 @@ That's the wall.
 
 ## Variable Rate Risk Is Not a Side Note
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most HELOCs carry variable interest rates tied to the prime rate. When prime moves, your rate moves with it. This is in your loan documents, but loan officers tend to mention it once, quickly, and move on.
 
 Here's why it actually matters for repayment planning: your rate during the draw period might be very different from your rate when repayment kicks in. If you opened a HELOC in early 2022 and drew funds at 4%, you're probably carrying that same balance at 8.5% or higher now. Your future repayment payment gets calculated on a rate you couldn't have predicted when you signed.

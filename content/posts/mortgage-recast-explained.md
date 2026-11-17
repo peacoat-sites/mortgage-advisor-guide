@@ -41,8 +41,6 @@ The fee? Most lenders charge between $150 and $500. Not a typo. You're not refin
 
 ## Who This Actually Makes Sense For
 
-> **Helpful resource:** [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A recast isn't for everyone. It's useful in two main situations.
 
 The first: the "contingent buyer" scenario. You bought your new home before your old one sold, so you carried both mortgages for a few months. Now your old place has closed and you've got the proceeds. You don't want to refinance (maybe your current rate is fine, or a refi would reset you to a 30-year term and cost thousands in fees). You just want your payment on the new home to reflect that big chunk you're about to put down. This is where recast shines.

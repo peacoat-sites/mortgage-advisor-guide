@@ -43,8 +43,6 @@ When I was processing loan files, I'd see borrowers who'd been diligently paying
 
 ## What the Numbers Actually Look Like
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me make this concrete, because "you'll save a lot" is useless without context.
 
 | Extra Monthly Payment | Interest Saved (est.) | Years Cut Off 30-yr Term |

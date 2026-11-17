@@ -43,8 +43,6 @@ The seller sets everything: the purchase price, the interest rate, the down paym
 
 ## The Real Appeal, and Who It Actually Helps
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Land contracts show up most often in three situations: buyers who can't qualify for a [conventional loan](/conventional-loan-requirements/) right now, rural or distressed properties that are hard to finance through traditional channels, and sellers who want to generate installment income rather than take a lump sum. When all three conditions align, a land contract can genuinely help everyone involved.
 
 You might be wondering whether lenders look down on land contract history when you eventually try to refinance. It depends. If you've made 24 months of on-time payments and the transaction was structured cleanly, a lot of lenders will count that payment history positively. What they want to see is a written contract, clear payment records, and proof that you've been maintaining the property. Keep every receipt and every bank statement from day one.

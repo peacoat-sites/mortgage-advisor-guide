@@ -43,8 +43,6 @@ Here's what most people don't realize: this distinction isn't just a paperwork t
 
 ## The 2024 Numbers, Laid Out Clearly
 
-> **Helpful resource:** [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The FHFA adjusts conforming loan limits each year based on the Federal Housing Finance Agency House Price Index. In 2024, the baseline limit for a single-unit property rose to $766,550, up from $726,200 in 2023. That's a 5.56% increase, which tracked the annual home price appreciation data Fannie Mae published in their November 2023 release.
 
 Here's the full picture for standard-cost areas in 2024:

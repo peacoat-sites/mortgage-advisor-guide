@@ -45,8 +45,6 @@ The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.go
 
 ## How the Math Actually Works: The Break-Even Calculation
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the only number that matters when you're deciding whether to pay points. The break-even point tells you how long you need to stay in the loan before the monthly savings from your reduced rate cover what you paid upfront.
 
 **Step 1:** Get two loan quotes from your lender: one with points, one without. Make sure the only difference is the rate and the points cost. Everything else should be identical.

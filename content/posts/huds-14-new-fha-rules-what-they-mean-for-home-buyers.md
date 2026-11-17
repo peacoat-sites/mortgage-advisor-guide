@@ -32,10 +32,6 @@ You're probably not going to see $425 appear as a line item on your Loan Estimat
 
 ## The 203(k) Change: This One Is Worth Knowing About
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The Limited 203(k) rehabilitation loan lets you buy a home that needs work and roll the renovation costs into your mortgage. It's designed for projects under $75,000 that don't involve structural changes. Think kitchen updates, new roof, HVAC replacement. The old version of this program allowed only two draw requests per contractor, meaning money was released to your contractor in two installments as work was completed.
 
 That two-draw limit created real friction. Contractors weren't thrilled about financing large portions of the work themselves while waiting on disbursements. Some simply refused to take 203(k) jobs. The new rule allows up to four draws per contractor, which makes cash flow more manageable for the people you're trying to hire.

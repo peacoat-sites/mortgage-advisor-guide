@@ -58,8 +58,6 @@ What surprised me when I compared quotes from multiple private mortgage insurers
 | 720-759 | Better | 0.55%-0.75% | $160-$219 |
 | 760+ | Best Available | 0.5%-0.60% | $145-$175 |
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The difference between a 700 and a 750 credit score can be worth substantially more than $10 or $15 a month on PMI, making it worth attention during the application process.
 
 A borrower I was working with in the refinance department had a 702 score on a $400,000 loan with 8% down. Her PMI quote came in at 1.10% annually, which was $366/month. Six months later, after paying down a credit card and getting a score of 748, she refinanced and the PMI rate dropped to 0.54%, which was $180/month. That's $186 a month in savings just from a 46-point credit score improvement. Over two years, she recovered more than $4,400.

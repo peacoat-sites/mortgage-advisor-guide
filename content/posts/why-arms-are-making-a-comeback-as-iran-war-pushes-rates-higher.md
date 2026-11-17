@@ -32,8 +32,6 @@ This is the environment that's pushing buyers toward ARMs. Not because ARMs are 
 
 ## What an ARM Actually Is (and Isn't)
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 An adjustable-rate mortgage gives you a fixed rate for an initial period, then adjusts periodically based on a market index. The most common version right now is the 5/1 ARM, which means your rate is locked for five years, then adjusts once a year after that.
 
 Here's the part that matters practically. A Realtor.com senior economist ran the numbers on a median-priced home with 10% down and found a 5/1 ARM saves roughly $185 per month compared to a 30-year fixed. Over five years, that's more than $11,000 back in your pocket before the first adjustment ever hits.

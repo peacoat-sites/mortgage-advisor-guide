@@ -32,8 +32,6 @@ What most people don't realize is that [mortgage rates](/how-are-mortgage-rates-
 
 ## What a Rate Hike Actually Costs You
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let's make this concrete, because the difference between 6.75% and 7% feels abstract until you see the monthly payment.
 
 | Scenario | Rate | Monthly Payment (30-yr, $400K loan) | Added Monthly Cost vs. 6.75% |
@@ -73,12 +71,12 @@ What most people don't realize is that float-down options exist on many locks, l
 The July 28-29 Fed meeting isn't going to resolve the big picture questions about where rates are headed. But it will set the tone for the rest of summer. Stay close to the news on the 29th, have a real conversation with your loan officer before the announcement if you're actively in a transaction, and don't let the uncertainty paralyze you into making no decision at all. Sometimes no decision is actually the riskiest move of all.
 
 ## Sources
-- [The Mortgage Reports ,  2026 Mortgage Rate Forecast](https://themortgagereports.com/32667/mortgage-rates-forecast-fha-va-usda-conventional) (July 2026)
-- [The Mortgage Reports ,  July Fed Meeting Explainer](https://themortgagereports.com/133263/july-fed-meeting-rates) (July 24, 2026)
-- [U.S. News ,  Today's Mortgage Rates July 24, 2026](https://money.usnews.com/loans/mortgages/articles/mortgage-rates-today-july-24-2026) (July 24, 2026)
-- [Bankrate ,  Mortgage Rate Trends July 23–29, 2026](https://www.bankrate.com/mortgages/rate-trends/) (July 22, 2026)
-- [Mortgage-Info.com ,  2026 Rate Forecast Chart](https://mortgage-info.com/blog/mortgage-rate-forecast-2026-expert-predictions) (July 23, 2026)
-- [U.S. News ,  2026 Mortgage Rate Forecast](https://money.usnews.com/loans/mortgages/mortgage-rate-forecast) (July 17, 2026)
+- [The Mortgage Reports, 2026 Mortgage Rate Forecast](https://themortgagereports.com/32667/mortgage-rates-forecast-fha-va-usda-conventional) (July 2026)
+- [The Mortgage Reports, July Fed Meeting Explainer](https://themortgagereports.com/133263/july-fed-meeting-rates) (July 24, 2026)
+- [U.S. News, Today's Mortgage Rates July 24, 2026](https://money.usnews.com/loans/mortgages/articles/mortgage-rates-today-july-24-2026) (July 24, 2026)
+- [Bankrate, Mortgage Rate Trends July 23–29, 2026](https://www.bankrate.com/mortgages/rate-trends/) (July 22, 2026)
+- [Mortgage-Info.com, 2026 Rate Forecast Chart](https://mortgage-info.com/blog/mortgage-rate-forecast-2026-expert-predictions) (July 23, 2026)
+- [U.S. News, 2026 Mortgage Rate Forecast](https://money.usnews.com/loans/mortgages/mortgage-rate-forecast) (July 17, 2026)
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 

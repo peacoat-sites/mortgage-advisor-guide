@@ -43,8 +43,6 @@ The thing most people don't realize: some fees are legally "zero tolerance," mea
 
 ## Page 1: Read This Before Anything Else
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Top of page 1 is the loan terms box. It takes about 90 seconds to read and it tells you the most important things:
 
 Your loan amount, your interest rate, your monthly principal-and-interest payment, whether your rate can rise, whether your loan has a prepayment penalty, and whether it has a balloon payment. Many buyers skip straight to the settlement charges on page 2 and miss critical details like whether the rate is adjustable. If your rate can increase after closing, that option should be clearly marked, and you need to know about it before signing.

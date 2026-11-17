@@ -45,8 +45,6 @@ One more critical distinction: forbearance isn't deferment, and it's not [loan m
 
 ## Who Qualifies and How to Request It
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There's no universal eligibility formula. Forbearance terms vary based on loan type, your servicer's policies, and your hardship. The most common qualifying situations: job loss or income reduction, medical emergencies, divorce or separation, declared natural disaster, or a death in the household affecting income.
 
 If your mortgage is federally backed, which covers a large percentage of American mortgages, your options are more clearly defined. FHA loans, VA loans, USDA loans, and loans owned or guaranteed by Fannie Mae or Freddie Mac all come with specific forbearance protections. The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) maintains clear guidance on what borrowers with federally backed loans can request. Check their resources directly rather than relying solely on what your servicer tells you.

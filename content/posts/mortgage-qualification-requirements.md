@@ -61,8 +61,6 @@ Lenders verify that you have enough cash to close (down payment plus closing cos
 
 ## Debt-to-Income Ratio: The Number Borrowers Underestimate
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 DTI is your total monthly debt payments divided by your gross monthly income. Lenders look at two versions of it.
 
 The front-end DTI covers only your proposed housing payment (principal, interest, taxes, insurance, and HOA dues if applicable). The back-end DTI covers your housing payment plus all recurring debt: car loans, student loans, credit cards, personal loans, child support. Back-end DTI is the one that usually causes problems.

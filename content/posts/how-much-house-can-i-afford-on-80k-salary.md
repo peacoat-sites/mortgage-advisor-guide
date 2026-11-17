@@ -53,8 +53,6 @@ Same salary. Wildly different outcomes.
 
 ## What the 28% Rule Actually Means in Real Life
 
-> **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The "28% of gross income" guideline comes up constantly, and I used to recite it without thinking. What most people don't realize is that it was designed when mortgage payments were simpler. Property taxes in Texas or New Jersey can run $600–$900/month on a $300,000 house. Homeowners insurance has gone up sharply in coastal and wildfire-prone states. Throw in HOA fees of $250–$400/month in a condo building and suddenly your "affordable" mortgage payment is only half your actual housing cost.
 
 What I'd actually do: budget from the total monthly payment outward, not from the loan amount backward. Start with what you can realistically pay each month. Include taxes and insurance at realistic local rates. Then use a mortgage calculator to back into the home price. Freddie Mac's home buyer resources have a solid calculator for this that accounts for taxes and insurance separately, which the basic calculators often skip.

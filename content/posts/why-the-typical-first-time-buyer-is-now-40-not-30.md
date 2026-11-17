@@ -34,10 +34,6 @@ The October inflation number matters because it pushes the Fed's rate-cut timeli
 
 ## The Inheritance Effect: Who's Actually Buying
 
-> **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 That 10% cash-buyer statistic from NAR's 2026 Profile is worth pausing on. A record one in ten first-time buyers paid all cash this year. The median age of those cash buyers is 54. The median age of first-timers who took out a mortgage is 38.
 
 That gap tells a story. The buyers who can skip financing entirely are mostly people who've received an inheritance, liquidated another asset, or benefited from generational wealth transfers. They're not "first-time buyers" in the struggling-to-afford-it sense most people picture. They're stepping into homeownership sideways, using money that wasn't originally theirs to earn.
@@ -78,10 +74,10 @@ The housing market has changed structurally. The 40-year-old first-time buyer is
 ## Sources
 
 - [NAR: First-Time Home Buyer Share Inches Up to 22%, Median Age Remains at Record High of 40](https://www.nar.realtor/newsroom/first-time-home-buyer-share-inches-up-to-22-median-age-remains-at-record-high-of-40) (published November 5, 2026)
-- [Median First-Time Homebuyer Remains 40 Years Old ,  Banker & Tradesman](https://bankerandtradesman.com/median-first-time-homebuyer-age-remains-at-40-years-old/) (published November 6, 2026)
+- [Median First-Time Homebuyer Remains 40 Years Old, Banker & Tradesman](https://bankerandtradesman.com/median-first-time-homebuyer-age-remains-at-40-years-old/) (published November 6, 2026)
 - [Bankrate: Mortgage Rate Trends and Predictions, Nov. 12–18, 2026](https://www.bankrate.com/mortgages/rate-trends/) (published November 12, 2026)
 - [Carrington Wholesale: Weekly Housing Headlines](https://www.carringtonwholesale.com/2026/11/13/weekly-housing-headlines-104/) (published November 13, 2026)
-- [Prosperity Direct: Market Update ,  November 6, 2026](https://www.prosperity-direct.com/blog/market-update-november-6-2026) (published November 6, 2026)
+- [Prosperity Direct: Market Update, November 6, 2026](https://www.prosperity-direct.com/blog/market-update-november-6-2026) (published November 6, 2026)
 
 *Photo: [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto) via Pexels*
 

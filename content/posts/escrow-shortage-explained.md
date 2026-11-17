@@ -45,10 +45,6 @@ There's also a timing quirk. Because your servicer pays your bills before they'r
 
 ## Reading the Escrow Analysis Statement
 
-> **Helpful resource:** [Locking File Box for Mortgage and Financial Documents](https://www.amazon.com/dp/B09VW3KFVK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Your servicer is required to send you an annual escrow account statement. The document walks through what they expected to collect and pay last year versus what actually happened, and then projects the coming year. It can look like an accounting ledger from 1987. Here's what matters:
 
 The "shortage" line tells you how much the account went negative. The "projected escrow payment" section tells you what they estimate you'll need going forward. These are two separate things. You might have a $400 shortage from last year AND a higher monthly payment going forward because next year's taxes and insurance are also projected to be higher.

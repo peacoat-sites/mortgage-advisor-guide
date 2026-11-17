@@ -41,8 +41,6 @@ One detail most servicers won't volunteer: if you have an [escrow account](/mort
 
 ## The Programs, Side by Side
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The rules differ substantially depending on who owns your loan. Fannie Mae and Freddie Mac programs (which cover the majority of conventional mortgages) follow guidelines the [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) sets, and those have evolved since the pandemic. FHA and VA have their own deferral structures, with slightly different eligibility windows and repayment triggers. Here's a honest comparison as of August 2026:
 
 | Loan Type | Program Name | Max Months Deferrable | When Deferred Amount Is Due | Interest on Deferred Balance |

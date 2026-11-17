@@ -50,8 +50,6 @@ The deduction skews heavily toward higher-income borrowers with larger loans. Th
 
 If you're in a lower-cost market with a modest loan balance, the math probably won't work in your favor. Some borrowers are surprised at tax time to learn that a loan officer's mention of a deduction didn't account for the full picture. The loan officer may not have explained that the deduction only applies if you itemize, or that closing costs can offset the benefit.
 
-> **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Property Tax Deductions: The SALT Cap Still Bites
 
 You can also deduct property taxes, but only as part of the broader state and local tax (SALT) deduction, which is capped at $10,000 per household. If you're in a high-tax state paying $8,500 a year in property taxes, you've got $1,500 left in SALT room for state income taxes. People in New York or California often hit that $10,000 ceiling on property taxes alone.

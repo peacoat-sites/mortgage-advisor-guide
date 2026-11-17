@@ -28,8 +28,6 @@ What most people don't realize is that appraisal waivers already exist on a mean
 
 ## Your Closing Could Actually Go Digital, Finally
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I've sat at more closing tables than I can count, and the ritual of signing your name 40 times in wet ink while a notary watches the clock is, to put it plainly, absurd. The technology to do this remotely and electronically has existed for years. The regulatory patchwork preventing it from becoming standard practice is what the executive order is now targeting.
 
 EO 14393 directs HUD, VA, USDA, and FHFA to eliminate unnecessary wet-signature requirements and standardize electronic signatures, e-notes, and [remote online notarization](/what-the-new-housing-act-means-for-your-mortgage/) across federally backed mortgage programs. According to analysis from Mayer Brown published March 27, 2026, this represents a significant push to harmonize closing standards that have varied wildly by agency, by state, and by investor.

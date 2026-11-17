@@ -50,8 +50,6 @@ That closing cost difference is the first real reason to slow down before assumi
 
 ## The Rate Question (It's Complicated)
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Cash-out refinances typically carry lower interest rates than home equity loans. First liens are less risky to lenders than second liens, so the pricing reflects that. It's real, and it matters.
 
 But here's the thing: if you refinanced in 2020 or 2021 at 2.875% or 3.25%, a cash-out refi today means you're trading that rate for whatever the current market is offering on a 30-year fixed. As of mid-2024, that's likely somewhere north of 7%. You'd be applying that higher rate not just to the new money you're pulling out, but to your entire remaining mortgage balance. Sometimes that's $280,000. Sometimes it's $400,000.

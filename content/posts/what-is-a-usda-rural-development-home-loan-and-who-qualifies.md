@@ -42,8 +42,6 @@ The Guaranteed program doesn't have income floors. It has income ceilings. That 
 
 ## The Property Eligibility Question (This Is Where People Go Wrong)
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 "Rural" does not mean what you think it means.
 
 USDA eligibility maps are based on census population data, and they're updated periodically. Towns under 35,000 people can qualify. Properties on the edge of mid-size metro areas can show up as eligible because a county road separates them from incorporated city limits.

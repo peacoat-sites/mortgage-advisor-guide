@@ -34,8 +34,6 @@ The bill also includes provisions expanding FHA access and other affordability m
 
 ## The Constitutional Escape Hatch (Don't Get Too Excited)
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the wrinkle that some legal analysts flagged after the June 24 cancellation: under the Constitution, a bill passed by both chambers becomes law automatically if the president neither signs nor vetoes it within 10 business days while Congress is in session. Trump didn't veto the bill. He just canceled a ceremony.
 
 That sounds like a loophole worth watching. It might be. But a few things can complicate it. Congress can recess, which stops the clock. A president who wants to kill a bill without a veto has options. And even if the bill technically becomes law via inaction, enforcement and implementation aren't automatic. An administration that's unenthusiastic about a law has plenty of ways to slow-walk it.

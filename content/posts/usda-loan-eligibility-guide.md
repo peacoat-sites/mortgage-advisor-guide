@@ -37,8 +37,6 @@ The USDA loan isn't a fallback for buyers who can't qualify elsewhere. It's a ta
 
 ## The Property Eligibility Rule: It's Not Just Farmland
 
-> **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The single biggest misconception about USDA loans is that the property has to be agricultural. It doesn't. You don't need an acre of land, a barn, or any intention of farming. The geographic requirement is about population density, not land use.
 
 USDA defines eligible areas as rural, but that definition is broader than most people expect. Towns with populations under 35,000 can qualify, and some suburban-adjacent communities do as well, depending on how the USDA has drawn the boundaries. These boundaries get updated periodically, and areas that qualified last year may not qualify next year, and vice versa. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) tracks conforming loan limits and housing data by region, which helps illustrate how widely housing markets vary even within states.

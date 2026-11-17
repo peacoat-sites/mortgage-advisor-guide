@@ -41,8 +41,6 @@ The monthly savings number is also trickier than "old payment minus new payment.
 
 ## The Hidden Trap: Why Your Monthly Savings Number Is Probably Wrong
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Borrowers make this mistake constantly. They take their current mortgage payment, subtract the new projected payment, and call that the monthly savings. But that calculation ignores something critical: where you are in your amortization schedule.
 
 Mortgages are front-loaded with interest. Early on, most of your payment goes toward interest. As the loan ages, more goes toward principal. If you're six years into a 30-year mortgage and you refinance into a new 30-year loan, you're resetting that amortization clock. Even if your rate drops and your payment drops, you'll pay more in total interest over the life of the loan because you've added years back to the timeline.

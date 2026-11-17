@@ -43,8 +43,6 @@ You're entitled to a free copy of your credit report if you're denied, and the [
 
 ## The Six Real Reasons Applications Get Denied
 
-> **Helpful resource:** [Mortgages for Dummies by Eric Tyson](https://www.amazon.com/dp/1119697026?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most denials trace back to a handful of issues. Not dozens. Here's where they actually cluster:
 
 **Credit score below the loan's threshold.** Different loan types have different floors. Conventional loans (backed by Fannie Mae or Freddie Mac) generally want a 620 minimum; FHA loans go down to 580 with 3.5% down. Drop below 500 and almost no federally backed program will touch you. As of July 2026, many lenders have layered additional overlays (their own stricter requirements) on top of these minimums, so even if you technically qualify for an FHA loan at 580, specific lenders may require 620 or 640.

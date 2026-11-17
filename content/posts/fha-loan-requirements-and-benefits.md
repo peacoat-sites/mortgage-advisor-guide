@@ -43,8 +43,6 @@ One thing to understand upfront: because the FHA is backing the loan, they set m
 | 500 to 579 | 10% | Eligible |
 | Below 500 | N/A | Not eligible |
 
-> **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let's get specific. Vague answers don't help anyone making a real financial decision.
 
 **Credit Score and Down Payment**

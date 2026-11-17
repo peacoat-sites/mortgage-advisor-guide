@@ -54,8 +54,6 @@ This is one of the few areas where having a good mortgage broker actually pays o
 | Jumbo | Varies | 10-20%+ | 12 months+ housing payment | High loan amounts, self-employed |
 | Jumbo + Self-Employed | Varies | 10-20%+ | 12 months housing payment | High loan amounts with income documentation challenges |
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There's a whole category of loan products built specifically for borrowers who can't qualify the traditional way. Bank statement loans, sometimes called Non-QM (non-qualified mortgage) loans, let you use 12 or 24 months of business or personal bank statement deposits as your income documentation instead of tax returns.
 
 The appeal is obvious. If your deposits show $15,000 a month consistently, the lender uses a percentage of that (typically 50% for business accounts, sometimes 75-90% for personal) as your qualifying income. You're not penalized for aggressive tax write-offs.

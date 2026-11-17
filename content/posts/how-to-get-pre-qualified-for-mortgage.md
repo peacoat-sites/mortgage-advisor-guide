@@ -53,8 +53,6 @@ Think of pre-qualification as a financial reality check. Pre-approval is the doc
 
 ## What Lenders Look at During Pre-Qualification
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Even though pre-qualification is lighter-touch, lenders are still evaluating the same core factors they use for full underwriting. Understanding these helps you know where you stand before you pick up the phone.
 
 **Income.** Lenders want your gross monthly income (before taxes). This includes wages, salary, freelance income, rental income, anything regular. Self-employed borrowers should know upfront: lenders typically average two years of net income from tax returns, not what you've been pulling in lately.

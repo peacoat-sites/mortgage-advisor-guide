@@ -34,10 +34,6 @@ This is the environment that made the ROAD to Housing Act politically possible. 
 
 ## What the ROAD Act Actually Does for FHA Borrowers
 
-> **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 I'll be honest: most coverage of this bill has focused on the investor restriction provision, which is the politically satisfying part. The bill does restrict large institutional investors owning 350 or more single-family homes from purchasing additional properties, and requires them to report their holdings. That's a real change with real implications for competition in tight markets. But for someone applying for an FHA loan today, the provision that matters more is the small-dollar mortgage pilot program.
 
 Here's the fine print most articles are skipping. The program creates a pathway for FHA to back loans of $100,000 or less, specifically targeting rural buyers and low-income borrowers. The reason this pilot needs to exist at all is that current fee structures, including CFPB thresholds for what counts as a "high-cost" loan, make small-dollar lending economically unattractive for most lenders. The transaction costs are similar regardless of loan size, so profit margins on a $75,000 loan are genuinely thin. The bill directs the CFPB to study those thresholds and potentially adjust them. That's a meaningful structural fix, not just a press release.

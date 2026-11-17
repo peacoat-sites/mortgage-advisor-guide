@@ -49,10 +49,6 @@ State laws often go further. California, New York, and Illinois, among others, h
 
 ## What Discrimination Actually Looks Like Now
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 When I worked as an underwriter, I never once saw a loan officer write "denied because the applicant is Black" on a file. That's not how it works. What I did see were patterns that, when you stepped back, were hard to explain any other way.
 
 A borrower with a 720 credit score and a 20% down payment gets steered toward an FHA loan instead of a conventional one, which adds [mortgage insurance](/average-cost-of-private-mortgage-insurance-per-month/) they don't need and costs them more monthly. A self-employed woman of color gets asked for 18 months of bank statements when the standard ask is 12. A loan officer "forgets" to follow up with certain applicants and the file just sits.

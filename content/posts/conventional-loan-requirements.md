@@ -50,8 +50,6 @@ If you borrow above that limit, you're in jumbo territory, and the requirements 
 
 ## Credit Score Requirements: The Floor and the Reality
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The absolute minimum credit score for a conventional loan under Fannie Mae and Freddie Mac guidelines is 620. That's the floor. But here's what loan officers often don't tell you: qualifying at 620 and getting a good loan at 620 are two very different things.
 
 Mortgage pricing is driven by something called loan-level price adjustments, or LLPAs. These are risk-based fees that Fannie Mae and Freddie Mac charge based on your credit score, down payment, loan type, and other factors. The fees get built into your rate or paid upfront. A borrower with a 620 score and 5% down will pay significantly more for the same loan than a borrower with a 740 score and 20% down. The rate difference can be a full percentage point or more, which over a 30-year loan translates to tens of thousands of dollars in extra interest.

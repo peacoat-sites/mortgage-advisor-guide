@@ -40,8 +40,6 @@ Down payments are where a lot of first-time investors get caught. Conventional l
 
 ## What Underwriters Actually Look At
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what I tell people: you can have a strong credit score and still get declined for an investment property loan. The qualifying criteria are just different enough from primary home underwriting to trip people up.
 
 **Credit score.** You'll typically need a minimum of 680 to qualify for conventional investment property financing. 720 or above gets you meaningfully better pricing. Below 680, your options narrow fast, and you're likely looking at portfolio lenders or [hard money](/hard-money-loan-explained/), which I'll get to.

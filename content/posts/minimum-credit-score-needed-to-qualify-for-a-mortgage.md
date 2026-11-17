@@ -52,8 +52,6 @@ The single most confusing thing about credit score requirements is that they var
 
 ## Why Your Score Is Only Part of the Picture
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I saw this constantly in underwriting: a borrower with a 650 score who looked great on paper, and a borrower with a 720 score who had problems I couldn't ignore. [Credit score is an input](/credit-score-for-mortgage-approval/), not the whole application.
 
 Lenders are simultaneously evaluating your [debt-to-income ratio (DTI)](/debt-to-income-ratio-for-mortgage/), the stability and history of your income, your assets and reserves, and the property itself. A 620 score paired with a 28% DTI, two years of W-2 employment at the same company, and 10% down is a very different application than a 620 score with a 48% DTI, six months at a new job, and the minimum 3.5% down. Both borrowers technically "qualify" on paper at many lenders. Only one of them is likely to sail through underwriting without hiccups.

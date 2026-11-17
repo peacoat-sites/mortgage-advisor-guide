@@ -50,8 +50,6 @@ The core issue is stability. Lenders want to see that your income isn't a one-ye
 | Business license or proof of existence | Business legitimacy | 1 |
 | 4506-C form | IRS tax transcript authorization | 1 |
 
-> **Helpful resource:** [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Stated income loans are dead. They mostly disappeared after 2008, and for good reason. Today, you're going to document everything. The more organized you are before you apply, the faster this moves.
 
 Here's what most lenders will require for self-employed borrowers:

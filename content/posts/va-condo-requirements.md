@@ -39,8 +39,6 @@ What most people don't realize is that this approval can expire. A complex might
 
 ## The Approved vs. Unapproved Condo Problem
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The VA maintains a searchable database of approved condos. As of July 2026, you can look up any project using the VA's Condo Search tool at the official VA.gov portal. It takes about 90 seconds. Do it before you write an offer. Seriously. I've seen buyers fall in love with a unit, go through inspections, negotiate repairs, and then discover the project is unapproved. At that point, you have three options, and none of them are fun.
 
 **Option 1: Walk away.** Lose the time, potentially lose earnest money depending on your contract language.

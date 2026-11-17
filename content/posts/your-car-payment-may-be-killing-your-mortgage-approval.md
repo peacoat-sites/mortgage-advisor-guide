@@ -34,10 +34,6 @@ Student loans often get restructured into income-driven repayment plans with low
 
 ## The Numbers, Side by Side
 
-> **Helpful resource:** [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 To see how different debts actually affect your mortgage eligibility, the comparison looks something like this:
 
 | Debt Type | Typical Monthly Payment | Effect on DTI | Flexibility to Restructure? |
@@ -80,9 +76,9 @@ Talking to a HUD-approved housing counselor or an independent mortgage broker (n
 The broader point is this: buyers are walking into lender offices focused on their credit score and their down payment, which are real concerns. But a car loan they signed three years ago is quietly deciding the outcome. The loan officers surveyed already know it. Now you do too.
 
 ## Sources
-- [The Monthly Expense First-Time Homebuyers Overlook ,  Until Their Mortgage Application Fails](https://studyfinds.com/monthly-expense-first-time-homebuyers-overlook-until-mortgage-application-fails/) (July 2026)
+- [The Monthly Expense First-Time Homebuyers Overlook, Until Their Mortgage Application Fails](https://studyfinds.com/monthly-expense-first-time-homebuyers-overlook-until-mortgage-application-fails/) (July 2026)
 - [Car Payment Crisis: How Soaring Auto Debt Is Blocking the Path to Homeownership](https://www.mpamag.com/us/mortgage-industry/market-updates/car-payment-crisis-how-soaring-auto-debt-is-blocking-the-path-to-homeownership/564915) (February 2026)
-- [Weekly Mortgage Insights: July 20, 2026 ,  Gen Z Mortgage Lock Record](https://www.affinitygroupmortgage.com/weekly-mortgage-insights-july-20-2026-rates-trends-tips-for-homebuyers/) (July 20, 2026)
+- [Weekly Mortgage Insights: July 20, 2026, Gen Z Mortgage Lock Record](https://www.affinitygroupmortgage.com/weekly-mortgage-insights-july-20-2026-rates-trends-tips-for-homebuyers/) (July 20, 2026)
 - [Mortgage Rate Trends and Predictions for August 13–19, 2026](https://www.bankrate.com/mortgages/rate-trends/) (August 13, 2026)
 - [Mortgage Rate Predictions for August 2026](https://www.lendingtree.com/home/mortgage/rates/mortgage-interest-rates-forecast/) (August 2026)
 

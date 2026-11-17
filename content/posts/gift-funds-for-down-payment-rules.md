@@ -30,8 +30,6 @@ That's the whole thing. Repayment expectation is what turns a gift into a loan, 
 
 ## Who Can Give You a Gift, and Who Can't
 
-> **Helpful resource:** [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/dp/0812927427?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where borrowers get surprised. Not every person in your life qualifies as an acceptable gift donor under mortgage guidelines.
 
 For conventional loans (Fannie Mae/Freddie Mac), acceptable donors include family members, defined pretty broadly: spouses, children, parents, siblings, grandparents, aunts, uncles, domestic partners, and even fiancés. For FHA loans, the list is similar but also includes close friends "with a clearly defined interest in the borrower," which gives you a bit more flexibility in practice.

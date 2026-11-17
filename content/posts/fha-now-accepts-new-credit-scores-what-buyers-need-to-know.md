@@ -36,8 +36,6 @@ What surprised me was the framing from the government side. The joint announceme
 
 ## The Conventional Loan Precedent
 
-> **Helpful resource:** [Set for Life: Dominate Life, Money, and the American Dream](https://www.amazon.com/dp/0062953796?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be honest: FHA is actually late to this particular party. Fannie Mae and Freddie Mac began accepting FICO 10T and VantageScore 4.0 for conventional loans in 2025. Lenders and mortgage servicers have had roughly a year to build out systems and start learning how these models behave in practice. FHA's adoption now brings government-backed loans into alignment with that conventional market shift and, critically, extends it to the lower-down-payment borrowers who rely on FHA most heavily.
 
 That's the population this really matters for. FHA loans allow down payments as low as 3.5% for borrowers with scores of 580 or higher, and they've historically been the entry point for first-generation homebuyers and lower-income households. If VantageScore 4.0 or FICO 10T can score and qualify borrowers who couldn't get there under Classic FICO, the downstream effects on homeownership rates could be substantial. Whether they will be is a harder question, and the research on how lenders actually deploy multiple scoring models in their underwriting workflows is still early.
@@ -64,10 +62,10 @@ This is a genuine shift, and for the right borrower it could be the thing that g
 
 ## Sources
 
-- [HUD FHA INFO 2026-11 , FHA Adopts Modern Credit Scoring Models](https://www.hud.gov/hud-partners/single-family-fha-info) (May 2026)
-- [FHFA News Releases , Joint HUD/FHFA Announcement on Mortgage Competition](https://www.fhfa.gov/news/news-release) (April 22, 2026)
+- [HUD FHA INFO 2026-11, FHA Adopts Modern Credit Scoring Models](https://www.hud.gov/hud-partners/single-family-fha-info) (May 2026)
+- [FHFA News Releases, Joint HUD/FHFA Announcement on Mortgage Competition](https://www.fhfa.gov/news/news-release) (April 22, 2026)
 - [Freddie Mac Primary Mortgage Market Survey](https://www.freddiemac.com/pmms) (June 18, 2026)
-- [NerdWallet , June Mortgage Outlook 2026](https://www.nerdwallet.com/mortgages/news/mortgage-outlook-june-2026) (June 2026)
+- [NerdWallet, June Mortgage Outlook 2026](https://www.nerdwallet.com/mortgages/news/mortgage-outlook-june-2026) (June 2026)
 
 ---
 

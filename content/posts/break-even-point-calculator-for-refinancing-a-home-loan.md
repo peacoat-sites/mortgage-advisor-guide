@@ -42,8 +42,6 @@ What most people don't realize is how heavily closing costs vary. Title fees, le
 | Low savings scenario | $350,000 | 7.25% | 6.75% | ~$2,480 | ~$2,315 | ~$165 | $7,000 | 42+ |
 | Higher closing costs | $350,000 | 7.25% | 6.25% | ~$2,480 | ~$2,155 | ~$325 | $10,500 | 32 |
 
-> **Helpful resource:** [Home Buying Kit for Dummies](https://www.amazon.com/dp/1260116050?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me give you a realistic walkthrough.
 
 Say you have a $350,000 mortgage balance at 7.25% with 24 years left on a 30-year loan. You're looking at refinancing into a 6.25% rate on a new 30-year term. Your closing costs will be approximately $7,000 (a mix of origination fees, title work, appraisal, and prepaids).

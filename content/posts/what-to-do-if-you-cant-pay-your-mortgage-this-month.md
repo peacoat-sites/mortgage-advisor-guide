@@ -54,8 +54,6 @@ Before you call, get a few things ready. A rough explanation of why you can't pa
 | Principal Deferral | Varies | Permanent hardship | Deferred amount may be moved to loan end |
 | Short Sale or Deed-in-Lieu | Varies | Deciding to exit home | Last resort; less damaging than foreclosure |
 
-> **Helpful resource:** [Home Buyer's Checklist and Moving Planner Notebook](https://www.amazon.com/dp/B0B9PXKXB4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where things get genuinely complicated, and where loan officers sometimes oversimplify. The options available to you depend on what kind of loan you have, how far behind you are, and whether your hardship is temporary or permanent.
 
 **Forbearance** is the one most people heard about during COVID. It means your servicer temporarily pauses or reduces your required payment. You don't erase what you owe, you defer it. After the forbearance period ends, that deferred amount has to be resolved, and how it gets resolved matters enormously. With federally backed loans (FHA, VA, USDA, Fannie/Freddie conventional), the [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) has pushed for repayment options that spread those deferred payments out or move them to the end of the loan as a lump sum due when you sell or refinance. With non-QM or private loans, the terms can be much harsher. Ask specifically: "When forbearance ends, how is the deferred amount handled? Is a lump sum payment required?"

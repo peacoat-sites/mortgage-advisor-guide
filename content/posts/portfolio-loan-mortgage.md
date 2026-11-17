@@ -40,8 +40,6 @@ Community banks, credit unions, and some private lenders are the typical portfol
 
 ## Who Actually Needs One
 
-> **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's my honest take: portfolio loans aren't for most borrowers, and anyone who tells you otherwise is probably selling something.
 
 The conventional market handles the vast majority of buyers perfectly well. If you have a W-2 job, two years of tax returns, a credit score above 680, and a down payment, you'll get a conforming loan at a competitive rate and you'll be fine.

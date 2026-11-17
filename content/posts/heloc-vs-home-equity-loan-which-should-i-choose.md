@@ -58,8 +58,6 @@ That's the structural difference. Now here's where it actually matters.
 
 ## The Rate Question Is More Complicated Than It Looks
 
-> **Helpful resource:** [The Millionaire Real Estate Investor by Gary Keller](https://www.amazon.com/dp/1492368423?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Home equity loans come with fixed rates, which feels safer. In most rate environments, it is. You know your payment on day one, and it doesn't change whether the Fed raises rates three times or cuts them twice. For budgeting purposes, that's genuinely valuable.
 
 HELOCs are almost always variable, tied to the prime rate, which moves with Federal Reserve policy. When the Fed held rates near zero from 2020 through early 2022, HELOC borrowers were paying very little. When the Fed raised rates 525 basis points between March 2022 and July 2023, those same borrowers watched their monthly interest costs jump significantly. I've heard from people whose HELOC payments effectively doubled in under two years. Not a hypothetical. It happened.

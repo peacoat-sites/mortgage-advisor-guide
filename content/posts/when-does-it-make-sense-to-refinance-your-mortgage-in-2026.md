@@ -45,8 +45,6 @@ What struck me, looking at the numbers from the past two years, is how many borr
 | Same balance, longer timeline | $320,000 | $6,400 (2%) | $210 | ~30 months | No, if selling in 18 months |
 | Lower balance, no-closing-cost option | $280,000 | $0 (rate-embedded) | $140 | Extended via higher rate | Reassess vs. traditional refi |
 
-> **Helpful resource:** [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/dp/1524763438?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the one number that actually tells you whether to refinance: your [break-even month](/break-even-point-calculator-for-refinancing-a-home-loan/).
 
 It's simple. Refinancing costs money upfront, typically 2% to 5% of the loan balance in closing costs (origination fees, title insurance, appraisal, recording fees, and so on). Your lower monthly payment saves you money every month. Divide the cost by the monthly savings, and you get the number of months you need to stay in the home before the refinance actually pays off.
