@@ -1,6 +1,7 @@
 ---
 title: "Reading Your Closing Disclosure: What to Check Before Signing"
 date: 2026-07-21T17:05:51.734045+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what to look for on your closing disclosure form and catch errors before you sign. Key figures and terms explained."
 image: "/img/heroes/7821674.jpg"

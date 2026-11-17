@@ -1,6 +1,7 @@
 ---
 title: "401(k) Down Payment: What You Need To Know"
 date: 2026-07-18T16:42:42.690903+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to use your 401(k) for a down payment, including rules, taxes, and whether it makes financial sense."
 image: "/img/heroes/7937682.jpg"

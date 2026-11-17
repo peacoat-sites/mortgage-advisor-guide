@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You found the house. The listing went live at 8 a.m., and by noon your agent is texting that three offers are already on the table. You call back to ask what to do, and she says the same thing every agent says: "Do you have a pre-qual letter?" Without one, you're essentially showing up to a job interview with no resume. Pre-qualification is often the first real step in buying a home, yet most buyers treat it as an afterthought, something to grab quickly after they've already fallen in love with a property. That backward approach costs people houses every single year.
 

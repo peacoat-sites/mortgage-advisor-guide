@@ -23,7 +23,7 @@ faqs:
     a: "The biggest practical difference is the down payment: USDA requires zero, FHA requires 3.5%. USDA also typically carries lower annual mortgage insurance costs. The trade-off is that USDA has property location requirements and household income caps; FHA has neither."
   - q: "Can I refinance out of a USDA loan later?"
     a: "Yes. Once you've built enough equity and your credit profile qualifies, refinancing into a conventional loan is a common and often smart move. It lets you eliminate the USDA annual fee entirely if you've reached 80% loan-to-value."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most coverage of USDA loans focuses on two things: "zero down payment" and "rural areas." That's accurate the way a weather forecast that says "partly cloudy" is accurate. Technically true, almost useless without context.

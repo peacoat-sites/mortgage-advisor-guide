@@ -1,6 +1,7 @@
 ---
 title: "$5,000 Financing Contingency: Protect Your Home Purchase"
 date: 2026-07-23T17:08:44.643132+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how financing contingencies work in real estate deals. Understand your options, timelines, and how to protect your down payment."
 image: "/img/heroes/8292847.jpg"

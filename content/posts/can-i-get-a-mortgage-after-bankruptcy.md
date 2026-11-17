@@ -1,6 +1,7 @@
 ---
 title: "Getting a Mortgage After Bankruptcy: Your Path Forward"
 date: 2026-08-15T16:00:56.591429+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to rebuild credit and qualify for a mortgage after bankruptcy. Discover timing requirements, lender options, and steps to improve your application."
 image: "/img/heroes/8303380.jpg"

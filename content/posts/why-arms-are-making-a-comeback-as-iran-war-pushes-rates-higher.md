@@ -1,6 +1,7 @@
 ---
 title: "Why ARMs Are Making a Comeback as Iran War Pushes Rates Higher"
 date: 2026-07-16T16:59:01.272549+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Why ARMs Are Making a Comeback as Iran War Pushes Rates Higher. Discover how geopolitical tensions drive mortgage rate increases and ARM popularity."
 image: "/img/heroes/8292793.jpg"

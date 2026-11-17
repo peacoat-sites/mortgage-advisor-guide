@@ -1,6 +1,7 @@
 ---
 title: "One-Time Close Construction Loans: Save $3,000-$7,000"
 date: 2026-07-21T17:03:29.606084+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "One-time close construction loans streamline financing by combining construction and permanent mortgages. Learn how to save thousands on closing costs."
 image: "/img/heroes/33405084.jpg"

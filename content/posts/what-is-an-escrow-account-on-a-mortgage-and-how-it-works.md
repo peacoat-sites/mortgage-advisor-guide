@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most homebuyers sign their closing documents, see the line item for "escrow account," and nod like they understand it. But escrow accounts confuse many people.
 

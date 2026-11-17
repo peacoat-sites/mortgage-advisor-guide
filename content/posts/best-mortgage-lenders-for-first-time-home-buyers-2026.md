@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've found the house. The offer got accepted. And now your loan officer is rattling off terms like "LTV ratio," "PMI," "points," and "DTI" like you've been in the mortgage business for twenty years. Meanwhile, you're nodding along and quietly panicking, wondering if you're about to sign the most expensive document of your life without really understanding it. A common mistake among first-time buyers is walking into the lender selection process completely unprepared, then settling for the first pre-approval letter they receive without understanding what other options look like.
 

@@ -12,7 +12,7 @@ author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 slug: "ira-withdrawal-first-home"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting at a closing table, home of your dreams within reach, and your loan officer casually mentions you could pull from your IRA penalty-free to cover the down payment. Sounds like a lifeline. A common mistake is underestimating the tax bill that comes with an IRA withdrawal. Borrowers sometimes focus on the gross withdrawal amount and sign paperwork without fully understanding the tax consequences, only to face a shock at tax time.
 

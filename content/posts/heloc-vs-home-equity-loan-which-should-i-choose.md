@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A common mistake is not exploring all options before taking out a home equity loan. Someone who needs additional funds later may not realize they could have structured their initial loan differently, potentially avoiding a second application, additional closing costs, and another waiting period.
 

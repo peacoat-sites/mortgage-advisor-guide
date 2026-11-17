@@ -1,6 +1,7 @@
 ---
 title: "Mortgage Deferral Explained: How $380,000 Payments Get Delayed"
 date: 2026-08-05T17:13:47.580772+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand mortgage deferral: how it works, who qualifies, and what happens to your $380,000 loan when payments are paused."
 image: "/img/heroes/8292879.jpg"

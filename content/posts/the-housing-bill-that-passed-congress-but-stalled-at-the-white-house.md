@@ -14,7 +14,7 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 slug: "the-housing-bill-that-passed-congress-but-stalled-at-the-white-house"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you've been watching mortgage rates hover above 6.5% and waiting for some signal that relief is coming, this week probably felt like a cruel joke. Congress passed what Fortune called "the most significant housing bill in decades," and then the signing ceremony was canceled hours before it was supposed to happen.
 

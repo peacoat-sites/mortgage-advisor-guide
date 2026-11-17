@@ -12,7 +12,7 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 slug: "iran-peace-deal-and-the-fed-what-borrowers-must-know-now"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 The Iran peace deal was supposed to be the rate relief borrowers had been waiting for. It wasn't. Rates dipped briefly after negotiators reached a tentative agreement in mid-June 2026, then climbed right back up. If you're watching mortgage rates and trying to time a move, here's what the headlines are missing: the Iran conflict was only one blade of the scissors cutting into affordability. The Fed is holding the other one.

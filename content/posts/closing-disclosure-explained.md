@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people spend more time reading the menu at a new restaurant than they spend reading their Closing Disclosure. Many borrowers sign documents at the closing table without fully understanding what they agreed to. By that point, it's easy to feel exhausted and trust that someone else caught the details. But the Closing Disclosure is the single most important document in your entire mortgage transaction, and you legally have three business days to review it before anyone can ask you to sign anything. That window exists for a reason. Use it.
 

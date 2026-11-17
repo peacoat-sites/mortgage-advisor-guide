@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your credit score is not a verdict on you as a person. A credit score can feel deeply personal when it determines whether someone gets approved for a home loan. Many people feel anxious after pulling their score, but it's worth understanding how scores actually work.
 

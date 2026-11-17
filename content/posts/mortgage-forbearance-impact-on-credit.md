@@ -23,7 +23,7 @@ faqs:
    a: "A modification itself won't create a derogatory mark. The account stays current. However, some servicers add a comment code noting the modification, and future lenders may treat it as a risk signal depending on the loan type and their underwriting standards."
  - q: "How long does a forbearance stay on my credit report?"
    a: "The comment codes and notations a servicer adds during forbearance don't have a standard removal timeline the way a late payment (7 years) does. In practice, many notations fade into the background as your positive payment history builds back up. The bigger issue is that underwriters reviewing your full file can see the history regardless of how old it is."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most articles about mortgage forbearance and credit scores get the basic facts right and miss everything that actually matters. They'll tell you forbearance won't automatically tank your credit. True. They won't tell you what happens six months later when you apply for a new loan and the underwriter pulls your file.

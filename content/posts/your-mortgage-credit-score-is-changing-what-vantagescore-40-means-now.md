@@ -1,6 +1,7 @@
 ---
 title: "Your Mortgage Credit Score Is Changing: What VantageScore 4.0 Means Now"
 date: 2026-07-10T17:33:48.654003+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how VantageScore 4.0 is transforming mortgage credit scores, what changes to expect, and how this shift could impact your home loan approval and rates."
 image: "/img/heroes/19867473.jpg"

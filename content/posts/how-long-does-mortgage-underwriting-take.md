@@ -1,6 +1,7 @@
 ---
 title: "How Long Does Mortgage Underwriting Take: 43 Days Explained"
 date: 2026-07-17T16:51:47.518944+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover what happens during mortgage underwriting and why the process typically takes 43 days. Learn timelines and how to speed things up."
 image: "/img/heroes/7731402.jpg"

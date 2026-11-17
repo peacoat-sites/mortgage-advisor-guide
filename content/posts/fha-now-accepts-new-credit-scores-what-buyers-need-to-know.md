@@ -12,7 +12,7 @@ author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 slug: "fha-now-accepts-new-credit-scores-what-buyers-need-to-know"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people assume their credit score is their credit score. One number, one fate. Credit scoring is actually more complex than a single number, and changes in how lenders evaluate creditworthiness could benefit millions of potential homebuyers.
 

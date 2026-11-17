@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people think a credit score below 620 means the door's closed. You apply, get rejected, and wait years to try again. I believed that too, starting out. Then I spent sixteen years watching people with scores in the 500s close on homes while folks with 680s got turned away. The score matters, sure. But the full picture is messier, and far more hopeful, than most loan officers bother explaining.
 

@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most preapproval guides tell you to "gather your documents and contact a lender." That's about as useful as telling someone to "buy low, sell high." What they skip is the sequence, the friction points, and the three or four places where borrowers quietly torpedo their own applications before they've even found a house.
 

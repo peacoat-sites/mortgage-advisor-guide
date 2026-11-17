@@ -12,7 +12,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You already know the short sale saved you. What you might be wondering now is how badly it's going to cost you on the other side.
 

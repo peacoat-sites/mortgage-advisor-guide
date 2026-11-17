@@ -1,6 +1,7 @@
 ---
 title: "Jumbo Loan Limits and Requirements for 2026"
 date: 2026-08-04T17:25:34.573830+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn about 2026 jumbo loan limits, eligibility requirements, interest rates, and how they differ from conventional mortgages."
 image: "/img/heroes/17627997.jpg"

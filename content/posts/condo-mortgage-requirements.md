@@ -1,6 +1,7 @@
 ---
 title: "Condo Mortgage Requirements: What Lenders Actually Need"
 date: 2026-07-25T16:38:46.834457+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what lenders require to approve a condo mortgage, including documentation, property standards, and approval timelines."
 image: "/img/heroes/221506.jpg"

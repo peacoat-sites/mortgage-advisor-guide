@@ -1,6 +1,7 @@
 ---
 title: "Home Appraisal Process: What Happens When an Appraiser Inspects Your House"
 date: 2026-08-07T00:51:19.259610+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand how home appraisals work, what appraisers evaluate, and why the appraisal value matters for your mortgage and sale."
 image: "/img/heroes/8482517.jpg"

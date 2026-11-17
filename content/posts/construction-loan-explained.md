@@ -1,6 +1,7 @@
 ---
 title: "20% Down and 12 Months to Build: Construction Loans Explained"
 date: 2026-07-12T16:41:36.068729+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how construction loans work, what the 20% down payment covers, and how to manage draws on a $400,000 build from start to finish."
 image: "/img/heroes/33405084.jpg"

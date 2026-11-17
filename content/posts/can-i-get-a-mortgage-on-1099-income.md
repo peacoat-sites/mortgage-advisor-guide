@@ -1,6 +1,7 @@
 ---
 title: "Getting a Mortgage on 1099 Income: What Lenders Want"
 date: 2026-08-02T16:40:26.487175+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how self-employed borrowers can qualify for mortgages with 1099 income, including documentation requirements and lender options."
 image: "/img/heroes/6694964.jpg"

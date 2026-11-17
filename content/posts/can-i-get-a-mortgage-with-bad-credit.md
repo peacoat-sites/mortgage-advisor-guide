@@ -1,6 +1,7 @@
 ---
 title: "Getting a Mortgage With Bad Credit: What Actually Works"
 date: 2026-07-08T17:15:21.286028+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Bad credit doesn't mean no mortgage. Learn which loan types accept low scores, what lenders really look for, and how to boost your approval odds fast."
 image: "/img/heroes/618158.jpg"

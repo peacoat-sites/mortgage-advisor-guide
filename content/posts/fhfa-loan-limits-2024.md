@@ -1,6 +1,7 @@
 ---
 title: "$766,550 FHFA Loan Limits 2024: What Changed"
 date: 2026-08-11T16:40:50.892753+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "2024 FHFA loan limits increased significantly. See the new conforming loan limits by property type and region."
 image: "/img/heroes/8482511.jpg"

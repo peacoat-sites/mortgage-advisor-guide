@@ -1,6 +1,7 @@
 ---
 title: "Loan Estimate Mortgage Guide: Comparing Offers"
 date: 2026-07-31T17:12:49.777198+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to read and compare loan estimates when shopping for a mortgage. Understand fees, rates, and terms before you sign."
 image: "/img/heroes/36021672.jpg"

@@ -12,7 +12,7 @@ author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
 slug: "gift-funds-for-down-payment-rules"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Someone called me last week, two days before their closing date, panicking because their lender had just flagged a $15,000 deposit in their bank account. It was a gift from her parents. She'd had it sitting there for six weeks. And nobody had told her she needed a gift letter.
 

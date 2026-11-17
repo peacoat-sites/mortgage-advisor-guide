@@ -1,6 +1,7 @@
 ---
 title: "50% Rule: Splitting Your Mortgage After Divorce"
 date: 2026-07-27T17:25:18.675654+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to handle mortgage payments and ownership after divorce, including refinancing options and legal considerations for both spouses."
 image: "/img/heroes/7641834.jpg"

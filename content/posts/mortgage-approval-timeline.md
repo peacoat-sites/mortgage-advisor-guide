@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You submitted your mortgage application on a Monday. By Thursday, you're refreshing your email every twenty minutes wondering if no news is good news. By the following Wednesday, you're convinced something is wrong. Sound familiar? The mortgage approval timeline is one of the most anxiety-inducing parts of buying a home, mostly because nobody explains it upfront. Loan officers quote you a closing date, hand you a checklist, and then the process disappears into a black box. What I want to do here is open that box.
 

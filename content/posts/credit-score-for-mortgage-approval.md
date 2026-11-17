@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your credit score is a three-digit number that can mean the difference between a 6.5% mortgage rate and a 7.8% rate on a $350,000 loan. Run those numbers and you're looking at a gap of roughly $300 per month, or tens of thousands of dollars over the life of the loan. Borrowers often leave closing confused about higher-than-expected rates, which frequently traces back to a credit score that hasn't been checked in years.
 

@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You fill out a mortgage application feeling reasonably confident. Good job, money in the bank, no major debt. Then the loan officer calls back and tells you that you don't qualify. No explanation that actually makes sense. Just a polite version of "no." This happens to thousands of people every year, and in most cases it's completely preventable. The problem isn't that borrowers are bad financial risks. The problem is that almost nobody explains what lenders are actually looking for before you apply.
 

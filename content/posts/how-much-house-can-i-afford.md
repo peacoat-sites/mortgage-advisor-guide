@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Former Mortgage Underwriter"
 author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most buyers walk into a lender's office knowing exactly one number: the [pre-approval amount](/mortgage-pre-approval-process/). They treat it like scripture. A common mistake is treating a pre-approval amount as a target rather than a ceiling. Many buyers discover months later that the monthly payment strains their budget more than expected. A pre-approval tells you what a lender is willing to risk. It tells you almost nothing about what you can actually afford.
 

@@ -1,6 +1,7 @@
 ---
 title: "Mortgage Origination Fees: What $2,000 Really Covers"
 date: 2026-07-14T16:55:10.356948+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand mortgage origination fees, how lenders calculate them, and what you're actually paying for when buying a $400,000 home."
 image: "/img/heroes/8292879.jpg"

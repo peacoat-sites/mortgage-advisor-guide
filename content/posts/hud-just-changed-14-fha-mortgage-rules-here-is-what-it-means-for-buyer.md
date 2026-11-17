@@ -12,7 +12,7 @@ author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 slug: "hud-just-changed-14-fha-mortgage-rules-here-is-what-it-means-for-buyer"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 First-time buyers often encounter surprise closing costs with FHA loans, such as a $425 fee for an appraisal field review explained in minimal detail. Many don't push back because they're unaware they can negotiate. These kinds of charges quietly drain money from buyers who can least afford it.
 

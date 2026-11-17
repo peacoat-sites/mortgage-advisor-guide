@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You saved up $12,000, your credit score sits at 620, and the [conventional loan](/conventional-loan-requirements/) officer just told you to come back when you have 20% down. Sound familiar? That scenario plays out in loan offices across the country every week, and it's exactly the situation FHA loans were designed to solve. But here's what most people miss: FHA loans aren't just a consolation prize for buyers who can't qualify for conventional financing. For the right borrower, they're a genuinely strategic choice. The key is understanding what you're actually getting, including the parts your loan officer might not volunteer.
 

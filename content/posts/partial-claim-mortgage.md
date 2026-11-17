@@ -23,7 +23,7 @@ faqs:
     a: "Yes, but the partial claim typically must be paid off at closing unless HUD agrees to subordinate it. HUD will sometimes allow subordination for rate-and-term refinances where you're not pulling out equity. Cash-out refinances are harder to get approved for subordination. Talk to a HUD-approved housing counselor before assuming either outcome."
   - q: "What happens to the partial claim if I sell my home?"
     a: "The balance is paid from sale proceeds at closing, just like any other lien on the property. Your title company will identify it and include it in the payoff figures. Since no interest has accrued, you repay exactly the original amount HUD advanced."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most borrowers have never heard of a partial claim until they're already in trouble. That's a problem.

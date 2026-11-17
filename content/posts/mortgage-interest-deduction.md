@@ -1,6 +1,7 @@
 ---
 title: "Mortgage Interest Deduction: $750,000 Limit Changes by 2026"
 date: 2026-07-15T17:01:17.699167+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how the mortgage interest deduction works, current $750,000 cap, and what changes arrive in 2026 for homeowners."
 image: "/img/heroes/23224993.jpg"

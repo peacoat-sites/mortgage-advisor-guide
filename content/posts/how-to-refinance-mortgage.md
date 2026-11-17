@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your neighbor just mentioned she refinanced and cut her monthly payment by several hundred dollars. You're three years into a 30-year mortgage you took out when rates were near historic highs. Now you're wondering if you've been leaving money on the table.
 

@@ -1,6 +1,7 @@
 ---
 title: "Owner Financing Risks: What Buyers and Sellers Must Know"
 date: 2026-07-28T17:13:42.053181+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Owner financing can bypass banks but carries significant risks. Learn what protections buyers and sellers need before signing."
 image: "/img/heroes/8292854.jpg"

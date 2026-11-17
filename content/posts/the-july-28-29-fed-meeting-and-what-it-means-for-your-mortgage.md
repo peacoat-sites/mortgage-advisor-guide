@@ -1,6 +1,7 @@
 ---
 title: "The July 28-29 Fed Meeting and What It Means for Your Mortgage"
 date: 2026-07-26T16:40:22.590924+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "The Federal Reserve meets July 28-29. Learn how their decision on interest rates will impact your mortgage payments and what homebuyers should expect next."
 image: "/img/heroes/29624323.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "760 Credit Score, Self-Employed: Can You Get a Mortgage?"
 date: 2026-07-11T16:38:28.657409+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Self-employed borrowers can qualify for a mortgage. Learn what lenders check, from credit scores to income docs, and how to boost your approval odds."
 image: "/img/heroes/6919716.jpg"

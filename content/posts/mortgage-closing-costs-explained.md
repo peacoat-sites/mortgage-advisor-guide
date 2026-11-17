@@ -25,7 +25,7 @@ author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
 
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've found the house. You've locked your rate. You've started packing boxes. Then the Closing Disclosure lands in your inbox and you see a number that stops you cold: $9,400 in closing costs on top of your down payment. Nobody warned you it would be this much. This moment often catches buyers off guard, but it's almost always preventable with a little preparation.
 

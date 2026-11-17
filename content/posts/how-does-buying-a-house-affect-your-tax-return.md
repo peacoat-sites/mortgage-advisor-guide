@@ -1,6 +1,7 @@
 ---
 title: "How Buying a House Affects Your Tax Return"
 date: 2026-08-08T16:12:53.530204+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how homeownership impacts your taxes, including deductions, credits, and filing changes when you purchase a house."
 image: "/img/heroes/7821543.jpg"

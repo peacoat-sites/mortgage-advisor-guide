@@ -12,7 +12,7 @@ author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
 slug: "why-the-fed-may-hike-rates-next-and-what-that-means-for-your-mortgage"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 You locked in your rate sheet three weeks ago, did a quick mental calculation, and thought the worst was behind you. Then June 17 happened, and suddenly the loan officer who'd been talking about "upcoming cuts" got very quiet.

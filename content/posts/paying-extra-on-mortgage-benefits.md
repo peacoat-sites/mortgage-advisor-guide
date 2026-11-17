@@ -1,6 +1,7 @@
 ---
 title: "Extra Mortgage Payments: How They Accelerate Your Payoff"
 date: 2026-08-12T16:40:33.753866+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how paying extra on your mortgage reduces interest, builds equity faster, and shortens your loan term. Explore the real financial benefits."
 image: "/img/heroes/7731330.jpg"

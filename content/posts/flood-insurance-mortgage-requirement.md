@@ -1,6 +1,7 @@
 ---
 title: "Flood Insurance Mortgage Requirements: What Lenders Demand"
 date: 2026-07-16T16:56:28.202620+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn when lenders require flood insurance, how it protects your mortgage, and what homeowners need to know about mandatory coverage."
 image: "/img/heroes/14823610.jpg"

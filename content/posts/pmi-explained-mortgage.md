@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting at the [closing](/mortgage-closing-costs-explained/) table, flipping through a stack of documents, and you spot a line item you don't recognize: "PMI premium, $187/month." Nobody mentioned this during your pre-approval call. Your loan officer brushes past it like it's nothing. But over the next seven years? That's more than $15,000 leaving your pocket for a product that protects the lender, not you. That's the reality of private mortgage insurance, and it catches buyers off guard every single day.
 

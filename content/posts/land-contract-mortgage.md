@@ -23,7 +23,7 @@ faqs:
    a: "Almost always yes, though the amount is negotiated rather than dictated by lending guidelines. Sellers typically want somewhere between 5% and 20%, but there's no industry standard. A larger down payment often means better terms, but it also means more equity at risk if the deal goes wrong."
  - q: "Can I get homeowner's insurance on a land contract property?"
    a: "Yes, and you absolutely should. Most insurers will write a policy for a buyer with equitable title. Make sure the policy names both you and the seller (as the legal title holder) appropriately, and keep documentation that you're current on your premiums."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Land contracts often appeal to borrowers who've been turned down by traditional lenders, have lower credit scores, or are self-employed with tax returns that complicate income verification. If you're considering one, it's reasonable to feel both intrigued and cautious. That's completely reasonable.
 

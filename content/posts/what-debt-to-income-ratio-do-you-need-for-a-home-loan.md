@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Many people believe their [credit score](/credit-score-for-mortgage-approval/) is the primary factor lenders consider. In reality, lenders focus heavily on debt-to-income ratio after a quick review of the credit score. Borrowers with excellent credit can be rejected while those with mediocre scores get approved, depending on DTI. Running the numbers on your DTI before applying for a mortgage is essential.
 

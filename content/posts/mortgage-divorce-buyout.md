@@ -1,6 +1,7 @@
 ---
 title: "Mortgage Divorce Buyout: How to Buy Out Your Ex's Stake"
 date: 2026-07-13T17:45:07.427178+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to buy out your ex-spouse's share of the mortgage and home equity during divorce, including financing options and legal steps."
 image: "/img/heroes/7841838.jpg"

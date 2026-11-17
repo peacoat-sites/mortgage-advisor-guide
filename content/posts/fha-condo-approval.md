@@ -23,7 +23,7 @@ faqs:
     a: "Not directly. FHA rates are driven by your credit profile, loan amount, and broader market conditions, not by whether the project has full approval or went through SUA. What approval status does affect is which loan products are available to you, which can indirectly change your rate if you have to switch from FHA to conventional."
   - q: "What happens if the condo project's FHA approval expires after I close?"
     a: "Nothing. Your loan is already closed and FHA-insured. Approval expiration matters to future buyers trying to use FHA financing in that project, not to you. If you eventually sell and your buyer wants FHA, they'd need to check current approval status at that time."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most buyers shopping for a condo with an FHA loan don't realize the property itself has to be approved, not just them. This creates a common problem: a borrower with strong finances can still face denial if the condo association's paperwork is incomplete. For example, missing forms or documentation from years past can hold up approval. Many loan officers focus heavily on the borrower's file and don't flag property-side issues early enough.

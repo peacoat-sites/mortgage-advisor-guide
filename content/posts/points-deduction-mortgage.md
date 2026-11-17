@@ -1,6 +1,7 @@
 ---
 title: "Points Deduction on Mortgages: Save $2,000+ or Pay More?"
 date: 2026-07-30T17:11:24.257153+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how mortgage points work, when $2,000-$8,000 in upfront costs make sense, and if paying points actually saves you money long-term."
 image: "/img/heroes/20251480.jpg"

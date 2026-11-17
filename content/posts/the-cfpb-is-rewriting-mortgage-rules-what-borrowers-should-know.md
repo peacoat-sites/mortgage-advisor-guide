@@ -1,6 +1,7 @@
 ---
 title: "The CFPB Is Rewriting Mortgage Rules: What Borrowers Should Know"
 date: 2026-07-19T16:39:16.762482+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "The CFPB is implementing major mortgage rule changes. Learn what borrowers need to know about new regulations, timelines, and how they affect your home loan opt"
 image: "/img/heroes/7731330.jpg"

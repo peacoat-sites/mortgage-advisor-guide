@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A low appraisal doesn't kill a deal. It just changes the math in ways most buyers aren't prepared for, and that panic is exactly what sellers and listing agents count on.
 

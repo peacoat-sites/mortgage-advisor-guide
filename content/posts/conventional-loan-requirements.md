@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A common obstacle emerges after pre-approval: underwriters discover issues that weren't caught earlier, like collections accounts, a debt-to-income ratio that's too high, or a down payment without proper documentation. Many borrowers don't realize these problems matter until it's difficult to fix them cleanly.
 

@@ -1,6 +1,7 @@
 ---
 title: "Pay Off Your $350,000 Mortgage in 20 Years Instead of 30"
 date: 2026-08-14T16:36:51.548050+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the real benefits of early mortgage payoff, from massive interest savings to building equity faster and achieving financial freedom sooner."
 image: "/img/heroes/8292888.jpg"

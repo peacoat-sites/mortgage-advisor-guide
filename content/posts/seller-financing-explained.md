@@ -23,7 +23,7 @@ faqs:
    a: "The note doesn't disappear. It becomes an asset of the seller's estate, and you'd make payments to whoever inherits or manages that estate. This is exactly why having a properly recorded mortgage or deed of trust matters: it protects you regardless of what happens on the seller's side."
  - q: "Is seller financing the same as a lease-option?"
    a: "No. A lease-option (or rent-to-own) is a rental agreement with an option to purchase later, and you don't build equity during the lease period unless the contract specifies otherwise. Seller financing is an actual sale with actual title transfer (except in a land contract). They're often confused, but the legal and financial implications are completely different."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people assume that getting a mortgage means going through a bank. Full stop. That assumption costs some buyers real opportunities.

@@ -1,6 +1,7 @@
 ---
 title: "How Much House a $100K Salary Can Actually Buy"
 date: 2026-07-08T17:12:58.804711+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Find out exactly how much house you can afford on a $100k salary, including loan limits, down payment tips, and real budget breakdowns."
 image: "/img/heroes/7641853.jpg"

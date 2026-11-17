@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You got your first mortgage statement in the mail, and there it was. A line item called "escrow" eating up hundreds of dollars every month that nobody actually explained. Not a little either. This exact moment of confusion has crossed my desk hundreds of times throughout my career. The good news: it's not an error on the statement. The less good news: escrow is something lenders deliberately downplay during sales conversations because it makes your total payment feel smaller when you're deciding whether to buy.
 

@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're probably staring at your loan estimate right now, squinting at a line that says "Discount Points: 1.000 ($3,200)" and wondering if you just got offered a gift or walked into a trap. Your loan officer probably made it sound obvious: "buy the rate down" and save money every month. Here's what I'd tell you in that moment: pump the brakes. It's not a scam, but it's not always the deal it sounds like either.
 

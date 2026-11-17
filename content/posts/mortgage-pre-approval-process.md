@@ -23,7 +23,7 @@ author: "Robert Kim"
 author_slug: "robert-kim"
 author_title: "Refinancing Expert"
 author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A common scenario: one buyer arrives with a pre-approval letter, no contingencies, offering paperwork that tells the seller everything they need to know. Buyers who miss out often say afterward: "I didn't think I needed to do that part yet." Pre-approval isn't something you handle after you find the house. It's the work you do so you're ready when the house finds you.
 

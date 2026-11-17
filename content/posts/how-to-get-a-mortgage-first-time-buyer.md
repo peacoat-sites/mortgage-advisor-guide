@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit & Qualification Specialist"
 author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most first-time buyers walk into a lender's office convinced the mortgage process starts with finding a house. It doesn't. By the time you've fallen in love with a property, made an offer, and started negotiating, the financial decisions that actually determine what you can afford and what you'll pay have already been made, or should have been. Borrowers who start the mortgage process after finding a house often lose out on better rates, overpay tens of thousands in interest, or end up in loan products they don't fully understand.
 

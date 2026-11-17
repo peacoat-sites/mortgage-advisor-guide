@@ -1,6 +1,7 @@
 ---
 title: "Virginia Condo Requirements: What Buyers Need To Know"
 date: 2026-07-14T16:57:10.535996+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the essential VA condo requirements for buyers, owners, and developers. Understand regulations, HOA rules, and what to expect before purchasing."
 image: "/img/heroes/27015421.jpg"

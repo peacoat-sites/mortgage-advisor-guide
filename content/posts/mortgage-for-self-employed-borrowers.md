@@ -23,7 +23,7 @@ author: "Maria Santos"
 author_slug: "maria-santos"
 author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You run your own business, your accountant is brilliant at minimizing your taxable income, and you just got turned down for a mortgage. Sound familiar? This trap catches self-employed borrowers every single time. The same tax strategy that saves you thousands in April becomes the thing that kills your loan application in June. After 16 years underwriting loans, I can tell you that self-employed borrowers aren't riskier than W-2 employees. They just need to understand a completely different rulebook before walking into a lender's office.
 

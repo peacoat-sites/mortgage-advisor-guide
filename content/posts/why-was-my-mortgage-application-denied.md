@@ -1,6 +1,7 @@
 ---
 title: "Mortgage Denied? 7 Real Reasons Lenders Reject Applications"
 date: 2026-07-09T17:45:56.630123+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Find out exactly why your mortgage application was denied and what steps you can take now to fix the problem and get approved."
 image: "/img/heroes/7731323.jpg"

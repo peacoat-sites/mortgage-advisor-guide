@@ -1,6 +1,7 @@
 ---
 title: "How Much House Can You Afford on a $60K Salary?"
 date: 2026-07-11T16:40:27.871332+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Find out how much home a $60,000 salary can buy, what lenders look for, and tips to maximize your buying power in any market."
 image: "/img/heroes/8293651.jpg"

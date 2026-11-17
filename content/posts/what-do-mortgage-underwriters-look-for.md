@@ -1,6 +1,7 @@
 ---
 title: "What Mortgage Underwriters Look For Before Approving You"
 date: 2026-07-10T17:31:26.491676+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the key factors mortgage underwriters evaluate, from income and credit to assets and property value, so you can get approved with confidence."
 image: "/img/heroes/8292888.jpg"

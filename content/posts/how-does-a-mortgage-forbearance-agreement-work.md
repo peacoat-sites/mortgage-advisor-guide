@@ -1,6 +1,7 @@
 ---
 title: "Mortgage Forbearance: Pause Payments Without Losing Your Home"
 date: 2026-07-17T16:54:03.281500+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how mortgage forbearance agreements let you temporarily pause or reduce payments during financial hardship without defaulting on your loan."
 image: "/img/heroes/8293742.jpg"

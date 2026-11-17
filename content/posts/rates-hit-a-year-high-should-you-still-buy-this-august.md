@@ -1,6 +1,7 @@
 ---
 title: "Rates Hit a Year High: Should You Still Buy This August?"
 date: 2026-08-07T16:37:26.208012+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Mortgage rates reached their highest level in a year. Discover whether now is still the right time to buy a home this August and what experts recommend."
 image: "/img/heroes/8293650.jpg"

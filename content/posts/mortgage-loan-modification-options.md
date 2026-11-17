@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market Analyst"
 author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A job loss, medical crisis, or major change in household income can leave you unable to make your mortgage payment. When that happens, the fear is real. Lenders have far more tools to help than they voluntarily advertise. Loan modification is a formal process with rules, timelines, and outcomes. Understanding how it works before you call your servicer can mean the difference between keeping your home and losing it.
 

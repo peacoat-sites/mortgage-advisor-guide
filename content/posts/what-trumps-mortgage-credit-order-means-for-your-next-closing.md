@@ -12,7 +12,7 @@ author_title: "First-Time Buyer Coach"
 author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
 slug: "what-trumps-mortgage-credit-order-means-for-your-next-closing"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 A low appraisal can derail a deal even weeks before closing, causing the seller to grow nervous and potentially killing the transaction. This kind of grinding, expensive friction is what a sweeping executive order signed in March is now directly targeting.
 

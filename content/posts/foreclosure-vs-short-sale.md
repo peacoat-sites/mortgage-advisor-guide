@@ -1,6 +1,7 @@
 ---
 title: "Foreclosure vs Short Sale: Which Path Saves Your Credit"
 date: 2026-08-01T16:41:25.091629+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare foreclosure and short sale options to understand how each affects your credit score, finances, and timeline when facing home loss."
 image: "https://images.pexels.com/photos/8292794/pexels-photo-8292794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

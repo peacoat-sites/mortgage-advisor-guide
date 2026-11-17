@@ -1,6 +1,7 @@
 ---
 title: "Gen Z Now Holds a Record Share of the Mortgage Market"
 date: 2026-07-23T17:06:20.884079+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Gen Z is entering the mortgage market at record levels. Discover why younger buyers are purchasing homes and what this means for real estate trends."
 image: "/img/heroes/7579001.jpg"
