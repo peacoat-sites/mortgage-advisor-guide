@@ -25,7 +25,7 @@ author_title: "First-Time Buyers"
 author_bio: "Maria Santos is the byline used at Mortgage Advisor Guide for articles on first-time buyer programs and the steps of a purchase. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-You run your own business, your accountant is brilliant at minimizing your taxable income, and you just got turned down for a mortgage. Sound familiar? This trap catches self-employed borrowers every single time. The same tax strategy that saves you thousands in April becomes the thing that kills your loan application in June. After 16 years underwriting loans, I can tell you that self-employed borrowers aren't riskier than W-2 employees. They just need to understand a completely different rulebook before walking into a lender's office.
+You run your own business, your accountant is brilliant at minimizing your taxable income, and you just got turned down for a mortgage. Sound familiar? This trap catches self-employed borrowers every single time. The same tax strategy that saves you thousands in April becomes the thing that kills your loan application in June. Experienced underwriters consistently find that self-employed borrowers aren't riskier than W-2 employees. They just need to understand a completely different rulebook before walking into a lender's office.
 
 ## Why Lenders Look at Self-Employment Income Differently
 
@@ -106,7 +106,7 @@ If you're borrowing above the conforming loan limit (which the FHFA adjusts annu
 
 ## A Practical Step-by-Step Approach for Self-Employed Borrowers
 
-This is the order of operations I'd recommend to any self-employed client before they start shopping for a home.
+This is the recommended order of operations for self-employed borrowers before they start shopping for a home.
 
 **Step 1: Pull your last two years of tax returns and do the math yourself.**
 

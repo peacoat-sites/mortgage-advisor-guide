@@ -31,11 +31,11 @@ So let's talk about 2026 specifically, because the conditions right now are genu
 
 ## The Rate Environment Nobody Predicted Correctly
 
-I'll be honest: every forecast I read heading into 2025 was wrong in some direction. Some analysts were calling for the Fed to cut aggressively; others were predicting rates to stay elevated well into the decade. What we actually got was a slow, uneven drift, with 30-year fixed rates moving in a narrower band than the headline drama suggested.
+To put it plainly, virtually every forecast heading into 2025 was wrong in some direction. Some analysts were calling for the Fed to cut aggressively; others were predicting rates to stay elevated well into the decade. What we actually got was a slow, uneven drift, with 30-year fixed rates moving in a narrower band than the headline drama suggested.
 
 As of mid-2026, rates are meaningfully off their 2023 peak but still nowhere near the 2020-2021 lows that sent half the country scrambling to refinance. That context matters enormously. Here's what most advice glosses over: a refinance doesn't just need to be "better than your current rate." It needs to be better *by enough* to justify the cost of doing it.
 
-What struck me, looking at the numbers from the past two years, is how many borrowers who originally locked in at 7.25% or higher in late 2022 and 2023 are now sitting in a genuinely compelling position. Current rates in your loan tier and credit profile landing anywhere from 150 to 200+ basis points below what you're paying? The math often works. We'll get to exactly how to test that.
+Looking at the numbers from the past two years, many borrowers who originally locked in at 7.25% or higher in late 2022 and 2023 are now sitting in a genuinely compelling position. Current rates in your loan tier and credit profile landing anywhere from 150 to 200+ basis points below what you're paying? The math often works. We'll get to exactly how to test that.
 
 ## The Break-Even Calculation That Loan Officers Rush Past
 
@@ -71,7 +71,7 @@ Before you start the application process, pull your own credit report. Not just 
 
 Equity matters too. Underwater or close to it? Your options narrow fast. Below 20% equity? You're likely paying PMI again on the new loan, which eats into whatever monthly savings you thought you were capturing.
 
-A [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can review your situation for free or low cost if you're uncertain whether the refinance benefits you. They have no financial stake in whether you refinance. That's rare in this industry, and I genuinely recommend it for borrowers who feel like they're getting the runaround from lenders.
+A [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can review your situation for free or low cost if you're uncertain whether the refinance benefits you. They have no financial stake in whether you refinance. That independence is rare in this industry, and it makes HUD-approved counselors worth seeking out for borrowers who feel like they are getting the runaround from lenders.
 
 ## The Paperwork Nobody Warns You About
 
@@ -85,7 +85,7 @@ The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.go
 
 ## Timing the Market vs. Timing Your Life
 
-People ask me constantly whether they should wait for rates to drop further. This is the wrong question most of the time.
+A common question is whether to wait for rates to drop further. This is the wrong question most of the time.
 
 Rates might drop another half point by the end of 2026. They might not. They could move the other direction if inflation surprises to the upside again, which isn't a crazy scenario. Nobody who got paid to predict this got it right in 2023, 2024, or 2025. You are not going to be the one who times the mortgage market correctly.
 

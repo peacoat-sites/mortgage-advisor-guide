@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 You saved $8,000 and thought you were finally close. Then you ran the actual numbers and realized that a 20% down payment on a median-priced home in your area looks more like $60,000 or $70,000. That gap can feel crushing.
 
-But here's what a lot of buyers don't know: down payment assistance programs exist in nearly every state, and many buyers who qualify never apply simply because they didn't know to look. In 16 years of underwriting, I watched that happen constantly. Qualified borrowers leaving real money on the table because no one told them it was there.
+But here's what a lot of buyers don't know: down payment assistance programs exist in nearly every state, and many buyers who qualify never apply simply because they didn't know to look. Mortgage professionals see this happen constantly. Qualified borrowers leave real money on the table because no one told them it was there.
 
 ---
 
@@ -69,7 +69,7 @@ Other eligibility factors programs commonly evaluate:
 - Property type (single-family homes are most widely covered; condos and multi-units sometimes need extra approval)
 - Purchase price limits (many programs cap the home's price, often tied to conforming loan limits)
 - Occupancy requirements (you must live in the home as your primary residence)
-- Homebuyer education completion (something I actually think is valuable, not just a box to check)
+- Homebuyer education completion (genuinely valuable, not just a box to check)
 
 ---
 
@@ -113,7 +113,7 @@ Some programs require a home inspection or specific appraisal conditions. Read t
 
 ## The Tradeoffs You Should Understand Before You Apply
 
-I won't tell you DPA is always right, because it isn't. Being honest about the tradeoffs is part of making a genuinely informed decision.
+DPA is not always the right choice. Being honest about the tradeoffs is part of making a genuinely informed decision.
 
 Programs tied to specific mortgage products can limit your rate options. Some DPA programs require you to use a specific loan type, often a government-sponsored mortgage through the state housing agency, which may carry an interest rate slightly higher than what you'd find elsewhere. Over a 30-year loan, a rate that's 0.25% higher adds up. Run those numbers.
 

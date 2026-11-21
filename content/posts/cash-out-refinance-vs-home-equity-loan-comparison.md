@@ -25,9 +25,9 @@ author_title: "First-Time Buyers"
 author_bio: "Maria Santos is the byline used at Mortgage Advisor Guide for articles on first-time buyer programs and the steps of a purchase. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most homeowners think these two products are basically the same thing with different names. They're not. And choosing the wrong one cost a borrower I worked with in 2021 nearly $14,000 in unnecessary interest over five years. The difference matters, and I'll be honest: the mortgage industry doesn't always make it easy to see why.
+Most homeowners think these two products are basically the same thing with different names. They're not. Choosing the wrong one can cost a borrower nearly $14,000 in unnecessary interest over five years. The difference matters, and I'll be honest: the mortgage industry doesn't always make it easy to see why.
 
-I spent sixteen years on the underwriting side of both products, and there are things your loan officer probably won't bring up unless you ask directly.
+There are things your loan officer probably won't bring up unless you ask directly.
 
 <div class="value-module">
  <div class="vm-head">5-Year Cost Comparison: Real Numbers</div>
@@ -56,7 +56,7 @@ But here's the thing: if you refinanced in 2020 or 2021 at 2.875% or 3.25%, a ca
 
 Run the math on that before you do anything else. A home equity loan at 8.5% on $50,000 might actually cost you significantly less over the life of both loans than a cash-out refi at 7.1% on a $350,000 combined balance, depending on how many years are left on your original mortgage.
 
-I keep a copy of a good mortgage comparison workbook (you can find solid options like [this mortgage and home finance reference on Amazon](https://www.amazon.com/s?k=home+equity+mortgage+guide&tag=contentportfo-20)) on my desk specifically because this math is the kind that looks simple until you actually do it. (Note: that link is an affiliate and the site may earn a small commission.)
+A good mortgage comparison workbook (you can find solid options like [this mortgage and home finance reference on Amazon](https://www.amazon.com/s?k=home+equity+mortgage+guide&tag=contentportfo-20)) is worth having on hand specifically because this math is the kind that looks simple until you actually do it. (Note: that link is an affiliate and the site may earn a small commission.)
 
 The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/owning-a-home/) has a loan comparison tool worth using before you commit to either path. Not flashy, but thorough.
 
@@ -98,7 +98,7 @@ This article focuses on the fixed home equity loan vs. the cash-out refi compari
 
 ## Before You Decide Anything
 
-Talk to someone with no stake in what you choose. A [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can walk through your specific loan documents and financial picture at no cost (or very low cost) and doesn't earn a commission either way. I've referred borrowers there more times than I can count, especially when they're dealing with a financial decision involving significant equity and any level of financial stress.
+Talk to someone with no stake in what you choose. A [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can walk through your specific loan documents and financial picture at no cost (or very low cost) and doesn't earn a commission either way. Housing counselors are especially valuable when borrowers are dealing with a financial decision involving significant equity and any level of financial stress.
 
 Know your equity position precisely, not approximately. Order a current payoff statement from your existing servicer. Get a realistic sense of your home's current value through comparable sales, not just Zillow. The spread between those two numbers is what both lenders will be working from.
 

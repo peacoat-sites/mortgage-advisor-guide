@@ -28,7 +28,7 @@ faqs:
 
 Most people assume jumbo loans are just "big mortgages for rich people" and leave it at that. That assumption costs borrowers real money, because the jumbo market works by completely different rules than the [conventional loan](/conventional-loan-requirements/) world, and if you don't understand those rules going in, you're negotiating blind.
 
-I'll be honest: even after years of underwriting, the jumbo space kept surprising me. The pricing logic, the documentation requirements, the way lenders treat reserves differently than anything in the conforming world. When I left the industry and started talking to regular buyers, I realized almost nobody explained this stuff clearly. So I went back through the numbers, talked to buyers who'd been through the process recently, and tried to build the clearest picture I could.
+Even experienced mortgage professionals find the jumbo space full of surprises. The pricing logic, the documentation requirements, and the way lenders treat reserves are all different from anything in the conforming world. Despite these differences, almost nobody explains this clearly to regular buyers. The goal here is to build the clearest picture possible, drawing on current market data and accounts from buyers who have been through the process recently.
 
 Here's what you actually need to know.
 
@@ -46,7 +46,7 @@ The wrinkle is high-cost areas. The FHFA adjusts limits upward for counties wher
 
 This is where I want to be straight with you, because every lender's marketing makes jumbo sound almost as easy as a regular mortgage. It is not.
 
-**Credit score.** Most jumbo lenders today want a minimum FICO somewhere between 700 and 720. Some require 740 for larger loan amounts, especially above $1.5 million or $2 million. A 680 will close a conventional loan in some programs. It will not close most jumbo loans. I've watched deals fall apart at 699.
+**Credit score.** Most jumbo lenders today want a minimum FICO somewhere between 700 and 720. Some require 740 for larger loan amounts, especially above $1.5 million or $2 million. A 680 will close a conventional loan in some programs. It will not close most jumbo loans. Deals can and do fall apart when a borrower's score lands at 699.
 
 **Down payment.** The standard is 20% down, and that's not just a preference. It's a function of the loan-to-value math that drives jumbo pricing. Some lenders offer jumbo products down to 10% or even 5% down, but you're usually paying a meaningfully higher rate for that, and your qualifying gets harder, not easier. For loans above $2 million, a number of lenders quietly require 25-30% down regardless of what the marketing says.
 
@@ -58,7 +58,7 @@ This is where I want to be straight with you, because every lender's marketing m
 
 ## The Rate Surprise
 
-Everyone assumes jumbo rates are higher. Most of the time, historically, they have been. What surprised me when I dug into current market data is that the spread between jumbo and conforming rates has been inconsistent and sometimes inverted.
+Everyone assumes jumbo rates are higher. Most of the time, historically, they have been. A look at current market data reveals that the spread between jumbo and conforming rates has been inconsistent and sometimes inverted.
 
 The reason is structural. Jumbo loans stay on bank balance sheets. Banks hold them as investments, which means when banks are hungry for high-quality assets (as they often are during certain rate environments), they compete aggressively for jumbo business and push rates down. Freddie Mac's research has documented this phenomenon, and the Consumer Financial Protection Bureau has noted that jumbo pricing can diverge significantly from conforming pricing depending on lender demand for portfolio assets.
 
@@ -81,7 +81,7 @@ As of mid-2026, the spread between a 30-year jumbo and a 30-year conforming loan
 
 ## What the Process Actually Looks Like
 
-The first time I reviewed a jumbo file as an underwriter, I remember thinking it felt like a commercial loan review more than a residential one. The documentation stack was thicker. The reserve verification was more granular. For a borrower with a complex financial picture, like a doctor with student loans and a new attending salary, or a business owner with strong revenue but aggressive write-offs, jumbo underwriting can take a month even when everything is in order.
+Mortgage professionals who review jumbo files often note that the process feels more like a commercial loan review than a residential one. The documentation stack was thicker. The reserve verification was more granular. For a borrower with a complex financial picture, like a doctor with student loans and a new attending salary, or a business owner with strong revenue but aggressive write-offs, jumbo underwriting can take a month even when everything is in order.
 
 A few practical realities worth knowing:
 
@@ -93,11 +93,11 @@ Lenders aren't interchangeable. Because jumbo loans stay on the lender's books r
 
 **Worked examples:**
 
-Buyer in Austin, Texas, borrowing $850,000 with a 740 FICO, 20% down, stable W-2 income as a software engineer, and 14 months of reserves → Applied with two portfolio lenders → Closed in 32 days with a rate 0.15% below the conforming rate being advertised at the time, saving roughly $130/month compared to what they'd budgeted.
+For example, a borrower with a $850,000 loan, a 740 FICO, 20% down, stable W-2 income, and 14 months of reserves who applies with two portfolio lenders might close in around 32 days with a rate 0.15% below the conforming rate being advertised at the time, saving roughly $130/month compared to their initial budget.
 
-Buyer in suburban New Jersey borrowing $1,100,000 with a 708 FICO, 20% down, self-employed consulting business for two years → First lender declined due to DTI at 46% after reviewing both years of returns → Found a credit union with a 48% DTI jumbo product for well-qualified self-employed borrowers → Closed in 47 days with two rounds of additional documentation requests.
+For example, a self-employed borrower with a $1,100,000 loan, a 708 FICO, and 20% down might be declined by a first lender because a DTI of 46% exceeds guidelines after reviewing two years of returns, but could find a credit union offering a 48% DTI jumbo product for well-qualified self-employed borrowers and close in around 47 days after two rounds of additional documentation requests.
 
-Buyer in high-cost county in California borrowing $980,000. Same county conforming limit is $1,209,750. → Loan is conforming, not jumbo. Qualified with 10% down, no reserve requirement beyond 3 months. Saved significantly on rate and down payment versus assuming jumbo rules applied. → Lesson: always check the county limit before assuming.
+For example, a borrower in a high-cost California county taking out a $980,000 loan where the conforming limit is $1,209,750 would have a conforming loan, not a jumbo loan, and could qualify with 10% down and as few as 3 months of reserves, saving significantly on rate and down payment versus assuming jumbo rules applied. The lesson: always check the county limit before assuming.
 
 ## Sources
 

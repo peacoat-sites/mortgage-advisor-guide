@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Most people treat this decision like a math problem. They pull up a mortgage calculator, see that the 15-year saves them $80,000 in interest, and start mentally patting themselves on the back for being so financially disciplined. What they miss is that the 15-year mortgage can strain financial flexibility when unexpected expenses arise.
 
-I spent years as an underwriter quietly rooting for borrowers who chose the 15-year. Seemed smart. Seemed responsible. Then I started paying more attention to what happened to those borrowers five years in, and my thinking shifted considerably.
+Underwriters often find themselves quietly rooting for borrowers who choose the 15-year. Seemed smart. Seemed responsible. Paying closer attention to what happens to those borrowers five years in often shifts that perspective considerably.
 
 That's not an argument for one loan over the other. It's an argument for understanding both with real specificity before you sign anything.
 
@@ -56,13 +56,13 @@ There's also the rate advantage. Because you're paying principal down so aggress
 
 Then there's the psychological weight of debt. Some people genuinely cannot relax carrying a 30-year obligation. They lose sleep over it. They feel financially exposed. If that's you, the peace of mind from an accelerated payoff is worth something real, even if it doesn't show up in a spreadsheet.
 
-What surprised me, though, is how often the 15-year borrowers I worked with were stretching to qualify. They'd get approved at the outer limit of their [debt-to-income ratio](/conventional-loan-requirements/), which meant there was nothing left over when anything went wrong. One layoff, one HVAC replacement, one divorce proceeding, and suddenly the "responsible" choice was driving them toward a late payment or a modification request.
+What is notable, though, is how often 15-year borrowers are stretching to qualify. They get approved at the outer limit of their [debt-to-income ratio](/conventional-loan-requirements/), which means there is nothing left over when anything goes wrong. One layoff, one HVAC replacement, one divorce proceeding, and suddenly the "responsible" choice was driving them toward a late payment or a modification request.
 
 ## Where the 30-Year Actually Wins
 
 The real argument for the 30-year isn't that you're avoiding discipline. It's that you're buying optionality.
 
-Here's a specific scenario I watched play out multiple times: a borrower takes a 30-year mortgage with a payment that's comfortably within their budget. They commit to making extra principal payments whenever they can, functionally mimicking the payoff speed of a 15-year. When a rough year hits, they have the option to fall back to the minimum payment without going delinquent. When a great year hits, they throw an extra $500 or $1,000 at the principal. Over 15 years, they've paid down the loan almost as aggressively as they would have on a 15-year product. But they had the safety valve the whole time.
+A scenario that plays out regularly is one where a borrower takes a 30-year mortgage with a payment that is comfortably within their budget. They commit to making extra principal payments whenever they can, functionally mimicking the payoff speed of a 15-year. When a rough year hits, they have the option to fall back to the minimum payment without going delinquent. When a great year hits, they throw an extra $500 or $1,000 at the principal. Over 15 years, they've paid down the loan almost as aggressively as they would have on a 15-year product. But they had the safety valve the whole time.
 
 This isn't theoretical. You can absolutely pay off a 30-year mortgage in 15 years if you make consistent additional principal payments. The difference is you weren't legally obligated to. That distinction feels abstract until you need it.
 
@@ -82,7 +82,7 @@ The 15-year tends to make the most sense for borrowers who have genuinely stable
 
 The 30-year tends to be the smarter call for first-time buyers still building financial stability, anyone with variable income, borrowers carrying any high-interest debt that should be paid down first, and people earlier in careers where the earnings trajectory is up but not yet realized.
 
-One thing I'd push back on is the reflexive advice to "just get the 15-year if you can afford it." The word "afford" is doing too much work in that sentence. Technically qualifying for the payment is not the same as actually being able to absorb it in a worst-case year. If you're not sure where your finances are, a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can walk through your specific numbers with no sales incentive attached, which is more than you can say for most loan officers.
+One thing worth pushing back on is the reflexive advice to "just get the 15-year if you can afford it." The word "afford" is doing too much work in that sentence. Technically qualifying for the payment is not the same as actually being able to absorb it in a worst-case year. If you're not sure where your finances are, a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can walk through your specific numbers with no sales incentive attached, which is more than you can say for most loan officers.
 
 If you want to go deeper on the analytical side before you talk to anyone, there are solid home-buying guides worth having on hand. Running the actual numbers on your specific loan amount, rate, and alternative investment assumptions will tell you more than any general article can.
 

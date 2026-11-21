@@ -57,9 +57,9 @@ The approved project list lives on HUD's Condo Project Search tool, which you ca
 
 There are more conditions, but those are the ones that kill deals most often. The owner-occupancy requirement alone rules out a lot of investor-heavy buildings, especially in vacation markets and urban cores.
 
-Here's a worked example from my own experience:
+Here is a hypothetical example that illustrates how this plays out:
 
-Buyer in metropolitan Phoenix, solid FHA borrower, targets a 72-unit condo complex. The project isn't on the approved list. Loan officer checks SUA eligibility. Owner-occupancy rate: 44%. Doesn't meet the 50% threshold. → SUA denied. Buyer had to either switch to a [conventional loan](/conventional-loan-requirements/) (which required a higher down payment she didn't have) or find a different property. She found a different property. It cost her six weeks.
+For example, consider a buyer in metropolitan Phoenix, a solid FHA borrower, who targets a 72-unit condo complex. The project isn't on the approved list. Loan officer checks SUA eligibility. Owner-occupancy rate: 44%. Doesn't meet the 50% threshold. → SUA denied. Buyer had to either switch to a [conventional loan](/conventional-loan-requirements/) (which required a higher down payment she didn't have) or find a different property. She found a different property. It cost her six weeks.
 
 That six-week delay was entirely preventable if someone had run the project data at the beginning.
 
@@ -75,7 +75,7 @@ Litigation is a disqualifier that catches people off guard. If the condo associa
 
 Second worked example:
 
-72-unit complex in suburban Denver, project approval active for two years. HOA files a construction defect lawsuit against the original developer over waterproofing failures. → Project approval suspended mid-lawsuit. Three buyers with pending FHA loans lose their rate locks. Two of them switched to conventional, one walked away. The lawsuit settled 14 months later; the project eventually got re-approved. But those three buyers weren't waiting 14 months.
+Consider a 72-unit complex in suburban Denver with project approval active for two years. HOA files a construction defect lawsuit against the original developer over waterproofing failures. → Project approval suspended mid-lawsuit. Three buyers with pending FHA loans lose their rate locks. Two of them switched to conventional, one walked away. The lawsuit settled 14 months later; the project eventually got re-approved. But those three buyers weren't waiting 14 months.
 
 ## How to Actually Check Before You Make an Offer
 
@@ -89,7 +89,7 @@ For anyone working with a tricky situation, a [HUD-approved housing counselor](h
 
 Third worked example:
 
-First-time buyer in Chicago, pre-approved for FHA with 3.5% down, finds a 24-unit vintage building she loves. Project not approved, doesn't meet SUA owner-occupancy (48%, just barely short). Loan officer suggests the HOA could pursue full project approval. HOA management declines to engage. → Buyer switches to a Fannie Mae 97% LTV conventional loan, requires 3% down instead of 3.5%, slightly higher rate but the deal closes. She actually saved roughly $800 at closing because conventional required no upfront MIP. Not every dead end is a dead end.
+For example, a first-time buyer in Chicago, pre-approved for FHA with 3.5% down, might find a 24-unit vintage building. Project not approved, doesn't meet SUA owner-occupancy (48%, just barely short). Loan officer suggests the HOA could pursue full project approval. HOA management declines to engage. → Buyer switches to a Fannie Mae 97% LTV conventional loan, requires 3% down instead of 3.5%, slightly higher rate but the deal closes. She actually saved roughly $800 at closing because conventional required no upfront MIP. Not every dead end is a dead end.
 
 ## Sources
 

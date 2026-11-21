@@ -26,11 +26,11 @@ faqs:
     a: "Yes. Making half your mortgage payment every two weeks results in 26 half-payments per year, which equals 13 full monthly payments instead of 12. That one extra payment per year meaningfully accelerates payoff and reduces total interest, often cutting 3-5 years off a 30-year loan without requiring a large lump sum."
 ---
 
-Most people think paying extra on their mortgage is just a "nice to have" -- something you do when you're flush and forget about when life gets expensive. I thought the same thing, honestly, for the first few years after I left underwriting. Then I sat down one afternoon with a basic amortization spreadsheet and actually ran the numbers on a $350,000 loan at 6.75%, and my jaw dropped a little.
+Most people think paying extra on their mortgage is just a "nice to have" -- something you do when you're flush and forget about when life gets expensive.  Running the numbers on a $350,000 loan at 6.75% with a basic amortization spreadsheet makes the impact immediately clear.
 
 The interest you pay over 30 years on a mortgage that size? It's not a rounding error. It's often more than you borrowed in the first place. What surprised me was how dramatically that changes when you throw even a modest amount of extra money at the principal, not at the end, but early, when it actually counts.
 
-I want to be upfront: this isn't magic, and it won't be the right move for everyone. If you're carrying high-interest credit card debt, paying extra on a 6.75% [mortgage while](/can-i-get-a-mortgage-while-self-employed/) revolving a balance at 24% APR is backwards math. But for people who've asked me "what's the best thing I can do with an extra $200 a month?" -- often, the answer genuinely is this.
+I want to be upfront: this isn't magic, and it won't be the right move for everyone. If you're carrying high-interest credit card debt, paying extra on a 6.75% [mortgage while](/can-i-get-a-mortgage-while-self-employed/) revolving a balance at 24% APR is backwards math. But for people wondering what the best thing to do with an extra $200 a month might be, the answer is often this.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">On a $350,000 30-year loan at 6.75%, an extra $200/month saves roughly $68,000+ in interest over the life of the loan.</li><li style="margin:5px 0">Extra payments cut years off your loan term, not just dollars from the total.</li><li style="margin:5px 0">Early payments matter most, dollars added in year 1 save far more than dollars added in year 25.</li><li style="margin:5px 0">Always confirm your lender applies extra payments to principal, not future interest.</li><li style="margin:5px 0">This strategy beats many investments on an after-tax, risk-adjusted basis only if you're debt-free otherwise.</li></ul></div>
 
@@ -38,9 +38,9 @@ I want to be upfront: this isn't magic, and it won't be the right move for every
 
 Here's the thing most people don't know until they've actually looked at an amortization schedule: in the early months of a 30-[year mortgage](/15-year-vs-30-year-mortgage-pros-and-cons/), the overwhelming majority of your payment goes toward interest, not principal. On that $350,000 at 6.75%, your first payment might be around $2,270. Of that, roughly $1,969 goes to interest. You're paying down the balance by about $301.
 
-That ratio flips slowly over decades. So when you pay extra in years one through ten, you're skipping ahead in that schedule, cutting off future payments that would have been almost entirely interest. A dollar of extra principal paid in month 12 saves you dramatically more than a dollar paid in month 312. I don't have a pithy way to say it other than: the math rewards you for doing this early.
+That ratio flips slowly over decades. So when you pay extra in years one through ten, you're skipping ahead in that schedule, cutting off future payments that would have been almost entirely interest. A dollar of extra principal paid in month 12 saves you dramatically more than a dollar paid in month 312. The math rewards doing this early.
 
-When I was processing loan files, I'd see borrowers who'd been diligently paying extra for 15 years and had essentially built a decade's worth of equity faster than their neighbors. It showed up in refinance appraisals, cash-out calculations, [PMI removal](/pmi-removal-tracker/) timelines. Real money, real flexibility.
+Borrowers who diligently pay extra for 15 years commonly build a decade's worth of equity faster than their neighbors. It showed up in refinance appraisals, cash-out calculations, [PMI removal](/pmi-removal-tracker/) timelines. Real money, real flexibility.
 
 ## What the Numbers Actually Look Like
 
@@ -58,7 +58,7 @@ Let me make this concrete, because "you'll save a lot" is useless without contex
 
 $500 extra per month cuts the loan by over a decade. That's 120+ payments you never have to make.
 
-Here are three worked examples from situations I've actually seen or calculated:
+Here are three worked examples to make the numbers concrete:
 
 **First-time buyer, tight budget:** $280,000 loan, 7.1% rate, adds just $75/month starting in month 6 → saves approximately $28,000 in interest, shaves about 2.5 years off the loan.
 
@@ -68,7 +68,7 @@ Here are three worked examples from situations I've actually seen or calculated:
 
 ## The Trap You Absolutely Cannot Miss
 
-I can't count how many times a borrower thought they were paying down their principal and weren't. Here's what happens: you send in your regular $2,270 plus an extra $300, and the lender's system applies that $300 to "prepaid interest" or advances your next month's payment due date instead of reducing your principal balance.
+It is surprisingly common for borrowers to believe they are paying down their principal when they are not. Here's what happens: you send in your regular $2,270 plus an extra $300, and the lender's system applies that $300 to "prepaid interest" or advances your next month's payment due date instead of reducing your principal balance.
 
 It's technically not fraud. It's just servicers being servicers. And if you're not checking, you'll never know.
 
@@ -86,7 +86,7 @@ But here's what that framing misses. Stock returns aren't guaranteed. Mortgage i
 
 The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) tracks housing equity trends across the country, and homeowners who aggressively pay down principal consistently hold significantly more equity relative to their home's value than those who don't. That equity is accessible through cash-out refinancing or sale proceeds. It's not locked away.
 
-My actual opinion: if you have high-interest debt, handle that first. If you're not maxing your 401(k) employer match, do that before extra mortgage payments (free money beats guaranteed savings). After those boxes are checked? Extra mortgage payments are one of the soundest, most boring things you can do with extra cash, and boring is underrated.
+If you have high-interest debt, handle that first. If you're not maxing your 401(k) employer match, do that before extra mortgage payments (free money beats guaranteed savings). After those boxes are checked? Extra mortgage payments are one of the soundest, most boring things you can do with extra cash, and boring is underrated.
 
 ## A Step-by-Step to Actually Do This Right
 

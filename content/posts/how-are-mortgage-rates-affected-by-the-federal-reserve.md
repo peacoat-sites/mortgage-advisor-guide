@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 Right now, most people blame the Federal Reserve for their mortgage rate when they're shopping for a home. And they're not entirely wrong. But the mechanism is more subtle than "Fed raises rates, so your mortgage gets more expensive." It's not a direct line like that. Let me walk you through what's actually happening behind the scenes, because understanding this difference changes how you should time your move.
 
-I spent six years as an underwriter watching the Fed's decisions ripple through the market, and I can tell you: the people who understood this relationship made smarter borrowing decisions than those who didn't. Most didn't.
+Mortgage professionals who watch the Fed's decisions ripple through the market consistently find that borrowers who understand this relationship make smarter borrowing decisions than those who don't. Most didn't.
 
 ## What the Fed Actually Controls
 
@@ -89,7 +89,7 @@ Most borrowers assume rates will plummet once the Fed pauses. They don't. Once t
 
 A costly mistake is waiting for "confirmation" that the Fed is cutting rates before locking in. By that time, the mortgage market has already repriced. You miss the move.
 
-What I'd actually recommend: watch the mortgage market directly, not just Fed announcements. The Consumer Financial Protection Bureau (CFPB) offers resources on mortgage shopping, and they link to current rate data from multiple lenders. If mortgage rates move up 0.5 percent in a week, that's your signal, not the Fed's calendar. If they're flat or declining, you have time. Don't anchor your decision to Fed meetings. They matter, but they're not a timer.
+The practical recommendation is to watch the mortgage market directly, not just Fed announcements. The Consumer Financial Protection Bureau (CFPB) offers resources on mortgage shopping, and they link to current rate data from multiple lenders. If mortgage rates move up 0.5 percent in a week, that's your signal, not the Fed's calendar. If they're flat or declining, you have time. Don't anchor your decision to Fed meetings. They matter, but they're not a timer.
 
 ## Does the Fed Ever Lower Rates Again?
 
@@ -97,7 +97,7 @@ Yes. The Fed cycles between rate-hiking phases and rate-cutting phases. How ofte
 
 The trap is thinking that Fed rate cuts mean you can refinance cheaply soon. Fed cuts take weeks or months to flow through to mortgage rates, and by then, the mortgage market has often already moved. If you refinance right after the Fed cuts, you've usually missed the biggest move. The earliest adopters who locked in during the period of uncertainty before the cuts were announced often get better rates than those who wait for the "official" signal.
 
-I made this mistake myself in my own refinance in 2021. I waited three months for the Fed to formally adjust its tone before applying. By then, mortgage rates had already climbed 0.75 percent. My neighbor, who'd refinanced the month before based on his reading of the bond market, got a rate 0.5 percent better than I did. He'd understood something I hadn't: the mortgage market doesn't wait for the Fed; it moves ahead of it.
+For example, a borrower who waited until 2021 for the Fed to formally adjust its tone before applying encountered exactly this problem. Waiting three months for the Fed to formally adjust its tone meant the window had already closed. By then, mortgage rates had already climbed 0.75 percent. A borrower who had refinanced the month before, based on reading the bond market rather than waiting for the Fed, could have secured a rate 0.5 percent better. The lesson is straightforward: the mortgage market does not wait for the Fed; it moves ahead of it.
 
 ## Sources
 

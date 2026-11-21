@@ -52,7 +52,7 @@ Here's my honest ranking.
 
 Variable rates are obvious. Here's what isn't.
 
-[Draw periods and repayment periods](/heloc-draw-period-explained/) are two completely different things, and the payment shock at the transition catches borrowers off guard more than almost anything else I saw in underwriting. A typical HELOC has a 10-year draw period where you pay interest only. Then the repayment period kicks in, usually 10 to 20 years, and suddenly you're paying principal plus interest on the full outstanding balance. I reviewed a file once where a borrower's monthly payment jumped from $380 to $1,140 on the same balance, purely from the draw-to-repayment transition. She didn't see it coming. Her loan officer had focused the entire closing conversation on the low initial rate.
+[Draw periods and repayment periods](/heloc-draw-period-explained/) are two completely different things, and the payment shock at the transition catches borrowers off guard more than almost anything else I saw in underwriting. A typical HELOC has a 10-year draw period where you pay interest only. Then the repayment period kicks in, usually 10 to 20 years, and suddenly you're paying principal plus interest on the full outstanding balance. In documented cases, borrowers have seen monthly payments jump from $380 to $1,140 on the same balance, purely from the draw-to-repayment transition. She didn't see it coming. Her loan officer had focused the entire closing conversation on the low initial rate.
 
 Ask your lender for the fully amortized payment at repayment start. Make them show you that number before you sign.
 
@@ -68,7 +68,7 @@ That said, a few patterns are consistent enough to trust.
 
 Midrange kitchen remodels recover more of their cost than luxury ones. Consistent finding, multiple years, multiple markets. Buyers price homes, not finishes. A $25,000 kitchen update in a $400,000 neighborhood recovers better than a $90,000 kitchen update in the same neighborhood, because the house can only sell for what the neighborhood supports.
 
-Exterior projects (garage door replacement, manufactured stone veneer, entry door replacement) routinely recover 90 to 100%+ of cost. They're not glamorous, but the data is consistent. Buyers form 80% of their impression in the first 30 seconds outside. This tracks with what I saw on appraisals: a dated exterior hurt valuations more than dated interior finishes in most cases.
+Exterior projects (garage door replacement, manufactured stone veneer, entry door replacement) routinely recover 90 to 100%+ of cost. They're not glamorous, but the data is consistent. Buyers form 80% of their impression in the first 30 seconds outside. Appraisers consistently find that a dated exterior hurts valuations more than dated interior finishes in most cases.
 
 Master suite additions and sunroom additions tend to recover the worst. You're adding square footage to the highest-cost part of the house in a range where buyers already have cheaper options on the market. I'd build these for lifestyle reasons, not financial ones.
 
@@ -76,13 +76,13 @@ Master suite additions and sunroom additions tend to recover the worst. You're a
 
 Here's a worked example of how this plays out in practice:
 
-**A homeowner in suburban Atlanta had $85,000 in available equity, wanted a full kitchen remodel plus a primary bath update.** Contractor quotes came in at $67,000 combined. She opened a HELOC for $70,000 and drew $18,000 for demo and rough work in month one, another $31,000 at the midpoint, and the remaining $18,000 at final completion. Total interest paid during the 11-month project was roughly $3,400, versus approximately $6,200 she would have paid if she'd taken a lump-sum home equity loan and carried the full balance from day one. The HELOC structure saved her nearly $2,800 just in interest carry during the build.
+For example, imagine a homeowner with $85,000 in available equity wanting a full kitchen remodel plus a primary bath update. Contractor quotes came in at $67,000 combined. She opened a HELOC for $70,000 and drew $18,000 for demo and rough work in month one, another $31,000 at the midpoint, and the remaining $18,000 at final completion. Total interest paid during the 11-month project was roughly $3,400, versus approximately $6,200 she would have paid if she'd taken a lump-sum home equity loan and carried the full balance from day one. The HELOC structure saved her nearly $2,800 just in interest carry during the build.
 
 ---
 
 Another one that shows where borrowers hurt themselves:
 
-**A homeowner pulled $110,000 via cash-out refinance to fund a whole-home renovation.** He had a 3.25% mortgage with 22 years left. The new loan came in at 6.9% on the full balance. His monthly payment went from $1,640 to $2,410. The renovation added real value to the home, probably $70,000 to $80,000 in appraised value. But the carrying cost of that decision will cost him over $190,000 in additional interest over the new loan term. He got the renovation he wanted. He paid a steep price for the funding method.
+For example, consider a homeowner who pulls $110,000 via cash-out refinance to fund a whole-home renovation. He had a 3.25% mortgage with 22 years left. The new loan came in at 6.9% on the full balance. His monthly payment went from $1,640 to $2,410. The renovation added real value to the home, probably $70,000 to $80,000 in appraised value. But the carrying cost of that decision will cost him over $190,000 in additional interest over the new loan term. He got the renovation he wanted. He paid a steep price for the funding method.
 
 ## How to Prepare Before You Apply
 
@@ -92,7 +92,7 @@ On equity: you generally need at least 15% to 20% equity remaining after the new
 
 On DTI: most lenders want your total monthly debt payments (including the new HELOC payment) under 43% of gross monthly income. Some go to 45% or 50% with compensating factors. If you're already at 38% DTI, a large renovation line might not qualify, regardless of equity.
 
-One thing I got wrong early in my career as an underwriter: I assumed credit scores were the dominant variable in equity lending approvals. They matter, but for home equity products, LTV and DTI usually drive the outcome more than FICO. A 720 score with 30% equity and a clean DTI will get approved faster than a 780 score with 18% equity and a 41% DTI.
+A common misconception among borrowers is that credit scores are the dominant variable in equity lending approvals. They matter, but for home equity products, LTV and DTI usually drive the outcome more than FICO. A 720 score with 30% equity and a clean DTI will get approved faster than a 780 score with 18% equity and a 41% DTI.
 
 Get your appraisal read first. Then check your DTI. Then look at your credit. In that order.
 
@@ -100,7 +100,7 @@ Get your appraisal read first. Then check your DTI. Then look at your credit. In
 
 One more worked example worth walking through:
 
-**A couple in Phoenix planned a $95,000 addition but applied for a HELOC before getting a proper appraisal.** Their Zillow estimate suggested $140,000 in equity. The actual appraisal came in $38,000 lower than expected due to recent comparable sales in the neighborhood. Their CLTV ceiling meant they could access $62,000, not the $95,000 they planned around. The project got redesigned. Not a disaster, but avoidable with a $500 appraisal conversation before they'd already committed to a contractor.
+For example, a couple planning a $95,000 addition might apply for a HELOC before getting a proper appraisal. Their Zillow estimate might suggest $140,000 in equity. The actual appraisal could come in $38,000 lower than expected due to recent comparable sales in the neighborhood. The CLTV ceiling would mean they could access only $62,000, not the $95,000 they planned around. The project would need to be redesigned. Not a disaster, but avoidable with a $500 appraisal conversation before they'd already committed to a contractor.
 
 ## Sources
 
@@ -111,7 +111,6 @@ One more worked example worth walking through:
 - Harvard Joint Center for Housing Studies, *Improving America's Housing* (annual): Tracks renovation spending trends, financing methods, and homeowner behavior across income and age segments.
 
 ---
-
 
 ---
 

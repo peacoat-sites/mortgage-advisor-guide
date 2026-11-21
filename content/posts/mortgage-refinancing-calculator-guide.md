@@ -88,7 +88,7 @@ Break-even is straightforward: divide total closing costs by monthly savings. $7
 
 What complicates this: the time value of money. Fancier calculators apply a discount rate to future savings, which is more precise. Basic tools skip this. For a straightforward rate-and-term refi, simple break-even is close enough.
 
-But here's the real trap I see repeatedly: people calculate break-even based on payment difference and ignore that they've reset their amortization. Starting a new 30-year loan means your early payments are heavy on interest again, light on principal. You're building equity slower. That's a genuine cost that doesn't show up in savings.
+A common trap is calculating break-even based on payment difference while ignoring that resetting amortization changes the equity-building picture entirely. Starting a new 30-year loan means your early payments are heavy on interest again, light on principal. You're building equity slower. That's a genuine cost that doesn't show up in savings.
 
 Better calculators show equity buildup side-by-side. If yours doesn't, work the numbers yourself or use a more detailed mortgage comparison worksheet. Solid financial planning tools exist if you want to dig deeper. *(Note: this site may earn a commission on purchases.)*
 

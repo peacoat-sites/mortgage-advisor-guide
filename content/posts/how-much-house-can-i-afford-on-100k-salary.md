@@ -26,7 +26,7 @@ faqs:
     a: "At $100,000, you may qualify for FHA loans (3.5% down, more flexible DTI thresholds), Fannie Mae's HomeReady or Freddie Mac's Home Possible programs (3% down for qualifying buyers), and various state-level down payment assistance programs. Income limits apply to some of these programs, and at $100,000 you may be near or above limits in lower-cost states. Check your state housing finance agency's website for specifics."
 ---
 
-$100,000 a year feels like good money. And it is. But I can't tell you how many times I sat across from someone earning exactly that, feeling confident they could afford a $600,000 home, and had to walk them through why that math was going to hurt them.
+$100,000 a year feels like good money. And it is. Yet it is surprisingly common for someone earning exactly that to feel confident they could afford a $600,000 home, only to discover why that math was going to hurt them.
 
 The number that gets thrown around most often is "2.5 to 3x your income," which would put you somewhere between $250,000 and $300,000. But honestly, that rule of thumb comes from an era of 3% mortgage rates and lower property taxes, and it doesn't account for how different two people's financial lives can be. Someone earning $100,000 with no debt, a 20% down payment saved, and low property taxes in the Midwest is looking at a completely different picture than someone earning the same salary with student loans, a car payment, and shopping in a high-cost-of-living metro.
 
@@ -62,7 +62,7 @@ The taxes and insurance estimates in that table will vary significantly by locat
 
 ## The Hidden Costs Nobody Budgets For
 
-Here's what I tell people who are fixating on the monthly payment: that number is the floor, not the ceiling.
+For buyers fixating on the monthly payment, that number is the floor, not the ceiling.
 
 Maintenance and repairs run roughly 1% of your home's value per year on average, though older homes run higher. On a $350,000 house, that's $3,500 a year, or about $292 a month you should mentally reserve. Some years you spend nothing. Then the HVAC gives out (typically $5,000 to $10,000 to replace) or the roof needs work ($8,000 to $15,000 for a full replacement on a mid-size home), and suddenly that reserve looks necessary.
 
@@ -70,7 +70,7 @@ Closing costs are another thing buyers tend to underestimate. On a $350,000 purc
 
 And if you're putting less than 20% down, you'll pay private mortgage insurance (PMI), which typically runs 0.5-1.5% of the loan amount annually. On a $315,000 loan, that's roughly $130 to $394 a month tacked onto your payment until you hit 20% equity. It disappears eventually, but it's real money in the meantime.
 
-Worked example: A couple in Columbus, Ohio earning a combined $100,000 bought a $320,000 home with 8% down. Loan amount: $294,400. Their estimated monthly payment including PMI, taxes, and insurance came to about $2,580. On their take-home of roughly $6,400 per month after taxes, that's 40% of actual take-home going to housing. They made it work, but had to pause their 401(k) contributions for two years. They'd do it differently in hindsight.
+For example, consider a hypothetical couple earning a combined $100,000 who buy a $320,000 home with 8% down. Loan amount: $294,400. Their estimated monthly payment including PMI, taxes, and insurance came to about $2,580. On their take-home of roughly $6,400 per month after taxes, that's 40% of actual take-home going to housing. They could make it work, but would likely need to pause their 401(k) contributions for two years. In hindsight, many buyers in that position wish they had chosen differently.
 
 ## How Location Changes Everything
 
@@ -87,19 +87,19 @@ Same house price, $500+ difference in monthly cost. Location isn't a footnote. I
 
 A pre-approval tells you the maximum you can borrow within lending guidelines. It doesn't tell you the maximum you can borrow and still sleep well at night.
 
-Here's the approach I'd take. Start with your real after-tax take-home pay, not your gross. Calculate what 30-35% of that is. That's your housing budget ceiling. Then work backward to the home price.
+Here is a practical approach to consider. Start with real after-tax take-home pay, not gross income. Calculate what 30-35% of that is. That's your housing budget ceiling. Then work backward to the home price.
 
 On a $100,000 salary, after-tax take-home varies by state and personal deductions, but let's estimate $6,000 to $6,800 a month. Thirty percent of $6,400 is $1,920. That's a comfortable housing payment. Thirty-five percent is $2,240. That's manageable but tighter. Anything above that and you're in "technically survivable but stressful" territory.
 
 If [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) are available in your area (and they often offer free consultations), use them before you start shopping. They'll help you build an actual budget around the full picture, not just the mortgage payment.
 
-One more worked example: A teacher in suburban Denver earning $98,000, no car payment, $200/month in student loans, and $60,000 saved. She targeted a $380,000 home, put 15% down ($57,000), kept $3,000 in savings as a small emergency buffer. Monthly payment including PMI, taxes, insurance: about $2,800. Front-end DTI: 33.6%. Back-end DTI (with student loan): 35.9%. Approved, and comfortably within her budget because her back-end was clean. Three years later, she hit 20% equity, dropped PMI, and her payment came down by $140/month.
+For example, consider a hypothetical buyer in suburban Denver earning $98,000, with no car payment, $200 per month in student loans, and $60,000 saved. She targeted a $380,000 home, put 15% down ($57,000), kept $3,000 in savings as a small emergency buffer. Monthly payment including PMI, taxes, insurance: about $2,800. Front-end DTI: 33.6%. Back-end DTI (with student loan): 35.9%. Approved, and comfortably within her budget because her back-end was clean. Three years later, that buyer would hit 20% equity, drop PMI, and see the payment come down by $140 per month.
 
 ## A Word About the Current Market
 
 Inventory in many metros is still tight as of this year, which means buyers are competing, and it's tempting to stretch your budget to stay competitive. This is when buyers get in trouble. Bidding $30,000 over list price to win a home sounds like strategy, but that $30,000 gets folded into your mortgage and financed at whatever rate you're paying for the next 30 years. At 6.75%, that $30,000 extra costs you roughly $700 in additional interest over the life of the loan per thousand dollars borrowed. Do the math on what "winning" that bidding war actually costs you monthly and cumulatively.
 
-I'm not saying don't compete. I'm saying know the price of winning.
+The point is not to avoid competing. The point is to know the price of winning.
 
 ## Sources
 

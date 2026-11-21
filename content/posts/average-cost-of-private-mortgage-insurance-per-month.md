@@ -46,7 +46,7 @@ That's nearly a $300/month swing on the same loan amount. Think about that for a
 
 What pushes you toward the higher end? Credit score below 680, loan-to-value ratio above 90% (meaning a down payment under 10%), and certain property types like condos or investment properties all push your rate up. What keeps you at the lower end? Strong credit (740+), a down payment between 10% and 19.99%, and a single-family primary residence.
 
-What surprised me when I compared quotes from multiple private mortgage insurers was how little standardization there is. MGIC, Radian, Essent, and Arch MI all price risk a little differently. Your lender typically has relationships with one or two of these and won't necessarily shop for the cheapest rate on your behalf. You can ask who the insurer is and request the rate card, but few borrowers know to do that.
+Comparing quotes from multiple private mortgage insurers reveals how little standardization there is. MGIC, Radian, Essent, and Arch MI all price risk a little differently. Your lender typically has relationships with one or two of these and won't necessarily shop for the cheapest rate on your behalf. You can ask who the insurer is and request the rate card, but few borrowers know to do that.
 
 ## The Credit Score Factor Most People Underestimate
 
@@ -60,15 +60,15 @@ What surprised me when I compared quotes from multiple private mortgage insurers
 
 The difference between a 700 and a 750 credit score can be worth substantially more than $10 or $15 a month on PMI, making it worth attention during the application process.
 
-A borrower I was working with in the refinance department had a 702 score on a $400,000 loan with 8% down. Her PMI quote came in at 1.10% annually, which was $366/month. Six months later, after paying down a credit card and getting a score of 748, she refinanced and the PMI rate dropped to 0.54%, which was $180/month. That's $186 a month in savings just from a 46-point credit score improvement. Over two years, she recovered more than $4,400.
+For example, a borrower with a 702 score on a $400,000 loan with 8% down might receive a PMI quote of 1.10% annually, which would be $366/month.  If that borrower paid down a credit card and raised their score to 748 before refinancing, the PMI rate could drop to 0.54%, or $180/month. That would represent $186 a month in savings from a 46-point credit score improvement. Over two years, that amounts to more than $4,400 in savings.
 
 The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) has a solid breakdown of how PMI gets priced and what rights you have as a borrower under the Homeowners Protection Act of 1998, including when lenders are required to cancel it automatically. Worth reading before you close.
 
-The credit score tiers that matter most for PMI pricing are generally: below 640 (brutal), 640-679 (expensive), 680-719 (moderate), 720-759 (better), 760+ (best available rates). Different insurers draw the lines slightly differently, but these are the buckets I saw in practice.
+The credit score tiers that matter most for PMI pricing are generally: below 640 (brutal), 640-679 (expensive), 680-719 (moderate), 720-759 (better), 760+ (best available rates). Different insurers draw the lines slightly differently, but these are the standard pricing buckets used across the industry.
 
 ## Lender-Paid PMI: The Option That Sounds Better Than It Is
 
-Here's where I get a little skeptical, because this product drove me crazy as an underwriter.
+Lender-paid PMI warrants some skepticism, and underwriters often flag it as a product borrowers misunderstand.
 
 [Lender-paid PMI (LPMI)](/mortgage-closing-costs-explained/) is when your lender covers the mortgage insurance premium in exchange for a slightly higher interest rate on your loan. It gets marketed as "no PMI" sometimes, which is technically true in the sense that there's no separate line item on your statement. But you're absolutely still paying for that insurance, just baked into your rate forever.
 

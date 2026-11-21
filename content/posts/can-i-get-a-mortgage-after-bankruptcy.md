@@ -28,7 +28,7 @@ faqs:
 
 Three years after a Chapter 7 bankruptcy, a woman I'll call Diane sat across from a loan officer who slid a denial letter across the desk without making eye contact. She'd done everything right since the discharge: rebuilt her credit, saved a [down payment](/gift-funds-for-down-payment-rules/), stayed employed. The loan officer told her she just needed to "wait a little longer." What he didn't tell her was that she'd actually met the waiting period requirement and that a different loan type would have approved her that day.
 
-That story infuriates me. I spent years on the underwriting side watching people get bad information, or no information, at moments that really mattered. So let me tell you what I'd tell Diane if she'd found me first.
+Situations like that happen more often than they should, with borrowers getting bad information, or no information, at moments that really matter.
 
 Bankruptcy doesn't end your homeownership chances. It delays them. The exact delay depends on which bankruptcy you filed, which loan program you're applying for, and what you've done with your credit in the meantime. Those three things determine almost everything.
 
@@ -63,11 +63,11 @@ Lenders looking at a post-bankruptcy application are reading your credit history
 
 What kills post-bankruptcy applications isn't the bankruptcy itself. It's the late payment that shows up 14 months after discharge. Lenders weight recent behavior heavily. The CFPB's [mortgage resources](https://www.consumerfinance.gov/owning-a-home/) explain how lenders assess creditworthiness, and their guidance consistently points back to the same thing: recency of derogatory marks matters more than people realize.
 
-Target [credit score](/minimum-credit-score-needed-to-qualify-for-a-mortgage/) for FHA after bankruptcy: 580 minimum to qualify for the 3.5% down payment option, though I'd say 620+ gives you meaningfully better terms and fewer lender-level rejections. Conventional programs want to see 620-640 at minimum, and you'll get better rates at 680+.
+Target [credit score](/minimum-credit-score-needed-to-qualify-for-a-mortgage/) for FHA after bankruptcy: 580 minimum to qualify for the 3.5% down payment option, though 620+ generally yields meaningfully better terms and fewer lender-level rejections. Conventional programs want to see 620-640 at minimum, and you'll get better rates at 680+.
 
 Here's a concrete example of how this plays out:
 
-Marcus filed Chapter 7 in early 2023, discharged in mid-2023. He opened a secured card immediately, added a credit-builder loan six months later, and never missed a payment. By August 2025, his score was 634. He applied for an [FHA loan](/what-the-road-to-housing-act-means-for-your-fha-loan/), provided documentation of the discharge date, and closed on a home in October 2025 at the 3.5% down payment tier. Total time from discharge to keys: about 26 months.
+For example, consider someone who files Chapter 7 in early 2023 and receives a discharge in mid-2023, then immediately opens a secured card, adds a credit-builder loan six months later, and never misses a payment. By August 2025, their score could reach 634, allowing them to apply for an [FHA loan](/what-the-road-to-housing-act-means-for-your-fha-loan/), provide documentation of the discharge date, and close on a home at the 3.5% down payment tier roughly 26 months after discharge.
 
 Compare that to someone who waits the same amount of time but skips the active credit rebuilding. Without new tradelines showing recent positive history, many lenders will decline even if the waiting period technically cleared.
 
@@ -75,9 +75,9 @@ Compare that to someone who waits the same amount of time but skips the active c
 
 Here's something that doesn't get said enough: after bankruptcy, your down payment does more work than your credit score in some cases.
 
-A larger down payment reduces the lender's risk, which can partially offset a thinner post-bankruptcy credit profile. FHA allows 3.5% down if your score is 580+. But putting down 10% instead opens the door to lenders who might otherwise pass you over. On a $320,000 home, that's the difference between $11,200 down and $32,000 down. That's not a small ask. I'm not saying it's easy. But if you have the ability to save more during the waiting period, it's worth it.
+A larger down payment reduces the lender's risk, which can partially offset a thinner post-bankruptcy credit profile. FHA allows 3.5% down if your score is 580+. But putting down 10% instead opens the door to lenders who might otherwise pass you over. On a $320,000 home, that's the difference between $11,200 down and $32,000 down. That's not a small ask. That is not a small ask. But if you have the ability to save more during the waiting period, it's worth it.
 
-One thing I'd push back on: the common advice to just wait out the clock and then immediately apply. The waiting period is necessary, but it's not sufficient. Use the time intentionally. Save the down payment. Build emergency reserves (lenders like seeing 2-3 months of mortgage payments sitting in your bank account). Get [HUD-approved housing counseling](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) early, not right before you apply. Those counselors are free, they know the local lending landscape, and they catch problems in a borrower's situation that neither the borrower nor the loan officer spotted.
+One common piece of advice worth questioning is simply waiting out the clock and then immediately applying. The waiting period is necessary, but it's not sufficient. Use the time intentionally. Save the down payment. Build emergency reserves (lenders like seeing 2-3 months of mortgage payments sitting in your bank account). Get [HUD-approved housing counseling](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) early, not right before you apply. Those counselors are free, they know the local lending landscape, and they catch problems in a borrower's situation that neither the borrower nor the loan officer spotted.
 
 ## Chapter 13 Is Complicated (But Sometimes Faster)
 
@@ -85,7 +85,7 @@ Chapter 13 is the repayment plan version. You keep your assets and pay creditors
 
 That's genuinely unusual. A lot of people don't know it's possible, and a lot of loan officers don't mention it because the paperwork is more complex. You'll need court permission (called a Motion to Incur Debt) before you can close on a house. The trustee has to sign off. It's not a fast process, but it can shave a year or more off your timeline.
 
-Rosa filed Chapter 13 in 2022, entered a 5-year repayment plan. By 2024 (month 14 of her plan), she had consistent payments, a 601 credit score, and a job she'd held for two years. She found a $210,000 FHA-eligible home, got court approval to take on the mortgage debt, and closed in early 2025, still inside her repayment plan. Mortgage payment plus her trustee payments were tight, but manageable. She'd still be renting and waiting if she hadn't known the option existed.
+For example, someone who files Chapter 13 in 2022 and enters a 5-year repayment plan could, by month 14 of that plan, have consistent payments, a 601 credit score, and stable employment. If they find a $210,000 FHA-eligible home, obtain court approval to take on the mortgage debt, and close while still inside the repayment plan, the combined mortgage and trustee payments may be tight but manageable, and they avoid an additional year or more of renting.
 
 I don't have great data on how often this pathway gets used nationally. But the fact that it's possible and rarely discussed is exactly the kind of gap that [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) can help you close.
 
@@ -105,7 +105,7 @@ I don't have great data on how often this pathway gets used nationally. But the 
 
 The path back to homeownership after bankruptcy is longer and requires more documentation than a standard application, but it's not the dead end people assume it is. If you're in the middle of waiting, use that time strategically. If you're just coming out of discharge and don't know where to start, find a HUD-approved counselor before you find a loan officer. Sequence matters. And if a loan officer tells you that you just need to wait longer without explaining *exactly* why, ask them to show you which guideline says that.
 
-Diane, if she'd had better guidance, could have bought a house a full year earlier. That's a year of building equity she didn't get. Don't let that be you.
+Borrowers in situations like Diane's, if given accurate guidance, could potentially buy a home a full year earlier. That's a year of building equity she didn't get. Don't let that be you.
 
 *Photo: [AI25.Studio  AI GENERATIVE](https://www.pexels.com/@ai25studio) via Pexels*
 

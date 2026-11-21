@@ -28,7 +28,7 @@ faqs:
 
 Most articles about [mortgage forbearance](/mortgage-forbearance-impact-on-credit/) make it sound like a polite vacation from your loan. You pause, you breathe, you resume. What they skip is the part where you come back from that "vacation" and someone hands you a bill for six months of missed payments all at once.
 
-That's the thing I watched trip up borrowers more than almost anything else in my underwriting years. They'd get forbearance approved, feel enormous relief, and then be completely blindsided by the repayment terms on the other side. The process isn't complicated, but the details matter a lot more than most coverage admits.
+This is what trips up borrowers more than almost anything else. They'd get forbearance approved, feel enormous relief, and then be completely blindsided by the repayment terms on the other side. The process isn't complicated, but the details matter a lot more than most coverage admits.
 
 So let's be precise about what this actually is and how it actually works.
 
@@ -42,7 +42,7 @@ That's it. No magic. No forgiveness. The debt stays.
 
 The reason people confuse forbearance with forgiveness is partly because servicers use soft language, "relief" and "protection" and "assistance," and partly because during certain crisis periods, the rules got loose enough that some borrowers genuinely didn't face immediate consequences. But standard forbearance doesn't cancel anything. Every dollar you don't pay today is a dollar you'll pay later, often with interest continuing to accrue underneath.
 
-One thing I'd want every borrower to know: forbearance is not the same as deferral. Deferral means the missed payments get tacked onto the end of your loan. Forbearance is the umbrella term for the pause itself. What happens *after* the forbearance period is a separate question, and the answer differs depending on your loan type and what your servicer offers.
+One important distinction every borrower should understand: forbearance is not the same as deferral. Deferral means the missed payments get tacked onto the end of your loan. Forbearance is the umbrella term for the pause itself. What happens *after* the forbearance period is a separate question, and the answer differs depending on your loan type and what your servicer offers.
 
 ## How the Process Works, Step by Step
 
@@ -92,7 +92,7 @@ Ask your servicer, before you sign: "How will you report my account to the credi
 
 Tax side: forgiven debt can sometimes be taxable income, but forbearance doesn't forgive debt, it defers it. So generally, no tax event. If you eventually get principal reduced through a modification, that's different territory and worth a conversation with a tax professional.
 
-One thing I got wrong early in my career: I assumed servicers were legally required to offer forbearance to anyone who asked. They're not, in most cases. Servicers of federally backed loans (Fannie Mae, Freddie Mac, FHA, VA, USDA) have specific obligations. Private loans, including many jumbo mortgages, are governed by the loan contract and the servicer's internal policies. [Freddie Mac's homebuyer resources](https://myhome.freddiemac.com/) are a good starting point for understanding what protections apply to conforming loans specifically.
+A common misconception worth clearing up: servicers are not legally required to offer forbearance to anyone who asks. They're not, in most cases. Servicers of federally backed loans (Fannie Mae, Freddie Mac, FHA, VA, USDA) have specific obligations. Private loans, including many jumbo mortgages, are governed by the loan contract and the servicer's internal policies. [Freddie Mac's homebuyer resources](https://myhome.freddiemac.com/) are a good starting point for understanding what protections apply to conforming loans specifically.
 
 ## When Forbearance Makes Sense (And When It Doesn't)
 

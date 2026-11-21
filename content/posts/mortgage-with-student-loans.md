@@ -25,7 +25,7 @@ author_title: "Loan Process"
 author_bio: "Jennifer Walsh is the byline used at Mortgage Advisor Guide for articles on the mortgage process and what underwriters look at. It is a pen name, not a loan officer or underwriter; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-You sat down with a loan officer last spring, excited about finally buying a house, and walked out confused and deflated. Your income looked fine. Your credit score was decent. But those student loans kept coming up. The loan officer mentioned something about your "[debt-to-income ratio](/debt-to-income-ratio-for-mortgage/)" being too high, threw out a few numbers, and suddenly the house you'd been picturing felt a lot further away. If that sounds familiar, you're not alone. I've sat across the table from hundreds of borrowers in exactly that spot, and I can tell you: the situation is almost never as hopeless as it feels in that moment. But you do need to understand what's actually happening under the hood.
+You sat down with a loan officer last spring, excited about finally buying a house, and walked out confused and deflated. Your income looked fine. Your credit score was decent. But those student loans kept coming up. The loan officer mentioned something about your "[debt-to-income ratio](/debt-to-income-ratio-for-mortgage/)" being too high, threw out a few numbers, and suddenly the house you'd been picturing felt a lot further away. If that sounds familiar, you're not alone. The situation is almost never as hopeless as it feels in that moment. But you do need to understand what's actually happening under the hood.
 
 ## Why Student Loans Hit Your Mortgage Application So Hard
 
@@ -33,7 +33,7 @@ Here's the core issue. When a lender evaluates whether you can afford a mortgage
 
 What most people don't realize is that the number your lender uses for your monthly student loan payment isn't always your actual payment. If you're on an income-driven repayment (IDR) plan and your required monthly payment is $0 or $50, some loan programs will still count a higher hypothetical payment against you. Fannie Mae, for example, will count your actual IDR payment as long as it's greater than zero. Freddie Mac follows similar guidelines but with slightly different nuances depending on the loan type. And if you're in deferment or forbearance, many lenders will impute a payment of 1% of your outstanding balance per month, regardless of what you're actually paying. On an $80,000 loan balance, that's $800 per month hitting your debt-to-income ratio even if your real bill is $0.
 
-That single policy has killed more mortgage applications than almost anything else I saw in my years of underwriting.
+That single policy has killed more mortgage applications than almost anything else underwriters encounter.
 
 ## How Different Loan Programs Treat Student Debt Differently
 
@@ -62,13 +62,13 @@ If you're not currently on an income-driven repayment plan, it's worth understan
 
 Getting onto an IDR plan like SAVE, PAYE, or IBR can reduce your actual monthly payment significantly. And since some loan programs, particularly conventional loans, will use your actual documented payment, a lower IDR payment can improve your debt-to-income ratio in real terms. The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/owning-a-home/) has solid guidance on how to evaluate repayment options alongside broader homebuying goals.
 
-That said, there's a catch, and I want to be honest about it. Going on an IDR plan specifically to qualify for a mortgage is a short-term move that can have long-term consequences. IDR plans often result in slower principal paydown and more interest accruing over time. You should run the full numbers before treating IDR as a mortgage strategy rather than a loan management strategy.
+That said, there's a catch worth understanding. Going on an IDR plan specifically to qualify for a mortgage is a short-term move that can have long-term consequences. IDR plans often result in slower principal paydown and more interest accruing over time. You should run the full numbers before treating IDR as a mortgage strategy rather than a loan management strategy.
 
 One more thing: if you switch repayment plans right before applying for a mortgage, lenders may want to see a history of consistent payments at the new amount. A single statement showing the new IDR payment often isn't enough. Twelve months of documented payment history at the new amount puts you in a much stronger position.
 
 ## What to Do Right Now: A Practical Step-by-Step Plan
 
-If you're 6 to 18 months from wanting to buy, here's how I'd approach this.
+If you're 6 to 18 months from wanting to buy, here's a practical approach.
 
 **Step 1: Pull your full credit report and your complete student loan picture.** Log into studentaid.gov to see every federal loan, the current balance, the loan servicer, and your repayment status. Know the exact numbers before you talk to any lender.
 
@@ -88,7 +88,7 @@ Student loans affect your credit score too, and not just your DTI.
 
 On the positive side, student loans are installment accounts, and having a mix of credit types (installment plus revolving like credit cards) can benefit your score. A long, consistent payment history on student loans is a genuine credit asset.
 
-On the negative side, missed payments on student loans are seriously damaging. Federal student loans typically report to credit bureaus after 90 days of non-payment. Private student loans can report a delinquency after just 30 days. I've reviewed files where one period of missed student loan payments years earlier was still suppressing a borrower's score enough to push them out of the best rate tiers.
+On the negative side, missed payments on student loans are seriously damaging. Federal student loans typically report to credit bureaus after 90 days of non-payment. Private student loans can report a delinquency after just 30 days. Underwriters commonly see files where one period of missed student loan payments years earlier is still suppressing a borrower's score enough to push them out of the best rate tiers.
 
 If your student loans went into default at any point, that's a more serious conversation to have with a lender directly, because the path to homeownership is longer but usually still possible, just not immediate.
 

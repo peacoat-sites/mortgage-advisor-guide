@@ -90,7 +90,7 @@ Apply with at least two or three lenders within a short window. Multiple mortgag
 
 ## The Costs That Will Surprise You at Closing
 
-I've sat across from borrowers who had the down payment ready and were completely blindsided by closing costs. These are real expenses, and they show up at the end when your emotions are high and your patience is low.
+Many borrowers have the down payment ready and are completely blindsided by closing costs. These are real expenses, and they show up at the end when your emotions are high and your patience is low.
 
 Here's what's typically included:
 

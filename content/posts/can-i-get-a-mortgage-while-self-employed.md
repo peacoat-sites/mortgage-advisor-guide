@@ -26,11 +26,11 @@ faqs:
     a: "Yes, meaningfully. Sole proprietors (Schedule C filers) have the most straightforward documentation path. S-Corp owners need to provide both personal returns and the corporate return (Form 1120S), and lenders typically add back your share of net business income from the K-1. Partnership income adds another layer. The more complex the structure, the more critical it is to find a loan officer who genuinely understands business returns, not just someone who says they do."
 ---
 
-Roughly 16% of American workers are self-employed. And yet, based on what I saw during my years as a mortgage underwriter, you'd think that number was closer to 2%, because the self-employed applicants who walked into my office were almost always braced for a fight before I'd even said hello.
+Roughly 16% of American workers are self-employed. And yet, based on mortgage industry data, you'd think that number was closer to 2%, because self-employed applicants are almost always braced for a fight before the conversation even begins.
 
 Here's what surprised me when I went back and dug into the data: a 2023 Fannie Mae survey found that **self-employed borrowers are approved at a meaningfully lower rate than W-2 employees**, despite frequently having higher net worths and stronger savings. That gap isn't because self-employed people are riskier borrowers. It's because the mortgage system was built around a pay stub. If your income doesn't arrive on a predictable schedule from a single employer, you're essentially being asked to translate your financial life into a language the system was never designed to read.
 
-I'll be honest: when I was on the underwriting side, I sometimes cringed at how difficult we made this. A freelance graphic designer with $140,000 in annual revenue, a 760 credit score, and two years of clean tax returns should not be harder to approve than a salaried employee making $85,000. But in practice, it often was. The rules aren't designed to be cruel, they're just blunt instruments.
+It is worth being direct about how difficult the process can be. A freelance graphic designer with $140,000 in annual revenue, a 760 credit score, and two years of clean tax returns should not be harder to approve than a salaried employee making $85,000. But in practice, it often was. The rules aren't designed to be cruel, they're just blunt instruments.
 
 So let's talk about what actually happens, what the numbers look like, and where self-employed borrowers genuinely can make things easier for themselves.
 
@@ -42,13 +42,13 @@ The core problem is how income gets calculated. Lenders don't use what you depos
 
 Here's a concrete example of what that looks like in practice:
 
-**Scenario 1:** Maria is a freelance marketing consultant in Austin. Her business brought in $130,000 in gross revenue last year. She wrote off $42,000 in legitimate business expenses: home office, software subscriptions, mileage, professional development. Her Schedule C shows net income of $88,000. Then she contributed $19,500 to a SEP-IRA. Her adjusted gross income lands at $68,500.
+**Scenario 1:** Consider a hypothetical freelance marketing consultant. Her business brings in $130,000 in gross revenue in a given year. She writes off $42,000 in legitimate business expenses: home office, software subscriptions, mileage, professional development. Her Schedule C shows net income of $88,000. She also contributes $19,500 to a SEP-IRA. Her adjusted gross income lands at $68,500.
 
-That $68,500 is what most conventional lenders will use to calculate her debt-to-income ratio. On a $350,000 home purchase with a 20% down payment, her monthly principal and interest might be around $1,600. That's about 28% of her $5,708 monthly qualifying income. She'd likely get approved, though tightly.
+That $68,500 is what most conventional lenders will use to calculate her debt-to-income ratio. On a $350,000 home purchase with a 20% down payment, the monthly principal and interest might be around $1,600. That is about 28% of her $5,708 monthly qualifying income. She would likely get approved, though tightly.
 
-But if Maria had one bad year in 2024 where net income dropped to $52,000 (a slow client cycle, not a business collapse), her two-year average drops to $70,000, pushing her monthly qualifying income down further. Now she's fighting for it.
+But if that consultant had one bad year where net income dropped to $52,000 due to a slow client cycle, the two-year average would drop to $70,000, pushing monthly qualifying income down further. At that point, approval becomes a real struggle.
 
-**Scenario 2:** James is a self-employed contractor in Ohio. Same gross revenue as Maria. But he runs his business through an S-Corp, pays himself a modest W-2 salary of $55,000, and takes the rest as distributions. Most lenders will count his W-2 salary AND his share of the S-Corp's net income (from the K-1 and business return), but only if they can document it properly. I've seen loan officers miss the distributions entirely because they didn't know to ask for the corporate returns. James gets underquoted on his qualifying income and turned down for a loan he absolutely could have gotten.
+**Scenario 2:** Consider a hypothetical self-employed contractor. He has the same gross revenue as the consultant in Scenario 1. But he runs the business through an S-Corp, pays himself a modest W-2 salary of $55,000, and takes the rest as distributions. Most lenders will count the W-2 salary and the borrower's share of the S-Corp's net income from the K-1 and business return, but only if it is documented properly. Loan officers sometimes miss the distributions entirely because they do not know to ask for the corporate returns. James gets underquoted on his qualifying income and turned down for a loan he absolutely could have gotten.
 
 The documentation burden is real. According to a 2022 report from the Urban Institute's Housing Finance Policy Center, self-employed borrowers are significantly more likely to receive "refer" decisions from automated underwriting systems, which pushes them into manual underwriting where the requirements are stricter and more time-consuming.
 

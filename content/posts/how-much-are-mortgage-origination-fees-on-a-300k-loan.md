@@ -40,7 +40,7 @@ The confusion happens because some lenders split the origination fee into sub-li
 
 On a $300,000 loan, origination fees typically run between 0.5% and 1.5% of the loan amount. That's $1,500 on the low end and $4,500 on the high end. Some lenders quote 1% as a flat standard. Others use a "no origination fee" structure and bake their profit into a higher interest rate instead. Neither is inherently better; it depends entirely on how long you plan to keep the loan.
 
-"I always tell borrowers to ask for every lender fee itemized before they agree to anything," says Melissa Haworth, a HUD-certified housing counselor with 22 years of experience in Virginia and Maryland. "What looks like a low origination fee on the summary page often has two or three extra processing charges hiding one line down."
+Borrowers should ask for every lender fee itemized before agreeing to anything, because what looks like a low origination fee on the summary page often has two or three extra processing charges hiding one line down.
 
 Start with a clean Loan Estimate comparison before you talk to a second lender: [compare mortgage calculators and home-buying guides on Amazon](https://www.amazon.com/s?k=mortgage+home+buying+guide&tag=contentportfo-20) *(the site may earn a commission)* to find tools that help you read the numbers yourself.
 
@@ -88,9 +88,9 @@ What makes fees negotiable:
 - **A competing Loan Estimate.** Under RESPA, lenders must give you a Loan Estimate within three business days of application. Get two or three, put them side by side, and tell Lender A what Lender B is charging. This is the single most effective move. Period.
 - **Loan size.** A $300,000 loan is a reasonable size at mid-range. Jumbo loans above $750,000 tend to have more fee flexibility. Smaller loans sometimes have minimum fee floors because the lender's labor costs don't scale down proportionally.
 
-Brian Koss, a mortgage banking executive with over 30 years of lending experience and author of multiple industry training programs, has said: "Borrowers don't realize that the origination fee is often where the loan officer makes their commission. Ask them directly what they're keeping, and you'll see where the negotiation lives."
+Borrowers often don't realize that the origination fee is where the loan officer makes their commission, so asking directly what they're keeping is exactly where the negotiation lives.
 
-One thing I'd caution: don't negotiate fees in isolation. A lender who drops the origination fee to zero while quietly nudging your rate up 0.125% has cost you more over 10 years than the fee ever would have. Compare the APR (Annual Percentage Rate), not just the rate, across every competing offer. The APR folds in origination costs and reflects the true annual cost of the loan.
+It is important not to negotiate fees in isolation. A lender who drops the origination fee to zero while quietly nudging your rate up 0.125% has cost you more over 10 years than the fee ever would have. Compare the APR (Annual Percentage Rate), not just the rate, across every competing offer. The APR folds in origination costs and reflects the true annual cost of the loan.
 
 Get a side-by-side fee comparison built before your next lender meeting: [mortgage comparison workbooks on Amazon](https://www.amazon.com/s?k=mortgage+comparison+workbook&tag=contentportfo-20) *(the site may earn a commission)* can help you track every line item across multiple offers.
 

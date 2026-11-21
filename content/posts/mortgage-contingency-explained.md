@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most buyers don't think about their mortgage contingency until they're in the middle of a deal and a loan officer says something like, "we might need to waive that." Then, suddenly, it matters enormously.
 
-If you're under contract right now, or close to it, you might be wondering what this clause actually does and whether giving it up is as dangerous as it sounds. Here's what I tell people when they're sitting across from me feeling overwhelmed: a mortgage contingency is one of the few places in a purchase contract where the law is genuinely on your side. Understanding it fully is worth your time.
+If you're under contract right now, or close to it, you might be wondering what this clause actually does and whether giving it up is as dangerous as it sounds. A mortgage contingency is one of the few places in a purchase contract where the law is genuinely on the buyer's side. Understanding it fully is worth your time.
 
 Let me back up and explain what you're actually looking at.
 
@@ -40,7 +40,7 @@ That's it. That's the core purpose. It's your legal exit ramp if the financing f
 
 The "terms specified" part is worth paying attention to, though. Most contingency clauses include a loan amount, a maximum interest rate, and a loan type (conventional, FHA, VA, etc.). So if you write a contingency saying you need a 30-year conventional loan at no more than 7.5%, and the only approval you can get comes back at 8.1%, you technically have grounds to invoke the contingency and exit the deal.
 
-In my 16 years underwriting loans, I watched a lot of buyers sign contracts without reading that rate ceiling closely. Some had written in a rate that was unrealistically low, thinking it protected them more aggressively. What it actually did was give the seller grounds to argue the contingency was met (because the buyer *could* get financing, just not at that specific number) when the buyer wanted out for other reasons. Read the language carefully. If you're unsure, a real estate attorney for a few hundred dollars is money well spent.
+Many buyers sign contracts without reading that rate ceiling closely. Some had written in a rate that was unrealistically low, thinking it protected them more aggressively. What it actually did was give the seller grounds to argue the contingency was met (because the buyer *could* get financing, just not at that specific number) when the buyer wanted out for other reasons. Read the language carefully. If you're unsure, a real estate attorney for a few hundred dollars is money well spent.
 
 ## The Clock Is Ticking From Day One
 
@@ -51,19 +51,19 @@ In my 16 years underwriting loans, I watched a lot of buyers sign contracts with
 | After pre-underwriting approval | Waived | High | Property-specific risks remain (appraisal, title, inspection) |
 | Missing contingency deadline | N/A | Critical | Earnest money forfeited; no exit protection |
 
-Mortgage contingencies aren't open-ended. They have a deadline, typically somewhere between 21 and 45 days from the contract date, though this varies significantly by region and by how competitive the market is. As of July 2026, in high-demand metros, I'm hearing from buyers who are being pressured to accept contingency windows as short as 14 to 17 days. That is very tight.
+Mortgage contingencies aren't open-ended. They have a deadline, typically somewhere between 21 and 45 days from the contract date, though this varies significantly by region and by how competitive the market is. As of July 2026, in high-demand metros, buyers are being pressured to accept contingency windows as short as 14 to 17 days. That is very tight.
 
 Here's what the deadline actually means: if you haven't formally invoked the contingency (by notifying the seller in writing that you can't obtain financing) before that deadline passes, you can lose your right to exit cleanly. And in some contracts, if you do nothing, the contingency is automatically waived when the clock runs out.
 
-This is the single most common mistake I saw buyers make. They'd hit a snag with underwriting, assume everything was being handled, and let the deadline slip. Then they'd get cold feet or the deal would fall apart, and the earnest money was gone. Sometimes $10,000. Sometimes $25,000 or more.
+This is one of the single most common mistakes buyers make. Buyers hit a snag with underwriting, assume everything is being handled, and let the deadline slip. Then the deal falls apart, and the earnest money is gone. Sometimes $10,000. Sometimes $25,000 or more.
 
-A worked example: A couple in the Atlanta suburbs signed a contract with a 21-day mortgage contingency. Their loan was taking longer than expected because of a paperwork issue with self-employment income. Day 21 came and went with no written notification to the seller. On day 26, underwriting came back with a denial. They tried to invoke the contingency retroactively. The seller refused, citing the expired deadline. The buyers lost their $15,000 in earnest money. The title company sided with the seller. This situation was entirely preventable.
+For example, consider a couple who signs a contract with a 21-day mortgage contingency. Their loan takes longer than expected because of a paperwork issue with self-employment income. Day 21 comes and goes with no written notification to the seller. On day 26, underwriting comes back with a denial. They try to invoke the contingency retroactively. The seller refuses, citing the expired deadline. The buyers lose their $15,000 in earnest money. The title company sides with the seller. This situation was entirely preventable.
 
 If you think you're having any trouble with financing, notify your agent before the deadline. Extensions are usually negotiable. Lost deadlines often aren't.
 
 ## What Happens When You Waive It
 
-In competitive markets, buyers' agents sometimes suggest waiving the mortgage contingency to make an offer more attractive. I understand the logic, and I won't pretend it never works. But I want you to know what you're agreeing to.
+In competitive markets, buyers' agents sometimes suggest waiving the mortgage contingency to make an offer more attractive, and there are cases where it works. But I want you to know what you're agreeing to.
 
 When you waive the mortgage contingency, you are essentially telling the seller: even if I can't get a loan, I'll either find another way to close or forfeit my earnest money. Period. There's no protective language left.
 
@@ -71,13 +71,13 @@ Some buyers do this after getting [pre-underwritten](/step-by-step-guide-to-gett
 
 That said, even a fully pre-underwritten buyer faces risk if the [appraisal comes in low](/low-appraisal-mortgage-options/) and the seller won't renegotiate. The property itself has to support the loan. No amount of personal creditworthiness fixes a property problem.
 
-Worked example: A buyer in a Phoenix suburb in early 2025 waived her mortgage contingency after receiving a thorough pre-underwriting letter from her lender. Her offer was accepted. The appraisal came in $22,000 below the purchase price. The seller refused to reduce the price. She had two options: bring an extra $22,000 in cash to closing (which she had saved) or walk and lose her $8,000 earnest deposit. She closed. But that outcome required a significant cash reserve she'd planned as a buffer. Not everyone has that cushion.
+For example, a buyer in a Phoenix suburb in early 2025 might waive her mortgage contingency after receiving a thorough pre-underwriting letter from her lender. Her offer is accepted. The appraisal comes in $22,000 below the purchase price. The seller refuses to reduce the price. She had two options: bring an extra $22,000 in cash to closing (which she had saved) or walk and lose her $8,000 earnest deposit. She closed. But that outcome required a significant cash reserve she'd planned as a buffer. Not everyone has that cushion.
 
 This won't work for everyone. And I'd be skeptical of any agent who tells you waiving is "no big deal" without walking you through exactly what you're exposed to.
 
 ## How to Use the Contingency Strategically
 
-Here's what I actually tell buyers who want to be competitive without eliminating all protection. You have more flexibility than you think.
+Buyers who want to be competitive without eliminating all protection have more flexibility than they might think. You have more flexibility than you think.
 
 You can shorten the contingency window rather than eliminating it entirely. Moving from 30 days to 18 days with a solid pre-approval signals confidence to sellers without leaving you fully exposed. You can also agree to a higher earnest money deposit but keep the contingency intact. Sellers often care more about certainty than the presence or absence of the clause itself.
 
@@ -96,7 +96,6 @@ Worked example: A first-time buyer in Denver shortened his contingency window fr
 - Consumer Financial Protection Bureau (CFPB), *Buying a House* resource guide: Plain-language explanation of financing contingencies and buyer rights during the mortgage process.
 
 ---
-
 
 ---
 

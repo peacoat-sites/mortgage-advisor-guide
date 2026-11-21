@@ -28,7 +28,7 @@ faqs:
 
 Paying off a 30-[year mortgage](/15-year-vs-30-year-mortgage-pros-and-cons/) in 20 years instead saves the average American homeowner somewhere between $50,000 and $100,000 in interest, depending on loan size and rate. That's not a rounding error. That's a car, a college fund, or a decade of retirement contributions. Yet many borrowers sign 30-year notes without being shown what that timeline actually costs them in total dollars paid.
 
-You might be wondering if early payoff is even worth thinking about [right now](/should-you-take-an-arm-right-now-to-beat-high-fixed-rates/), especially with rates where they are and budgets already stretched thin. Here's what I tell people: the math almost always makes sense. But the strategy has to fit your life, and there are real tradeoffs that nobody in the mortgage business is in a hurry to explain to you.
+You might be wondering if early payoff is even worth thinking about [right now](/should-you-take-an-arm-right-now-to-beat-high-fixed-rates/), especially with rates where they are and budgets already stretched thin. The math almost always makes sense. But the strategy has to fit your life, and there are real tradeoffs that nobody in the mortgage business is in a hurry to explain to you.
 
 Let me walk through the actual numbers, the mechanics, and the scenarios where early payoff is a no-brainer versus where it genuinely isn't.
 
@@ -56,11 +56,11 @@ Let me give you three concrete scenarios, all based on a $350,000 loan at 6.75%,
 
 *These are estimates based on standard amortization. Your actual numbers depend on your specific rate, term, and balance. Run them through an amortization calculator before making decisions.*
 
-The biweekly strategy is popular, and it does work, but I want to flag something I wish someone had told me earlier: some servicers charge a setup fee for a formal biweekly program, sometimes $300-$400. You can get the same mathematical result by simply making one extra principal payment per year, clearly labeled "apply to principal," and skipping the fee entirely.
+The biweekly strategy is popular, and it does work, but it is worth noting that some servicers charge a setup fee for a formal biweekly program, sometimes $300-$400. You can get the same mathematical result by simply making one extra principal payment per year, clearly labeled "apply to principal," and skipping the fee entirely.
 
 ## The Tax Deduction Argument Is Weaker Than You Think
 
-Almost every time I'd explain early payoff math to someone, they'd say, "But don't I lose the tax deduction?" And honestly, this is where a lot of financial conventional wisdom falls apart under pressure.
+A common objection to early payoff is the question of the tax deduction, and this is where a lot of financial conventional wisdom falls apart under pressure.
 
 Yes, the mortgage interest deduction exists. And yes, if you're paying less interest because you've paid down principal, you deduct less. But here's what that actually means: you avoid paying $1 in interest to save $0.22 in taxes (assuming a 22% federal bracket). That's not a good trade. You're still losing $0.78 on the dollar.
 
@@ -86,13 +86,13 @@ For example, someone sending an extra $400 a month to a mortgage while carrying 
 
 The mechanics are simpler than people expect. Most servicers allow you to make extra principal payments online, by check, or by phone. The key: always specify "apply to principal." If you don't, some servicers will apply the overage to your next month's payment instead of reducing your balance. That's a meaningful difference.
 
-A few things I've learned from watching real borrowers try this:
+A few practical points worth knowing before getting started:
 
 Check your loan documents for a prepayment penalty. These are rare on conventional loans originated in the last decade, but they do exist on some older FHA loans and certain non-QM products. Page 3 of your Closing Disclosure, under "Loan Terms," will tell you.
 
 Set up a separate savings bucket if you're going the lump-sum route (one extra payment per year). Automate $150-200 into it monthly, then send it as a single principal payment in January. Psychologically it's easier to sustain than adding to your monthly payment.
 
-Scenario: A borrower in Portland with a $420,000 balance at 7.1% started adding $300/month to principal in year 3 of a 30-year loan. By my rough calculation, she's on track to pay off 6 years early and save around $127,000 in interest. She told me she'd skipped two streaming services and redirected a gym membership she wasn't using. Three subscriptions. $127,000.
+For example, a borrower with a $420,000 balance at 7.1% who starts adding $300 per month to principal in year 3 of a 30-year loan could be on track to pay off 6 years early and save around $127,000 in interest, potentially by cutting just a few recurring subscriptions.
 
 ## Sources
 
