@@ -21,8 +21,8 @@ faqs:
    a: "Yes, but with important caveats. FHA and VA loans have streamline refinance programs with different cost structures than conventional refis. FHA loans require mortgage insurance premiums, and a refinance could change what you pay for that coverage. VA loans have a funding fee that needs to be included in your closing cost calculation. Make sure any calculator you use has fields for mortgage insurance and allows you to customize fee inputs, otherwise you'll get a distorted picture."
 author: "Maria Santos"
 author_slug: "maria-santos"
-author_title: "First-Time Buyer Coach"
-author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+author_title: "First-Time Buyers"
+author_bio: "Maria Santos is the byline used at Mortgage Advisor Guide for articles on first-time buyer programs and the steps of a purchase. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting at the kitchen table with a mailer promising you could "save hundreds every month" by refinancing. The number's tempting. Your current rate feels high compared to what friends mention casually. So you find an online calculator, plug in some numbers, and get a monthly savings figure that makes you want to call a lender right now. This moment often backfires not because the calculator is broken, but because borrowers don't know which numbers to trust, which fields actually matter, and what the tool quietly skips over. A refinancing calculator is powerful. It's also massively misused. Let's change that.

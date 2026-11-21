@@ -1,37 +1,37 @@
 [
   {
-    "slug": "jennifer-walsh",
-    "name": "Jennifer Walsh",
-    "title": "Former Mortgage Underwriter",
-    "specialty": "Home Loans & the Mortgage Process",
-    "bio": "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
-  },
-  {
     "slug": "ethan-chen",
     "name": "Ethan Chen",
-    "title": "Housing Market Analyst",
-    "specialty": "Home Buying Process & Market Trends",
-    "bio": "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
+    "title": "Housing Market",
+    "specialty": "Housing Market",
+    "bio": "Ethan Chen is the byline used at Mortgage Advisor Guide for articles on housing market data, rates and the buying process. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+  },
+  {
+    "slug": "jennifer-walsh",
+    "name": "Jennifer Walsh",
+    "title": "Loan Process",
+    "specialty": "Loan Process",
+    "bio": "Jennifer Walsh is the byline used at Mortgage Advisor Guide for articles on the mortgage process and what underwriters look at. It is a pen name, not a loan officer or underwriter; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "maria-santos",
     "name": "Maria Santos",
-    "title": "First-Time Buyer Coach",
-    "specialty": "First-Time Homebuyer Guidance & Programs",
-    "bio": "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+    "title": "First-Time Buyers",
+    "specialty": "First-Time Buyers",
+    "bio": "Maria Santos is the byline used at Mortgage Advisor Guide for articles on first-time buyer programs and the steps of a purchase. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "robert-kim",
     "name": "Robert Kim",
-    "title": "Refinancing Expert",
-    "specialty": "Mortgage Refinancing & Rate Strategy",
-    "bio": "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+    "title": "Refinancing",
+    "specialty": "Refinancing",
+    "bio": "Robert Kim is the byline used at Mortgage Advisor Guide for articles on refinancing math, rate strategy and closing costs. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "susan-taylor",
     "name": "Susan Taylor",
-    "title": "Credit & Qualification Specialist",
-    "specialty": "Credit Scores & Mortgage Qualification",
-    "bio": "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
+    "title": "Credit and Qualifying",
+    "specialty": "Credit and Qualifying",
+    "bio": "Susan Taylor is the byline used at Mortgage Advisor Guide for articles on credit scores and mortgage qualification. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   }
 ]

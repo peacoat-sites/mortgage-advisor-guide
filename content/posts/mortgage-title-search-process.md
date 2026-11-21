@@ -21,8 +21,8 @@ faqs:
    a: "Technically, public records are public. You could search them yourself. Practically, a self-conducted title search won't satisfy a lender, won't produce insurable title, and requires knowing exactly what to look for across multiple record systems. This is not a DIY project with a margin for error. Use a licensed title company or real estate attorney."
 author: "Robert Kim"
 author_slug: "robert-kim"
-author_title: "Refinancing Expert"
-author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+author_title: "Refinancing"
+author_bio: "Robert Kim is the byline used at Mortgage Advisor Guide for articles on refinancing math, rate strategy and closing costs. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're three weeks from [closing](/closing-disclosure-explained/), the movers are booked, and your loan officer calls to say the title search turned up a lien from a contractor who worked on the house six years ago. The seller swears they never hired anyone by that name. Suddenly your closing date is a memory and you're learning, the hard way, what a title search actually does. Buyers often don't understand what a title search does until a problem surfaces during the closing process.

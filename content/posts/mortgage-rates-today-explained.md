@@ -21,8 +21,8 @@ faqs:
    a: "A rate lock secures your interest rate for a specific period while your loan is processed. A float-down option, which some lenders offer for an additional fee, allows you to capture a lower rate if market rates drop during your lock period. Float-down provisions come with conditions, usually a minimum rate drop threshold and specific timing requirements, so read the terms carefully before paying for one."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Housing Market Analyst"
-author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
+author_title: "Housing Market"
+author_bio: "Ethan Chen is the byline used at Mortgage Advisor Guide for articles on housing market data, rates and the buying process. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You checked the rate on your lender's website Monday morning. By Wednesday afternoon, it had moved. Not by much, maybe a quarter of a point, but enough to change your monthly payment by $80 and your total interest cost by nearly $30,000 over the life of a 30-year loan. That's not a rounding error. That's a car payment. Mortgage rates aren't static numbers sitting on a sign at a dealership. They move every single business day, sometimes multiple times a day, and most borrowers have no idea why.

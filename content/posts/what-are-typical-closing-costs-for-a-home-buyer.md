@@ -21,8 +21,8 @@ faqs:
     a: "Significantly. A CoreLogic/Bankrate analysis from 2021 found average closing costs ranging from under $2,000 in some Midwestern states to over $6,000 in New York, not counting taxes. When you factor in transfer taxes, the gap widens further. Pennsylvania, Maryland, New York, Delaware, and Washington DC are consistently among the most expensive states for buyers in terms of total closing costs. If you're relocating from a low-cost state to a high-cost one, this can catch you completely off guard."
 author: "Robert Kim"
 author_slug: "robert-kim"
-author_title: "Refinancing Expert"
-author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+author_title: "Refinancing"
+author_bio: "Robert Kim is the byline used at Mortgage Advisor Guide for articles on refinancing math, rate strategy and closing costs. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Nobody tells you the real number until you're three days from closing.

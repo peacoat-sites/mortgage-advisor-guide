@@ -21,8 +21,8 @@ faqs:
    a: "Plenty. A new credit account or large purchase that changes your DTI. A job change, especially from salaried to self-employed. A large unexplained deposit in your bank account. A low appraisal on the specific property. Or updated documents that show income lower than originally presented. Preapproval is conditional, and the conditions can change if your circumstances do. Keep your financial life stable from application through closing."
 author: "Maria Santos"
 author_slug: "maria-santos"
-author_title: "First-Time Buyer Coach"
-author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+author_title: "First-Time Buyers"
+author_bio: "Maria Santos is the byline used at Mortgage Advisor Guide for articles on first-time buyer programs and the steps of a purchase. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most preapproval guides tell you to "gather your documents and contact a lender." That's about as useful as telling someone to "buy low, sell high." What they skip is the sequence, the friction points, and the three or four places where borrowers quietly torpedo their own applications before they've even found a house.

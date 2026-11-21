@@ -21,8 +21,8 @@ faqs:
    a: "Some lenders allow a renewal or extension, but it's not guaranteed and usually requires a new application, updated appraisal, and credit review. Don't plan your finances around an extension you haven't been approved for yet."
 author: "Robert Kim"
 author_slug: "robert-kim"
-author_title: "Refinancing Expert"
-author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+author_title: "Refinancing"
+author_bio: "Robert Kim is the byline used at Mortgage Advisor Guide for articles on refinancing math, rate strategy and closing costs. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 A HELOC looks simple on paper. You borrow against your home equity, pay interest while you draw, then pay it back. What loan officers rarely explain clearly is that the repayment phase can hit your budget like a wall, and a surprising number of borrowers don't see it coming until they're already in it.

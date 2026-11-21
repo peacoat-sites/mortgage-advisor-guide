@@ -21,8 +21,8 @@ faqs:
    a: "Absolutely, and some buyers choose to, especially if they want lower monthly payments, plan to stay long-term, or are buying in a high-cost market where the loan amount would otherwise be enormous. There's no cap on how much you can put down. Just make sure it doesn't compromise your liquid reserves or your other financial goals."
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
-author_title: "Former Mortgage Underwriter"
-author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
+author_title: "Loan Process"
+author_bio: "Jennifer Walsh is the byline used at Mortgage Advisor Guide for articles on the mortgage process and what underwriters look at. It is a pen name, not a loan officer or underwriter; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people believe you need 20% down to buy a house. That single myth keeps more qualified buyers on the sidelines than almost anything else. Many qualified borrowers with solid income, clean credit, and real savings have talked themselves out of homeownership because they were chasing a number they didn't actually need. Today's mortgage market offers down payment options ranging from zero to 20% and beyond, each with its own set of tradeoffs, costs, and qualifying requirements. Understanding those differences can mean the gap between buying a home this year and waiting three more years for a savings target you may not need.

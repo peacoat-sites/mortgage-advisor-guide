@@ -21,8 +21,8 @@ faqs:
    a: "It depends entirely on your time horizon and break-even calculation. In a high-rate environment, buyers sometimes pay points hoping to refinance when rates drop, but if they refinance, they lose the benefit of the points. The counter-argument is that paying points now gives you a manageable payment today, and if you never refinance, you've protected yourself long-term. There's no universal right answer. Run the math for your specific loan, not anyone else's."
 author: "Maria Santos"
 author_slug: "maria-santos"
-author_title: "First-Time Buyer Coach"
-author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+author_title: "First-Time Buyers"
+author_bio: "Maria Santos is the byline used at Mortgage Advisor Guide for articles on first-time buyer programs and the steps of a purchase. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A loan estimate may include a line for "Discount Points: 1.000 ($4,200)." A loan officer might mention it briefly, note that it'll lower your rate, then move on. It's easy to miss the significance: if you don't ask what that actually means for your loan, you could end up paying thousands of dollars without understanding what you're buying.

@@ -8,8 +8,8 @@ categories: ["Loan Types"]
 tags: ["bank", "statement", "mortgage", "loans"]
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit & Qualification Specialist"
-author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
+author_title: "Credit and Qualifying"
+author_bio: "Susan Taylor is the byline used at Mortgage Advisor Guide for articles on credit scores and mortgage qualification. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "bank-statement-mortgage-loans"
 affiliate_disclosure: true
 faqs:

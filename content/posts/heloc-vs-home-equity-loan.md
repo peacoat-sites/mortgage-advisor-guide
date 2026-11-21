@@ -21,8 +21,8 @@ faqs:
    a: "Sometimes. A cash-out refinance replaces your first mortgage with a new, larger one and gives you the difference in cash. If refinance rates are close to your current rate, it can be cleaner. But if you locked in a 3% mortgage and today's rates are significantly higher, a cash-out refi means your entire mortgage balance reprices upward. In that case, a HELOC or home equity loan preserves your existing first mortgage rate. It's a calculation worth running."
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
-author_title: "Former Mortgage Underwriter"
-author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
+author_title: "Loan Process"
+author_bio: "Jennifer Walsh is the byline used at Mortgage Advisor Guide for articles on the mortgage process and what underwriters look at. It is a pen name, not a loan officer or underwriter; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've got $80,000 in home equity and a major expense coming up. Maybe it's a kitchen remodel, a kid heading to college, or high-interest credit card debt you want to consolidate. You talk to your loan officer, and they mention two options almost in the same breath: a HELOC or a home equity loan. They make it sound interchangeable. It isn't. The difference between these two products can cost you thousands of dollars or, in some cases, save you thousands, depending entirely on how your situation actually unfolds. After 16 years of watching borrowers sign documents they didn't fully understand, I want to give you the real breakdown.

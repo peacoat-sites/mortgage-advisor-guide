@@ -9,8 +9,8 @@ categories: ["Taxes"]
 tags: ["points", "deduction", "mortgage"]
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Housing Market Analyst"
-author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
+author_title: "Housing Market"
+author_bio: "Ethan Chen is the byline used at Mortgage Advisor Guide for articles on housing market data, rates and the buying process. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "points-deduction-mortgage"
 affiliate_disclosure: true
 faqs:

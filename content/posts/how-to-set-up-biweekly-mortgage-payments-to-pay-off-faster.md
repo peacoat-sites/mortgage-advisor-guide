@@ -21,8 +21,8 @@ faqs:
    a: "Mathematically, over the long run, they're nearly identical in total impact. The biweekly method applies money slightly earlier throughout the year, which does compound a bit more favorably, but the difference between the two approaches is small. If your servicer makes biweekly setup complicated or fee-heavy, just make one lump extra principal payment in January. Same destination, easier road."
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit & Qualification Specialist"
-author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
+author_title: "Credit and Qualifying"
+author_bio: "Susan Taylor is the byline used at Mortgage Advisor Guide for articles on credit scores and mortgage qualification. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Sixteen extra mortgage payments over thirty years. That's what a true biweekly setup actually delivers, and it's the number that makes this strategy worth your time, or worth walking away from if your lender is selling you a fee-based program that does the same math.

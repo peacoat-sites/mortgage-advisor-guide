@@ -21,8 +21,8 @@ faqs:
    a: "A prior bankruptcy or foreclosure doesn't permanently disqualify you. VA guidelines typically require a two-year waiting period after a Chapter 7 discharge or foreclosure. Chapter 13 may allow a shorter window with documented on-time payments and trustee approval. Your lender's overlays may be stricter than VA minimums, so shop around if one lender declines you."
 author: "Maria Santos"
 author_slug: "maria-santos"
-author_title: "First-Time Buyer Coach"
-author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+author_title: "First-Time Buyers"
+author_bio: "Maria Santos is the byline used at Mortgage Advisor Guide for articles on first-time buyer programs and the steps of a purchase. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You served four years in the Army, separated honorably, and now you're sitting across from a loan officer who just told you to put 10% down on a $380,000 home. That's $38,000 out of pocket before closing costs, before moving expenses, before anything. What he didn't tell you is that you likely qualify for a loan that requires zero down, charges no private mortgage insurance, and carries one of the most competitive interest rates available to any borrower anywhere. That loan is the VA home loan, and after 16 years of reviewing mortgage files, I'm still amazed at how many eligible borrowers either don't know it exists or don't understand what it actually offers.

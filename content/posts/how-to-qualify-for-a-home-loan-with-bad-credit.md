@@ -21,8 +21,8 @@ faqs:
    a: "This is genuinely a personal decision that depends on your local housing market, your financial stability, and how close you are to a score threshold that would meaningfully improve your terms. In some markets, waiting 12 months while improving your credit could mean paying significantly more for the same house. In others, the opposite might be true. Run the numbers for your specific situation, talk to a HUD-approved counselor, and don't let either a lender or a fear of waiting make that decision for you. The truth is, people qualify for mortgages every single day with credit histories that co"
 author: "Maria Santos"
 author_slug: "maria-santos"
-author_title: "First-Time Buyer Coach"
-author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+author_title: "First-Time Buyers"
+author_bio: "Maria Santos is the byline used at Mortgage Advisor Guide for articles on first-time buyer programs and the steps of a purchase. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people think a credit score below 620 means the door's closed. You apply, get rejected, and wait years to try again. I believed that too, starting out. Then I spent sixteen years watching people with scores in the 500s close on homes while folks with 680s got turned away. The score matters, sure. But the full picture is messier, and far more hopeful, than most loan officers bother explaining.

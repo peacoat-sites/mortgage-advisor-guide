@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit & Qualification Specialist"
-author_specialty: "Credit Scores & Mortgage Qualification"
+author_title: "Credit and Qualifying"
+author_specialty: "Credit and Qualifying"
 ---
 
-Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification.
+Susan Taylor is the byline used at Mortgage Advisor Guide for articles on credit scores and mortgage qualification. It is a pen name; how articles are researched and checked is explained in our editorial standards.
+
+[How Mortgage Advisor Guide articles are written and checked](/editorial-standards/)

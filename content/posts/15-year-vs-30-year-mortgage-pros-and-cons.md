@@ -21,8 +21,8 @@ faqs:
    a: "It exists, and some lenders offer it, but it's much less common and you may not get the same rate competitiveness you'd see on a 15 or 30. For some borrowers it genuinely is a good fit, but you'll want to comparison shop carefully because the product isn't as standardized."
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
-author_title: "Former Mortgage Underwriter"
-author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
+author_title: "Loan Process"
+author_bio: "Jennifer Walsh is the byline used at Mortgage Advisor Guide for articles on the mortgage process and what underwriters look at. It is a pen name, not a loan officer or underwriter; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people treat this decision like a math problem. They pull up a mortgage calculator, see that the 15-year saves them $80,000 in interest, and start mentally patting themselves on the back for being so financially disciplined. What they miss is that the 15-year mortgage can strain financial flexibility when unexpected expenses arise.

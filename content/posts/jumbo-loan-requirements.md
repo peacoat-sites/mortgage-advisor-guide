@@ -21,8 +21,8 @@ faqs:
     a: "Lenders tighten standards. This is consistent and predictable behavior. When rates rise quickly, home values often soften, and lenders become more conservative about high-balance loans where collateral risk is elevated. Reserve requirements increase, acceptable DTI ratios tighten, and some lenders temporarily exit the jumbo market entirely. Borrowers who were marginal qualifiers in a low-rate environment often find they no longer qualify when rates move materially. This is a key reason to qualify conservatively and not push your loan amount to the absolute maximum you can technically support."
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
-author_title: "Former Mortgage Underwriter"
-author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
+author_title: "Loan Process"
+author_bio: "Jennifer Walsh is the byline used at Mortgage Advisor Guide for articles on the mortgage process and what underwriters look at. It is a pen name, not a loan officer or underwriter; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You find a house you love. The price is $1.4 million. You have excellent credit, a substantial down payment, and a stable high income. You walk into the bank expecting smooth sailing. Then the loan officer explains that you're in "jumbo territory," and suddenly the conversation shifts. More documentation. Higher reserves. Stricter debt ratios. A different approval process entirely. A lot of borrowers are caught completely off guard by this, and it costs them time, deals, and sometimes the house itself.

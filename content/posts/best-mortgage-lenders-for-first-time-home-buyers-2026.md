@@ -21,8 +21,8 @@ faqs:
    a: "Student loans don't automatically disqualify you, but they affect your debt-to-income (DTI) ratio, which lenders use to determine how much mortgage you can carry. DTI is calculated by dividing your total monthly debt payments (including the proposed mortgage) by your gross monthly income. Conventional loans typically allow a maximum DTI of 45 to 50%. FHA loans can go up to 57% in some cases. What matters is how your servicer reports your monthly payment. If your loans are in deferment or on an income-driven plan, different loan programs calculate the payment differently. Ask your lender specif"
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit & Qualification Specialist"
-author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
+author_title: "Credit and Qualifying"
+author_bio: "Susan Taylor is the byline used at Mortgage Advisor Guide for articles on credit scores and mortgage qualification. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've found the house. The offer got accepted. And now your loan officer is rattling off terms like "LTV ratio," "PMI," "points," and "DTI" like you've been in the mortgage business for twenty years. Meanwhile, you're nodding along and quietly panicking, wondering if you're about to sign the most expensive document of your life without really understanding it. A common mistake among first-time buyers is walking into the lender selection process completely unprepared, then settling for the first pre-approval letter they receive without understanding what other options look like.

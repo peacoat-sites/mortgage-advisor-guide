@@ -21,8 +21,8 @@ faqs:
    a: "Send a written request to your loan servicer (the company you send your payment to, which may not be your original lender). Include your loan number, a statement that you're requesting cancellation under the Homeowners Protection Act, and evidence that your balance has reached the 80% threshold. Keep a copy. Follow up in writing if you don't receive confirmation within 30 days. PMI is a cost of entry for many buyers, and there's nothing inherently wrong with using it to purchase a home before you've saved 20%. What is wrong is paying it longer than you have to, or paying it without understandi"
 author: "Robert Kim"
 author_slug: "robert-kim"
-author_title: "Refinancing Expert"
-author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+author_title: "Refinancing"
+author_bio: "Robert Kim is the byline used at Mortgage Advisor Guide for articles on refinancing math, rate strategy and closing costs. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting at the [closing](/mortgage-closing-costs-explained/) table, flipping through a stack of documents, and you spot a line item you don't recognize: "PMI premium, $187/month." Nobody mentioned this during your pre-approval call. Your loan officer brushes past it like it's nothing. But over the next seven years? That's more than $15,000 leaving your pocket for a product that protects the lender, not you. That's the reality of private mortgage insurance, and it catches buyers off guard every single day.

@@ -21,8 +21,8 @@ faqs:
    a: "It depends on how recent and how severe. A single 30-day late from eight or nine months ago won't automatically disqualify you, but it will affect your credit score and possibly your rate tier. Most conventional programs get stricter with 60-day or 90-day lates, especially on the mortgage itself. FHA refinance programs can sometimes be more flexible, but they come with mortgage insurance that may offset the rate benefit."
 author: "Maria Santos"
 author_slug: "maria-santos"
-author_title: "First-Time Buyer Coach"
-author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+author_title: "First-Time Buyers"
+author_bio: "Maria Santos is the byline used at Mortgage Advisor Guide for articles on first-time buyer programs and the steps of a purchase. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people refinance at exactly the wrong time, for exactly the wrong reason. A common mistake is locking in a "great deal" without understanding the break-even math, which can cost an extra $14,000 or more over the life of the loan.

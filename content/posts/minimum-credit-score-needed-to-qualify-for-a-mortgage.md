@@ -21,8 +21,8 @@ faqs:
    a: "It genuinely depends on what's dragging your score down. If it's high utilization, you can see meaningful improvement in 30-60 days after paying balances down. If it's a history of late payments or collections, expect a longer runway, typically 6-12 months of consistent on-time payments before you see significant movement. A credit counselor or HUD-approved housing counselor can give you a specific plan based on your actual report."
 author: "Maria Santos"
 author_slug: "maria-santos"
-author_title: "First-Time Buyer Coach"
-author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+author_title: "First-Time Buyers"
+author_bio: "Maria Santos is the byline used at Mortgage Advisor Guide for articles on first-time buyer programs and the steps of a purchase. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your credit score is not a verdict on you as a person. A credit score can feel deeply personal when it determines whether someone gets approved for a home loan. Many people feel anxious after pulling their score, but it's worth understanding how scores actually work.

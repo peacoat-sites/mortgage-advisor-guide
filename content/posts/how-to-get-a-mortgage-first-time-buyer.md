@@ -21,8 +21,8 @@ faqs:
    a: "Tell your lender immediately. Don't wait for them to discover it. Losing a job, taking on new debt, changing employers, or having a large unexplained deposit can all affect your loan. Lenders typically pull credit again just before closing and verify employment within days of closing. If your situation has changed and you haven't disclosed it, you risk losing the loan at the worst possible moment, which can mean losing your earnest money and potentially being liable for other contract damages. Transparency early beats crisis late."
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit & Qualification Specialist"
-author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
+author_title: "Credit and Qualifying"
+author_bio: "Susan Taylor is the byline used at Mortgage Advisor Guide for articles on credit scores and mortgage qualification. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most first-time buyers walk into a lender's office convinced the mortgage process starts with finding a house. It doesn't. By the time you've fallen in love with a property, made an offer, and started negotiating, the financial decisions that actually determine what you can afford and what you'll pay have already been made, or should have been. Borrowers who start the mortgage process after finding a house often lose out on better rates, overpay tens of thousands in interest, or end up in loan products they don't fully understand.

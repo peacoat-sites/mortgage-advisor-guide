@@ -9,8 +9,8 @@ categories: ["Cost Factors"]
 tags: ["much", "house", "afford", "100k", "salary"]
 author: "Robert Kim"
 author_slug: "robert-kim"
-author_title: "Refinancing Expert"
-author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+author_title: "Refinancing"
+author_bio: "Robert Kim is the byline used at Mortgage Advisor Guide for articles on refinancing math, rate strategy and closing costs. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "how-much-house-can-i-afford-on-100k-salary"
 affiliate_disclosure: true
 faqs:

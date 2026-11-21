@@ -21,8 +21,8 @@ faqs:
    a: "Faster than a standard refinance, but not instant. Most streamline refinances close in 20 to 30 days, compared to 45 to 60 days for a full conventional refinance. The reduced documentation requirements remove a major source of delays, but title work, lender capacity, and state recording requirements still take time. Don't let any lender promise you a two-week close without a good explanation for how they'll get there."
 author: "Robert Kim"
 author_slug: "robert-kim"
-author_title: "Refinancing Expert"
-author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+author_title: "Refinancing"
+author_bio: "Robert Kim is the byline used at Mortgage Advisor Guide for articles on refinancing math, rate strategy and closing costs. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You already have the loan. You've been paying it for years. Your credit score has improved, rates have dropped, or both. So you think: refinance. Then you hit the wall. Paperwork, income verification, appraisals, the whole painful dance again. Here's what most coverage won't tell you: depending on your loan type, you might qualify for a streamline refinance that skips most of that friction. Not all of it, but most.

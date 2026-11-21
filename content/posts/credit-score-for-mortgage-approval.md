@@ -21,8 +21,8 @@ faqs:
    a: "Not necessarily all of it. Installment debt like car loans or student loans affects your DTI more than your score in most cases. Revolving debt (credit cards) affects both. The priority is typically to get card balances below 30% of limits, stay current on everything, and make sure your DTI lands in an acceptable range. Completely zeroing out accounts before applying can sometimes hurt your credit mix and age metrics. Ask a qualified loan officer or financial advisor to look at your specific situation before making large payoffs."
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
-author_title: "Former Mortgage Underwriter"
-author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
+author_title: "Loan Process"
+author_bio: "Jennifer Walsh is the byline used at Mortgage Advisor Guide for articles on the mortgage process and what underwriters look at. It is a pen name, not a loan officer or underwriter; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your credit score is a three-digit number that can mean the difference between a 6.5% mortgage rate and a 7.8% rate on a $350,000 loan. Run those numbers and you're looking at a gap of roughly $300 per month, or tens of thousands of dollars over the life of the loan. Borrowers often leave closing confused about higher-than-expected rates, which frequently traces back to a credit score that hasn't been checked in years.

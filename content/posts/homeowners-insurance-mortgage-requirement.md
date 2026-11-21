@@ -21,8 +21,8 @@ faqs:
    a: "Yes, if your lender's requirement and your budget allow. But going lower than the lender's maximum deductible isn't required, and a higher deductible generally lowers your premium. Just make sure your deductible stays within the lender's maximum threshold (often 5% of dwelling coverage for wind/hail, sometimes stricter for standard perils). Some borrowers choose a high-deductible policy to reduce premiums and self-insure the gap. That's a defensible strategy, but pair it with an emergency fund that can actually cover the deductible."
 author: "Robert Kim"
 author_slug: "robert-kim"
-author_title: "Refinancing Expert"
-author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+author_title: "Refinancing"
+author_bio: "Robert Kim is the byline used at Mortgage Advisor Guide for articles on refinancing math, rate strategy and closing costs. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You close on your dream home in three days. The lender calls to confirm your homeowners insurance is in place. You give them the policy number, feeling prepared. Then they come back with a problem: your dwelling coverage limit is $180,000 but your loan balance is $340,000. The policy you bought doesn't meet their requirements, and closing is now in jeopardy. This situation is entirely avoidable once you understand what lenders actually require and why.

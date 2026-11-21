@@ -22,8 +22,8 @@ faqs:
    a: "Yes. Refinancing involves an entirely new loan, which means a new appraisal, new title work, new origination fees, and new prepaids. Refinance closing costs typically run 2% to 5% of the new loan amount, similar to a purchase. The break-even calculation is essential: divide your closing costs by your monthly savings to find out how many months it takes to recoup the expense. If you're not planning to stay long enough to hit that break-even point, a refinance may cost you money even at a lower rate."
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit & Qualification Specialist"
-author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
+author_title: "Credit and Qualifying"
+author_bio: "Susan Taylor is the byline used at Mortgage Advisor Guide for articles on credit scores and mortgage qualification. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 
 lastmod: 2026-11-16T16:00:00Z
 ---

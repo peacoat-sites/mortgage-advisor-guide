@@ -21,8 +21,8 @@ faqs:
    a: "There is, with caveats. Take your total closing costs and divide by the monthly payment difference. That gives you a quick estimate in seconds. It's imprecise because it ignores amortization dynamics, but if the number comes out to 84 months and you're planning to stay five years, you don't need more precision to know the answer is no. If the number comes out to 18 months and you're planning to stay ten years, you probably need to go deeper to confirm the deal is as good as it looks. Refinancing can be one of the smartest financial moves you make as a homeowner, or it can be an expensive mista"
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
-author_title: "Former Mortgage Underwriter"
-author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
+author_title: "Loan Process"
+author_bio: "Jennifer Walsh is the byline used at Mortgage Advisor Guide for articles on the mortgage process and what underwriters look at. It is a pen name, not a loan officer or underwriter; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people refinance because their loan officer told them the new rate was "great." I've watched borrowers roll $6,000 in closing costs into a loan that lowered their payment by $80 a month, never once asking how long it would take to actually come out ahead. The answer, in that case, was 75 months. Six and a quarter years. And they sold the house in four. They didn't save money. They lost it.

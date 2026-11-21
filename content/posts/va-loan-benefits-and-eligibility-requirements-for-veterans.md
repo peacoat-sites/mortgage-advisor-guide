@@ -21,8 +21,8 @@ faqs:
    a: "No. VA loans can be used for condos (the condo development must be VA-approved), manufactured homes, and new construction, in addition to standard single-family homes. The VA-approved condo list is a real constraint though. Check the VA's condo lookup tool before you fall in love with a specific unit."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Housing Market Analyst"
-author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
+author_title: "Housing Market"
+author_bio: "Ethan Chen is the byline used at Mortgage Advisor Guide for articles on housing market data, rates and the buying process. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Many veterans don't realize how strong their VA loan benefit is until they compare it to conventional options. Some spend months worrying about down payments or paying for PMI quotes they'd never needed. That frustration is avoidable with a clear understanding of the benefit upfront.

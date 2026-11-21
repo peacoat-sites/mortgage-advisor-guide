@@ -21,8 +21,8 @@ faqs:
    a: "It depends on whether you had a trial modification made permanent or not. If the modification was permanent and you default again, the servicer may pursue foreclosure, and re-modification is possible but not guaranteed. Some investor guidelines allow only one modification in the life of a loan. This is why it's critical to be realistic about what payment you can truly sustain before agreeing to a modification offer. Accepting a payment that's still too high just delays the problem."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Housing Market Analyst"
-author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
+author_title: "Housing Market"
+author_bio: "Ethan Chen is the byline used at Mortgage Advisor Guide for articles on housing market data, rates and the buying process. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A job loss, medical crisis, or major change in household income can leave you unable to make your mortgage payment. When that happens, the fear is real. Lenders have far more tools to help than they voluntarily advertise. Loan modification is a formal process with rules, timelines, and outcomes. Understanding how it works before you call your servicer can mean the difference between keeping your home and losing it.

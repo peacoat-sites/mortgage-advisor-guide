@@ -21,8 +21,8 @@ faqs:
    a: "You can only deduct the interest proportional to the $750,000 limit. If your outstanding balance is $1,000,000, you can deduct 75% of the interest paid that year. IRS Publication 936 includes the exact worksheet for calculating this proration, and your lender's Form 1098 provides the principal balance figure you'll need."
 author: "Maria Santos"
 author_slug: "maria-santos"
-author_title: "First-Time Buyer Coach"
-author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+author_title: "First-Time Buyers"
+author_bio: "Maria Santos is the byline used at Mortgage Advisor Guide for articles on first-time buyer programs and the steps of a purchase. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 The [mortgage interest deduction](/mortgage-tax-benefits/) has survived more "this is definitely its last year" predictions than I can count. Here we are in 2026, and it's still alive, still useful for a specific slice of homeowners, and still wildly misunderstood by almost everyone who thinks they're getting it.

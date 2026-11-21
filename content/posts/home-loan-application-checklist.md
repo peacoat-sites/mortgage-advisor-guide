@@ -21,8 +21,8 @@ faqs:
    a: "With a complete, clean file, underwriting can take five to ten business days. Most loans close within 30 to 45 days of the application date. However, incomplete documentation is the single most common cause of delays. Missing one document or needing a clarification can reset parts of the process. Staying responsive to your loan officer's requests and having your documents organized from day one is the most effective way to hit your target closing date."
 author: "Maria Santos"
 author_slug: "maria-santos"
-author_title: "First-Time Buyer Coach"
-author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+author_title: "First-Time Buyers"
+author_bio: "Maria Santos is the byline used at Mortgage Advisor Guide for articles on first-time buyer programs and the steps of a purchase. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting across from a loan officer, folder in hand, feeling prepared. Then they ask for your past two years of W-2s, your most recent 30 days of pay stubs, statements for every bank account you own, and proof of any gift funds you're using toward the down payment. You hand over three of the five items and watch their expression shift. That moment, scrambling through your phone and email looking for documents you didn't know you needed, is exactly what this guide prevents.

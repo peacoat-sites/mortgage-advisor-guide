@@ -21,8 +21,8 @@ faqs:
    a: "Request an escrow review in writing from your servicer. Include your actual tax bill and insurance declarations as supporting documentation. Servicers make errors, particularly during periods of rising home values when assessed values are catching up to market values unevenly. You have the right to contest the calculation. If you're not getting a clear response, the CFPB has a complaint process that tends to get servicer attention quickly."
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit & Qualification Specialist"
-author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
+author_title: "Credit and Qualifying"
+author_bio: "Susan Taylor is the byline used at Mortgage Advisor Guide for articles on credit scores and mortgage qualification. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You got your first mortgage statement in the mail, and there it was. A line item called "escrow" eating up hundreds of dollars every month that nobody actually explained. Not a little either. This exact moment of confusion has crossed my desk hundreds of times throughout my career. The good news: it's not an error on the statement. The less good news: escrow is something lenders deliberately downplay during sales conversations because it makes your total payment feel smaller when you're deciding whether to buy.

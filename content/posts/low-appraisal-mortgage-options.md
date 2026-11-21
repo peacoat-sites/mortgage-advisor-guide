@@ -21,8 +21,8 @@ faqs:
    a: "More common than most buyers expect. Studies from CoreLogic have shown that in certain price ranges and markets, appraisal shortfalls can affect 10-15% of transactions, though that number shifts significantly with market conditions. It's worth understanding your options before you make an offer, not after the appraisal report lands in your inbox."
 author: "Ethan Chen"
 author_slug: "ethan-chen"
-author_title: "Housing Market Analyst"
-author_bio: "Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends."
+author_title: "Housing Market"
+author_bio: "Ethan Chen is the byline used at Mortgage Advisor Guide for articles on housing market data, rates and the buying process. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A low appraisal doesn't kill a deal. It just changes the math in ways most buyers aren't prepared for, and that panic is exactly what sellers and listing agents count on.

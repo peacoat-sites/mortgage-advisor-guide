@@ -21,8 +21,8 @@ faqs:
    a: "Freddie Mac's home buying resources at myhome.freddiemac.com are genuinely solid and unbiased. For borrowers who want to do a deeper dive into the financial mechanics of mortgages, books like The Mortgage Encyclopedia by Jack Guttentag give you the technical foundation without the sales pitch. (This site may earn a commission on book purchases through affiliate links.)"
 author: "Susan Taylor"
 author_slug: "susan-taylor"
-author_title: "Credit & Qualification Specialist"
-author_bio: "Susan Taylor has spent years helping borrowers repair credit and qualify for financing they were told they could not get. She knows which factors move a score and which are a waste of time. At Mortgage Advisor Guide she covers credit scores and mortgage qualification."
+author_title: "Credit and Qualifying"
+author_bio: "Susan Taylor is the byline used at Mortgage Advisor Guide for articles on credit scores and mortgage qualification. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Many people believe their [credit score](/credit-score-for-mortgage-approval/) is the primary factor lenders consider. In reality, lenders focus heavily on debt-to-income ratio after a quick review of the credit score. Borrowers with excellent credit can be rejected while those with mediocre scores get approved, depending on DTI. Running the numbers on your DTI before applying for a mortgage is essential.

@@ -21,8 +21,8 @@ faqs:
    a: "In most cases for healthy borrowers, a well-structured term life policy provides broader, more flexible, and often more cost-effective protection than MPI. But 'in most cases' isn't 'in every case.' Your health, insurability, and personal financial situation matter. Talk to an independent insurance advisor, not someone who only sells one type of product, before making that call."
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
-author_title: "Former Mortgage Underwriter"
-author_bio: "Jennifer Walsh underwrote home loans for years, deciding which files got approved and which got denied, before she left to help borrowers understand the process from the inside. She explains what underwriters actually look for. At Mortgage Advisor Guide she covers the loan process, approvals, and the fine print that trips borrowers up."
+author_title: "Loan Process"
+author_bio: "Jennifer Walsh is the byline used at Mortgage Advisor Guide for articles on the mortgage process and what underwriters look at. It is a pen name, not a loan officer or underwriter; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You're sitting across from a loan officer, paperwork spread everywhere, and they slide over a form for "mortgage protection insurance." It feels routine. It feels safe. Most people sign without thinking twice, which is exactly what the lender's counting on. When I actually dug into this, I found something that surprised me: mortgage insurance and life insurance tackle overlapping problems, but they're so structurally different that picking the wrong one can cost your family tens of thousands of dollars.

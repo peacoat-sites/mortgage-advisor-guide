@@ -21,8 +21,8 @@ faqs:
    a: "Possibly. Forgiven debt is generally treated as income by the IRS, which means it can trigger a tax bill. The Mortgage Forgiveness Debt Relief Act has been extended multiple times and may provide an exclusion for debt forgiven on a primary residence, but the rules have a history of expiring and being renewed, so you need to confirm current status with a tax professional before you close a short sale."
 author: "Maria Santos"
 author_slug: "maria-santos"
-author_title: "First-Time Buyer Coach"
-author_bio: "Maria Santos has coached hundreds of first-time buyers through the purchase process, with a specialty in lower-income and first-generation homebuyers navigating a system that can feel designed to confuse them. She knows which programs to look for and which mistakes to avoid. At Mortgage Advisor Guide, she covers first-time buyer programs, down payment assistance, and step-by-step purchase guides."
+author_title: "First-Time Buyers"
+author_bio: "Maria Santos is the byline used at Mortgage Advisor Guide for articles on first-time buyer programs and the steps of a purchase. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Being two months behind on your mortgage isn't a crisis yet. Three months is where lenders start the formal clock. Four months in with no contact, borrowers often lose options because they don't know what to request from their servicer.

@@ -3,41 +3,36 @@ title: "About Mortgage Advisor Guide"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About Mortgage Advisor Guide,  meet Ethan Chen and learn how we help homebuyers navigate mortgages."
+description: "What Mortgage Advisor Guide covers, who writes it and how articles are produced."
 layout: "about-page"
-author_slug: "ethan-chen"
-author_name: "Mortgage Advisor Guide"
-person_name: "Ethan Chen"
 ---
 
 ## About Mortgage Advisor Guide
 
-Mortgage Advisor Guide is an independent resource that helps homebuyers and refinancers understand how mortgages work before they commit to one.
+Mortgage Advisor Guide explains how mortgages work, from qualifying and choosing a loan type to closing and refinancing.
 
-## Meet the Editor
+## Who writes here
 
-**Ethan Chen** is the editor behind Mortgage Advisor Guide.
+Articles are published under pen names, each covering one part of the site:
 
-Ethan Chen analyzes housing and mortgage market data, helping buyers understand how rates, inventory, and timing affect what they can actually afford. He cuts through the headlines with numbers. At Mortgage Advisor Guide he covers the buying process and market trends.
+- **[Ethan Chen](/ethan-chen/)**: housing market data, rates and the buying process
+- **[Jennifer Walsh](/jennifer-walsh/)**: the mortgage process and what underwriters look at
+- **[Maria Santos](/maria-santos/)**: first-time buyer programs and the steps of a purchase
+- **[Robert Kim](/robert-kim/)**: refinancing math, rate strategy and closing costs
+- **[Susan Taylor](/susan-taylor/)**: credit scores and mortgage qualification
 
-## What We Cover
+## How we work
 
-Mortgage Advisor Guide covers the full spectrum of home financing,  loan types, rate shopping, down payment strategies, mortgage insurance, the pre-approval process, closing costs, and refinancing. We also track first-time homebuyer programs and government-backed loan options by state.
+Articles are drafted with AI writing tools from public sources and pass an automated accuracy check before they are published. The full process, the sources we rely on and the limits of what this site can tell you are in our [editorial standards](/editorial-standards/).
 
-## Our Approach
+## Important limits
 
-We don't take referral fees from lenders. We don't have preferred partners. Every recommendation is based on research, not relationships.
+Rates, loan limits and program rules change often, and every lender adds its own requirements. Treat our figures and calculators as estimates, compare Loan Estimates from more than one lender, and confirm program details with the lender or the agency that runs the program. For one-on-one help, a HUD-approved housing counselor can review your situation for free or at low cost.
 
-Articles are researched from CFPB guidance, Freddie Mac and Fannie Mae guidelines, HUD programs, and published lender data,  and updated as rates and programs change.
+## Affiliate disclosure
 
-## Important Disclaimer
-
-Mortgage Advisor Guide provides general informational content. Ethan Chen is a researcher,  not a licensed mortgage advisor or financial planner. Mortgage terms vary significantly by lender, loan type, and borrower profile. Always work with a licensed mortgage professional before making borrowing decisions.
-
-## Affiliate Disclosure
-
-Some links on this site are affiliate links. If you click and make a purchase, we may earn a small commission at no extra cost to you.
+Some links on this site are affiliate links, including Amazon links. If you buy through them we may earn a commission at no extra cost to you.
 
 ## Contact
 
-Questions or corrections? [Contact us here](/contact/).
+Questions, corrections or topic requests: use the [contact page](/contact/).

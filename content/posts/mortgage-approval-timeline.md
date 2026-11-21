@@ -21,8 +21,8 @@ faqs:
    a: "It's achievable but not guaranteed. Hitting a 30-day close requires a clean file, a responsive borrower, a timely appraisal, and no major surprises in the title search or underwriting. In competitive markets, buyers sometimes promise 21-day or even 15-day closes to win offers. That's a significant risk to take on unless you've verified with your lender that they can genuinely deliver. Most experienced loan officers will tell you 30 to 45 days is a reliable target for a standard purchase."
 author: "Robert Kim"
 author_slug: "robert-kim"
-author_title: "Refinancing Expert"
-author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+author_title: "Refinancing"
+author_bio: "Robert Kim is the byline used at Mortgage Advisor Guide for articles on refinancing math, rate strategy and closing costs. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You submitted your mortgage application on a Monday. By Thursday, you're refreshing your email every twenty minutes wondering if no news is good news. By the following Wednesday, you're convinced something is wrong. Sound familiar? The mortgage approval timeline is one of the most anxiety-inducing parts of buying a home, mostly because nobody explains it upfront. Loan officers quote you a closing date, hand you a checklist, and then the process disappears into a black box. What I want to do here is open that box.

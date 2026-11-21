@@ -21,8 +21,8 @@ faqs:
     a: "Probably not exactly. When you apply for a loan, your lender orders an independent appraisal, and that number controls the transaction. If the appraisal comes in lower than your estimate, your borrowable equity shrinks accordingly. It's one of the most common sources of frustration in home equity borrowing, and it's why knowing your number in advance matters."
 author: "Robert Kim"
 author_slug: "robert-kim"
-author_title: "Refinancing Expert"
-author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+author_title: "Refinancing"
+author_bio: "Robert Kim is the byline used at Mortgage Advisor Guide for articles on refinancing math, rate strategy and closing costs. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You probably already know you have equity in your home. What you might not know is exactly how much, or whether the number you're thinking of is accurate. That gap matters more than most people realize, especially if you're considering refinancing, taking out a home equity loan, or just trying to nail down your actual net worth.

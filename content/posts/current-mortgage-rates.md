@@ -8,9 +8,10 @@ image: "/img/heroes/8292885.jpg"
 categories: ["Rates"]
 author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
-author_title: "Former Mortgage Underwriter"
+author_title: "Loan Process"
 tags: ["mortgage rates", "30-year fixed", "15-year fixed", "federal reserve"]
 lastmod: 2026-07-08
+author_bio: "Jennifer Walsh is the byline used at Mortgage Advisor Guide for articles on the mortgage process and what underwriters look at. It is a pen name, not a loan officer or underwriter; how articles are researched and checked is explained in our editorial standards."
 ---
 
 Rate shopping starts with knowing the benchmark. The table below pulls the national average 30-year and 15-year fixed rates straight from the Federal Reserve's published series, updated at the start of every month. These are not lender quotes. They are the baseline the whole market prices against, and knowing where they sit tells you whether the offer in front of you is competitive or padded.

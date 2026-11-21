@@ -21,8 +21,8 @@ faqs:
    a: "Generally, grant-based assistance that you don't repay may have tax implications, though the specifics depend on the program structure and how it's characterized. Forgivable loans are treated differently than outright grants in some cases. This is a question worth putting directly to a tax professional, not just your loan officer, before you close."
 author: "Robert Kim"
 author_slug: "robert-kim"
-author_title: "Refinancing Expert"
-author_bio: "Robert Kim focused his mortgage career on refinancing, helping homeowners figure out when the math on a refi actually works versus when the closing costs do not justify the move. He has a sharp understanding of rate environments and how small changes in timing can dramatically affect long-term savings. At Mortgage Advisor Guide, he covers refinancing strategy, rate lock decisions, and calculating the break-even on a refi."
+author_title: "Refinancing"
+author_bio: "Robert Kim is the byline used at Mortgage Advisor Guide for articles on refinancing math, rate strategy and closing costs. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You saved $8,000 and thought you were finally close. Then you ran the actual numbers and realized that a 20% down payment on a median-priced home in your area looks more like $60,000 or $70,000. That gap can feel crushing.
