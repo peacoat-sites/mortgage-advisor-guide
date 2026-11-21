@@ -28,7 +28,7 @@ faqs:
 
 Roughly 16% of American workers are self-employed. And yet, based on mortgage industry data, you'd think that number was closer to 2%, because self-employed applicants are almost always braced for a fight before the conversation even begins.
 
-Here's what surprised me when I went back and dug into the data: a 2023 Fannie Mae survey found that **self-employed borrowers are approved at a meaningfully lower rate than W-2 employees**, despite frequently having higher net worths and stronger savings. That gap isn't because self-employed people are riskier borrowers. It's because the mortgage system was built around a pay stub. If your income doesn't arrive on a predictable schedule from a single employer, you're essentially being asked to translate your financial life into a language the system was never designed to read.
+A 2023 Fannie Mae survey found that **self-employed borrowers are approved at a meaningfully lower rate than W-2 employees**, despite frequently having higher net worths and stronger savings. That gap isn't because self-employed people are riskier borrowers. It's because the mortgage system was built around a pay stub. If your income doesn't arrive on a predictable schedule from a single employer, you're essentially being asked to translate your financial life into a language the system was never designed to read.
 
 It is worth being direct about how difficult the process can be. A freelance graphic designer with $140,000 in annual revenue, a 760 credit score, and two years of clean tax returns should not be harder to approve than a salaried employee making $85,000. But in practice, it often was. The rules aren't designed to be cruel, they're just blunt instruments.
 
@@ -48,7 +48,7 @@ That $68,500 is what most conventional lenders will use to calculate her debt-to
 
 But if that consultant had one bad year where net income dropped to $52,000 due to a slow client cycle, the two-year average would drop to $70,000, pushing monthly qualifying income down further. At that point, approval becomes a real struggle.
 
-**Scenario 2:** Consider a hypothetical self-employed contractor. He has the same gross revenue as the consultant in Scenario 1. But he runs the business through an S-Corp, pays himself a modest W-2 salary of $55,000, and takes the rest as distributions. Most lenders will count the W-2 salary and the borrower's share of the S-Corp's net income from the K-1 and business return, but only if it is documented properly. Loan officers sometimes miss the distributions entirely because they do not know to ask for the corporate returns. James gets underquoted on his qualifying income and turned down for a loan he absolutely could have gotten.
+**Scenario 2:** Consider a hypothetical self-employed contractor. He has the same gross revenue as the consultant in Scenario 1. But he runs the business through an S-Corp, pays himself a modest W-2 salary of $55,000, and takes the rest as distributions. Most lenders will count the W-2 salary and the borrower's share of the S-Corp's net income from the K-1 and business return, but only if it is documented properly. Loan officers sometimes miss the distributions entirely because they do not know to ask for the corporate returns, which can result in the borrower being underquoted on qualifying income and turned down for a loan they could have obtained.
 
 The documentation burden is real. According to a 2022 report from the Urban Institute's Housing Finance Policy Center, self-employed borrowers are significantly more likely to receive "refer" decisions from automated underwriting systems, which pushes them into manual underwriting where the requirements are stricter and more time-consuming.
 
@@ -66,7 +66,7 @@ The Federal Housing Finance Agency (FHFA) has been tracking access-to-credit iss
 
 ## The Documents You Need (And the Ones That Trip People Up)
 
-I'll be blunt: the document list for self-employed borrowers is long. Longer than most people expect. Here's a realistic breakdown based on what lenders actually require, current as of July 2026:
+The document list for self-employed borrowers is long. Longer than most people expect. Here's a realistic breakdown based on what lenders actually require, current as of July 2026:
 
 | Document | What Lenders Want | Common Mistake |
 |---|---|---|
@@ -78,7 +78,7 @@ I'll be blunt: the document list for self-employed borrowers is long. Longer tha
 | Business license or proof of existence | 2-year history typically required | Forgetting to update after name change |
 | 1099s | All you received | Missing payments from a new client |
 
-What surprised me when I reviewed files is how often the CPA letter gets skipped. Borrowers don't know to ask for it, and loan officers sometimes don't push for it until underwriting kicks the file back. Get it upfront. A short letter from your accountant confirming that you've been in business for at least two years, that the business is financially viable, and that no income is expected to significantly decrease carries real weight with an underwriter. It takes your CPA maybe 20 minutes to write. Ask for it early.
+One common pattern across self-employed mortgage files is how often the CPA letter gets skipped. Borrowers don't know to ask for it, and loan officers sometimes don't push for it until underwriting kicks the file back. Get it upfront. A short letter from your accountant confirming that you've been in business for at least two years, that the business is financially viable, and that no income is expected to significantly decrease carries real weight with an underwriter. It takes your CPA maybe 20 minutes to write. Ask for it early.
 
 The other big trip-up: mixing personal and business bank accounts. Deals can fall apart at the last minute if the underwriter can't separate business cash flow from personal expenses in a single account. Separate them now, even if you're not planning to buy for another year.
 
@@ -88,7 +88,7 @@ The other big trip-up: mixing personal and business bank accounts. Deals can fal
 
 For self-employed borrowers who write off a lot and end up with a low declared net income, there's another option that's worth knowing about: bank statement loans (sometimes called "non-QM" loans). Instead of using your tax returns, these programs average your monthly deposits across 12 or 24 months of business bank statements and use that figure to qualify you.
 
-I'll be honest: these aren't a magic solution. The tradeoffs are significant.
+Bank statement loans are not a magic solution. The tradeoffs are significant.
 
 | Feature | Conventional Loan | Bank Statement Loan |
 |---|---|---|
@@ -111,9 +111,9 @@ Fannie Mae's guidelines allow for one year of self-employment in specific circum
 
 The catch: you need a lender willing to manually underwrite the file and make that judgment call. Not every loan officer knows this is possible, or wants to go through the extra work.
 
-**Scenario 3:** Trevor left a corporate finance job in late 2024 and started consulting full-time. By July 2026, he has one full year of self-employment income on his 2025 return, consistent with his prior salary. He finds a mortgage broker (not a bank) who specializes in self-employed borrowers, gets his CPA to write a letter, and successfully closes on a home using one year of returns plus 24 months of bank statements as supplemental documentation. Not every lender would have done it. His broker knew which investors would.
+For example, someone who left a corporate finance job and started consulting full-time could, with one full year of self-employment income on their tax return consistent with their prior salary, find a mortgage broker who specializes in self-employed borrowers, obtain a CPA letter, and successfully close on a home using one year of returns plus 24 months of bank statements as supplemental documentation. Not every lender would approve this approach, but a broker who knows which investors will accept it can make the difference.
 
-That's why your choice of loan officer matters more than you might think. A broker who places loans with multiple lenders has more tools than a bank loan officer locked into one set of guidelines. I can't recommend specific lenders here, but I can tell you that HUD-approved housing counselors (find one at [HUD.gov](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)) can often point you toward resources and referrals in your area that aren't just trying to sell you something.
+That's why your choice of loan officer matters more than you might think. A broker who places loans with multiple lenders has more tools than a bank loan officer locked into one set of guidelines. HUD-approved housing counselors (find one at [HUD.gov](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)) can often point borrowers toward resources and referrals in their area that aren't just trying to sell them something.
 
 ---
 
@@ -127,7 +127,7 @@ Credit score matters significantly for self-employed borrowers. Above a 740, len
 
 **Keep two years of business bank statements clean and accessible.** This is less about what the statements show and more about whether you can produce them quickly. A 30-day delay in document gathering can kill a deal if the seller is impatient or rates are moving.
 
-**Consider talking to a mortgage broker before a banker.** I know that sounds like insider advice, but the flexibility genuinely exists more on the broker side. That said, the FHFA has resources that explain what conforming loan guidelines look like, so you can go into any lender conversation knowing what the standard is.
+**Consider talking to a mortgage broker before a banker.** The flexibility genuinely exists more on the broker side. That said, the FHFA has resources that explain what conforming loan guidelines look like, so you can go into any lender conversation knowing what the standard is.
 
 A good home-buying checklist or financial planning workbook can also help you track all of this in one place. [Books like this one](https://www.amazon.com/s?k=self+employed+mortgage+home+buying+guide&tag=contentportfo-20) (note: the site may earn a small commission from purchases) can be surprisingly useful for mapping out your document timeline months before you apply.
 

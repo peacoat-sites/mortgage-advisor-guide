@@ -38,7 +38,7 @@ Let me walk through the actual numbers, the mechanics, and the scenarios where e
 
 In the early years of a mortgage, almost none of your payment goes to principal. Many borrowers are surprised to see this on an amortization schedule. On a $350,000 loan at 6.75% (roughly where 30-[year fixed](/current-30-year-fixed-mortgage-rates-forecast-2026/) rates have been sitting, as of August 2026), your first monthly payment is around $2,270. Of that, approximately $1,969 is interest and only $301 is principal. You're paying the bank first. You pay yourself last.
 
-Over 30 years, that same $350,000 loan will cost you roughly $467,000 in interest alone. Total out-of-pocket: around $817,000 for a house you borrowed $350,000 to buy. I'm not saying this to be alarming. I'm saying it because once you see that number, extra principal payments stop feeling like a sacrifice and start feeling like the most obvious investment you have.
+Over 30 years, that same $350,000 loan will cost you roughly $467,000 in interest alone. Total out-of-pocket: around $817,000 for a house you borrowed $350,000 to buy. This is not meant to be alarming. Once borrowers see that number, extra principal payments tend to stop feeling like a sacrifice and start feeling like the most obvious investment available.
 
 The Federal Housing Finance Agency tracks mortgage originations and borrower behavior, and one consistent finding is that most borrowers don't engage with their amortization schedule at all after closing. That's a $467,000 mistake hiding in plain sight.
 
@@ -64,13 +64,13 @@ A common objection to early payoff is the question of the tax deduction, and thi
 
 Yes, the mortgage interest deduction exists. And yes, if you're paying less interest because you've paid down principal, you deduct less. But here's what that actually means: you avoid paying $1 in interest to save $0.22 in taxes (assuming a 22% federal bracket). That's not a good trade. You're still losing $0.78 on the dollar.
 
-The deduction is worth something. I don't want to dismiss it entirely. But since the 2017 tax law changes pushed the standard deduction to $30,000 for married filers in 2026 (after inflation adjustments), most homeowners aren't even itemizing anymore. If you're not itemizing, the mortgage interest deduction is giving you zero benefit. Freddie Mac's home buyer resources walk through this clearly, and it's worth checking your own situation before assuming you're getting a meaningful deduction.
+The deduction is worth something and should not be dismissed entirely. But since the 2017 tax law changes pushed the standard deduction to $30,000 for married filers in 2026 (after inflation adjustments), most homeowners aren't even itemizing anymore. If you're not itemizing, the mortgage interest deduction is giving you zero benefit. Freddie Mac's home buyer resources walk through this clearly, and it's worth checking your own situation before assuming you're getting a meaningful deduction.
 
 ## When Early Payoff Is the Wrong Move
 
 I want to be honest here, because a lot of early payoff advice treats it like an obvious, universal win. It isn't always.
 
-If you locked in a rate at or below 3.5%, paying down that mortgage is genuinely debatable. Money that goes to extra principal payments could potentially earn more in a diversified investment account over time. I don't have perfect data on exactly how markets will perform over your remaining loan term, and anyone who claims they do is selling something. But historically, long-term equity market returns have outpaced 3-4% mortgage rates, which means the opportunity cost of early payoff could be real.
+If you locked in a rate at or below 3.5%, paying down that mortgage is genuinely debatable. Money that goes to extra principal payments could potentially earn more in a diversified investment account over time. No one has perfect data on exactly how markets will perform over a remaining loan term, and any claim of certainty on that point should be treated with skepticism. But historically, long-term equity market returns have outpaced 3-4% mortgage rates, which means the opportunity cost of early payoff could be real.
 
 The clearer cases for skipping early payoff:
 
