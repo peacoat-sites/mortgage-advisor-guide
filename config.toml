@@ -47,7 +47,7 @@ logo_text_1 = "Mortgage"
   monthly_readers = 81000
   research_hours  = 640
   satisfaction    = 97
-  trust_extra     = "NMMLS-reviewed guidance"
+  trust_extra     = "Sources linked in every guide"
   impact_verification = ""
   impact_tracking_id  = "" 
 
