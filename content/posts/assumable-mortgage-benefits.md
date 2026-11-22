@@ -1,5 +1,5 @@
 ---
-title: "Assumable Mortgages at 3.25%: Lock in Lower Rates"
+title: "Assumable Mortgages: How to Take Over a Seller's Lower Rate"
 date: 2026-11-22T21:51:48.996903+00:00
 draft: false
 description: "Learn how assumable mortgages let buyers take over existing loans at better rates. Explore benefits, eligibility, and savings potential today."
