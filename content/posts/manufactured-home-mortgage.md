@@ -53,13 +53,13 @@ That's an important thing to flag before you talk to any lender. Ask specificall
 
 ## The Government-Backed Loan Picture
 
-[FHA, VA, and USDA loans](/fha-loan-requirements-and-benefits/) can all be used on manufactured homes, but the eligibility requirements are tighter than most people expect.
+FHA, VA, and USDA loans can all be used on manufactured homes, but the eligibility requirements are tighter than most people expect.
 
 For an FHA Title II loan (the one that finances both the home and land together as real property), the home must have been built after June 15, 1976, when HUD's construction and safety standards went into effect. It has to be at least 400 square feet. It must be on a permanent foundation. And critically, it can't have ever been used as a rental property or moved from its original installation site. That last one disqualifies a lot of homes.
 
 FHA also offers Title I loans for manufactured homes as personal property, including homes on leased land, but the loan limits are low (currently around $92,904 for just the home, $23,226 for just the lot, or $105,532 for both), which makes them useful in a narrow band of scenarios.
 
-[VA loans for manufactured homes](/va-loan-benefits-and-eligibility-requirements-for-veterans/) are available but extremely lender-specific. The VA guarantees them, but most VA-approved lenders don't actually offer them. Veterans with strong credit may encounter lenders unwilling to originate manufactured home VA loans. If you're a veteran going this route, start your search with lenders that advertise manufactured home VA loans specifically.
+VA loans for manufactured homes are available but extremely lender-specific. The VA guarantees them, but most VA-approved lenders don't actually offer them. Veterans with strong credit may encounter lenders unwilling to originate manufactured home VA loans. If you're a veteran going this route, start your search with lenders that advertise manufactured home VA loans specifically.
 
 USDA loans are available for manufactured homes in eligible rural areas, also with real property and permanent foundation requirements. Worth checking if you're in a qualifying area, because USDA rates can be very competitive.
 

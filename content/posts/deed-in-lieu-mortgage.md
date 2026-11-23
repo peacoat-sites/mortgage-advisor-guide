@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-A deed in lieu of foreclosure is one of those options that most borrowers don't even know exists until they're already drowning. And by then, a lot of loan officers still won't bring it up proactively, not because they're hiding it, but because it's genuinely complicated and most servicers would rather push you toward a modification or [short sale](/short-sale-mortgage-impact/) first.
+A deed in lieu of foreclosure is one of those options that most borrowers don't even know exists until they're already drowning. And by then, a lot of loan officers still won't bring it up proactively, not because they're hiding it, but because it's genuinely complicated and most servicers would rather push you toward a modification or short sale first.
 
 So let me explain what it actually is, when it makes sense, and the landmines you need to watch for before you sign anything.
 

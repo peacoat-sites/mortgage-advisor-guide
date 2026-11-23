@@ -56,7 +56,7 @@ There's also the rate advantage. Because you're paying principal down so aggress
 
 Then there's the psychological weight of debt. Some people genuinely cannot relax carrying a 30-year obligation. They lose sleep over it. They feel financially exposed. If that's you, the peace of mind from an accelerated payoff is worth something real, even if it doesn't show up in a spreadsheet.
 
-What is notable, though, is how often 15-year borrowers are stretching to qualify. They get approved at the outer limit of their [debt-to-income ratio](/conventional-loan-requirements/), which means there is nothing left over when anything goes wrong. One layoff, one HVAC replacement, one divorce proceeding, and suddenly the "responsible" choice was driving them toward a late payment or a modification request.
+What is notable, though, is how often 15-year borrowers are stretching to qualify. They get approved at the outer limit of their debt-to-income ratio, which means there is nothing left over when anything goes wrong. One layoff, one HVAC replacement, one divorce proceeding, and suddenly the "responsible" choice was driving them toward a late payment or a modification request.
 
 ## Where the 30-Year Actually Wins
 

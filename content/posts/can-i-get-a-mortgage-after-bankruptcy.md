@@ -26,7 +26,7 @@ faqs:
     a: "Yes. Loan applications ask about previous bankruptcies directly and require you to answer honestly. Omitting it is considered mortgage fraud, which is a federal crime. Older bankruptcies (Chapter 7 drops off your credit report after 10 years) still must be disclosed if the application period asks about them. Don't hide it. A good loan officer will help you work around it."
 ---
 
-Three years after a Chapter 7 bankruptcy, a woman I'll call Diane sat across from a loan officer who slid a denial letter across the desk without making eye contact. She'd done everything right since the discharge: rebuilt her credit, saved a [down payment](/gift-funds-for-down-payment-rules/), stayed employed. The loan officer told her she just needed to "wait a little longer." What he didn't tell her was that she'd actually met the waiting period requirement and that a different loan type would have approved her that day.
+Three years after a Chapter 7 bankruptcy, a woman I'll call Diane sat across from a loan officer who slid a denial letter across the desk without making eye contact. She'd done everything right since the discharge: rebuilt her credit, saved a down payment, stayed employed. The loan officer told her she just needed to "wait a little longer." What he didn't tell her was that she'd actually met the waiting period requirement and that a different loan type would have approved her that day.
 
 Situations like that happen more often than they should, with borrowers getting bad information, or no information, at moments that really matter.
 
@@ -67,7 +67,7 @@ Target [credit score](/credit-score-for-mortgage-approval/) for FHA after bankru
 
 Here's a concrete example of how this plays out:
 
-For example, consider someone who files Chapter 7 in early 2023 and receives a discharge in mid-2023, then immediately opens a secured card, adds a credit-builder loan six months later, and never misses a payment. By August 2025, their score could reach 634, allowing them to apply for an [FHA loan](/the-road-to-housing-act-just-passed-what-it-means-for-buyers/), provide documentation of the discharge date, and close on a home at the 3.5% down payment tier roughly 26 months after discharge.
+For example, consider someone who files Chapter 7 in early 2023 and receives a discharge in mid-2023, then immediately opens a secured card, adds a credit-builder loan six months later, and never misses a payment. By August 2025, their score could reach 634, allowing them to apply for an FHA loan, provide documentation of the discharge date, and close on a home at the 3.5% down payment tier roughly 26 months after discharge.
 
 Compare that to someone who waits the same amount of time but skips the active credit rebuilding. Without new tradelines showing recent positive history, many lenders will decline even if the waiting period technically cleared.
 

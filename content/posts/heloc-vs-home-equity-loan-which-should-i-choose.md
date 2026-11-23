@@ -52,7 +52,7 @@ The difference is in the *structure* of how you access and repay the money.
 
 A home equity loan is a lump sum. You borrow $50,000, you get $50,000 wired to your account, and you start repaying it immediately on a fixed schedule, usually over 10 to 30 years. The interest rate is fixed for the life of the loan, so your payment doesn't change. That's it.
 
-A HELOC (Home Equity Line of Credit) works like a credit card backed by your home. The lender approves you for a credit limit, say $75,000, and you draw from it as you need it during a "draw period," typically 10 years. You pay interest only on what you've actually borrowed. When the draw period ends, [you enter the repayment period](/heloc-repayment-explained/), usually another 10 to 20 years, where you pay down principal plus interest. Most HELOCs carry a variable interest rate, which is where a lot of borrowers get surprised.
+A HELOC (Home Equity Line of Credit) works like a credit card backed by your home. The lender approves you for a credit limit, say $75,000, and you draw from it as you need it during a "draw period," typically 10 years. You pay interest only on what you've actually borrowed. When the draw period ends, you enter the repayment period, usually another 10 to 20 years, where you pay down principal plus interest. Most HELOCs carry a variable interest rate, which is where a lot of borrowers get surprised.
 
 That's the structural difference. Now here's where it actually matters.
 

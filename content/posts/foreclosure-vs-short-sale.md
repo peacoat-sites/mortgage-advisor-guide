@@ -28,7 +28,7 @@ faqs:
 
 Most coverage of foreclosure vs. short sale buries the lead: the difference between these two outcomes isn't just about your [credit score](/credit-score-for-mortgage-approval/). It's about who controls the process, how long it takes, and whether you walk away with anything left to rebuild on.
 
-Both happen when a homeowner can't keep up with [mortgage payments](/how-to-set-up-biweekly-mortgage-payments-to-pay-off-faster/). That's where the similarity ends.
+Both happen when a homeowner can't keep up with mortgage payments. That's where the similarity ends.
 
 A foreclosure is the lender taking the wheel. You stop paying, the clock starts ticking, and eventually the bank repossesses the home through a legal process and sells it to recover what you owe. A [short sale](/short-sale-mortgage-impact/) is you taking the wheel, with the bank's permission. You sell the home for less than the outstanding mortgage balance, the lender agrees to accept that lower amount, and you avoid the courtroom drama. In theory. In practice, short sales are their own special kind of bureaucratic purgatory, which I'll get to.
 

@@ -34,7 +34,7 @@ Let's fix that.
 
 The term "origination fee" gets used loosely, and that's intentional. Lenders bundle different charges under that label depending on what they want you to see. At its core, an origination fee is what the lender charges for making the loan: processing your application, underwriting it, and getting the thing to the closing table. It's compensation for work performed.
 
-What it is not: your appraisal, your title insurance, your prepaid homeowner's insurance, or your escrow setup costs. Those are [third-party fees](/mortgage-closing-costs-explained/). Origination is strictly the lender's own charge.
+What it is not: your appraisal, your title insurance, your prepaid homeowner's insurance, or your escrow setup costs. Those are third-party fees. Origination is strictly the lender's own charge.
 
 The confusion happens because some lenders split the origination fee into sub-line items: an "application fee," an "underwriting fee," a "processing fee," sometimes a "lender fee" and a "funding fee" sitting right next to each other. Pull them all together and you've got the true origination charge. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) reports this as one of the most commonly misunderstood components of mortgage pricing, and that's a polite way of saying borrowers routinely get confused on purpose.
 

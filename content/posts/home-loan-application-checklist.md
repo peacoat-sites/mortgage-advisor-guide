@@ -44,7 +44,7 @@ A mortgage application isn't complicated. It's thorough. Lenders are required to
 
 **Misconception**: Most people think a 20% down payment is always required to qualify for a home loan. **Reality**: According to the Federal Reserve and Fannie Mae data, over 60% of home loans originated in 2024 had down payments below 20%. FHA loans allow as little as 3.5% down, while VA and USDA loans offer 0% down options for eligible borrowers. Even conventional loans frequently close with 5-10% down payments. The 20% threshold primarily affects mortgage insurance requirements, not eligibility, buyers with smaller down payments simply pay PMI (private mortgage insurance) until reaching 20% equity, making homeownership accessible far earlier than the traditional benchmark suggests.
 
-Before you resent the paperwork, understand what's driving it. Since the Dodd-Frank Act tightened lending standards after the 2008 housing crisis, lenders are legally required to verify a borrower's ability to repay. This is called the [Ability-to-Repay rule](/mortgage-qualification-requirements/), and it puts the burden of proof on you.
+Before you resent the paperwork, understand what's driving it. Since the Dodd-Frank Act tightened lending standards after the 2008 housing crisis, lenders are legally required to verify a borrower's ability to repay. This is called the Ability-to-Repay rule, and it puts the burden of proof on you.
 
 Your loan file gets reviewed not just by the loan officer, but by an [underwriter](/mortgage-underwriting-process/), and often a second underwriter if the loan is going to Fannie Mae or Freddie Mac. Each set of eyes is looking for inconsistencies. A large deposit in your checking account that doesn't match your documented income? That triggers a paper trail request. A gap in employment? You'll need a written explanation. A name that's spelled slightly differently on two documents? Believe it or not, that can cause delays.
 
@@ -151,7 +151,7 @@ Here's a practical sequence to follow starting about 60 to 90 days before you pl
 5. **Document any large deposits.** For anything that doesn't match your regular pay schedule, find the source and save the paper trail.
 6. **Set up a dedicated folder.** Digital or physical, just keep it organized. You'll be asked to re-submit documents if they expire (most are only valid for 30 to 60 days in an active loan file).
 7. **Talk to a HUD-approved housing counselor** if you're unsure where you stand. [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) provide free or low-cost guidance on exactly this kind of preparation.
-8. **Get pre-approved, not just pre-qualified.** Pre-approval involves actual document verification. Our guide on [how to get pre-qualified for a mortgage](/step-by-step-guide-to-getting-preapproved-for-a-mortgage/) explains the difference and what to expect.
+8. **Get pre-approved, not just pre-qualified.** Pre-approval involves actual document verification. Our guide on how to get pre-qualified for a mortgage explains the difference and what to expect.
 
 If you want a resource to work through alongside this, [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) include educational tools and checklists that complement what you're doing here.
 

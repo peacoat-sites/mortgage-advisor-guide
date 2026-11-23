@@ -16,7 +16,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 First-time buyers often encounter surprise closing costs with FHA loans, such as a $425 fee for an appraisal field review explained in minimal detail. Many don't push back because they're unaware they can negotiate. These kinds of charges quietly drain money from buyers who can least afford it.
 
-On June 23, 2026, HUD announced 14 policy changes to the FHA single-family mortgage program, framed as part of National Homeownership Month and described by HUD as the latest in a wave of more than 150 streamlining actions under the Trump administration. Some of these changes will save you real money. Some are operational housekeeping that makes lenders' lives easier. And one glaring absence in the package has industry groups already pushing back. If you're using [FHA financing this summer](/the-road-to-housing-act-just-passed-what-it-means-for-buyers/) or planning to, here's what you actually need to know.
+On June 23, 2026, HUD announced 14 policy changes to the FHA single-family mortgage program, framed as part of National Homeownership Month and described by HUD as the latest in a wave of more than 150 streamlining actions under the Trump administration. Some of these changes will save you real money. Some are operational housekeeping that makes lenders' lives easier. And one glaring absence in the package has industry groups already pushing back. If you're using FHA financing this summer or planning to, here's what you actually need to know.
 
 ## The Appraisal Fee Change That Puts Money Back in Buyers' Pockets
 
@@ -58,7 +58,7 @@ Is this a life-changing update? No. But as HousingWire noted in their June 23 co
 
 Here's where I want to be direct with you, because the framing around these 14 changes has been fairly congratulatory, and you deserve the full picture.
 
-The Community Home Lenders of America, along with other industry groups, immediately pointed out that a [mortgage insurance premium reduction](/what-trumps-mortgage-credit-order-means-for-your-next-closing/) was conspicuously absent from this package. As National Mortgage News reported on June 24, the industry welcomed the streamlining efforts but made clear that an MIP cut would have far greater affordability impact than any of the administrative changes announced.
+The Community Home Lenders of America, along with other industry groups, immediately pointed out that a mortgage insurance premium reduction was conspicuously absent from this package. As National Mortgage News reported on June 24, the industry welcomed the streamlining efforts but made clear that an MIP cut would have far greater affordability impact than any of the administrative changes announced.
 
 They're right. The FHA's annual MIP currently sits at 0.55% for most 30-year loans with down payments between 3.5% and 10%. On a $300,000 loan, that's $1,650 per year, or $137.50 per month, added to your payment for as long as you carry the loan (and unlike conventional PMI, FHA MIP doesn't automatically drop off if you put down less than 10%). A meaningful MIP reduction would immediately lower monthly payments for hundreds of thousands of borrowers. No appraisal review fee savings comes close to that impact.
 

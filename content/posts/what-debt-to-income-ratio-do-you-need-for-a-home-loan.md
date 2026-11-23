@@ -1,5 +1,5 @@
 ---
-title: "The Debt-to-Income Ratio Lenders Actually Require"
+title: "Debt-to-Income Ratio Required for a Home Loan by Loan Type"
 date: 2026-06-02T12:56:18.548766+00:00
 draft: false
 description: "Find out what debt to income ratio you need to qualify for a home loan, why lenders care about it, and how to improve yours to boost approval chances."

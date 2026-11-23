@@ -38,7 +38,7 @@ Here's what I tell people who come to me in that spot: building a home involves 
 
 This is the part that trips people up the most, so let me walk through it concretely.
 
-When you close on a one-time close loan, you're signing for the full amount you'll eventually owe: say, $380,000 for land, construction costs, and the finished-[home mortgage](/manufactured-home-mortgage/). But you don't get that money. Your builder does, in pieces, called draws.
+When you close on a one-time close loan, you're signing for the full amount you'll eventually owe: say, $380,000 for land, construction costs, and the finished-home mortgage. But you don't get that money. Your builder does, in pieces, called draws.
 
 Here's how a typical draw schedule looks: the lender releases a chunk when the foundation is poured, another when framing is done, another after rough plumbing and electrical are inspected, and so on. Before each draw, a lender-ordered inspector visits the site to verify the work was actually completed. Borrowers are sometimes surprised to learn that this inspection isn't the same as a home inspection protecting them. It's protecting the lender. If you want your own eyes on the build quality, budget for a separate independent inspector at each phase. It costs around $300–$500 per visit and is almost always worth it.
 

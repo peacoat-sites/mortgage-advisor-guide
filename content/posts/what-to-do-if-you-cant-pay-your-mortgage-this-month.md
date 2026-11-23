@@ -1,5 +1,5 @@
 ---
-title: "When You Can't Afford Your Mortgage Payment"
+title: "Can't Pay Your Mortgage This Month: What to Do First"
 date: 2026-06-08T18:15:54.897566+00:00
 draft: false
 description: "Struggling to pay your mortgage this month? Discover urgent steps to take, from contacting your lender to exploring forbearance options and avoiding foreclosure"

@@ -50,7 +50,7 @@ Four main paths get you to the closing table without a down payment. They're not
 
 **FHA loans with down payment assistance (DPA)** are how most first-time buyers without savings pull this off. FHA itself requires 3.5% down, but state and local housing finance agencies layer DPA grants or forgivable second loans on top. Some programs cover the full 3.5%. Georgia Dream, CalHFA, IHDA in Illinois, MHDC in Missouri, practically every state has one. These programs change constantly, get funded and run out of money, then get refunded. Check your state's housing finance agency website directly, not a third-party aggregator that might be showing you stale information.
 
-**Navy Federal's Homebuyers Choice and similar credit union products** offer zero-down conventional-style loans to members. Navy Federal is the biggest and most prominent, but other large credit unions have comparable products. No PMI on some of these. The rates are sometimes slightly higher to compensate, so [run the numbers](/how-much-house-can-i-afford/).
+**Navy Federal's Homebuyers Choice and similar credit union products** offer zero-down conventional-style loans to members. Navy Federal is the biggest and most prominent, but other large credit unions have comparable products. No PMI on some of these. The rates are sometimes slightly higher to compensate, so run the numbers.
 
 Conventional zero-down options from mainstream lenders are basically nonexistent in 2026 without an assistance program layered on. Fannie Mae's HomeReady and Freddie Mac's Home Possible both require at least 3% down. Good programs, wrong article.
 

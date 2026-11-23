@@ -43,7 +43,7 @@ PMI isn't one flat rate. It's calculated based on several variables, and the dif
 
 Your loan-to-value ratio (LTV) and credit score are the two big drivers. Lenders and PMI providers use these together to determine your rate. LTV is simple math: loan amount divided by the home's appraised value. Put down 10%, and your LTV is 90%. Put down 5%, and your LTV is 95%.
 
-Annual PMI premiums typically run somewhere between 0.2% and 2% of your original loan amount, though your actual rate depends on your specific lender, credit profile, and the PMI provider they choose. On a $350,000 loan at 0.5% annually, you're looking at $1,750 per year, or about $146 a month. Jump to 1.5% and that same loan costs $5,250 per year. That's $437 monthly stacked on top of principal, interest, taxes, and [homeowners insurance](/homeowners-insurance-mortgage-requirement/).
+Annual PMI premiums typically run somewhere between 0.2% and 2% of your original loan amount, though your actual rate depends on your specific lender, credit profile, and the PMI provider they choose. On a $350,000 loan at 0.5% annually, you're looking at $1,750 per year, or about $146 a month. Jump to 1.5% and that same loan costs $5,250 per year. That's $437 monthly stacked on top of principal, interest, taxes, and homeowners insurance.
 
 Borrowers with credit scores below 680 putting down only 5% sit at the expensive end of that range. A borrower with a 760+ score putting down 15% pays considerably less. The CFPB's [owning a home resources](https://www.consumerfinance.gov/owning-a-home/) include tools that show how your credit score affects loan costs across the board, including PMI. Spend some time with them before you start shopping.
 

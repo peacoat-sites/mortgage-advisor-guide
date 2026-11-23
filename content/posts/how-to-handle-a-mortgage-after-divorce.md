@@ -40,7 +40,7 @@ This is the mistake I saw more than any other. A couple agrees in their settleme
 
 Here's what happened: the lender was never part of that agreement. When you got the mortgage, both names went on the promissory note. That's a legally binding promise to the bank, and it doesn't disappear because your marriage did. Your ex agreeing to "take responsibility" in the divorce settlement is an agreement between the two of you. If they stop paying, the bank comes after everyone on the note. Full stop.
 
-For example, suppose both spouses sign the divorce agreement with one keeping the house while the other's name stays on the mortgage with plans to refinance soon. If the spouse with the house stops making payments, the other spouse's [credit score](/credit-score-for-mortgage-approval/) can drop over 100 points, making it impossible to qualify for other loans. Legal recourse against the non-paying spouse may exist on paper, but the credit damage is immediate and severe.
+For example, suppose both spouses sign the divorce agreement with one keeping the house while the other's name stays on the mortgage with plans to refinance soon. If the spouse with the house stops making payments, the other spouse's credit score can drop over 100 points, making it impossible to qualify for other loans. Legal recourse against the non-paying spouse may exist on paper, but the credit damage is immediate and severe.
 
 The lender's position is simple and cold: if your name is on the loan, you owe the money.
 
@@ -55,7 +55,7 @@ There are four paths divorcing homeowners actually have. Each one has real trade
 | Sell the home | Both agree to sell; split proceeds | 30-90 days depending on market | Enough equity to cover sale costs | Emotional difficulty; capital gains tax on profit over $250K single/$500K married |
 | Co-ownership after divorce | Both names stay on loan; one or both occupy | Ongoing | Requires cooperation and trust | Credit exposure continues; hard to refinance anything else |
 
-The refinance is by far the most common path, but I'd push back on anyone who assumes it's automatic. As of July 2026, rates are meaningfully higher than they were three or four years ago. If you and your ex locked in a 3.2% rate on a $380,000 loan in 2021, a new refinance might put the remaining spouse at 6.7% or higher on a comparable balance. On a 30-year loan, that difference can be over $800 [per month](/average-cost-of-private-mortgage-insurance-per-month/). That's a number worth sitting with before you decide anything.
+The refinance is by far the most common path, but I'd push back on anyone who assumes it's automatic. As of July 2026, rates are meaningfully higher than they were three or four years ago. If you and your ex locked in a 3.2% rate on a $380,000 loan in 2021, a new refinance might put the remaining spouse at 6.7% or higher on a comparable balance. On a 30-year loan, that difference can be over $800 per month. That's a number worth sitting with before you decide anything.
 
 The loan assumption is underused. I'll be honest, I didn't understand how useful this was until I started seeing borrowers who'd missed it entirely. FHA and VA loans are generally assumable, meaning a qualified party can step into the existing loan at its original rate. If you have a low-rate government-backed loan, this is worth asking your lender about specifically. [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) have a decent explainer on assumption basics if you want to start there before calling your servicer.
 

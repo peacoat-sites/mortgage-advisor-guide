@@ -122,7 +122,7 @@ If you're planning to buy in the next 12 to 24 months, tell your accountant. The
 
 **Step 4: Get pre-qualified, then get pre-approved.**
 
-Pre-qualification is a conversation. Pre-approval is a commitment with documentation reviewed. For self-employed borrowers, the gap between the two is significant. Learn [how to get pre-qualified for a mortgage](/step-by-step-guide-to-getting-preapproved-for-a-mortgage/) first, but know that sellers will expect a full pre-approval letter.
+Pre-qualification is a conversation. Pre-approval is a commitment with documentation reviewed. For self-employed borrowers, the gap between the two is significant. Learn how to get pre-qualified for a mortgage first, but know that sellers will expect a full pre-approval letter.
 
 **Step 5: Prepare a business summary letter.**
 

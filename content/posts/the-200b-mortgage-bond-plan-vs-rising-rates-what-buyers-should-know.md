@@ -14,7 +14,7 @@ slug: "the-200b-mortgage-bond-plan-vs-rising-rates-what-buyers-should-know"
 affiliate_disclosure: true
 ---
 
-If you've been watching [mortgage rates](/what-the-iran-peace-deal-means-for-your-mortgage-rate/) this summer hoping for some relief, you're probably feeling pretty frustrated right now. There was real buzz back in January when President Trump posted on Truth Social about directing Fannie Mae and Freddie Mac to buy $200 billion in mortgage-backed securities. Rates actually did drop, almost overnight. And then they climbed right back up. If you're wondering what happened, whether this plan is dead, or if it still matters for your loan, here's what I tell people sitting across from me right now.
+If you've been watching mortgage rates this summer hoping for some relief, you're probably feeling pretty frustrated right now. There was real buzz back in January when President Trump posted on Truth Social about directing Fannie Mae and Freddie Mac to buy $200 billion in mortgage-backed securities. Rates actually did drop, almost overnight. And then they climbed right back up. If you're wondering what happened, whether this plan is dead, or if it still matters for your loan, here's what I tell people sitting across from me right now.
 
 Freddie Mac's survey from July 16, 2026 put the 30-year fixed rate at 6.55%, up from 6.49% the week before and the highest it's been since late May. The [Freddie Mac Primary Mortgage Market Survey](https://www.freddiemac.com/pmms) is about as reliable a weekly snapshot as you'll find, and this number stings, especially when you remember that brief moment in early January when rates touched 5.99%. That one-day drop, roughly 22 basis points, came the same day Trump's post went out. But markets are not that simple, and what gave, eventually took back.
 
@@ -49,7 +49,7 @@ The gap between the administration's goal and where the industry expects rates t
 
 ## The "Lock-In Effect" Problem Nobody's Talking About Enough
 
-Even if rates do drift down toward 6.4% by late 2026, there's a deeper problem that the bond-buying plan can't fully fix. The FHFA reported that the average outstanding [mortgage rate](/when-should-i-lock-in-my-mortgage-rate/) on existing loans is 4.4%, based on Q3 2025 data. That means millions of homeowners are sitting on a rate they'd never willingly give up. Why sell your house and take on a 6.5% mortgage when you've got a 3.8% rate on the home you're in?
+Even if rates do drift down toward 6.4% by late 2026, there's a deeper problem that the bond-buying plan can't fully fix. The FHFA reported that the average outstanding mortgage rate on existing loans is 4.4%, based on Q3 2025 data. That means millions of homeowners are sitting on a rate they'd never willingly give up. Why sell your house and take on a 6.5% mortgage when you've got a 3.8% rate on the home you're in?
 
 This is the lock-in effect, and it's a big reason housing inventory remains so thin. Rates would need to come down very close to that 4.4% level before you'd see a meaningful wave of existing homeowners list their homes. That's not happening under any realistic 2026 scenario. According to [Yahoo Finance's reporting on the bond-buying plan](https://finance.yahoo.com/news/how-trumps-latest-bond-buying-plan-could-influence-mortgage-rates-and-affordability-165946400.html) from January, even the most optimistic analysts weren't expecting rates to fall that far. The plan was always more about optics and incremental relief than structural change to the housing market.
 

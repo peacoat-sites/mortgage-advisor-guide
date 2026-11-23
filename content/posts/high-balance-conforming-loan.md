@@ -25,7 +25,7 @@ faqs:
    a: "The FHFA adjusts them annually based on the House Price Index. In markets where home values have been flat or declining, the limits can stay the same or theoretically drop (though that's rare). In markets where prices have risen sharply, the limits tend to follow. The update for any given calendar year is typically announced in November of the prior year and takes effect January 1st."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most borrowers have never heard of a [high-balance conforming loan](/jumbo-loan-requirements/) until they actually need one. Then they're staring at two loan offers that look nearly identical, and nobody at the closing table can explain why one costs more than the other.
+Most borrowers have never heard of a high-balance conforming loan until they actually need one. Then they're staring at two loan offers that look nearly identical, and nobody at the closing table can explain why one costs more than the other.
 
 Let me fix that.
 

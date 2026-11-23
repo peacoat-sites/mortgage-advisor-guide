@@ -44,7 +44,7 @@ Here's where ARMs get dangerous: the buyer who takes one because they can't qual
 
 ## The "Buy Now, Refinance Later" Bet
 
-MBA chief economist Mike Fratantoni noted that mortgage applications rebounded 10.8% for the week ending June 5, with purchase apps up 7%. Some of that's seasonal. Some is buyers rushing to close before rates climb further. The "buy now, refinance later" logic goes like this: lock your purchase price today, take the ARM, and refinance into a fixed rate once [the Fed starts cutting](/a-december-fed-hike-looks-likely-what-buyers-should-do-now/).
+MBA chief economist Mike Fratantoni noted that mortgage applications rebounded 10.8% for the week ending June 5, with purchase apps up 7%. Some of that's seasonal. Some is buyers rushing to close before rates climb further. The "buy now, refinance later" logic goes like this: lock your purchase price today, take the ARM, and refinance into a fixed rate once the Fed starts cutting.
 
 Timing's the killer. The Fed's June 16-17 meeting happened with 4.2% inflation on the table. Their target is 2%. They're not cutting in that environment. Most forecasters don't see relief until late 2026 at the earliest, and HousingWire is flagging Iran-risk that could push it further.
 
@@ -64,7 +64,7 @@ A 5/2/5 cap structure means: maximum 5% jump at first adjustment, then 2% each y
 
 Also ask what the index is today and what your rate would be if the loan adjusted right now. That tells you whether the teaser rate is genuinely cheap or whether the margin is baked high enough to wipe out your savings at the first reset.
 
-The ARM-to-fixed spread is real today. For the right borrower, it's worth considering. But "the right borrower" is a specific person, and the current macro picture, persistent inflation, an unresolved geopolitical mess, a Fed with no room to cut quickly, makes that refinance window shakier than a spreadsheet suggests. Talk to an [independent mortgage advisor](/what-the-iran-peace-deal-means-for-your-mortgage-rate/) before you commit, not just the loan officer with a closing date in mind.
+The ARM-to-fixed spread is real today. For the right borrower, it's worth considering. But "the right borrower" is a specific person, and the current macro picture, persistent inflation, an unresolved geopolitical mess, a Fed with no room to cut quickly, makes that refinance window shakier than a spreadsheet suggests. Talk to an independent mortgage advisor before you commit, not just the loan officer with a closing date in mind.
 
 ## Sources
 

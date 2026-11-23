@@ -1,5 +1,5 @@
 ---
-title: "30 Days to Closing: 10 Mistakes That Could Cost You $40,000"
+title: "What Not to Do Before Closing on a House"
 date: 2026-11-20T22:24:57.846636+00:00
 draft: false
 description: "Avoid costly errors in the final 30 days before closing on your house. Learn what not to do to protect your down payment and mortgage approval."
@@ -37,7 +37,7 @@ It isn't. Your lender is still watching you. They'll pull your credit again befo
 
 This one trips up buyers constantly, because it feels harmless. You're about to own a home, so you think ahead and open a store card for appliances or finance a new couch. The furniture store sells you on 0% for 18 months. What's the problem?
 
-The problem is that new credit account just showed up on your report, your available debt went up, and your scores may have dropped from the hard inquiry. Your lender sees all of it. If your debt-to-[income ratio](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/) (the percentage of your gross monthly income going to debt payments) creeps past their limit, you can lose your approval or get bumped to a worse loan program.
+The problem is that new credit account just showed up on your report, your available debt went up, and your scores may have dropped from the hard inquiry. Your lender sees all of it. If your debt-to-income ratio (the percentage of your gross monthly income going to debt payments) creeps past their limit, you can lose your approval or get bumped to a worse loan program.
 
 Don't apply for new credit of any kind. No store cards, no car loans, no "pre-approval" for anything. If a creditor asks to pull your credit during this period, say no and explain you're closing on a house.
 
@@ -47,7 +47,7 @@ Also: don't close old accounts. It sounds counterintuitive, but closing a card r
 
 A job change feels like good news. More money, right? Your lender disagrees, at least for now.
 
-[Mortgage approval](/mortgage-approval-timeline/) is tied to documented, stable income. If you switch employers, your lender usually needs 30 days of pay stubs from the new job before they can count that income. If you're salary-to-salary in the same field, it's sometimes workable with a letter from the new employer. But if you're moving from salaried to self-employed or commission-based, you're looking at a potentially much longer delay, because lenders typically want two years of self-employment history to use that income in underwriting.
+Mortgage approval is tied to documented, stable income. If you switch employers, your lender usually needs 30 days of pay stubs from the new job before they can count that income. If you're salary-to-salary in the same field, it's sometimes workable with a letter from the new employer. But if you're moving from salaried to self-employed or commission-based, you're looking at a potentially much longer delay, because lenders typically want two years of self-employment history to use that income in underwriting.
 
 This isn't a situation where you can close fast and sort it out later. The lender will verify your employment status within days of closing, often by calling your HR department directly.
 

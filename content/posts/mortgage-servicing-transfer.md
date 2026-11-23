@@ -38,7 +38,7 @@ Your lender and your servicer are not always the same entity, and that's where t
 
 A lot of borrowers assume the bank that approved their loan is the same institution they'll have a relationship with for the next 30 years. Sometimes that's true. More often, it isn't. The mortgage market has a secondary market structure where lenders frequently sell the servicing rights to your loan, sometimes within days of closing. The underlying terms of your mortgage don't change at all, but the company you interact with does.
 
-This is completely legal and fully disclosed in your closing documents, specifically in a document called the [Servicing Disclosure Statement](/home-loan-application-checklist/). I'll admit something here: I spent years in this industry before I really sat down and read one of those disclosures carefully from a borrower's perspective. The language is dense, and most people sign it without registering what it actually means for their future experience.
+This is completely legal and fully disclosed in your closing documents, specifically in a document called the Servicing Disclosure Statement. I'll admit something here: I spent years in this industry before I really sat down and read one of those disclosures carefully from a borrower's perspective. The language is dense, and most people sign it without registering what it actually means for their future experience.
 
 ## What Has to Happen (By Law) When Your Loan Gets Transferred
 

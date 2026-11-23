@@ -40,7 +40,7 @@ DSCR stands for Debt Service Coverage Ratio. The math is: monthly gross rental i
 
 A DSCR below 1.0 means the rent doesn't cover the payment. Some lenders will go as low as 0.75 on a case-by-case basis, but you're paying a steeper rate for that flexibility, and you'd better have reserves.
 
-The key issue: borrowers calculate DSCR using their expected rent, not the rent the appraiser assigns. Lenders order a rent schedule (Form 1007) from the appraiser, and that number is what counts. For example, if you plan around $2,800/month in rent but the appraiser's market rent estimate comes in at $2,300, your 1.25 DSCR drops to 0.99. [Application denied](/why-was-my-mortgage-application-denied/). So before you get attached to a property, get an informal rent comps analysis first.
+The key issue: borrowers calculate DSCR using their expected rent, not the rent the appraiser assigns. Lenders order a rent schedule (Form 1007) from the appraiser, and that number is what counts. For example, if you plan around $2,800/month in rent but the appraiser's market rent estimate comes in at $2,300, your 1.25 DSCR drops to 0.99. Application denied. So before you get attached to a property, get an informal rent comps analysis first.
 
 ## How DSCR Loans Are Priced vs. Conventional Investor Loans
 
@@ -60,7 +60,7 @@ That rate premium matters over a 30-year loan. On a $350,000 mortgage, the diffe
 
 Not everyone should use a DSCR loan. I say that knowing some brokers pitch it as the answer to everything, which it isn't.
 
-DSCR loans [make sense](/when-does-it-make-sense-to-refinance-your-mortgage-in/) if you're self-employed and your tax returns make your income look small (because you run legitimate deductions), if you already have several financed properties and conventional lenders have cut you off at their overlays, or if you're scaling quickly and can't document income fast enough for traditional underwriting. They also make sense if you're buying in a market with strong rent-to-price ratios.
+DSCR loans make sense if you're self-employed and your tax returns make your income look small (because you run legitimate deductions), if you already have several financed properties and conventional lenders have cut you off at their overlays, or if you're scaling quickly and can't document income fast enough for traditional underwriting. They also make sense if you're buying in a market with strong rent-to-price ratios.
 
 They're a bad fit if you're buying a property that barely cash-flows on its best day. The no-income-verification feature doesn't save you from a property that can't cover its own costs.
 

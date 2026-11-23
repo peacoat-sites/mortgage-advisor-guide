@@ -1,5 +1,5 @@
 ---
-title: "Lock in Your Rate Before It Changes: A Guide"
+title: "Mortgage Rate Lock Explained: How to Lock at the Right Time"
 date: 2026-05-22T09:58:52.140800+00:00
 draft: false
 description: "Lock in your mortgage rate and protect yourself from rate increases. Learn how rate locks work, their benefits, costs, and what to consider before locking."

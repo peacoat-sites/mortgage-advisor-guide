@@ -1,5 +1,5 @@
 ---
-title: "How To Repay A HELOC Without Draining Your Budget"
+title: "HELOC Repayment Explained: What to Expect Month to Month"
 date: 2026-06-13T17:04:28.998762+00:00
 draft: false
 description: "Learn how HELOC repayment works, including draw and repayment periods, monthly payment calculations, and tips to manage your home equity line of credit effectiv"

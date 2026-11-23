@@ -34,7 +34,7 @@ Deferral isn't forgiveness. It isn't even a payment plan, not exactly. It's the 
 
 ## What Deferral Actually Does to Your Loan
 
-A common misunderstanding about payment deferrals is that the deferred amount simply floats at the end of the amortization schedule without consequence. The actual risk is the equity impact. If you defer $9,400 in payments (three months on a $380,000 mortgage, roughly), that amount sits as a lien against your home. When you go to refinance or sell, it gets paid first. If your equity has barely grown because you bought recently with a small [down payment](/down-payment-from-401k/), that deferred balance can create a genuine math problem.
+A common misunderstanding about payment deferrals is that the deferred amount simply floats at the end of the amortization schedule without consequence. The actual risk is the equity impact. If you defer $9,400 in payments (three months on a $380,000 mortgage, roughly), that amount sits as a lien against your home. When you go to refinance or sell, it gets paid first. If your equity has barely grown because you bought recently with a small down payment, that deferred balance can create a genuine math problem.
 
 The interest-free nature of most deferral programs is a genuine benefit. Your missed principal and interest aren't accruing more interest while they wait, which is meaningfully better than a forbearance that capitalizes. But "interest-free" isn't "cost-free." You still borrowed money. You still have to pay it back. The only thing that changed is when.
 

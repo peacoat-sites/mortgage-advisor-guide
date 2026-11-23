@@ -17,7 +17,7 @@ affiliate_disclosure: true
 
 Picture this: you've been watching [mortgage rates](/current-30-year-fixed-mortgage-rates-forecast/) for six months, waiting for them to drop before you buy. Instead, the U.S. started a war with Iran in late February 2026, oil prices spiked, inflation stayed stubbornly hot, and rates went the wrong direction. Now it's July and the 30-year fixed sits somewhere between 6.49% and 6.77% depending on which survey you trust. Your budget is tighter than you planned, and your real estate agent just mentioned something about an adjustable-rate mortgage.
 
-That's where millions of buyers are [right now](/should-you-take-an-arm-right-now-to-beat-high-fixed-rates/). ARMs make many buyers nervous, and the 2008 crisis left a lasting mark on how people view these loans. ARMs have changed significantly since then. Whether one makes sense for you depends almost entirely on one question: how long are you actually planning to stay in that house?
+That's where millions of buyers are right now. ARMs make many buyers nervous, and the 2008 crisis left a lasting mark on how people view these loans. ARMs have changed significantly since then. Whether one makes sense for you depends almost entirely on one question: how long are you actually planning to stay in that house?
 
 Let me break down what's happening, what the real numbers look like, and what the risks are that the sales brochure won't tell you.
 
@@ -27,7 +27,7 @@ Let me break down what's happening, what the real numbers look like, and what th
 
 The short version: the U.S.-Iran conflict, which escalated starting in late February 2026, pushed crude oil prices up sharply. Higher oil means higher transportation costs, which feeds into the prices of basically everything, which keeps inflation elevated. June's CPI came in at 3.5%, still well above the Fed's 2% target. Then in mid-July, renewed fighting in the Middle East pushed crude up another 10% in just five days.
 
-The Fed has kept its benchmark rate at 3.5%–3.75% since early 2026, but futures markets are now pricing in better than 50% odds of another rate hike by September if inflation doesn't cool. [That means](/a-december-fed-hike-looks-likely-what-buyers-should-do-now/) the pressure on mortgage rates isn't going away anytime soon. According to Norada Real Estate's July 2026 forecast, rates are expected to stay elevated through at least the third quarter. There's no cavalry coming.
+The Fed has kept its benchmark rate at 3.5%–3.75% since early 2026, but futures markets are now pricing in better than 50% odds of another rate hike by September if inflation doesn't cool. That means the pressure on mortgage rates isn't going away anytime soon. According to Norada Real Estate's July 2026 forecast, rates are expected to stay elevated through at least the third quarter. There's no cavalry coming.
 
 This is the environment that's pushing buyers toward ARMs. Not because ARMs are inherently great, but because the alternative is locking in a 30-year rate that might feel painful if rates do eventually come down.
 

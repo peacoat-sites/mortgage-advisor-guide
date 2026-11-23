@@ -1,5 +1,5 @@
 ---
-title: "What Mortgage Lenders Check Before Approval"
+title: "Mortgage Underwriting Process: What Lenders Check for Approval"
 date: 2026-05-22T04:05:43.990985+00:00
 draft: false
 description: "Discover how the mortgage underwriting process works, from application to approval. Learn about credit checks, documentation, and timeline expectations."

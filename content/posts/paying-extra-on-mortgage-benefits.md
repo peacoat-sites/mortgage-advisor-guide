@@ -1,5 +1,5 @@
 ---
-title: "Extra Mortgage Payments: How They Accelerate Your Payoff"
+title: "Paying Extra on Your Mortgage: Benefits and How It Works"
 date: 2026-08-12T16:40:33.753866+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -30,7 +30,7 @@ Most people think paying extra on their mortgage is just a "nice to have" -- som
 
 The interest you pay over 30 years on a mortgage that size? It's not a rounding error. It's often more than you borrowed in the first place. What surprised me was how dramatically that changes when you throw even a modest amount of extra money at the principal, not at the end, but early, when it actually counts.
 
-I want to be upfront: this isn't magic, and it won't be the right move for everyone. If you're carrying high-interest credit card debt, paying extra on a 6.75% [mortgage while](/can-i-get-a-mortgage-while-self-employed/) revolving a balance at 24% APR is backwards math. But for people wondering what the best thing to do with an extra $200 a month might be, the answer is often this.
+I want to be upfront: this isn't magic, and it won't be the right move for everyone. If you're carrying high-interest credit card debt, paying extra on a 6.75% mortgage while revolving a balance at 24% APR is backwards math. But for people wondering what the best thing to do with an extra $200 a month might be, the answer is often this.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">On a $350,000 30-year loan at 6.75%, an extra $200/month saves roughly $68,000+ in interest over the life of the loan.</li><li style="margin:5px 0">Extra payments cut years off your loan term, not just dollars from the total.</li><li style="margin:5px 0">Early payments matter most, dollars added in year 1 save far more than dollars added in year 25.</li><li style="margin:5px 0">Always confirm your lender applies extra payments to principal, not future interest.</li><li style="margin:5px 0">This strategy beats many investments on an after-tax, risk-adjusted basis only if you're debt-free otherwise.</li></ul></div>
 

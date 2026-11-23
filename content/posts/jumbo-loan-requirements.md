@@ -39,7 +39,7 @@ This distinction matters before you start fantasizing about what you can afford.
 
 ## Credit Score Requirements for Jumbo Loans
 
-Forget the 620 minimum you may have heard about for conventional loans. Jumbo lenders typically want to see a credit score of at least 700, and most are more comfortable at 720 or above. Some [portfolio lenders who specialize](/portfolio-loan-mortgage/) in high-balance loans will go down to 680, but you'll pay for it in rate, and the documentation requirements get even heavier.
+Forget the 620 minimum you may have heard about for conventional loans. Jumbo lenders typically want to see a credit score of at least 700, and most are more comfortable at 720 or above. Some portfolio lenders who specialize in high-balance loans will go down to 680, but you'll pay for it in rate, and the documentation requirements get even heavier.
 
 Why the higher bar? The lender is on the hook. There's no government guarantee or agency backing here. A 760 score tells them you've handled credit responsibly for years. A 680 introduces meaningful uncertainty when you're asking to borrow $1.2 million.
 
@@ -61,7 +61,7 @@ Self-employed borrowers get an extra dose of scrutiny. Lenders typically average
 | Jumbo | 700+ (720+ preferred) | 38-43% | 10-20% (20% common) | 6-18 months PITI |
 | FHA | 580+ | 43-50% | 3.5% | None typically required |
 
-Most jumbo lenders require at least 10% down, but 20% is far more common as a practical threshold. Below 20%, you're often looking at higher rates, additional conditions, or both. Some lenders won't touch jumbo loans with less than 20% at all. And unlike FHA or conventional loans, [private mortgage insurance options](/fha-vs-conventional-loan-which-is-better-for-first-time-buyers/) for jumbos are limited, so a smaller down payment doesn't just mean PMI. It often means a materially worse loan structure overall.
+Most jumbo lenders require at least 10% down, but 20% is far more common as a practical threshold. Below 20%, you're often looking at higher rates, additional conditions, or both. Some lenders won't touch jumbo loans with less than 20% at all. And unlike FHA or conventional loans, private mortgage insurance options for jumbos are limited, so a smaller down payment doesn't just mean PMI. It often means a materially worse loan structure overall.
 
 Reserves are where borrowers who thought they had plenty of cash get blindsided. Jumbo lenders don't just want to know you can close. They want to know you can sustain the mortgage after closing. Standard reserve requirements run from 6 to 18 months of PITI (principal, interest, taxes, and insurance) in liquid or semi-liquid accounts. On a $1.2 million loan with a $7,500 monthly payment, 12 months of reserves means $90,000 sitting in verifiable accounts after your down payment and closing costs.
 

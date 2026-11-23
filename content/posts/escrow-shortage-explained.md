@@ -67,7 +67,7 @@ There's no interest charge either way. The only reason to pay the lump sum is if
 
 ## Can You Dispute It?
 
-Sometimes, yes. [Property tax](/mortgage-escrow-account-explained/) assessments can be appealed, and in some counties the window to appeal is short, often 30 to 90 days after the notice is mailed. If you believe your home's assessed value is too high, check your local assessor's website for the appeal process. A successful appeal could lower your tax bill mid-year and trigger a surplus at your next escrow review.
+Sometimes, yes. Property tax assessments can be appealed, and in some counties the window to appeal is short, often 30 to 90 days after the notice is mailed. If you believe your home's assessed value is too high, check your local assessor's website for the appeal process. A successful appeal could lower your tax bill mid-year and trigger a surplus at your next escrow review.
 
 If your insurance premium jumped, you have every right to shop for a competing policy. A lower premium through a new insurer, or a policy update that removes unnecessary coverage, can reduce your projected escrow payment for the next year. Just make sure any new policy is in place before the old one lapses, and that your servicer receives the declarations page so they update their records.
 

@@ -60,7 +60,7 @@ A home equity line of credit (HELOC) is a revolving line at a variable rate. Dur
 
 The critical distinction on rates: HELOCs are almost always variable, tied to the prime rate, which moves with the federal funds rate. Home equity loans are fixed. Right now, if rates are elevated, a fixed home equity loan locks you in at a known cost. If rates drop significantly, you're stuck unless you refinance. A HELOC floats down with the market but also floats up, with no ceiling on the damage short of the lifetime cap buried in your loan documents.
 
-For someone borrowing $50,000 to fund a specific renovation with a firm budget, the fixed certainty of a home equity loan is usually worth the slight premium over a HELOC's initial rate. For someone who needs [flexible access over several years](/heloc-draw-period-explained/) and can tolerate payment swings, a HELOC may fit better. The right answer depends on your situation, not which product has the lower number in an advertisement.
+For someone borrowing $50,000 to fund a specific renovation with a firm budget, the fixed certainty of a home equity loan is usually worth the slight premium over a HELOC's initial rate. For someone who needs flexible access over several years and can tolerate payment swings, a HELOC may fit better. The right answer depends on your situation, not which product has the lower number in an advertisement.
 
 ## What Lenders Don't Volunteer About the Rate You're Quoted
 

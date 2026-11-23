@@ -1,5 +1,5 @@
 ---
-title: "Red Flags in Your Mortgage Deal You Can't Ignore"
+title: "Predatory Lending Warning Signs You Should Never Ignore"
 date: 2026-06-25T17:59:17.078777+00:00
 draft: false
 description: "Learn to spot predatory lending warning signs before signing any loan. Protect yourself from hidden fees, inflated rates, and deceptive lender tactics."
@@ -48,7 +48,7 @@ You get a quote for 6.5%. You come to closing and the paperwork says 7.1%. The l
 
 But watch for a pattern of small changes that each seem explainable individually. This is called "bait and switch," and it's one of the most common predatory tactics I saw during my time working near the subprime corridor. Each change is small enough that walking away feels irrational. Together, they add up to a meaningfully worse loan.
 
-The [federal Truth in Lending Act](/respa-mortgage-rules/) requires a Loan Estimate within three business days of your application, and a Closing Disclosure at least three business days before closing. Those aren't formalities. Compare them line by line. If the origination charges, the interest rate, or the loan terms shifted between those two documents without a documented change in your application (you switched from a 30-year to a 15-year, say, or your appraised value came in low), ask for a written explanation. If the answer is vague, that's your answer.
+The federal Truth in Lending Act requires a Loan Estimate within three business days of your application, and a Closing Disclosure at least three business days before closing. Those aren't formalities. Compare them line by line. If the origination charges, the interest rate, or the loan terms shifted between those two documents without a documented change in your application (you switched from a 30-year to a 15-year, say, or your appraised value came in low), ask for a written explanation. If the answer is vague, that's your answer.
 
 ## The Products Designed to Trap You
 

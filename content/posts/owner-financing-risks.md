@@ -26,7 +26,7 @@ faqs:
     a: "Skipping the attorney and relying on the seller (or the seller's agent) to handle the paperwork. The seller's agent represents the seller. The contract they hand you was written to protect the seller. Paying $800–$1,500 for a real estate attorney to review or draft documents is the cheapest insurance you can buy in this situation."
 ---
 
-Most articles about owner financing read like a [real estate](/financing-contingency-real-estate/) agent wrote them. Bubbly. Full of phrases like "flexible terms" and "win-win scenario." What they skip: the specific ways buyers and sellers get burned, how often it happens, and what the paperwork actually needs to say to protect you.
+Most articles about owner financing read like a real estate agent wrote them. Bubbly. Full of phrases like "flexible terms" and "win-win scenario." What they skip: the specific ways buyers and sellers get burned, how often it happens, and what the paperwork actually needs to say to protect you.
 
 Owner financing (also called [seller financing](/seller-financing-explained/)) is when the person selling you the house acts as the bank. Instead of getting a mortgage from Wells Fargo, you make monthly payments directly to the seller. No traditional lender. No underwriting department scrutinizing your debt-to-income ratio. That sounds appealing, especially if your credit history is messy or you're buying a property that banks consider unbankable. And sometimes it genuinely is the right move.
 
@@ -36,7 +36,7 @@ But I spent years reviewing loan files, and the deals that went sideways most of
 
 ## The Due-on-Sale Clause Will Wreck You If You Ignore It
 
-Here's the scenario I saw play out more than once: a buyer finds a motivated seller who still has an existing mortgage. The seller says, "I'll just let you make my payments, and we'll transfer the deed later." Everybody shakes hands. Buyer moves in, makes payments for 18 months. Then the seller's lender discovers the transfer (and they do discover it, usually through a [property tax](/mortgage-escrow-account-explained/) record or insurance change) and invokes the due-on-sale clause.
+Here's the scenario I saw play out more than once: a buyer finds a motivated seller who still has an existing mortgage. The seller says, "I'll just let you make my payments, and we'll transfer the deed later." Everybody shakes hands. Buyer moves in, makes payments for 18 months. Then the seller's lender discovers the transfer (and they do discover it, usually through a property tax record or insurance change) and invokes the due-on-sale clause.
 
 That clause, buried in almost every conventional mortgage, says the full loan balance becomes immediately due if ownership transfers without the lender's approval. The seller can't pay it. Foreclosure proceedings start. The buyer, who has been making payments faithfully and may have put $40,000 down, gets evicted. Their payments went to a seller who was essentially insolvent, and they have no mortgage of their own to fall back on.
 

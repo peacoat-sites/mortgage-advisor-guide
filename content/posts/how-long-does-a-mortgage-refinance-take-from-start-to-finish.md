@@ -1,5 +1,5 @@
 ---
-title: "Refinance Timeline: How Long From Application To Closing"
+title: "How Long Does Funding Take After Closing a Refinance"
 date: 2026-07-01T17:36:40.467393+00:00
 draft: false
 description: "Learn how long a mortgage refinance takes from start to finish, including each step of the process and tips to help speed up your closing timeline."
@@ -30,7 +30,7 @@ Most borrowers assume a refinance is the "easy" version of getting a mortgage. Y
 
 I thought the same thing, honestly, the first time I refinanced. I gave myself three weeks. I closed in 51 days and nearly lost my rate lock in the process. That experience taught me more about how this process actually works than 16 years of underwriting had, because when it's your own money on the line, you pay attention differently.
 
-The real answer to "how long does this take" is somewhere between 30 and 60 days for most borrowers, with 45 days being a reasonable planning assumption. But that range hides a lot. [Streamline refinances](/streamline-refinance-options/) can close in as little as 21 days. Cash-out refis during a busy rate market can drag past 75 days. What determines where you fall in that range is almost never what borrowers expect.
+The real answer to "how long does this take" is somewhere between 30 and 60 days for most borrowers, with 45 days being a reasonable planning assumption. But that range hides a lot. Streamline refinances can close in as little as 21 days. Cash-out refis during a busy rate market can drag past 75 days. What determines where you fall in that range is almost never what borrowers expect.
 
 ## The Stages, and Where Time Actually Gets Lost
 
@@ -61,7 +61,7 @@ Straightforward rate-and-term refi, salaried W-2 borrower, good credit, appraisa
 
 Cash-out refinance, self-employed borrower, lender ordered full appraisal, busy Q1 rate market → underwriting backlog of 12 business days, appraisal took 18 days, two rounds of conditions on business tax returns → closed in 63 days.
 
-[FHA Streamline refinance](/streamline-refinance-options/) (existing FHA loan, no new appraisal required, reduced documentation) → borrower pre-organized all documents, lender had 7-day underwriting turns → closed in 22 days.
+FHA Streamline refinance (existing FHA loan, no new appraisal required, reduced documentation) → borrower pre-organized all documents, lender had 7-day underwriting turns → closed in 22 days.
 
 ## What You Can Actually Control
 

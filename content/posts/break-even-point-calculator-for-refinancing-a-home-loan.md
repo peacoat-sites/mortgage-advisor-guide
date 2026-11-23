@@ -1,5 +1,5 @@
 ---
-title: "When Does a Refinance Actually Save You Money?"
+title: "Break-Even Point on a Refinance: How to Run the Numbers"
 date: 2026-06-25T17:57:30.219220+00:00
 draft: false
 description: "Calculate your home loan refinance break even point instantly. See how long until savings offset closing costs and decide if refinancing makes financial sense."

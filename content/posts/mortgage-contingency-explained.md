@@ -67,7 +67,7 @@ In competitive markets, buyers' agents sometimes suggest waiving the mortgage co
 
 When you waive the mortgage contingency, you are essentially telling the seller: even if I can't get a loan, I'll either find another way to close or forfeit my earnest money. Period. There's no protective language left.
 
-Some buyers do this after getting [pre-underwritten](/step-by-step-guide-to-getting-preapproved-for-a-mortgage/) (which is more thorough than a standard pre-approval), and that's a somewhat more defensible position. A pre-underwriting review means a lender has already verified your income, assets, and credit, and issued a conditional approval before you go under contract. The main risks that remain are property-specific: appraisal issues, title problems, and anything that comes out of inspection.
+Some buyers do this after getting pre-underwritten (which is more thorough than a standard pre-approval), and that's a somewhat more defensible position. A pre-underwriting review means a lender has already verified your income, assets, and credit, and issued a conditional approval before you go under contract. The main risks that remain are property-specific: appraisal issues, title problems, and anything that comes out of inspection.
 
 That said, even a fully pre-underwritten buyer faces risk if the [appraisal comes in low](/low-appraisal-mortgage-options/) and the seller won't renegotiate. The property itself has to support the loan. No amount of personal creditworthiness fixes a property problem.
 

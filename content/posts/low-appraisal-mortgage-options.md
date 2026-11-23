@@ -47,7 +47,7 @@ A low appraisal isn't a verdict. It's an opening move.
 
 **Request a reconsideration of value (ROV).** This is a formal process where you challenge the appraisal with documented evidence: recent comparable sales the appraiser didn't include, errors in square footage or condition, renovations that weren't properly credited. Your lender submits this on your behalf. ROVs don't always work. Appraisers don't have to change their number, but they may succeed when there's a clear factual error or when the buyer's agent finds a legitimately comparable sale within the same 90-day window that the appraiser missed. It costs nothing to try before you do anything else.
 
-**Walk away using your [appraisal contingency](/mortgage-contingency-explained/).** If your contract includes an appraisal contingency (and it absolutely should), a low appraisal gives you the right to exit the contract and get your earnest money back. Full stop. If you waived that contingency in a competitive bidding situation, you're in a harder spot. Talk to a real estate attorney before you do anything.
+**Walk away using your appraisal contingency.** If your contract includes an appraisal contingency (and it absolutely should), a low appraisal gives you the right to exit the contract and get your earnest money back. Full stop. If you waived that contingency in a competitive bidding situation, you're in a harder spot. Talk to a real estate attorney before you do anything.
 
 ## The Loan Type Matters More Than People Think
 

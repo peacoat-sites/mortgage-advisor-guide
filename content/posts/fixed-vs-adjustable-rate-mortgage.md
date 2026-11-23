@@ -12,7 +12,7 @@ author_title: "First-Time Buyers"
 author_bio: "Maria Santos is the byline used at Mortgage Advisor Guide for articles on first-time buyer programs and the steps of a purchase. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-When you're shopping for a mortgage, the rate type you choose, fixed or adjustable, probably matters more to your wallet than the down payment size or your [loan term](/15-year-vs-30-year-mortgage-pros-and-cons/). Pick the wrong one and you're stuck with it for years. But here's the thing: it's actually straightforward once you understand what's at stake.
+When you're shopping for a mortgage, the rate type you choose, fixed or adjustable, probably matters more to your wallet than the down payment size or your loan term. Pick the wrong one and you're stuck with it for years. But here's the thing: it's actually straightforward once you understand what's at stake.
 
 ## Fixed-Rate Mortgages
 

@@ -47,7 +47,7 @@ The law does try to address supply through other provisions, which I'll get to i
 
 ## The Less-Discussed Provisions That Could Actually Move the Needle
 
-Here's what I tell people who read past the investor ban headline: the [supply-side provisions](/the-housing-bill-that-passed-congress-but-stalled-at-the-white-house/) in this bill could matter more over the long run.
+Here's what I tell people who read past the investor ban headline: the supply-side provisions in this bill could matter more over the long run.
 
 The law streamlines NEPA environmental reviews for housing construction. NEPA reviews have been one of the most consistent friction points in getting new residential projects built, particularly in higher-density or infill development contexts. Faster environmental review doesn't guarantee more homes get built, but it does lower one of the structural costs and delays that developers cite constantly.
 

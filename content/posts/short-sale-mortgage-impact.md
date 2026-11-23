@@ -1,5 +1,5 @@
 ---
-title: "How Short Sales Damage Your Mortgage Future"
+title: "Short Sale Mortgage Impact: Credit, Waiting Periods and Recovery"
 date: 2026-06-13T17:06:31.967227+00:00
 draft: false
 description: "Discover how a short sale affects your mortgage, credit score, and future home buying ability, plus tips to recover and qualify for a new loan sooner."

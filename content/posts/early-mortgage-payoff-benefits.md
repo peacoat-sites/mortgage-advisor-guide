@@ -1,5 +1,5 @@
 ---
-title: "Pay Off Your $350,000 Mortgage in 20 Years Instead of 30"
+title: "Early Mortgage Payoff Benefits: What the Math Shows"
 date: 2026-08-14T16:36:51.548050+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -28,7 +28,7 @@ faqs:
 
 Paying off a 30-[year mortgage](/15-year-vs-30-year-mortgage-pros-and-cons/) in 20 years instead saves the average American homeowner somewhere between $50,000 and $100,000 in interest, depending on loan size and rate. That's not a rounding error. That's a car, a college fund, or a decade of retirement contributions. Yet many borrowers sign 30-year notes without being shown what that timeline actually costs them in total dollars paid.
 
-You might be wondering if early payoff is even worth thinking about [right now](/should-you-take-an-arm-right-now-to-beat-high-fixed-rates/), especially with rates where they are and budgets already stretched thin. The math almost always makes sense. But the strategy has to fit your life, and there are real tradeoffs that nobody in the mortgage business is in a hurry to explain to you.
+You might be wondering if early payoff is even worth thinking about right now, especially with rates where they are and budgets already stretched thin. The math almost always makes sense. But the strategy has to fit your life, and there are real tradeoffs that nobody in the mortgage business is in a hurry to explain to you.
 
 Let me walk through the actual numbers, the mechanics, and the scenarios where early payoff is a no-brainer versus where it genuinely isn't.
 
@@ -36,7 +36,7 @@ Let me walk through the actual numbers, the mechanics, and the scenarios where e
 
 ## What You're Actually Paying For Over 30 Years
 
-In the early years of a mortgage, almost none of your payment goes to principal. Many borrowers are surprised to see this on an amortization schedule. On a $350,000 loan at 6.75% (roughly where 30-[year fixed](/current-30-year-fixed-mortgage-rates-forecast/) rates have been sitting, as of August 2026), your first monthly payment is around $2,270. Of that, approximately $1,969 is interest and only $301 is principal. You're paying the bank first. You pay yourself last.
+In the early years of a mortgage, almost none of your payment goes to principal. Many borrowers are surprised to see this on an amortization schedule. On a $350,000 loan at 6.75% (roughly where 30-year fixed rates have been sitting, as of August 2026), your first monthly payment is around $2,270. Of that, approximately $1,969 is interest and only $301 is principal. You're paying the bank first. You pay yourself last.
 
 Over 30 years, that same $350,000 loan will cost you roughly $467,000 in interest alone. Total out-of-pocket: around $817,000 for a house you borrowed $350,000 to buy. This is not meant to be alarming. Once borrowers see that number, extra principal payments tend to stop feeling like a sacrifice and start feeling like the most obvious investment available.
 

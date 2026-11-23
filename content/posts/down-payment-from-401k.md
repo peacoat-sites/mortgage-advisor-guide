@@ -26,7 +26,7 @@ faqs:
     a: "Processing times vary by plan administrator, but in my experience, most loans are processed within 7 to 15 business days after you submit the paperwork. Some plans have moved to faster digital processing and can fund in 3 to 5 business days. Don't assume it's instant, and don't schedule your closing before the funds clear."
 ---
 
-Most people have no idea how much money they're quietly sitting on inside their 401(k). According to Vanguard's 2025 How America Saves report, the average 401(k) balance for participants in their 40s is around $132,000. That's a meaningful [down payment](/gift-funds-for-down-payment-rules/) on a house, locked inside a retirement account. No surprise, then, that I watched dozens of borrowers come through the door wanting to crack it open.
+Most people have no idea how much money they're quietly sitting on inside their 401(k). According to Vanguard's 2025 How America Saves report, the average 401(k) balance for participants in their 40s is around $132,000. That's a meaningful down payment on a house, locked inside a retirement account. No surprise, then, that I watched dozens of borrowers come through the door wanting to crack it open.
 
 Using your 401(k) for a down payment isn't one move. It's two very different moves with completely different consequences, and confusing them is how people end up with a five-figure tax bill they didn't see coming.
 
@@ -89,7 +89,7 @@ I want to be protective of you here. The mortgage lender wants to close your loa
 
 [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) offer free or low-cost guidance, and they're not selling you a mortgage or a house. If you're seriously considering pulling from your 401(k), an hour with one of them, plus a conversation with a fee-only financial advisor, could save you from a decision you can't undo.
 
-Also worth knowing: some first-time buyer programs, including certain state housing finance agency loans and FHA options, allow down payment assistance that could reduce or eliminate the need to touch retirement funds at all. As of July 2026, programs vary significantly by state, and [eligibility requirements](/va-loan-benefits-and-eligibility-requirements-for-veterans/) change. I don't have good, current data on all fifty states' programs, so I'd encourage you to check your state's housing finance agency website directly.
+Also worth knowing: some first-time buyer programs, including certain state housing finance agency loans and FHA options, allow down payment assistance that could reduce or eliminate the need to touch retirement funds at all. As of July 2026, programs vary significantly by state, and eligibility requirements change. I don't have good, current data on all fifty states' programs, so I'd encourage you to check your state's housing finance agency website directly.
 
 If you want to run your own numbers first, a solid [home affordability calculator or mortgage workbook](https://www.amazon.com/s?k=mortgage+home+buying+workbook&tag=contentportfo-20) (Amazon link, site may earn a commission) can help you map out whether a different down payment amount changes your monthly payments enough to justify the retirement account math.
 

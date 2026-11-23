@@ -1,5 +1,5 @@
 ---
-title: "What Title Searches Really Reveal Before Closing"
+title: "Mortgage Title Search Process: What It Reveals Before Closing"
 date: 2026-05-21T07:28:48.182374+00:00
 draft: false
 description: "Learn how the mortgage title search process works, why it matters when buying a home, and how it protects you from hidden liens, ownership disputes, and legal i"

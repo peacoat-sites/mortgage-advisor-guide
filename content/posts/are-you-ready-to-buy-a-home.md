@@ -17,7 +17,7 @@ This quick quiz walks you through seven honest questions about your timing, your
 
 {{< quiz >}}
 
-However you scored, remember this is a self-reflection tool to help you think clearly, not a verdict. Your readiness can shift once you have a plan and the right people backing you up. Check out our [beginner home-buying guides](/conventional-loan-requirements/) for what comes next. When you're ready to talk real numbers, loop in a licensed lender who can work through your full financial picture.
+However you scored, remember this is a self-reflection tool to help you think clearly, not a verdict. Your readiness can shift once you have a plan and the right people backing you up. Check out our beginner home-buying guides for what comes next. When you're ready to talk real numbers, loop in a licensed lender who can work through your full financial picture.
 
 ---
 

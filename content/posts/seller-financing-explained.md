@@ -38,7 +38,7 @@ That said, this isn't a magic workaround. There's real risk on both sides, and m
 
 The seller and buyer negotiate a sale price, a down payment, an interest rate, and a loan term. Those get written into a promissory note, which is the buyer's legal promise to repay. Separately, a mortgage or deed of trust is recorded against the property, which gives the seller a security interest, meaning they can foreclose if you stop paying.
 
-Loan terms vary widely. Some seller-financed deals run 30 years, just like a conventional mortgage. Most don't. What you see far more often is a shorter amortization, say 20 or 25 years, with a [balloon payment](/mortgage-assumption-explained/) due at year 5 or 7. The buyer pays monthly as if the loan were fully amortizing, but at the end of the balloon period, the remaining balance comes due all at once. The assumption is that by then, the buyer will have improved their credit, grown their income, or built enough equity to refinance into a conventional loan.
+Loan terms vary widely. Some seller-financed deals run 30 years, just like a conventional mortgage. Most don't. What you see far more often is a shorter amortization, say 20 or 25 years, with a balloon payment due at year 5 or 7. The buyer pays monthly as if the loan were fully amortizing, but at the end of the balloon period, the remaining balance comes due all at once. The assumption is that by then, the buyer will have improved their credit, grown their income, or built enough equity to refinance into a conventional loan.
 
 That balloon structure is the single biggest risk for buyers. If you can't refinance when the balloon comes due, and the seller won't extend, you're facing foreclosure.
 
@@ -46,7 +46,7 @@ There are also hybrid structures. [Land contracts](/land-contract-mortgage/) (al
 
 ## What Buyers Are Actually Getting
 
-The appeal is speed and flexibility. No appraisal required by an outside lender. No weeks of waiting for underwriting. No [debt-to-income ratio](/conventional-loan-requirements/) being computed against Freddie Mac guidelines. The seller can decide to lend based on whatever criteria they choose, including your job stability, your story, your track record with the property if you've been renting it from them.
+The appeal is speed and flexibility. No appraisal required by an outside lender. No weeks of waiting for underwriting. No debt-to-income ratio being computed against Freddie Mac guidelines. The seller can decide to lend based on whatever criteria they choose, including your job stability, your story, your track record with the property if you've been renting it from them.
 
 Interest rates on seller-financed deals are typically above conventional market rates. That's the tradeoff for the flexibility. How much above? It depends entirely on negotiation, but don't expect the seller to charge you below what they could earn in a reasonably safe investment. They're taking on credit risk and holding an illiquid asset.
 

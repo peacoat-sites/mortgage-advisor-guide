@@ -31,7 +31,7 @@ You're 71, your house is paid off, and it's worth $420,000. Your Social Security
 
 Here's what most people get wrong: it's still a loan. Not the government handing you money. Not a grant. It's debt secured by your home, and it has to be repaid, usually when you die, sell the house, or move out permanently.
 
-The main type is the Home Equity Conversion Mortgage, or HECM. Federally insured through FHA, it accounts for the vast majority of reverse mortgages originated in the U.S. There are also [proprietary reverse mortgages](/jumbo-loan-requirements/) (sometimes called "jumbo" reverse mortgages) from private lenders for higher-value homes, and a much smaller category called single-purpose reverse mortgages offered by some state and local agencies.
+The main type is the Home Equity Conversion Mortgage, or HECM. Federally insured through FHA, it accounts for the vast majority of reverse mortgages originated in the U.S. There are also proprietary reverse mortgages (sometimes called "jumbo" reverse mortgages) from private lenders for higher-value homes, and a much smaller category called single-purpose reverse mortgages offered by some state and local agencies.
 
 With a HECM, you borrow against the equity you've built. Instead of making monthly payments to a lender, the lender makes payments to you, or you draw from a credit line, or you take a lump sum. The loan balance grows over time as interest accrues. No monthly payment is required while you live in the home as your primary residence.
 

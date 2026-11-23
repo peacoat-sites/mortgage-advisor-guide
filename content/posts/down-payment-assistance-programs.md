@@ -1,5 +1,5 @@
 ---
-title: "First-Time Buyer? Here's How to Fund Your Down Payment"
+title: "Down Payment Assistance Programs: Who Qualifies and How"
 date: 2026-05-22T10:47:30.306981+00:00
 draft: false
 description: "Learn how down payment assistance programs can help you buy a home with grants, loans, and subsidies. Find programs near you and qualify for homeownership today"
@@ -50,7 +50,7 @@ Second mortgages are more common. You borrow the down payment funds as a subordi
 
 Matched savings programs (sometimes called Individual Development Accounts) work differently. You save a set amount over time and the program matches your contribution, sometimes two or three dollars for every dollar you put in. They require patience but can build equity habits alongside the cash.
 
-Here's what loan officers sometimes skip over: second mortgage DPA adds to your total debt. It affects your [debt-to-income ratio](/mortgage-qualification-requirements/), one of the primary numbers underwriters use to approve or deny you. If a lender is pitching DPA as entirely free money with zero tradeoffs, ask hard questions about how the second mortgage payment (or deferred balance) factors into your DTI.
+Here's what loan officers sometimes skip over: second mortgage DPA adds to your total debt. It affects your debt-to-income ratio, one of the primary numbers underwriters use to approve or deny you. If a lender is pitching DPA as entirely free money with zero tradeoffs, ask hard questions about how the second mortgage payment (or deferred balance) factors into your DTI.
 
 ---
 
@@ -62,7 +62,7 @@ Income limits are the biggest filter. Most programs target low-to-moderate incom
 
 First-time buyer requirements are common but not universal. The technical definition most programs use includes anyone who hasn't owned a primary residence in the past three years. Divorced? Rented for several years after selling? You may qualify as a "[first-time buyer](/first-time-homebuyer-programs/)" again. This surprises people constantly.
 
-Credit score minimums vary by program and loan type. Many DPA programs pair with [FHA loans](/how-to-get-a-mortgage-first-time-buyer/), which have more flexible credit requirements than conventional loans. Some work with scores as low as 620, though the full picture of your credit still matters. A 620 with several recent late payments reads very differently to an underwriter than a 620 with a thin but clean history.
+Credit score minimums vary by program and loan type. Many DPA programs pair with FHA loans, which have more flexible credit requirements than conventional loans. Some work with scores as low as 620, though the full picture of your credit still matters. A 620 with several recent late payments reads very differently to an underwriter than a 620 with a thin but clean history.
 
 Other eligibility factors programs commonly evaluate:
 

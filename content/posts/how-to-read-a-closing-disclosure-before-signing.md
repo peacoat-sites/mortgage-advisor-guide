@@ -36,7 +36,7 @@ You have three business days to review your Closing Disclosure before closing. T
 
 ## What a Closing Disclosure Actually Is (and Why It's Different from Your Loan Estimate)
 
-When you applied for your mortgage, you got a Loan Estimate within three business days. That was the "here's what we think this will cost" document. The Closing Disclosure is the "here's what it actually costs" document. Think of the Loan Estimate as the restaurant menu and the Closing Disclosure as the itemized [bill that](/the-housing-bill-that-passed-congress-but-stalled-at-the-white-house/) arrives at your table.
+When you applied for your mortgage, you got a Loan Estimate within three business days. That was the "here's what we think this will cost" document. The Closing Disclosure is the "here's what it actually costs" document. Think of the Loan Estimate as the restaurant menu and the Closing Disclosure as the itemized bill that arrives at your table.
 
 The CFPB designed both forms to use the same layout, specifically so you can put them side by side and spot differences. [The Consumer Financial Protection Bureau's homeownership resources](https://www.consumerfinance.gov/owning-a-home/) walk through both documents in detail, and if you haven't bookmarked that site already, do it now. It's genuinely useful.
 
@@ -50,7 +50,7 @@ Your loan amount, your interest rate, your monthly principal-and-interest paymen
 
 Check those YES/NO boxes. If anything says YES that you didn't expect, stop and call your loan officer before you do anything else.
 
-Below the loan terms box is the projected payments section. This shows your estimated total monthly payment broken out into principal and interest, [mortgage insurance](/mortgage-insurance-vs-life-insurance/) (if applicable), and the estimated escrow amount for taxes and insurance. That escrow number is an estimate based on current tax assessments and your homeowner's insurance quote. It can change after your first year.
+Below the loan terms box is the projected payments section. This shows your estimated total monthly payment broken out into principal and interest, mortgage insurance (if applicable), and the estimated escrow amount for taxes and insurance. That escrow number is an estimate based on current tax assessments and your homeowner's insurance quote. It can change after your first year.
 
 ## The Fee Comparison: Where the Real Work Happens
 

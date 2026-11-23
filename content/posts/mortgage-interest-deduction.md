@@ -36,7 +36,7 @@ Let me show you exactly how this works, who it actually helps, and when you shou
 
 ## How the Deduction Actually Works
 
-The mortgage interest deduction lets you subtract the interest you paid on a qualifying [home loan](/how-to-qualify-for-a-home-loan-with-bad-credit/) from your taxable income. Not your taxes owed. Your taxable income. That distinction matters.
+The mortgage interest deduction lets you subtract the interest you paid on a qualifying home loan from your taxable income. Not your taxes owed. Your taxable income. That distinction matters.
 
 Say you're in the 22% federal tax bracket and paid $14,000 in mortgage interest last year. If you can deduct that, you reduce your taxable income by $14,000, which cuts your tax bill by roughly $3,080. Not $14,000. $3,080.
 
@@ -50,7 +50,7 @@ A borrower named Marcus, a reader who emailed me after buying a $325,000 home in
 
 Loans originated after December 15, 2017 can only deduct interest on the first $750,000 of principal. (Older loans, originated before that date, are grandfathered at the old $1,000,000 cap.) So if you bought a $900,000 home with a $720,000 mortgage, you're fine. But if you borrowed $850,000, you can only deduct interest on 88% of that balance.
 
-This cap doesn't hit most buyers in the Midwest or South, where median [home prices](/record-home-prices-meet-rising-rates-what-buyers-must-know-now/) are well below $750,000. It bites hardest in coastal metros where $900,000 barely buys a two-bedroom. The IRS doesn't publish this breakdown by zip code, but the Tax Policy Center has shown that the top 20% of income earners capture the vast majority of benefits from this deduction. Which makes sense: they're buying more expensive homes, they're in higher tax brackets (so the deduction is worth more per dollar), and they're far more likely to itemize.
+This cap doesn't hit most buyers in the Midwest or South, where median home prices are well below $750,000. It bites hardest in coastal metros where $900,000 barely buys a two-bedroom. The IRS doesn't publish this breakdown by zip code, but the Tax Policy Center has shown that the top 20% of income earners capture the vast majority of benefits from this deduction. Which makes sense: they're buying more expensive homes, they're in higher tax brackets (so the deduction is worth more per dollar), and they're far more likely to itemize.
 
 Those figures assume $19,600 in first-year interest (7% on a $500,000 balance, rounded from actual amortization) and that the full amount is deductible above the standard deduction threshold. In practice, only the portion of itemized deductions exceeding the standard deduction gives you any marginal benefit, so the real savings for most people are smaller than even these numbers suggest.
 

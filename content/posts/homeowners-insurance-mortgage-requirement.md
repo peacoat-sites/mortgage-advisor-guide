@@ -31,7 +31,7 @@ You close on your dream home in three days. The lender calls to confirm your hom
 
 Your lender requires homeowners insurance because they have a financial stake in your property. You borrowed $340,000, the house is the collateral, and if it burns down without coverage, their investment vanishes. The insurance requirement protects them first. Your protection is secondary.
 
-This is why lenders don't just want any policy. They want a policy that meets specific minimums, names them as a lienholder, and stays active for the life of the loan. The moment you let that policy lapse, even for 24 hours, you've technically violated your loan agreement. Most mortgage contracts give the lender the right to purchase insurance on your behalf at that point, which brings us to one of the more costly traps in homeownership: [force-placed insurance](/pmi-explained-mortgage/).
+This is why lenders don't just want any policy. They want a policy that meets specific minimums, names them as a lienholder, and stays active for the life of the loan. The moment you let that policy lapse, even for 24 hours, you've technically violated your loan agreement. Most mortgage contracts give the lender the right to purchase insurance on your behalf at that point, which brings us to one of the more costly traps in homeownership: force-placed insurance.
 
 ## The Dwelling Coverage Trap: What "Enough" Actually Means
 

@@ -1,5 +1,5 @@
 ---
-title: "$5,000 Financing Contingency: Protect Your Home Purchase"
+title: "Financing Contingency in Real Estate: Protect Your Purchase"
 date: 2026-07-23T17:08:44.643132+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -38,7 +38,7 @@ Buyers who waive this clause to "compete" with other offers take on serious risk
 
 Most buyers sign purchase agreements without reading the financing contingency language carefully. They assume "I'm pre-approved, so I'm fine." That assumption has ended a lot of deals badly.
 
-A financing contingency typically specifies three things: the loan amount, the interest rate ceiling (the maximum rate you're willing to accept), and the deadline by which you must secure financing. All three matter. If you write a contingency for a 30-[year fixed](/current-30-year-fixed-mortgage-rates-forecast/) at no more than 7.5% and rates spike to 8.1% before closing, you have grounds to exit. If you left the rate condition out, you might not.
+A financing contingency typically specifies three things: the loan amount, the interest rate ceiling (the maximum rate you're willing to accept), and the deadline by which you must secure financing. All three matter. If you write a contingency for a 30-year fixed at no more than 7.5% and rates spike to 8.1% before closing, you have grounds to exit. If you left the rate condition out, you might not.
 
 The part people almost always miss is the interest rate cap. For example, if a financing contingency has a blank rate field, a lender's attorney could argue the contingency is invalid because there's no rate the buyer agreed to. This can trigger weeks of negotiation to resolve. Fill in every field, even if it feels like a formality.
 

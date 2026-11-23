@@ -28,7 +28,7 @@ Pay attention to the gap between the two terms. The 15-year rate almost always s
 
 Treat the number above as your negotiating floor. When a loan officer quotes you a rate, compare it directly. A quote a quarter point over the benchmark is normal for average credit. A full point over usually means either your file has a weak spot worth fixing first, or you are paying for something (a lender credit, a faster close) that you should see itemized.
 
-The benchmark also tells you which direction the wind is blowing. Mortgage rates track the 10-year Treasury yield far more closely than they track the Federal Reserve's headline rate, which is why rates can fall in a month the Fed holds steady, or climb after a rate cut. If the number here is trending down month over month, waiting a few weeks to lock may pay off. If it is climbing, [locking sooner protects you](/when-should-i-lock-in-my-mortgage-rate/).
+The benchmark also tells you which direction the wind is blowing. Mortgage rates track the 10-year Treasury yield far more closely than they track the Federal Reserve's headline rate, which is why rates can fall in a month the Fed holds steady, or climb after a rate cut. If the number here is trending down month over month, waiting a few weeks to lock may pay off. If it is climbing, locking sooner protects you.
 
 ## Why we publish this
 

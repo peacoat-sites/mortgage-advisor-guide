@@ -35,7 +35,7 @@ The confusion usually starts here: people think signing a quitclaim deed removes
 
 ## What a Quitclaim Deed Actually Does
 
-A quitclaim deed transfers whatever ownership interest the grantor (the person signing it over) has in a property to the grantee (the person receiving it). No warranties, no [title search](/mortgage-title-search-process/) required, no guarantee that the title is free of liens or other claims. You're essentially saying "I hand over whatever I have, whatever that turns out to be."
+A quitclaim deed transfers whatever ownership interest the grantor (the person signing it over) has in a property to the grantee (the person receiving it). No warranties, no title search required, no guarantee that the title is free of liens or other claims. You're essentially saying "I hand over whatever I have, whatever that turns out to be."
 
 This makes quitclaim deeds useful in a narrow set of situations: adding or removing a spouse after marriage or divorce, transferring property between family members, clearing up a name discrepancy in a title, or moving property into a trust. They're not designed for arm's-length sales between strangers, and any title company will tell you that.
 
@@ -88,7 +88,7 @@ If you've concluded that a quitclaim deed is the right tool and there's a mortga
 
 3. **Check whether a refinance makes more sense.** If the goal is to remove someone from the loan, a refinance does that cleanly. A quitclaim deed alone does not.
 
-4. **Consult a [real estate](/financing-contingency-real-estate/) attorney in your state.** Quitclaim deeds are recorded at the county level and subject to state law. Forms vary by state. An attorney can also confirm whether the Garn-St. Germain exceptions apply to your specific situation.
+4. **Consult a real estate attorney in your state.** Quitclaim deeds are recorded at the county level and subject to state law. Forms vary by state. An attorney can also confirm whether the Garn-St. Germain exceptions apply to your specific situation.
 
 5. **Record the deed at the county recorder's office.** Each county has its own process, filing fees, and requirements. Many have online portals now. Check your county's official website.
 

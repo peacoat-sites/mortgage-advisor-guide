@@ -59,7 +59,7 @@ Second home loans require more skin in the game than primary residence loans. He
 
 FHA and USDA loans are strictly for primary residences. If you're buying a beach house or mountain cabin, you're looking at conventional financing or a jumbo loan if the price clears the conforming loan limits set by the [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/). The FHFA updates those limits annually, so check their site for current figures rather than relying on a number you read somewhere last year.
 
-On the rate side, expect to pay somewhere between 0.25% and 0.75% more than you'd pay on a comparable primary residence loan. That range isn't fixed. It depends on your [credit score](/credit-score-for-mortgage-approval/), your loan-to-value ratio, and market conditions. Even a quarter-point premium adds meaningful cost over a 30-year loan.
+On the rate side, expect to pay somewhere between 0.25% and 0.75% more than you'd pay on a comparable primary residence loan. That range isn't fixed. It depends on your credit score, your loan-to-value ratio, and market conditions. Even a quarter-point premium adds meaningful cost over a 30-year loan.
 
 **Example:** Assume a $450,000 second home purchase with 20% down ($90,000), a $360,000 loan. At a primary residence rate of 6.75%, the monthly principal and interest payment is roughly $2,335. At a second home rate of 7.25% (a 0.50% premium), that payment rises to about $2,457. That's roughly $122 per month more, or just over $43,900 across a 30-year term. These figures use assumed rates for illustration; your actual rate will vary.
 

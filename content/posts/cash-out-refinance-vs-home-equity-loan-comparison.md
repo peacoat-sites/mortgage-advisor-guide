@@ -1,5 +1,5 @@
 ---
-title: "Which Borrowing Option Unlocks Your Home's Equity?"
+title: "Cash-Out Refinance vs Home Equity Loan Compared"
 date: 2026-06-10T18:22:40.282373+00:00
 draft: false
 description: "Compare cash out refinance vs home equity loan to find the best way to tap your home equity. Discover rates, costs, pros and cons to make the right choice."

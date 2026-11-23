@@ -61,7 +61,7 @@ If you bought or refinanced between mid-2022 and late 2023, you almost certainly
 
 [Cash-out refinances](/cash-out-refinance-explained/) are a separate beast. Yes, home values in many markets are still elevated compared to five years ago, which means real equity exists. But you're replacing a debt with a larger debt, at a rate that may or may not pencil out depending on what you're doing with the cash. Using equity to fund a high-return home renovation with documented comps can be rational. Using it to consolidate credit card debt that will likely creep back up typically creates problems, as the debt tends to accumulate again.
 
-Borrowers with [adjustable-rate mortgages](/streamline-refinance-options/) are in a different position entirely. If you took a 5/1 or 7/1 ARM in 2019 or 2020, your initial fixed period may have already ended or will soon. Depending on where your caps land and where the index is tracking, locking into a fixed rate can be strong right now, even if the math isn't as obviously favorable as the 2021 refi boom.
+Borrowers with adjustable-rate mortgages are in a different position entirely. If you took a 5/1 or 7/1 ARM in 2019 or 2020, your initial fixed period may have already ended or will soon. Depending on where your caps land and where the index is tracking, locking into a fixed rate can be strong right now, even if the math isn't as obviously favorable as the 2021 refi boom.
 
 ## The Credit and Equity Reality Check
 

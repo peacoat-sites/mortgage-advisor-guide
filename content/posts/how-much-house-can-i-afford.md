@@ -1,5 +1,5 @@
 ---
-title: "The Real Price Tag: What Your Income Actually Buys"
+title: "How Much House Can I Afford on My Income"
 date: 2026-05-28T11:32:14.298334+00:00
 draft: false
 description: "Find out how much house you can afford based on your income, debt, and down payment. Use our tips and tools to set a realistic homebuying budget today."
@@ -25,7 +25,7 @@ author_title: "Loan Process"
 author_bio: "Jennifer Walsh is the byline used at Mortgage Advisor Guide for articles on the mortgage process and what underwriters look at. It is a pen name, not a loan officer or underwriter; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most buyers walk into a lender's office knowing exactly one number: the [pre-approval amount](/step-by-step-guide-to-getting-preapproved-for-a-mortgage/). They treat it like scripture. A common mistake is treating a pre-approval amount as a target rather than a ceiling. Many buyers discover months later that the monthly payment strains their budget more than expected. A pre-approval tells you what a lender is willing to risk. It tells you almost nothing about what you can actually afford.
+Most buyers walk into a lender's office knowing exactly one number: the pre-approval amount. They treat it like scripture. A common mistake is treating a pre-approval amount as a target rather than a ceiling. Many buyers discover months later that the monthly payment strains their budget more than expected. A pre-approval tells you what a lender is willing to risk. It tells you almost nothing about what you can actually afford.
 
 Those are two very different questions, and confusing them is the single most expensive mistake in home buying.
 

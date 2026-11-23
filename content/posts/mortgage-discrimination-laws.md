@@ -35,7 +35,7 @@ Let me be direct: mortgage discrimination is not just a historical problem. It s
 
 Two federal laws do most of the heavy lifting here.
 
-The **Fair [Housing Act](/the-road-to-housing-act-just-passed-what-it-means-for-buyers/) (FHA)** of 1968 prohibits discrimination in the sale, rental, and financing of housing. Its protected classes: race, color, national origin, religion, sex, disability, and familial status (meaning whether you have kids). The FHA applies specifically to residential mortgage lending, not just the sale of the house itself.
+The **Fair Housing Act (FHA)** of 1968 prohibits discrimination in the sale, rental, and financing of housing. Its protected classes: race, color, national origin, religion, sex, disability, and familial status (meaning whether you have kids). The FHA applies specifically to residential mortgage lending, not just the sale of the house itself.
 
 The **Equal Credit Opportunity Act (ECOA)**, enforced by the Consumer Financial Protection Bureau, goes a layer further. It covers the full credit transaction and adds age and receipt of public assistance to the protected classes. So a lender can't deny your mortgage because you're 67, or because part of your income comes from disability benefits.
 

@@ -63,7 +63,7 @@ The Fed controls short-term rates. Mortgage rates are tied to longer-term yields
 
 Here's a worked example to show you why this distinction matters:
 
-**Scenario**: In late 2023, the Fed had just finished raising rates and signaled they'd hold steady. Many borrowers thought "great, rates are done climbing." But the [10-year Treasury yield actually fell](/current-30-year-fixed-mortgage-rates-forecast/) because investors believed the Fed would eventually cut rates in 2024 to support the economy. Mortgage rates declined from 7.2 percent to 6.8 percent even though Fed policy hadn't budged. Borrowers who waited instead of locking in at 7.2 percent saved about 40 basis points ($200 to $250 per month on a $400,000 loan), but only because they understood that Fed pause didn't mean rates were stuck.
+**Scenario**: In late 2023, the Fed had just finished raising rates and signaled they'd hold steady. Many borrowers thought "great, rates are done climbing." But the 10-year Treasury yield actually fell because investors believed the Fed would eventually cut rates in 2024 to support the economy. Mortgage rates declined from 7.2 percent to 6.8 percent even though Fed policy hadn't budged. Borrowers who waited instead of locking in at 7.2 percent saved about 40 basis points ($200 to $250 per month on a $400,000 loan), but only because they understood that Fed pause didn't mean rates were stuck.
 
 The Federal Housing Finance Agency (FHFA) publishes historical data on mortgage rates and can show you this relationship in real time. If you pull up their weekly data alongside the Fed's policy announcements, you'll see moments where they diverge.
 

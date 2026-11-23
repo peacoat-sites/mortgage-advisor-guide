@@ -1,5 +1,5 @@
 ---
-title: "What You'll Really Pay For Private Mortgage Insurance"
+title: "Average Cost of Private Mortgage Insurance Per Month"
 date: 2026-06-29T18:04:10.234328+00:00
 draft: false
 description: "Discover the average cost of private mortgage insurance per month, what affects your PMI rate, and how to reduce or eliminate this extra expense."
@@ -70,7 +70,7 @@ The credit score tiers that matter most for PMI pricing are generally: below 640
 
 Lender-paid PMI warrants some skepticism, and underwriters often flag it as a product borrowers misunderstand.
 
-[Lender-paid PMI (LPMI)](/mortgage-closing-costs-explained/) is when your lender covers the mortgage insurance premium in exchange for a slightly higher interest rate on your loan. It gets marketed as "no PMI" sometimes, which is technically true in the sense that there's no separate line item on your statement. But you're absolutely still paying for that insurance, just baked into your rate forever.
+Lender-paid PMI (LPMI) is when your lender covers the mortgage insurance premium in exchange for a slightly higher interest rate on your loan. It gets marketed as "no PMI" sometimes, which is technically true in the sense that there's no separate line item on your statement. But you're absolutely still paying for that insurance, just baked into your rate forever.
 
 With borrower-paid PMI (BPMI), you can cancel it once you hit 20% equity. With LPMI, you can't. The higher rate is permanent unless you refinance. If you're planning to sell or refinance within five years, LPMI can make mathematical sense. If you're staying in the home for 10+ years, borrower-paid PMI almost always wins. Run the numbers both ways before you let a loan officer steer you toward "no PMI" as if it's obviously better.
 

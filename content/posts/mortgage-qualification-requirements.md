@@ -1,5 +1,5 @@
 ---
-title: "What Lenders Actually Look For When Qualifying You"
+title: "Mortgage Qualification Requirements: What Lenders Look For"
 date: 2026-05-21T06:58:14.304670+00:00
 draft: false
 description: "Learn what it takes to qualify for a mortgage. Explore credit score minimums, debt-to-income ratios, down payment options, and income verification requirements."

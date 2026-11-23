@@ -1,5 +1,5 @@
 ---
-title: "Which Protection Actually Covers Your Home Loan"
+title: "Mortgage Insurance vs Life Insurance: Which Protects You"
 date: 2026-05-21T14:57:42.090090+00:00
 draft: false
 description: "Confused about mortgage insurance vs life insurance? Discover the key differences, costs, and which option best protects your family and home in our complete gu"

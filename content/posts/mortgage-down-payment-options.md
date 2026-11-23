@@ -108,7 +108,7 @@ Lenders often want to see two to six months of mortgage payments in savings afte
 Get a loan estimate showing your monthly payment at 5% down versus 10% down versus 20% down. Ask the lender what PMI costs at each level. Then calculate how long it would take to save the difference between those down payment amounts. If it takes 18 months to save the extra 5%, factor in what home prices in your market might do in that time.
 
 **Step 4: Look into DPA programs before you close.**
-Ask your loan officer: "What down payment assistance programs am I eligible for?" A good officer will know. If they don't, contact a [HUD-approved housing counselor](/how-to-get-a-mortgage-first-time-buyer/) and ask the same question.
+Ask your loan officer: "What down payment assistance programs am I eligible for?" A good officer will know. If they don't, contact a HUD-approved housing counselor and ask the same question.
 
 **Step 5: Consider the rate impact.**
 Lenders price risk. A higher down payment typically earns a slightly better rate, especially in the conventional market. The rate difference between 5% and 20% down can be meaningful over 30 years. Get loan estimates at multiple down payment levels and compare the total cost of each scenario over your expected holding period.

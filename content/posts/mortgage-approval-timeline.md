@@ -31,7 +31,7 @@ You submitted your mortgage application on a Monday. By Thursday, you're refresh
 
 Most borrowers think of approval as a single event. It's not. There are at least four distinct checkpoints between your application and your closing table, and confusing them is a major source of stress.
 
-**Pre-qualification** is the starting point. It's fast, often done online in minutes, and it's based on unverified information you provide. Don't put too much weight on it. It's a ballpark, not a commitment. You can get a clearer picture of where you stand before a lender ever pulls your credit by reading about [how to get pre-qualified for a mortgage](/step-by-step-guide-to-getting-preapproved-for-a-mortgage/).
+**Pre-qualification** is the starting point. It's fast, often done online in minutes, and it's based on unverified information you provide. Don't put too much weight on it. It's a ballpark, not a commitment. You can get a clearer picture of where you stand before a lender ever pulls your credit by reading about how to get pre-qualified for a mortgage.
 
 **Pre-approval** is a real step. The lender pulls your credit, reviews your income documents, and issues a conditional letter stating how much they're willing to lend. This typically takes two to five business days, though some lenders now offer same-day automated pre-approvals for straightforward files.
 

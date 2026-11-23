@@ -71,7 +71,7 @@ Jumbo loans are all over the map. Some jumbo lenders embrace recasts. Others won
 
 If you're weighing a recast against a refinance, the math is straightforward. Refinancing today typically costs 2-3% of your loan balance in closing costs. On a $400,000 loan, that's $8,000 to $12,000 out of pocket, and you're usually resetting to a fresh 30-year term, which adds years of interest back. A recast at $250 in fees, with no term extension? It's not even a competition, assuming your current rate is acceptable.
 
-It gets more complicated when you're sitting on a large sum and deciding between recasting, refinancing, or investing the money. Be skeptical of anyone giving you a quick answer. Whether [paying down your mortgage](/how-to-set-up-biweekly-mortgage-payments-to-pay-off-faster/) makes more financial sense than investing depends on your rate, risk tolerance, tax situation, and how close you are to retirement. Run both scenarios, and if they're close, talk to a fee-only financial planner.
+It gets more complicated when you're sitting on a large sum and deciding between recasting, refinancing, or investing the money. Be skeptical of anyone giving you a quick answer. Whether paying down your mortgage makes more financial sense than investing depends on your rate, risk tolerance, tax situation, and how close you are to retirement. Run both scenarios, and if they're close, talk to a fee-only financial planner.
 
 A good mortgage amortization workbook shows exactly how your balance and payments shift under different scenarios. [This type of financial planning workbook on Amazon](https://www.amazon.com/s?k=mortgage+amortization+workbook) can help you map it out visually (note: the site may earn a commission from Amazon links).
 

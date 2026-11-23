@@ -67,7 +67,7 @@ Refinancing costs money. Closing costs on a refinance typically run 2% to 3% of 
 
 So if you're planning to move in two years, a refinance at 6.5% might actually cost you money net. Most people skip this calculation because the lower rate *feels* like an obvious win.
 
-Add another complication: [when you refinance](/when-should-i-lock-in-my-mortgage-rate/), you typically reset your amortization clock. Three years into a 30-year loan and refinancing into a new 30-year means you've just added three years back onto your debt. The monthly payment looks better. The total interest paid over the life of the loan may not.
+Add another complication: when you refinance, you typically reset your amortization clock. Three years into a 30-year loan and refinancing into a new 30-year means you've just added three years back onto your debt. The monthly payment looks better. The total interest paid over the life of the loan may not.
 
 [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) include solid educational tools if you want to run these numbers yourself before sitting down with a lender. Spend 20 minutes there before anyone tries to sell you on a refi.
 

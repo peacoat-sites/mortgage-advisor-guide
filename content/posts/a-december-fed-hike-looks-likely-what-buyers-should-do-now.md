@@ -14,7 +14,7 @@ slug: "a-december-fed-hike-looks-likely-what-buyers-should-do-now"
 affiliate_disclosure: true
 ---
 
-The [mortgage market](/gen-z-now-holds-a-record-share-of-the-mortgage-market/) just had a rude awakening. After four straight weeks of falling rates, the 30-year fixed jumped from 7.11% to 7.28% in a single week, according to Freddie Mac's November 19 data. Mortgage News Daily's daily tracker was even grimmer, pegging the rate at 7.45% on that same date, nearly matching the 2026 peak of 7.40% hit on October 8. The culprit? October's CPI report came in at 6.5% year-over-year, the biggest inflation reading in four years, and that one number reshuffled everything.
+The mortgage market just had a rude awakening. After four straight weeks of falling rates, the 30-year fixed jumped from 7.11% to 7.28% in a single week, according to Freddie Mac's November 19 data. Mortgage News Daily's daily tracker was even grimmer, pegging the rate at 7.45% on that same date, nearly matching the 2026 peak of 7.40% hit on October 8. The culprit? October's CPI report came in at 6.5% year-over-year, the biggest inflation reading in four years, and that one number reshuffled everything.
 
 Here's where it gets directly relevant to anyone buying, refinancing, or carrying an adjustable-rate mortgage: CME FedWatch data now shows 77 to 85% of interest-rate traders expect the Fed to raise its benchmark rate by another 25 basis points at the December 8 to 9 FOMC meeting. That would push the federal funds target range from 3.75 to 4.00% up to 4.00 to 4.25%. The Fed doesn't set [mortgage rates](/current-30-year-fixed-mortgage-rates-forecast/) directly, but when traders price in a hike with that level of confidence, mortgage rates tend to move before the meeting ever happens. They already did.
 
@@ -30,7 +30,7 @@ Rates have spiked before in 2026 and then pulled back. The October 8 peak of 7.4
 
 Because the data driving it is stickier. A single month of hot inflation can be written off. A 6.5% annual CPI print, the highest in four years, signals that the Fed's rate campaign isn't finished yet, and bond markets are reflecting that. Mortgage rates track the 10-year Treasury yield closely, and when inflation expectations rise, Treasury yields rise, and mortgage rates follow. That sequence is already in motion.
 
-[Mortgage application](/why-was-my-mortgage-application-denied/) volume dropped 2.3% for the week ending November 13, after a brief 6.2% bounce the prior week, according to the Mortgage Bankers Association's weekly applications survey. That kind of volatility in applications, up sharply, then down again, reflects buyers who are hesitating and locking only to pull back. It's a fragile demand picture, and a December hike could break more of that confidence.
+Mortgage application volume dropped 2.3% for the week ending November 13, after a brief 6.2% bounce the prior week, according to the Mortgage Bankers Association's weekly applications survey. That kind of volatility in applications, up sharply, then down again, reflects buyers who are hesitating and locking only to pull back. It's a fragile demand picture, and a December hike could break more of that confidence.
 
 ## What a December Hike Actually Does to Your Loan
 

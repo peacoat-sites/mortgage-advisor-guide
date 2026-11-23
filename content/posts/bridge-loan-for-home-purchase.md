@@ -35,7 +35,7 @@ The catch is that bridge loans are expensive, structurally awkward, and genuinel
 
 ## How the Money Actually Flows
 
-A bridge loan is usually structured one of two ways. In the first, the lender loans you a lump sum based on a percentage of your current home's appraised value (typically 70-80% of the home's value minus whatever you still owe on your existing mortgage). You use that cash as a [down payment](/down-payment-from-401k/) on the new home, while your existing mortgage stays in place. In the second, the bridge loan folds your existing mortgage balance into it, so you have a single loan covering both properties until you close on the sale.
+A bridge loan is usually structured one of two ways. In the first, the lender loans you a lump sum based on a percentage of your current home's appraised value (typically 70-80% of the home's value minus whatever you still owe on your existing mortgage). You use that cash as a down payment on the new home, while your existing mortgage stays in place. In the second, the bridge loan folds your existing mortgage balance into it, so you have a single loan covering both properties until you close on the sale.
 
 Lenders typically won't let you borrow more than 80% of the combined value of both properties. Some lenders cap the bridge amount at 80% of your current home's value minus the remaining balance.
 
@@ -80,7 +80,7 @@ The timeline is tight by design, so knowing what you're walking into helps.
 
 4. **Close on the new home** using the bridge funds as your down payment. At this point you're carrying the bridge loan plus your existing mortgage plus your new mortgage. That's three loans. This is where people start to panic if the timeline slips.
 
-5. **Sell your current home and [pay off](/how-to-set-up-biweekly-mortgage-payments-to-pay-off-faster/) the bridge loan.** At closing of the sale, your settlement statement will include a payoff of both your original mortgage and the bridge loan.
+5. **Sell your current home and pay off the bridge loan.** At closing of the sale, your settlement statement will include a payoff of both your original mortgage and the bridge loan.
 
 What can go wrong at each stage: appraisal comes in low (reducing your available bridge funds), your current home sits on the market, the buyer of your current home has financing fall through, or interest rates move enough to affect your new loan's approval. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) publishes data on conforming loan limits and market conditions that can help you gauge whether your current home's value assumptions are realistic.
 

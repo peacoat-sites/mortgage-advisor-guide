@@ -35,7 +35,7 @@ The longer version matters because mistakes made at closing are expensive and ha
 
 ## Who's In the Room
 
-Depending on your state, closing happens at a title company office, an escrow office, or sometimes an attorney's office. Some states require a [real estate](/financing-contingency-real-estate/) attorney to be present. Others don't. It's worth knowing which situation applies to you before you show up.
+Depending on your state, closing happens at a title company office, an escrow office, or sometimes an attorney's office. Some states require a real estate attorney to be present. Others don't. It's worth knowing which situation applies to you before you show up.
 
 The cast typically includes a closing agent (employed by the title company), sometimes your real estate agent, sometimes the seller's agent, and in purchase transactions, often the sellers themselves. Your lender probably won't be there in person. They've already done their part and transmitted the loan package to the title company. You may also have a notary if the closing agent isn't one.
 
