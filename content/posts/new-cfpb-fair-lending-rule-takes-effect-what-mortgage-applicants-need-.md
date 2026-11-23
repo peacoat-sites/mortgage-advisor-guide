@@ -18,7 +18,7 @@ Most coverage of the CFPB's new fair lending rule frames it as an abstract polic
 
 Here's the short version: the CFPB finalized a rule on April 22, 2026 that eliminates "disparate impact" as a legal basis for discrimination enforcement under the Equal Credit Opportunity Act. It took effect three months later, mid-homebuying season. Intentional discrimination is still illegal. But the standard that held lenders accountable for *outcomes*, not just intent, is no longer part of ECOA enforcement. That's a meaningful shift, and glossing over it doesn't help anyone.
 
-The good news, such as it is: the Fair [Housing Act](/what-the-new-housing-act-means-for-your-mortgage/), enforced by the Department of Justice and HUD, still allows disparate impact claims for residential mortgage lending. Your protection narrowed. It didn't vanish.
+The good news, such as it is: the Fair [Housing Act](/the-housing-bill-that-passed-congress-but-stalled-at-the-white-house/), enforced by the Department of Justice and HUD, still allows disparate impact claims for residential mortgage lending. Your protection narrowed. It didn't vanish.
 
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CFPB's disparate impact rule under ECOA took effect July 21, 2026, ending outcome-based discrimination enforcement.</li><li style="margin:5px 0">Intentional mortgage discrimination remains illegal under ECOA; disparate impact claims under the Fair Housing Act still stand.</li><li style="margin:5px 0">DOJ and HUD, not CFPB, now carry the primary load for disparate impact enforcement in mortgage lending.</li><li style="margin:5px 0">Legal challenges from state AGs and consumer groups could suspend or modify the rule's scope.</li><li style="margin:5px 0">HUD announced 14 separate FHA policy changes June 23, 2026, including expanded 203(k) rehab loan access.</li></ul></div>
@@ -58,7 +58,7 @@ The rule may look different six months from now. But it's the law today.
 
 ## More Changes Are Coming This Fall
 
-The July 21 rule didn't arrive in a vacuum. The CFPB's July 6, 2026 regulatory agenda signals more movement ahead: a final mortgage servicing rule under Regulation X is expected in August 2026, and the agency is conducting a pre-rule review of Ability-to-Repay and [Qualified Mortgage](/how-to-get-pre-qualified-for-mortgage/) definitions. As Financial Services Perspectives reported on July 14, 2026, this is an unusually active rulemaking period for mortgage lenders and servicers.
+The July 21 rule didn't arrive in a vacuum. The CFPB's July 6, 2026 regulatory agenda signals more movement ahead: a final mortgage servicing rule under Regulation X is expected in August 2026, and the agency is conducting a pre-rule review of Ability-to-Repay and [Qualified Mortgage](/step-by-step-guide-to-getting-preapproved-for-a-mortgage/) definitions. As Financial Services Perspectives reported on July 14, 2026, this is an unusually active rulemaking period for mortgage lenders and servicers.
 
 On the FHA side, HUD announced 14 policy changes on June 23, 2026 that cut some friction out of the homebuying process. Two worth knowing about:
 

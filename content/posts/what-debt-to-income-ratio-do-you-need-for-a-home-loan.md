@@ -75,7 +75,7 @@ The practical takeaway: 43% isn't a hard wall. It's more like a speed limit with
 
 Here's the step-by-step to run this number yourself before a lender does.
 
-**Step 1: Calculate your gross monthly income.** If you're salaried, divide your annual salary by 12. If you're hourly, use average weekly hours times your hourly rate times 52, then divide by 12. Self-employed or variable income? Lenders typically average the last two years of tax returns, using net income after business deductions, not gross receipts. This catches a lot of [self-employed borrowers](/how-to-get-a-mortgage-when-self-employed/) off guard.
+**Step 1: Calculate your gross monthly income.** If you're salaried, divide your annual salary by 12. If you're hourly, use average weekly hours times your hourly rate times 52, then divide by 12. Self-employed or variable income? Lenders typically average the last two years of tax returns, using net income after business deductions, not gross receipts. This catches a lot of [self-employed borrowers](/mortgage-for-self-employed-borrowers/) off guard.
 
 **Step 2: Pull your current monthly debt obligations.** Head to AnnualCreditReport.com, grab your credit report, and list every minimum monthly payment. Be honest. Include the car payment, [student loan minimums](/mortgage-with-student-loans/) (even on income-driven repayment, lenders use 1% of the balance if the payment is $0), credit card minimums, and any other installment or revolving debt.
 

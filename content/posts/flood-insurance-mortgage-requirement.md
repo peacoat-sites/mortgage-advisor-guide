@@ -28,7 +28,7 @@ faqs:
 
 Your lender's flood insurance requirement probably felt like it came out of nowhere. You were so close to the finish line, and then suddenly there's this extra insurance you've never thought about, with a price tag that made you do a double-take. I've sat across from a lot of people in that exact spot, and the first thing I want you to know is: this is not a conspiracy between your lender and an insurance company. The requirement is real, it's federally mandated in most cases, and once you understand the "why," the whole thing makes a lot more sense.
 
-Here's what I tell people first: flood insurance being required doesn't mean your home is in danger. It means your home falls into a zone the government has mapped as having at least a 1% annual chance of flooding. That sounds small, but over a 30-[year mortgage](/30-year-vs-15-year-mortgage/), that actually adds up to about a 26% chance. Your lender is protecting their collateral, but honestly? They're also protecting you from a loss that would otherwise wipe you out completely.
+Here's what I tell people first: flood insurance being required doesn't mean your home is in danger. It means your home falls into a zone the government has mapped as having at least a 1% annual chance of flooding. That sounds small, but over a 30-[year mortgage](/15-year-vs-30-year-mortgage-pros-and-cons/), that actually adds up to about a 26% chance. Your lender is protecting their collateral, but honestly? They're also protecting you from a loss that would otherwise wipe you out completely.
 
 Here's how this works, what it actually costs, and where people commonly get it wrong.
 

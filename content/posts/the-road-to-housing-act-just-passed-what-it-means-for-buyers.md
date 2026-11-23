@@ -47,11 +47,11 @@ The law does try to address supply through other provisions, which I'll get to i
 
 ## The Less-Discussed Provisions That Could Actually Move the Needle
 
-Here's what I tell people who read past the investor ban headline: the [supply-side provisions](/what-the-new-housing-act-means-for-your-mortgage/) in this bill could matter more over the long run.
+Here's what I tell people who read past the investor ban headline: the [supply-side provisions](/the-housing-bill-that-passed-congress-but-stalled-at-the-white-house/) in this bill could matter more over the long run.
 
 The law streamlines NEPA environmental reviews for housing construction. NEPA reviews have been one of the most consistent friction points in getting new residential projects built, particularly in higher-density or infill development contexts. Faster environmental review doesn't guarantee more homes get built, but it does lower one of the structural costs and delays that developers cite constantly.
 
-The bill also updates [FHA multifamily mortgage loan limits](/what-the-road-to-housing-act-means-for-fha-borrowers/). This is technical, but it's real: higher limits mean more multifamily projects can access FHA-backed financing, which is often the path to making lower- and middle-income rental projects pencil out financially. More multifamily supply, over time, eases pressure on the single-family market by giving renters viable alternatives to buying.
+The bill also updates FHA multifamily mortgage loan limits. This is technical, but it's real: higher limits mean more multifamily projects can access FHA-backed financing, which is often the path to making lower- and middle-income rental projects pencil out financially. More multifamily supply, over time, eases pressure on the single-family market by giving renters viable alternatives to buying.
 
 Perhaps the most interesting lever is the provision tying some CDBG (Community Development Block Grant) funding to housing production output. In plain terms, localities that aren't building enough housing could see federal community development dollars reduced. That's a meaningful incentive for cities and counties that have historically used zoning and permitting as a quiet wall against new construction. It won't transform every reluctant suburb overnight, but it's a structural nudge that could reshape local conversations about housing production over the next several years.
 

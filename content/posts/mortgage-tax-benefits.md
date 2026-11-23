@@ -31,7 +31,7 @@ Let me give you the accurate version instead.
 
 ## The Mortgage Interest Deduction: What It Actually Does
 
-The [mortgage interest deduction](/are-mortgage-interest-payments-tax-deductible-in-2026/) (MID) lets you deduct the interest you pay on a home loan from your federal taxable income, up to $750,000 of mortgage debt (for loans originated after December 15, 2017). On a $600,000 loan at 7%, you might pay roughly $41,000 in interest in year one. If you're in the 24% tax bracket, deducting that saves you around $9,840 in taxes.
+The [mortgage interest deduction](/mortgage-interest-deduction/) (MID) lets you deduct the interest you pay on a home loan from your federal taxable income, up to $750,000 of mortgage debt (for loans originated after December 15, 2017). On a $600,000 loan at 7%, you might pay roughly $41,000 in interest in year one. If you're in the 24% tax bracket, deducting that saves you around $9,840 in taxes.
 
 Sounds great, right? Here's where it falls apart: you only get this benefit if you itemize deductions on Schedule A, and itemizing only makes sense if your total deductions exceed the standard deduction. For 2025, the standard deduction is $15,000 for single filers and $30,000 for married couples filing jointly.
 

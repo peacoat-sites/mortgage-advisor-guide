@@ -44,7 +44,7 @@ Here's where ARMs get dangerous: the buyer who takes one because they can't qual
 
 ## The "Buy Now, Refinance Later" Bet
 
-MBA chief economist Mike Fratantoni noted that mortgage applications rebounded 10.8% for the week ending June 5, with purchase apps up 7%. Some of that's seasonal. Some is buyers rushing to close before rates climb further. The "buy now, refinance later" logic goes like this: lock your purchase price today, take the ARM, and refinance into a fixed rate once [the Fed starts cutting](/a-fed-rate-hike-is-now-on-the-table-what-mortgage-borrowers-should-do/).
+MBA chief economist Mike Fratantoni noted that mortgage applications rebounded 10.8% for the week ending June 5, with purchase apps up 7%. Some of that's seasonal. Some is buyers rushing to close before rates climb further. The "buy now, refinance later" logic goes like this: lock your purchase price today, take the ARM, and refinance into a fixed rate once [the Fed starts cutting](/a-december-fed-hike-looks-likely-what-buyers-should-do-now/).
 
 Timing's the killer. The Fed's June 16-17 meeting happened with 4.2% inflation on the table. Their target is 2%. They're not cutting in that environment. Most forecasters don't see relief until late 2026 at the earliest, and HousingWire is flagging Iran-risk that could push it further.
 

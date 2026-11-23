@@ -37,7 +37,7 @@ To answer that, they evaluate three things: your creditworthiness, your capacity
 
 **Creditworthiness** comes down to your credit history and score. But the underwriter isn't just glancing at your three-digit number. They're reading the actual credit report. A 680 score with a spotless 10-year history reads completely differently than a 680 with two late payments in the last 18 months and a collection account from 2022. I've seen borrowers denied with a 720 and approved with a 660, depending on what the numbers actually tell. If you haven't already, read through [what credit score is required for mortgage approval](/credit-score-for-mortgage-approval/) before you apply, because surprises at the underwriting stage are avoidable.
 
-**Capacity** means your income relative to your debt. The underwriter calculates your debt-to-income ratio (DTI), which is your total monthly debt obligations divided by your gross monthly income. Most conventional loan guidelines cap this at 45%, though some automated approvals go to 50% with compensating factors. FHA is more flexible, but flexibility has limits. Understanding [how DTI affects your mortgage eligibility](/debt-to-income-ratio-for-mortgage/) before you apply isn't optional.
+**Capacity** means your income relative to your debt. The underwriter calculates your debt-to-income ratio (DTI), which is your total monthly debt obligations divided by your gross monthly income. Most conventional loan guidelines cap this at 45%, though some automated approvals go to 50% with compensating factors. FHA is more flexible, but flexibility has limits. Understanding [how DTI affects your mortgage eligibility](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/) before you apply isn't optional.
 
 **Collateral** is the property itself. The underwriter reviews the appraisal to confirm the home's value supports the loan amount and that the property meets the lender's guidelines. A single-family home in a stable neighborhood is straightforward collateral. A condo in a building with pending litigation or a rural property on 40 acres with no comparable sales nearby? That's more complicated and slower to approve.
 
@@ -95,7 +95,7 @@ Let's be blunt about what goes wrong.
 
 Here's what you can actually do to move through this process without unnecessary delays.
 
-1. **Get pre-approved, not just pre-qualified.** A pre-approval means someone has reviewed your documents. A pre-qualification is a rough estimate. If you want underwriting to go smoothly, start by reading through the [mortgage pre-approval process](/mortgage-pre-approval-process/) before you even start shopping.
+1. **Get pre-approved, not just pre-qualified.** A pre-approval means someone has reviewed your documents. A pre-qualification is a rough estimate. If you want underwriting to go smoothly, start by reading through the [mortgage pre-approval process](/step-by-step-guide-to-getting-preapproved-for-a-mortgage/) before you even start shopping.
 2. **Prepare a complete document package upfront.** Gather two years of tax returns (all pages, all schedules), W-2s, 60 days of bank statements, and pay stubs before your loan officer asks.
 3. **Write letters of explanation proactively.** Late payments, employment gaps, large deposits, inquiries, address changes. Explain them before the underwriter asks. Your loan officer can help you draft these.
 4. **Stop all major financial moves once the application is submitted.** No new credit, no large cash deposits, no job changes, no co-signing.

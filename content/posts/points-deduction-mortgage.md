@@ -40,7 +40,7 @@ One mortgage point costs 1% of your loan amount and, in most cases, lowers your 
 
 Points go by a few names: discount points, loan [origination fees](/how-much-are-mortgage-origination-fees-on-a-300k-loan/), loan discount fees. The IRS is specific about this: to be deductible, the fee has to be for the use of money (that's what makes it interest), not for a service like underwriting or document preparation. That distinction matters because lenders don't always label things clearly. Lenders don't always label things clearly on closing disclosures, sometimes bundling "origination charges" in ways that make it difficult to tell what is actually a point and what is a junk fee.
 
-Your Loan Estimate and [Closing Disclosure](/closing-disclosure-explained/) are the documents to check. Look at Section A on the Closing Disclosure: "Origination Charges." If it says "1% of loan amount" with a dollar figure next to it, that's a point.
+Your Loan Estimate and [Closing Disclosure](/how-to-read-a-closing-disclosure-before-signing/) are the documents to check. Look at Section A on the Closing Disclosure: "Origination Charges." If it says "1% of loan amount" with a dollar figure next to it, that's a point.
 
 ## The Tax Rules, Laid Out Simply
 

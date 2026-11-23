@@ -106,7 +106,7 @@ If your score isn't where you want it, here's a practical sequence I've recommen
 
 Your credit score is important, but it doesn't exist in isolation. Underwriters look at a complete financial picture, and a strong score can be undermined by weaknesses elsewhere.
 
-Your debt-to-income ratio (DTI) is the other big number. This is your total monthly debt obligations divided by your gross monthly income. Most conventional lenders want to see a DTI at or below 43%, and the best pricing often goes to borrowers below 36%. A high income and high credit score won't save you if you're carrying substantial student loan debt, car payments, and credit card minimums. Understanding [how your debt-to-income ratio affects mortgage qualification](/debt-to-income-ratio-for-mortgage/) is just as important as understanding your credit score.
+Your debt-to-income ratio (DTI) is the other big number. This is your total monthly debt obligations divided by your gross monthly income. Most conventional lenders want to see a DTI at or below 43%, and the best pricing often goes to borrowers below 36%. A high income and high credit score won't save you if you're carrying substantial student loan debt, car payments, and credit card minimums. Understanding [how your debt-to-income ratio affects mortgage qualification](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/) is just as important as understanding your credit score.
 
 Down payment size also interacts with your credit score in ways that aren't always obvious. A borrower with a 680 score putting down 20% will often get better pricing than that same borrower putting down 5%, because lenders weigh multiple risk factors together. Private mortgage insurance (PMI) adds another cost layer for conventional loans with less than 20% down, and your score can affect your PMI rate too, not just your mortgage rate. Our guide to [what PMI actually costs and how to get rid of it](/pmi-explained-mortgage/) explains how that pricing works.
 
@@ -126,7 +126,7 @@ A few misconceptions come up constantly, and they're worth addressing directly.
 
 ---
 
-Your credit score is one piece of a larger puzzle, but it's the piece that most directly determines what you'll pay for one of the largest financial commitments of your life. Get the real numbers from all three bureaus, understand which scoring model your lender will use, and give yourself enough runway to make improvements before you apply. A few months of deliberate financial habits can translate into savings that outlast your memory of how uncomfortable the process felt. If you want to walk into that pre-approval conversation with a clear picture of where you stand, the [mortgage pre-approval process](/mortgage-pre-approval-process/) is worth reviewing before you make any calls.
+Your credit score is one piece of a larger puzzle, but it's the piece that most directly determines what you'll pay for one of the largest financial commitments of your life. Get the real numbers from all three bureaus, understand which scoring model your lender will use, and give yourself enough runway to make improvements before you apply. A few months of deliberate financial habits can translate into savings that outlast your memory of how uncomfortable the process felt. If you want to walk into that pre-approval conversation with a clear picture of where you stand, the [mortgage pre-approval process](/step-by-step-guide-to-getting-preapproved-for-a-mortgage/) is worth reviewing before you make any calls.
 
 ## Sources & References
 

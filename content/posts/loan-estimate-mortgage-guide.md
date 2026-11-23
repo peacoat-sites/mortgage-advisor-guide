@@ -55,7 +55,7 @@ Page three has the APR, the "Total Interest Percentage" (TIP), and a comparison 
 | Escrow setup | Yes, can change | Tied to property tax and insurance amounts |
 | Recording fees | Up to 10% | Set by local government, hard to predict exactly |
 
-The "can't increase" column is your protection. If a lender quotes you $1,200 in origination fees on your Loan Estimate and charges $1,800 on your [Closing Disclosure](/closing-disclosure-explained/) three weeks later, that's a legal violation. It happens less than it used to, but it still happens with fees that get misclassified.
+The "can't increase" column is your protection. If a lender quotes you $1,200 in origination fees on your Loan Estimate and charges $1,800 on your [Closing Disclosure](/how-to-read-a-closing-disclosure-before-signing/) three weeks later, that's a legal violation. It happens less than it used to, but it still happens with fees that get misclassified.
 
 Prepaids often cause sticker shock at closing even though nobody lied. Prepaids are legitimate estimates that depend on your actual closing date (more days in the month = more prepaid interest), your final homeowner's insurance premium, and the county's most recent property tax assessment. A closing that gets pushed back two weeks can add $300 to $500 in prepaid interest that nobody predicted. Not fraud. Just timing.
 

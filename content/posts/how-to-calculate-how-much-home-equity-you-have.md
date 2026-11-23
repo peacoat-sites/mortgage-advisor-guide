@@ -79,7 +79,7 @@ Step 3: Do the math. $440,000 minus $261,400 equals $178,600 in equity.
 
 Step 4: Calculate your loan-to-value ratio (LTV). Divide your mortgage balance by the estimated value: $261,400 divided by $440,000 is roughly 59.4%. Your LTV is about 59%, which also means you have about 41% equity. Lenders look at LTV constantly, so it's worth understanding both ways to express the same number.
 
-This matters because most lenders won't let you borrow against all of your equity. A typical [home equity loan or HELOC](/heloc-vs-home-equity-loan/) will let you borrow up to a combined loan-to-value (CLTV) of 80% to 85%, meaning you need to keep at least 15% to 20% equity in the home after the new debt is added. Some lenders go higher, but expect a rate penalty for it.
+This matters because most lenders won't let you borrow against all of your equity. A typical [home equity loan or HELOC](/heloc-vs-home-equity-loan-which-should-i-choose/) will let you borrow up to a combined loan-to-value (CLTV) of 80% to 85%, meaning you need to keep at least 15% to 20% equity in the home after the new debt is added. Some lenders go higher, but expect a rate penalty for it.
 
 ## Why Your Equity Number Can Change Without You Doing Anything
 

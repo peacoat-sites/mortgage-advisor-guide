@@ -37,7 +37,7 @@ The table sorts cleanly by rate, but rate alone can mislead, because it ignores 
 - **Texas** looks punishing at 1.25% and has no assessment cap for non-homestead property, but its home prices sit below the coastal states, which softens the blow, and the lack of a state income tax offsets it for many households.
 - **Alabama and West Virginia** are the genuine bargains: low rates sitting on low-to-moderate home values produce some of the smallest property tax bills in the country.
 
-The lesson for anyone comparing an offer in two states is to run the rate against the actual price in each place, not against a national average. The [home affordability calculator](/home-affordability-calculator/) folds property tax into the monthly payment so you can see the true difference, and our [property tax escrow explainer](/property-tax-escrow-mortgage/) shows how that annual number becomes part of your mortgage payment.
+The lesson for anyone comparing an offer in two states is to run the rate against the actual price in each place, not against a national average. The [home affordability calculator](/home-affordability-calculator/) folds property tax into the monthly payment so you can see the true difference, and our [property tax escrow explainer](/mortgage-escrow-account-explained/) shows how that annual number becomes part of your mortgage payment.
 
 ## What moves your real rate off the state average
 

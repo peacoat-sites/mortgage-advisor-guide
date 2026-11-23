@@ -59,7 +59,7 @@ Here's the hard truth: FHA streamlines don't eliminate mortgage insurance premiu
 
 If you have a VA loan, the IRRRL is genuinely one of the most borrower-friendly refinance products available. No appraisal. No income verification. No employment check. You need a Certificate of Eligibility for the original VA loan, but you don't need a new one for the IRRRL.
 
-The requirements are tight but straightforward. The home must be your primary residence, though an exception exists if it was your primary residence when you originally obtained the VA loan and you've since moved. You must certify prior occupancy, not current occupancy. You need to demonstrate a net tangible benefit, typically a lower interest rate or a move from an ARM to a fixed rate. The new loan must [reduce your monthly payment](/when-does-it-make-sense-to-refinance-your-mortgage-in-2026/) unless you're moving from an ARM to a fixed, in which case VA allows a payment increase.
+The requirements are tight but straightforward. The home must be your primary residence, though an exception exists if it was your primary residence when you originally obtained the VA loan and you've since moved. You must certify prior occupancy, not current occupancy. You need to demonstrate a net tangible benefit, typically a lower interest rate or a move from an ARM to a fixed rate. The new loan must [reduce your monthly payment](/when-does-it-make-sense-to-refinance-your-mortgage-in/) unless you're moving from an ARM to a fixed, in which case VA allows a payment increase.
 
 The VA funding fee applies, currently 0.5% of the loan amount for IRRRLs. It can be rolled into the loan. Veterans with service-connected disabilities rated at 10% or higher are exempt.
 

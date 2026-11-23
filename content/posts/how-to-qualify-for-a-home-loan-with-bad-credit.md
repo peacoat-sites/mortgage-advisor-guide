@@ -62,7 +62,7 @@ Most borrowers don't dig deep here because most loan officers only mention one o
 
 The research on which compensating factors matter most is genuinely mixed, and it varies by loan type and lender. But after years of reading guidelines and watching underwriting decisions, a few things consistently move the needle.
 
-**[Debt-to-income ratio (DTI)](/debt-to-income-ratio-for-mortgage/)** might matter as much as your score. DTI is the percentage of your gross monthly income that goes toward debt payments, including the proposed mortgage. FHA generally allows up to 43% DTI, sometimes higher with strong compensating factors. If your score is low but your income is solid and your existing debts are minimal, that combination carries real weight. Underwriters may work with a 580 score if the DTI is solid, like 32%.
+**[Debt-to-income ratio (DTI)](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/)** might matter as much as your score. DTI is the percentage of your gross monthly income that goes toward debt payments, including the proposed mortgage. FHA generally allows up to 43% DTI, sometimes higher with strong compensating factors. If your score is low but your income is solid and your existing debts are minimal, that combination carries real weight. Underwriters may work with a 580 score if the DTI is solid, like 32%.
 
 **Payment history in the last 12 to 24 months** is something underwriters examine separately from the summary score. A bankruptcy five years ago reads differently from a 90-day late payment six months ago. Showing that whatever happened is behind you, and that you've been on time since, matters more than most people realize.
 

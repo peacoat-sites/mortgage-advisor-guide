@@ -16,7 +16,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 First-time buyers often encounter surprise closing costs with FHA loans, such as a $425 fee for an appraisal field review explained in minimal detail. Many don't push back because they're unaware they can negotiate. These kinds of charges quietly drain money from buyers who can least afford it.
 
-On June 23, 2026, HUD announced 14 policy changes to the FHA single-family mortgage program, framed as part of National Homeownership Month and described by HUD as the latest in a wave of more than 150 streamlining actions under the Trump administration. Some of these changes will save you real money. Some are operational housekeeping that makes lenders' lives easier. And one glaring absence in the package has industry groups already pushing back. If you're using [FHA financing this summer](/what-the-road-to-housing-act-means-for-fha-borrowers/) or planning to, here's what you actually need to know.
+On June 23, 2026, HUD announced 14 policy changes to the FHA single-family mortgage program, framed as part of National Homeownership Month and described by HUD as the latest in a wave of more than 150 streamlining actions under the Trump administration. Some of these changes will save you real money. Some are operational housekeeping that makes lenders' lives easier. And one glaring absence in the package has industry groups already pushing back. If you're using [FHA financing this summer](/the-road-to-housing-act-just-passed-what-it-means-for-buyers/) or planning to, here's what you actually need to know.
 
 ## The Appraisal Fee Change That Puts Money Back in Buyers' Pockets
 

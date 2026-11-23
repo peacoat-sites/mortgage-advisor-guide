@@ -28,7 +28,7 @@ faqs:
 
 A common mistake is signing closing documents without carefully reviewing them. Hidden fees can appear on the Closing Disclosure that weren't clearly quoted on the Loan Estimate. These charges are often buried in the fine print and easy to miss without a careful line-by-line review.
 
-That document was the [Closing Disclosure](/closing-disclosure-explained/). And "don't worry about it, it's standard" is maybe the worst piece of advice a borrower can receive.
+That document was the Closing Disclosure. And "don't worry about it, it's standard" is maybe the worst piece of advice a borrower can receive.
 
 You have three business days to review your Closing Disclosure before closing. That's a federal requirement, not a courtesy. Use every hour of it.
 

@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to rebuild credit and qualify for a mortgage after bankruptcy. Discover timing requirements, lender options, and steps to improve your application."
 image: "/img/heroes/8303380.jpg"
-categories: ["Can I Get a Mortgage"]
+categories: ["Qualification"]
 tags: ["mortgage", "after", "bankruptcy"]
 author: "Maria Santos"
 author_slug: "maria-santos"
@@ -63,11 +63,11 @@ Lenders looking at a post-bankruptcy application are reading your credit history
 
 What kills post-bankruptcy applications isn't the bankruptcy itself. It's the late payment that shows up 14 months after discharge. Lenders weight recent behavior heavily. The CFPB's [mortgage resources](https://www.consumerfinance.gov/owning-a-home/) explain how lenders assess creditworthiness, and their guidance consistently points back to the same thing: recency of derogatory marks matters more than people realize.
 
-Target [credit score](/minimum-credit-score-needed-to-qualify-for-a-mortgage/) for FHA after bankruptcy: 580 minimum to qualify for the 3.5% down payment option, though 620+ generally yields meaningfully better terms and fewer lender-level rejections. Conventional programs want to see 620-640 at minimum, and you'll get better rates at 680+.
+Target [credit score](/credit-score-for-mortgage-approval/) for FHA after bankruptcy: 580 minimum to qualify for the 3.5% down payment option, though 620+ generally yields meaningfully better terms and fewer lender-level rejections. Conventional programs want to see 620-640 at minimum, and you'll get better rates at 680+.
 
 Here's a concrete example of how this plays out:
 
-For example, consider someone who files Chapter 7 in early 2023 and receives a discharge in mid-2023, then immediately opens a secured card, adds a credit-builder loan six months later, and never misses a payment. By August 2025, their score could reach 634, allowing them to apply for an [FHA loan](/what-the-road-to-housing-act-means-for-your-fha-loan/), provide documentation of the discharge date, and close on a home at the 3.5% down payment tier roughly 26 months after discharge.
+For example, consider someone who files Chapter 7 in early 2023 and receives a discharge in mid-2023, then immediately opens a secured card, adds a credit-builder loan six months later, and never misses a payment. By August 2025, their score could reach 634, allowing them to apply for an [FHA loan](/the-road-to-housing-act-just-passed-what-it-means-for-buyers/), provide documentation of the discharge date, and close on a home at the 3.5% down payment tier roughly 26 months after discharge.
 
 Compare that to someone who waits the same amount of time but skips the active credit rebuilding. Without new tradelines showing recent positive history, many lenders will decline even if the waiting period technically cleared.
 

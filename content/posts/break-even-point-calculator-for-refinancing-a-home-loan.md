@@ -16,7 +16,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 A borrower came to me once, practically beaming, because she'd locked in a rate that was a full percentage point lower than her current mortgage. She was ready to sign. I asked her one question: "How long are you planning to stay in the house?" She paused. "Maybe two years, three tops." She almost paid $6,200 in closing costs to save money she'd never actually see.
 
-That's what the [break-even calculation](/break-even-refinance-analysis/) is really for. Not the math itself, which takes about four minutes, but the moment it forces on you: do the numbers actually support doing this?
+That's what the break-even calculation is really for. Not the math itself, which takes about four minutes, but the moment it forces on you: do the numbers actually support doing this?
 
 This decision gets botched more often than almost any other in mortgage lending.
 

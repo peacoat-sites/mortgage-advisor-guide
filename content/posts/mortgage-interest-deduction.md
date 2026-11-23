@@ -26,7 +26,7 @@ faqs:
     a: "No. Spending an extra $100,000 on a home to generate more deductible interest is almost never a good trade. You're paying a dollar to potentially save 22 to 37 cents, depending on your bracket, and only if you'd itemize anyway. The deduction should inform your tax planning, not drive your purchase decision."
 ---
 
-Only about 13% of American taxpayers claimed the [mortgage interest](/are-mortgage-interest-payments-tax-deductible-in-2026/) deduction in a recent filing year, down from around 32% just a decade earlier. That collapse didn't happen because homeownership fell. It happened because the 2017 Tax Cuts and Jobs Act nearly doubled the standard deduction, quietly making the mortgage deduction worthless for most people who own a home.
+Only about 13% of American taxpayers claimed the mortgage interest deduction in a recent filing year, down from around 32% just a decade earlier. That collapse didn't happen because homeownership fell. It happened because the 2017 Tax Cuts and Jobs Act nearly doubled the standard deduction, quietly making the mortgage deduction worthless for most people who own a home.
 
 The mortgage industry often emphasizes how much interest you'll pay over 30 years and implies you can "write it all off," but many borrowers miscalculate how much this actually helps their taxes. A common mistake is assuming the deduction will meaningfully change your financial picture when, for most people, it won't.
 

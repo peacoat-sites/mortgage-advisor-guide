@@ -76,7 +76,7 @@ Open any mortgage payoff calculator (there are good free ones from major persona
 1. Your current principal balance (from your statement)
 2. Your interest rate (the actual rate on your loan, not the APR)
 3. The number of months remaining on your loan (if you have 18 years left, that's 216 months)
-4. Your current monthly principal and interest payment (not including [taxes and insurance escrow](/what-is-an-escrow-account-on-a-mortgage-and-how-it-works/))
+4. Your current monthly principal and interest payment (not including [taxes and insurance escrow](/mortgage-escrow-account-explained/))
 
 Get your baseline payoff date first. Write it down. Then start experimenting.
 

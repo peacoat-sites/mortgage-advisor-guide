@@ -36,7 +36,7 @@ Let me walk through the actual numbers, the mechanics, and the scenarios where e
 
 ## What You're Actually Paying For Over 30 Years
 
-In the early years of a mortgage, almost none of your payment goes to principal. Many borrowers are surprised to see this on an amortization schedule. On a $350,000 loan at 6.75% (roughly where 30-[year fixed](/current-30-year-fixed-mortgage-rates-forecast-2026/) rates have been sitting, as of August 2026), your first monthly payment is around $2,270. Of that, approximately $1,969 is interest and only $301 is principal. You're paying the bank first. You pay yourself last.
+In the early years of a mortgage, almost none of your payment goes to principal. Many borrowers are surprised to see this on an amortization schedule. On a $350,000 loan at 6.75% (roughly where 30-[year fixed](/current-30-year-fixed-mortgage-rates-forecast/) rates have been sitting, as of August 2026), your first monthly payment is around $2,270. Of that, approximately $1,969 is interest and only $301 is principal. You're paying the bank first. You pay yourself last.
 
 Over 30 years, that same $350,000 loan will cost you roughly $467,000 in interest alone. Total out-of-pocket: around $817,000 for a house you borrowed $350,000 to buy. This is not meant to be alarming. Once borrowers see that number, extra principal payments tend to stop feeling like a sacrifice and start feeling like the most obvious investment available.
 

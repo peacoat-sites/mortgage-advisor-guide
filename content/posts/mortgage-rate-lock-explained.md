@@ -88,7 +88,7 @@ Ask your lender these specific questions before agreeing to any float-down produ
 
 This is the sequence I'd recommend for any purchase borrower. Follow it and you'll avoid the most common, and most expensive, lock mistakes.
 
-**Step 1: Get pre-approved before you shop.** A pre-approval gives you a realistic rate range, surfaces any credit or income issues before they become crises, and lets you move quickly when you find the right home. You can't lock without an accepted offer, but being pre-approved means you're ready to lock immediately. Learn more about [what the mortgage pre-approval process involves](/mortgage-pre-approval-process/) before you start house hunting.
+**Step 1: Get pre-approved before you shop.** A pre-approval gives you a realistic rate range, surfaces any credit or income issues before they become crises, and lets you move quickly when you find the right home. You can't lock without an accepted offer, but being pre-approved means you're ready to lock immediately. Learn more about [what the mortgage pre-approval process involves](/step-by-step-guide-to-getting-preapproved-for-a-mortgage/) before you start house hunting.
 
 **Step 2: Monitor rates actively once you're under contract.** Check daily. Use a lender's rate sheet, a mortgage news source, or the tools available at [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/). You don't need to become a rate analyst, but you should understand the general direction of the market.
 

@@ -25,7 +25,7 @@ author_title: "Loan Process"
 author_bio: "Jennifer Walsh is the byline used at Mortgage Advisor Guide for articles on the mortgage process and what underwriters look at. It is a pen name, not a loan officer or underwriter; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-You sat down with a loan officer last spring, excited about finally buying a house, and walked out confused and deflated. Your income looked fine. Your credit score was decent. But those student loans kept coming up. The loan officer mentioned something about your "[debt-to-income ratio](/debt-to-income-ratio-for-mortgage/)" being too high, threw out a few numbers, and suddenly the house you'd been picturing felt a lot further away. If that sounds familiar, you're not alone. The situation is almost never as hopeless as it feels in that moment. But you do need to understand what's actually happening under the hood.
+You sat down with a loan officer last spring, excited about finally buying a house, and walked out confused and deflated. Your income looked fine. Your credit score was decent. But those student loans kept coming up. The loan officer mentioned something about your "[debt-to-income ratio](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/)" being too high, threw out a few numbers, and suddenly the house you'd been picturing felt a lot further away. If that sounds familiar, you're not alone. The situation is almost never as hopeless as it feels in that moment. But you do need to understand what's actually happening under the hood.
 
 ## Why Student Loans Hit Your Mortgage Application So Hard
 

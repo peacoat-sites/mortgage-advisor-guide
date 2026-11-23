@@ -60,7 +60,7 @@ That rate premium matters over a 30-year loan. On a $350,000 mortgage, the diffe
 
 Not everyone should use a DSCR loan. I say that knowing some brokers pitch it as the answer to everything, which it isn't.
 
-DSCR loans [make sense](/when-does-it-make-sense-to-refinance-your-mortgage-in-2026/) if you're self-employed and your tax returns make your income look small (because you run legitimate deductions), if you already have several financed properties and conventional lenders have cut you off at their overlays, or if you're scaling quickly and can't document income fast enough for traditional underwriting. They also make sense if you're buying in a market with strong rent-to-price ratios.
+DSCR loans [make sense](/when-does-it-make-sense-to-refinance-your-mortgage-in/) if you're self-employed and your tax returns make your income look small (because you run legitimate deductions), if you already have several financed properties and conventional lenders have cut you off at their overlays, or if you're scaling quickly and can't document income fast enough for traditional underwriting. They also make sense if you're buying in a market with strong rent-to-price ratios.
 
 They're a bad fit if you're buying a property that barely cash-flows on its best day. The no-income-verification feature doesn't save you from a property that can't cover its own costs.
 

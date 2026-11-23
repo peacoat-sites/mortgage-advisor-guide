@@ -31,7 +31,7 @@ You filled out the application. You answered every question. You uploaded what f
 
 After the 2008 financial crisis, the mortgage industry got reshaped by the Ability-to-Repay standard, part of the Dodd-Frank Act. Lenders now have a legal obligation to make a reasonable, good-faith determination that you can actually pay back what you borrow. They can't just take your word for it.
 
-What they're really calculating when they review your documents is your [Debt-to-Income ratio, or DTI](/debt-to-income-ratio-for-mortgage/). This is the percentage of your gross monthly income that goes toward monthly debt payments, including the new mortgage. Most conventional loans want to see a DTI at or below 43%, though some loan programs allow higher with compensating factors. A lower DTI tells an underwriter you've got enough breathing room in your budget to handle a mortgage payment even if something goes sideways.
+What they're really calculating when they review your documents is your [Debt-to-Income ratio, or DTI](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/). This is the percentage of your gross monthly income that goes toward monthly debt payments, including the new mortgage. Most conventional loans want to see a DTI at or below 43%, though some loan programs allow higher with compensating factors. A lower DTI tells an underwriter you've got enough breathing room in your budget to handle a mortgage payment even if something goes sideways.
 
 The documentation isn't about distrust. It's about building a paper trail that tells a consistent story. Your job is to make sure the story makes sense from the outside looking in.
 
@@ -52,7 +52,7 @@ Overtime, bonuses, and commission income get treated differently than base salar
 
 ## Self-Employed and Freelance Borrowers: Prepare to Document Everything
 
-I've sat across from [self-employed borrowers](/how-to-get-a-mortgage-when-self-employed/) who earn more than most of their salaried neighbors and still struggled to qualify. Why? Because tax strategy that's smart for your CPA can be a liability on a mortgage application.
+I've sat across from [self-employed borrowers](/mortgage-for-self-employed-borrowers/) who earn more than most of their salaried neighbors and still struggled to qualify. Why? Because tax strategy that's smart for your CPA can be a liability on a mortgage application.
 
 Self-employed borrowers, generally defined as owning 25% or more of a business, face the most extensive documentation requirements. Here's what you're typically looking at:
 

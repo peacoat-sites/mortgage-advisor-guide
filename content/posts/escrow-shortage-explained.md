@@ -27,7 +27,7 @@ faqs:
 
 Most homeowners who get an escrow shortage notice have no idea what triggered it. You opened the letter, saw a number that probably felt like a bill you didn't expect, and wondered if your lender made a mistake. They probably didn't. Here's what actually happened and what your options are.
 
-Your [escrow account](/what-is-an-escrow-account-on-a-mortgage-and-how-it-works/) is the holding account your mortgage servicer uses to pay your property taxes and homeowner's insurance on your behalf. Every month, a portion of your mortgage payment goes into that account. The servicer estimates at the start of each year how much those bills will cost, divides by 12, and collects that amount. A shortage happens when the actual bills came in higher than the estimate, which left the account short when it was time to pay out.
+Your [escrow account](/mortgage-escrow-account-explained/) is the holding account your mortgage servicer uses to pay your property taxes and homeowner's insurance on your behalf. Every month, a portion of your mortgage payment goes into that account. The servicer estimates at the start of each year how much those bills will cost, divides by 12, and collects that amount. A shortage happens when the actual bills came in higher than the estimate, which left the account short when it was time to pay out.
 
 That's the core of it. The notice feels alarming, but it's a math problem, not a penalty.
 
@@ -67,7 +67,7 @@ There's no interest charge either way. The only reason to pay the lump sum is if
 
 ## Can You Dispute It?
 
-Sometimes, yes. [Property tax](/property-tax-escrow-mortgage/) assessments can be appealed, and in some counties the window to appeal is short, often 30 to 90 days after the notice is mailed. If you believe your home's assessed value is too high, check your local assessor's website for the appeal process. A successful appeal could lower your tax bill mid-year and trigger a surplus at your next escrow review.
+Sometimes, yes. [Property tax](/mortgage-escrow-account-explained/) assessments can be appealed, and in some counties the window to appeal is short, often 30 to 90 days after the notice is mailed. If you believe your home's assessed value is too high, check your local assessor's website for the appeal process. A successful appeal could lower your tax bill mid-year and trigger a surplus at your next escrow review.
 
 If your insurance premium jumped, you have every right to shop for a competing policy. A lower premium through a new insurer, or a policy update that removes unnecessary coverage, can reduce your projected escrow payment for the next year. Just make sure any new policy is in place before the old one lapses, and that your servicer receives the declarations page so they update their records.
 

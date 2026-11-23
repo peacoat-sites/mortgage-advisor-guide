@@ -32,7 +32,7 @@ That's where people get blindsided.
 
 ## What Forbearance Actually Does to Your Credit Report
 
-Under the CARES Act framework (still the standard model servicers follow), a properly documented [forbearance agreement](/mortgage-forbearance-explained/) means your servicer should not report your account as delinquent to the credit bureaus during the forbearance period. Your account shows as "current." On paper, that sounds clean.
+Under the CARES Act framework (still the standard model servicers follow), a properly documented [forbearance agreement](/how-does-a-mortgage-forbearance-agreement-work/) means your servicer should not report your account as delinquent to the credit bureaus during the forbearance period. Your account shows as "current." On paper, that sounds clean.
 
 Servicers can add a comment code to your tradeline. Something like "affected by natural disaster" or "forbearance plan." That notation doesn't directly lower your score. But it sits in your file like a flag, and every lender who pulls your credit sees it. Automated underwriting systems don't always penalize it. Human underwriters do.
 

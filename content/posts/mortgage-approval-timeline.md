@@ -31,7 +31,7 @@ You submitted your mortgage application on a Monday. By Thursday, you're refresh
 
 Most borrowers think of approval as a single event. It's not. There are at least four distinct checkpoints between your application and your closing table, and confusing them is a major source of stress.
 
-**Pre-qualification** is the starting point. It's fast, often done online in minutes, and it's based on unverified information you provide. Don't put too much weight on it. It's a ballpark, not a commitment. You can get a clearer picture of where you stand before a lender ever pulls your credit by reading about [how to get pre-qualified for a mortgage](/how-to-get-pre-qualified-for-mortgage/).
+**Pre-qualification** is the starting point. It's fast, often done online in minutes, and it's based on unverified information you provide. Don't put too much weight on it. It's a ballpark, not a commitment. You can get a clearer picture of where you stand before a lender ever pulls your credit by reading about [how to get pre-qualified for a mortgage](/step-by-step-guide-to-getting-preapproved-for-a-mortgage/).
 
 **Pre-approval** is a real step. The lender pulls your credit, reviews your income documents, and issues a conditional letter stating how much they're willing to lend. This typically takes two to five business days, though some lenders now offer same-day automated pre-approvals for straightforward files.
 
@@ -80,7 +80,7 @@ They're checking four things simultaneously.
 
 **Credit:** Not just your score, but your full credit history. Late payments, collections, high utilization, recent inquiries. If your credit score is on the lower end, expect more scrutiny and potentially a longer underwriting process. Getting your credit in the best shape possible before you apply is worth real effort. Understanding exactly how your score affects your loan terms is covered thoroughly in [credit score for mortgage approval](/credit-score-for-mortgage-approval/).
 
-**Capacity:** This is your debt-to-income ratio (DTI). The underwriter calculates your total monthly debt obligations against your gross monthly income to make sure you can actually afford the payment. Most conventional loans want a DTI below 43 to 45 percent, though some programs go higher with compensating factors. The math involved and how to calculate your own ratio before applying is explained in detail at [debt to income ratio for mortgage](/debt-to-income-ratio-for-mortgage/).
+**Capacity:** This is your debt-to-income ratio (DTI). The underwriter calculates your total monthly debt obligations against your gross monthly income to make sure you can actually afford the payment. Most conventional loans want a DTI below 43 to 45 percent, though some programs go higher with compensating factors. The math involved and how to calculate your own ratio before applying is explained in detail at [debt to income ratio for mortgage](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/).
 
 **Capital:** Your assets. Down payment, reserves, and closing costs. The underwriter wants to see that the money you're using to close has been in your account long enough to be considered "seasoned" (typically 60 days) and that it's from an acceptable source.
 

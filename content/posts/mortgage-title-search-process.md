@@ -25,7 +25,7 @@ author_title: "Refinancing"
 author_bio: "Robert Kim is the byline used at Mortgage Advisor Guide for articles on refinancing math, rate strategy and closing costs. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-You're three weeks from [closing](/closing-disclosure-explained/), the movers are booked, and your loan officer calls to say the title search turned up a lien from a contractor who worked on the house six years ago. The seller swears they never hired anyone by that name. Suddenly your closing date is a memory and you're learning, the hard way, what a title search actually does. Buyers often don't understand what a title search does until a problem surfaces during the closing process.
+You're three weeks from [closing](/how-to-read-a-closing-disclosure-before-signing/), the movers are booked, and your loan officer calls to say the title search turned up a lien from a contractor who worked on the house six years ago. The seller swears they never hired anyone by that name. Suddenly your closing date is a memory and you're learning, the hard way, what a title search actually does. Buyers often don't understand what a title search does until a problem surfaces during the closing process.
 
 Let's fix that before it happens to you.
 

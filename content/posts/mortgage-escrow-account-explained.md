@@ -48,7 +48,7 @@ Not every loan requires escrow. Conventional loans sometimes allow you to waive 
 
 This is where things get a little more involved, and where most borrowers start to zone out.
 
-Your servicer estimates how much your [property taxes and insurance premiums](/property-tax-escrow-mortgage/) will cost over the next 12 months. They divide that total by 12 and add it to your monthly payment. Simple. But there's a cushion built in on top of that.
+Your servicer estimates how much your property taxes and insurance premiums will cost over the next 12 months. They divide that total by 12 and add it to your monthly payment. Simple. But there's a cushion built in on top of that.
 
 Under the Real Estate Settlement Procedures Act, better known as RESPA, your servicer is allowed to maintain a cushion in your escrow account of up to two months' worth of escrow payments. On top of collecting enough to cover your actual bills, they can collect an additional buffer equal to roughly one-sixth of your annual escrow total.
 

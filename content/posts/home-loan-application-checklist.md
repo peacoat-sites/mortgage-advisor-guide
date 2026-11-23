@@ -136,7 +136,7 @@ The base checklist applies to almost every loan, but certain loan types add thei
 
 **Jumbo loans**, which exceed the conforming loan limits set annually by the FHFA, come with more stringent income, asset, and reserve requirements. If you're borrowing above those thresholds, check out our deep dive into [jumbo loan requirements](/jumbo-loan-requirements/).
 
-No matter which loan type you're applying for, your debt-to-income ratio is one of the most critical qualifying factors. Understanding how lenders calculate it before you apply will help you avoid surprises. Our article on [debt to income ratio for mortgage](/debt-to-income-ratio-for-mortgage/) explains exactly how that number works.
+No matter which loan type you're applying for, your debt-to-income ratio is one of the most critical qualifying factors. Understanding how lenders calculate it before you apply will help you avoid surprises. Our article on [debt to income ratio for mortgage](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/) explains exactly how that number works.
 
 ---
 
@@ -151,7 +151,7 @@ Here's a practical sequence to follow starting about 60 to 90 days before you pl
 5. **Document any large deposits.** For anything that doesn't match your regular pay schedule, find the source and save the paper trail.
 6. **Set up a dedicated folder.** Digital or physical, just keep it organized. You'll be asked to re-submit documents if they expire (most are only valid for 30 to 60 days in an active loan file).
 7. **Talk to a HUD-approved housing counselor** if you're unsure where you stand. [HUD-approved housing counselors](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) provide free or low-cost guidance on exactly this kind of preparation.
-8. **Get pre-approved, not just pre-qualified.** Pre-approval involves actual document verification. Our guide on [how to get pre-qualified for a mortgage](/how-to-get-pre-qualified-for-mortgage/) explains the difference and what to expect.
+8. **Get pre-approved, not just pre-qualified.** Pre-approval involves actual document verification. Our guide on [how to get pre-qualified for a mortgage](/step-by-step-guide-to-getting-preapproved-for-a-mortgage/) explains the difference and what to expect.
 
 If you want a resource to work through alongside this, [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/) include educational tools and checklists that complement what you're doing here.
 

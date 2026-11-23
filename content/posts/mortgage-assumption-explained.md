@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-A borrower I worked with in the mid-2010s locked in a [30-year fixed](/30-year-vs-15-year-mortgage/) at 3.25%. She's still in that house. And right now, with rates sitting comfortably above 6%, that loan is worth something most people haven't even thought to ask about.
+A borrower I worked with in the mid-2010s locked in a [30-year fixed](/15-year-vs-30-year-mortgage-pros-and-cons/) at 3.25%. She's still in that house. And right now, with rates sitting comfortably above 6%, that loan is worth something most people haven't even thought to ask about.
 
 You can take it with you when you sell. Or rather, the buyer can take it from you. That's mortgage assumption, a tool that has become increasingly useful for buyers and sellers in transactions.
 

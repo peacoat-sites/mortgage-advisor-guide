@@ -96,7 +96,7 @@ The cash-out refinance process is similar to your original mortgage purchase, bu
 
 The right choice depends heavily on what rate you currently have and how much you need to borrow. If you locked in a sub-4% mortgage rate, doing a cash-out refi in a 6.5% to 7% rate environment could cost you hundreds of dollars more per month, even if the equity access sounds attractive. In that environment, a HELOC or home equity loan often makes more financial sense.
 
-For those still weighing what loan structure fits their longer-term financial picture, reading through the comparison of [30-year vs. 15-year mortgage](/30-year-vs-15-year-mortgage/) terms and [fixed vs. adjustable rate mortgage](/fixed-vs-adjustable-rate-mortgage/) options can sharpen your thinking before you sit down with a lender.
+For those still weighing what loan structure fits their longer-term financial picture, reading through the comparison of [30-year vs. 15-year mortgage](/15-year-vs-30-year-mortgage-pros-and-cons/) terms and [fixed vs. adjustable rate mortgage](/fixed-vs-adjustable-rate-mortgage/) options can sharpen your thinking before you sit down with a lender.
 
 A cash-out refinance can be a genuinely smart financial move, or it can quietly cost you years of equity and decades of higher payments. The difference usually comes down to whether the borrower did the math with clear eyes before signing. Get competing offers, calculate your true break-even, and make sure the loan you're agreeing to on paper reflects what your loan officer described verbally. If anything feels vague, ask for it in writing. You're using your home as collateral. That deserves full attention.
 

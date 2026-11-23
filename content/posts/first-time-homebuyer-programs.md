@@ -104,7 +104,7 @@ Here's a practical path forward.
 
 **Step 2: Verify your income eligibility.** Most programs cap qualifying income at 80% to 120% of the area median income (AMI). The Federal Housing Finance Agency publishes AMI data by county and metro area at [fhfa.gov](https://www.fhfa.gov/), which can help you check where you stand before you talk to a lender.
 
-**Step 3: Review your credit score and debt-to-income ratio.** Program requirements vary, but most demand a minimum credit score of 620 to 640. Your debt-to-income ratio matters just as much. A clean breakdown of how DTI is calculated and what lenders want to see is covered in the [debt-to-income ratio for mortgage](/debt-to-income-ratio-for-mortgage/) article here. If your score needs work, read up on [what credit score you need for mortgage approval](/credit-score-for-mortgage-approval/) before applying anywhere.
+**Step 3: Review your credit score and debt-to-income ratio.** Program requirements vary, but most demand a minimum credit score of 620 to 640. Your debt-to-income ratio matters just as much. A clean breakdown of how DTI is calculated and what lenders want to see is covered in the [debt-to-income ratio for mortgage](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/) article here. If your score needs work, read up on [what credit score you need for mortgage approval](/credit-score-for-mortgage-approval/) before applying anywhere.
 
 **Step 4: Complete a HUD-approved homebuyer education course.** Many programs require it. Even when they don't, it genuinely helps. You'll learn how to read a Loan Estimate, what to watch for at closing, and how to budget for ownership costs beyond the mortgage. These courses typically cost $75 to $125 and can be completed online.
 

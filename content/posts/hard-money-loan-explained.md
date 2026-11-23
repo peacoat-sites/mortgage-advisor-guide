@@ -57,7 +57,7 @@ The tradeoff is cost. Hard money loans today typically carry interest rates anyw
 
 Terms are also short. Most hard money loans run 6 to 24 months. They are not designed for long-term holds. They're a bridge.
 
-Check out [our mortgage calculator](/mortgage-calculators) to get a rough sense of what carrying costs look like at hard money rates before you run the numbers on any deal.
+Check out our mortgage calculator to get a rough sense of what carrying costs look like at hard money rates before you run the numbers on any deal.
 
 ---
 
@@ -126,7 +126,7 @@ The lesson: always get multiple offers. Hard money terms vary significantly betw
 
 The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) doesn't regulate hard money lenders the way it oversees conventional mortgage markets, so there's no standardized consumer protection framework. This is one reason why working with a [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) before taking on hard money debt, especially for the first time, is worth a phone call.
 
-Learn how different loan structures compare by reading our [guide to bridge loans and short-term financing options](/bridge-loans).
+Learn how different loan structures compare by reading our guide to bridge loans and short-term financing options.
 
 ---
 
@@ -156,7 +156,7 @@ One more worked example:
 
 Know your refinance path before you close. That's not optional.
 
-Start your deal analysis with a solid understanding of what DSCR loans require so you can plan your exit before your hard money clock starts ticking: [see our DSCR loan guide](/dscr-loan-guide).
+Start your deal analysis with a solid understanding of what DSCR loans require so you can plan your exit before your hard money clock starts ticking: see our DSCR loan guide.
 
 ---
 

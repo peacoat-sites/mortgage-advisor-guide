@@ -37,7 +37,7 @@ It isn't. Your lender is still watching you. They'll pull your credit again befo
 
 This one trips up buyers constantly, because it feels harmless. You're about to own a home, so you think ahead and open a store card for appliances or finance a new couch. The furniture store sells you on 0% for 18 months. What's the problem?
 
-The problem is that new credit account just showed up on your report, your available debt went up, and your scores may have dropped from the hard inquiry. Your lender sees all of it. If your debt-to-[income ratio](/debt-to-income-ratio-for-mortgage/) (the percentage of your gross monthly income going to debt payments) creeps past their limit, you can lose your approval or get bumped to a worse loan program.
+The problem is that new credit account just showed up on your report, your available debt went up, and your scores may have dropped from the hard inquiry. Your lender sees all of it. If your debt-to-[income ratio](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/) (the percentage of your gross monthly income going to debt payments) creeps past their limit, you can lose your approval or get bumped to a worse loan program.
 
 Don't apply for new credit of any kind. No store cards, no car loans, no "pre-approval" for anything. If a creditor asks to pull your credit during this period, say no and explain you're closing on a house.
 

@@ -16,7 +16,7 @@ When you're shopping for a mortgage, the rate type you choose, fixed or adjustab
 
 ## Fixed-Rate Mortgages
 
-A fixed-rate mortgage locks in your interest rate for the entire loan. Get a [30-year fixed](/30-year-vs-15-year-mortgage/) at 6.75% and you're paying 6.75% in year one, year fifteen, year twenty-nine. All of it.
+A fixed-rate mortgage locks in your interest rate for the entire loan. Get a [30-year fixed](/15-year-vs-30-year-mortgage-pros-and-cons/) at 6.75% and you're paying 6.75% in year one, year fifteen, year twenty-nine. All of it.
 
 That means your monthly principal and interest payment never budges. Property taxes and homeowners insurance will jump around, sure. But the loan payment itself? Set it and forget it.
 

@@ -82,7 +82,7 @@ For S-corp owners, lenders look at your W-2 wages from the business plus your pr
 
 The lender then averages your qualifying income over two years. If you earned $90,000 in year one and $130,000 in year two, your qualifying income is $110,000 per year. But here's what most people miss: if your income declined from year one to year two, most lenders will use the lower year's income, not the average. A drop in earnings is a red flag, and underwriters treat it conservatively.
 
-Your qualifying income determines your maximum loan amount through your [debt-to-income ratio](/debt-to-income-ratio-for-mortgage/). Most conventional loans want your total monthly debt payments to stay below 43% to 45% of your gross monthly qualifying income. That ratio is based on the averaged, adjusted number, not your gross revenue.
+Your qualifying income determines your maximum loan amount through your [debt-to-income ratio](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/). Most conventional loans want your total monthly debt payments to stay below 43% to 45% of your gross monthly qualifying income. That ratio is based on the averaged, adjusted number, not your gross revenue.
 
 ## Loan Options for Self-Employed Borrowers
 
@@ -122,7 +122,7 @@ If you're planning to buy in the next 12 to 24 months, tell your accountant. The
 
 **Step 4: Get pre-qualified, then get pre-approved.**
 
-Pre-qualification is a conversation. Pre-approval is a commitment with documentation reviewed. For self-employed borrowers, the gap between the two is significant. Learn [how to get pre-qualified for a mortgage](/how-to-get-pre-qualified-for-mortgage/) first, but know that sellers will expect a full pre-approval letter.
+Pre-qualification is a conversation. Pre-approval is a commitment with documentation reviewed. For self-employed borrowers, the gap between the two is significant. Learn [how to get pre-qualified for a mortgage](/step-by-step-guide-to-getting-preapproved-for-a-mortgage/) first, but know that sellers will expect a full pre-approval letter.
 
 **Step 5: Prepare a business summary letter.**
 

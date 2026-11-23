@@ -139,7 +139,7 @@ A variation is the **temporary buydown**, often structured as a 2-1 or 3-2-1 buy
 
 These aren't permanent rate reductions. When year three hits, your payment goes up. Make sure you can afford the full payment, not just the buydown payment, before signing.
 
-The [debt-to-income ratio for mortgage](/debt-to-income-ratio-for-mortgage/) breakdown will show you how your income, debts, and monthly obligations affect what you can borrow before you layer in any buydown structure.
+The [debt-to-income ratio for mortgage](/what-debt-to-income-ratio-do-you-need-for-a-home-loan/) breakdown will show you how your income, debts, and monthly obligations affect what you can borrow before you layer in any buydown structure.
 
 ---
 

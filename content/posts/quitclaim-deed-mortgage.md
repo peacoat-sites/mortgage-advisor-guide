@@ -4,7 +4,7 @@ date: 2026-11-17T23:13:16.291107+00:00
 draft: false
 description: "Learn how quitclaim deeds affect mortgages, the risks involved, and when this transfer method makes sense for property transactions."
 image: "/img/heroes/7054502.jpg"
-categories: ["Life Events"]
+categories: ["Hardship Options"]
 tags: ["quitclaim", "deed", "mortgage"]
 author: "Maria Santos"
 author_slug: "maria-santos"

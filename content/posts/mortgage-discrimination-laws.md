@@ -4,7 +4,7 @@ date: 2026-08-09T16:15:15.382343+00:00
 draft: false
 description: "Learn which federal laws protect borrowers from mortgage discrimination, what constitutes illegal lending practices, and how to file a complaint."
 image: "/img/heroes/8068759.jpg"
-categories: ["Regulations"]
+categories: ["Getting Started"]
 tags: ["mortgage", "discrimination", "laws"]
 author: "Ethan Chen"
 author_slug: "ethan-chen"
@@ -35,7 +35,7 @@ Let me be direct: mortgage discrimination is not just a historical problem. It s
 
 Two federal laws do most of the heavy lifting here.
 
-The **Fair [Housing Act](/what-the-road-to-housing-act-means-for-fha-borrowers/) (FHA)** of 1968 prohibits discrimination in the sale, rental, and financing of housing. Its protected classes: race, color, national origin, religion, sex, disability, and familial status (meaning whether you have kids). The FHA applies specifically to residential mortgage lending, not just the sale of the house itself.
+The **Fair [Housing Act](/the-road-to-housing-act-just-passed-what-it-means-for-buyers/) (FHA)** of 1968 prohibits discrimination in the sale, rental, and financing of housing. Its protected classes: race, color, national origin, religion, sex, disability, and familial status (meaning whether you have kids). The FHA applies specifically to residential mortgage lending, not just the sale of the house itself.
 
 The **Equal Credit Opportunity Act (ECOA)**, enforced by the Consumer Financial Protection Bureau, goes a layer further. It covers the full credit transaction and adds age and receipt of public assistance to the protected classes. So a lender can't deny your mortgage because you're 67, or because part of your income comes from disability benefits.
 
