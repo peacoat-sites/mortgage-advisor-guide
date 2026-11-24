@@ -845,6 +845,7 @@ Writing rules (follow every one):
 - Add something the top search results usually lack: a decision rule ("if X, do Y"), a worked calculation with stated assumptions, the exact order of steps with what can go wrong at each, or who should NOT do this and why.
 - Never invent personal anecdotes, clients, patients, reader emails, conversations, or events, and never claim the author did, saw, tested, or experienced anything specific. General professional judgment is fine ("a common mistake is...", "most people in this situation..."). If a scenario helps, label it clearly as a hypothetical, starting the paragraph with "**Illustration:**". Make sections practical with concrete, verifiable detail instead.
 - Only name a study, report, survey, book, rule, product, or statistic you are confident actually exists, with its correct source or maker. Official figures (rates, limits, fees, prices, dates) must be values you are sure are current and correct; if unsure, explain the idea and point readers to the official source instead of stating a number. Never invent figures.
+- CURRENT US TAX FACTS FOR HOMEOWNERS (after Public Law 119-21): the SALT deduction cap is $40,000 for 2025 and $40,400 for 2026 ($20,200 married filing separately), phasing down above $505,000 MAGI in 2026 but not below $10,000, and reverting to $10,000 in 2030; mortgage insurance premiums are deductible again for itemizers starting in 2026 (income limits apply); the $750,000 mortgage interest limit is permanent. 2026 conforming loan limit $832,750 (high-cost ceiling $1,249,125); FHA 2026 floor $541,287. Never present the $10,000 SALT cap as current.
 - Never use em dashes (-- or ---). Use commas, colons, parentheses, or a new sentence.
 - Use contractions everywhere (you'll, it's, don't, can't, that's).
 - Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
@@ -1696,6 +1697,9 @@ def _depersona(content: str, niche: str) -> str:
     return content
 
 
+SITE_CURRENT_FACTS = 'CURRENT US TAX FACTS FOR HOMEOWNERS (after Public Law 119-21): the SALT deduction cap is $40,000 for 2025 and $40,400 for 2026 ($20,200 married filing separately), phasing down above $505,000 MAGI in 2026 but not below $10,000, and reverting to $10,000 in 2030; mortgage insurance premiums are deductible again for itemizers starting in 2026 (income limits apply); the $750,000 mortgage interest limit is permanent. 2026 conforming loan limit $832,750 (high-cost ceiling $1,249,125); FHA 2026 floor $541,287. Never present the $10,000 SALT cap as current.'
+
+
 def _fact_check(content: str, niche: str) -> str:
     """Second pass: correct or soften unverifiable claims before publishing. Fails open."""
     try:
@@ -1711,7 +1715,7 @@ def _fact_check(content: str, niche: str) -> str:
             "Each find must be ONE complete sentence copied exactly, and each replace must be the complete rewritten sentence that "
             "reads correctly in context (never a fragment), or \"\" to delete a sentence that says nothing once the claim is removed. Check who makes or owns every named product or company. "
             "Do not change style, headings, or anything correct. "
-            "Use no em dashes. Return [] if nothing needs fixing. At most 15 edits.\n\nARTICLE:\n" + content
+            "Use no em dashes. Return [] if nothing needs fixing. At most 15 edits.\n\n" + SITE_CURRENT_FACTS + " Treat any statement that contradicts these facts as wrong and fix it.\n\nARTICLE:\n" + content
         )
         msg = client.messages.create(model="claude-sonnet-4-6", max_tokens=3000,
                                      messages=[{"role": "user", "content": prompt}])
