@@ -1,0 +1,1187 @@
+{
+ "title": "2027 conforming loan limits in high-cost counties",
+ "search_placeholder": "Search a county or state, e.g. King, CA",
+ "filters": [
+  {
+   "key": "state",
+   "label": "State"
+  }
+ ],
+ "columns": [
+  {
+   "key": "county",
+   "label": "County",
+   "primary": true
+  },
+  {
+   "key": "state",
+   "label": "State"
+  },
+  {
+   "key": "one",
+   "label": "1 unit"
+  },
+  {
+   "key": "two",
+   "label": "2 units"
+  },
+  {
+   "key": "three",
+   "label": "3 units"
+  },
+  {
+   "key": "four",
+   "label": "4 units"
+  },
+  {
+   "key": "change",
+   "label": "1-unit change vs 2026"
+  }
+ ],
+ "rows": [
+  {
+   "county": "Alameda County",
+   "state": "CA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Contra Costa County",
+   "state": "CA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Los Angeles County",
+   "state": "CA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Marin County",
+   "state": "CA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Monterey County",
+   "state": "CA",
+   "one": "$1,006,250",
+   "two": "$1,288,200",
+   "three": "$1,557,150",
+   "four": "$1,935,150",
+   "change": "+$11,500"
+  },
+  {
+   "county": "Napa County",
+   "state": "CA",
+   "one": "$1,017,750",
+   "two": "$1,302,900",
+   "three": "$1,574,900",
+   "four": "$1,957,250",
+   "change": "No change"
+  },
+  {
+   "county": "Orange County",
+   "state": "CA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "San Benito County",
+   "state": "CA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "San Diego County",
+   "state": "CA",
+   "one": "$1,143,100",
+   "two": "$1,463,400",
+   "three": "$1,768,900",
+   "four": "$2,198,300",
+   "change": "+$39,100"
+  },
+  {
+   "county": "San Francisco County",
+   "state": "CA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "San Luis Obispo County",
+   "state": "CA",
+   "one": "$1,023,500",
+   "two": "$1,310,300",
+   "three": "$1,583,800",
+   "four": "$1,968,300",
+   "change": "+$23,000"
+  },
+  {
+   "county": "San Mateo County",
+   "state": "CA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Santa Barbara County",
+   "state": "CA",
+   "one": "$1,063,750",
+   "two": "$1,361,800",
+   "three": "$1,646,100",
+   "four": "$2,045,700",
+   "change": "+$121,900"
+  },
+  {
+   "county": "Santa Clara County",
+   "state": "CA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Santa Cruz County",
+   "state": "CA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Sonoma County",
+   "state": "CA",
+   "one": "$897,000",
+   "two": "$1,148,350",
+   "three": "$1,388,050",
+   "four": "$1,725,050",
+   "change": "No change"
+  },
+  {
+   "county": "Ventura County",
+   "state": "CA",
+   "one": "$1,043,050",
+   "two": "$1,335,300",
+   "three": "$1,614,100",
+   "four": "$2,005,900",
+   "change": "+$8,050"
+  },
+  {
+   "county": "Adams County",
+   "state": "CO",
+   "one": "$862,500",
+   "two": "$1,104,150",
+   "three": "$1,334,700",
+   "four": "$1,658,700",
+   "change": "No change"
+  },
+  {
+   "county": "Arapahoe County",
+   "state": "CO",
+   "one": "$862,500",
+   "two": "$1,104,150",
+   "three": "$1,334,700",
+   "four": "$1,658,700",
+   "change": "No change"
+  },
+  {
+   "county": "Boulder County",
+   "state": "CO",
+   "one": "$885,500",
+   "two": "$1,133,600",
+   "three": "$1,370,250",
+   "four": "$1,702,900",
+   "change": "+$5,750"
+  },
+  {
+   "county": "Broomfield County",
+   "state": "CO",
+   "one": "$862,500",
+   "two": "$1,104,150",
+   "three": "$1,334,700",
+   "four": "$1,658,700",
+   "change": "No change"
+  },
+  {
+   "county": "Clear Creek County",
+   "state": "CO",
+   "one": "$862,500",
+   "two": "$1,104,150",
+   "three": "$1,334,700",
+   "four": "$1,658,700",
+   "change": "No change"
+  },
+  {
+   "county": "Denver County",
+   "state": "CO",
+   "one": "$862,500",
+   "two": "$1,104,150",
+   "three": "$1,334,700",
+   "four": "$1,658,700",
+   "change": "No change"
+  },
+  {
+   "county": "Douglas County",
+   "state": "CO",
+   "one": "$862,500",
+   "two": "$1,104,150",
+   "three": "$1,334,700",
+   "four": "$1,658,700",
+   "change": "No change"
+  },
+  {
+   "county": "Eagle County",
+   "state": "CO",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Elbert County",
+   "state": "CO",
+   "one": "$862,500",
+   "two": "$1,104,150",
+   "three": "$1,334,700",
+   "four": "$1,658,700",
+   "change": "No change"
+  },
+  {
+   "county": "Garfield County",
+   "state": "CO",
+   "one": "$1,209,750",
+   "two": "$1,548,975",
+   "three": "$1,872,225",
+   "four": "$2,326,875",
+   "change": "No change"
+  },
+  {
+   "county": "Gilpin County",
+   "state": "CO",
+   "one": "$862,500",
+   "two": "$1,104,150",
+   "three": "$1,334,700",
+   "four": "$1,658,700",
+   "change": "No change"
+  },
+  {
+   "county": "Grand County",
+   "state": "CO",
+   "one": "$931,500",
+   "two": "$1,192,500",
+   "three": "$1,441,450",
+   "four": "$1,791,400",
+   "change": "+$48,300"
+  },
+  {
+   "county": "Jefferson County",
+   "state": "CO",
+   "one": "$862,500",
+   "two": "$1,104,150",
+   "three": "$1,334,700",
+   "four": "$1,658,700",
+   "change": "No change"
+  },
+  {
+   "county": "Lake County",
+   "state": "CO",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$190,600"
+  },
+  {
+   "county": "Moffat County",
+   "state": "CO",
+   "one": "$1,268,450",
+   "two": "$1,623,850",
+   "three": "$1,962,900",
+   "four": "$2,439,400",
+   "change": "+$179,400"
+  },
+  {
+   "county": "Park County",
+   "state": "CO",
+   "one": "$862,500",
+   "two": "$1,104,150",
+   "three": "$1,334,700",
+   "four": "$1,658,700",
+   "change": "No change"
+  },
+  {
+   "county": "Pitkin County",
+   "state": "CO",
+   "one": "$1,209,750",
+   "two": "$1,548,975",
+   "three": "$1,872,225",
+   "four": "$2,326,875",
+   "change": "No change"
+  },
+  {
+   "county": "Routt County",
+   "state": "CO",
+   "one": "$1,268,450",
+   "two": "$1,623,850",
+   "three": "$1,962,900",
+   "four": "$2,439,400",
+   "change": "+$179,400"
+  },
+  {
+   "county": "San Miguel County",
+   "state": "CO",
+   "one": "$994,750",
+   "two": "$1,273,450",
+   "three": "$1,539,350",
+   "four": "$1,913,000",
+   "change": "No change"
+  },
+  {
+   "county": "Summit County",
+   "state": "CO",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$190,600"
+  },
+  {
+   "county": "Greater Bridgeport Planning Region",
+   "state": "CT",
+   "one": "$1,023,500",
+   "two": "$1,310,300",
+   "three": "$1,583,800",
+   "four": "$1,968,300",
+   "change": "+$46,000"
+  },
+  {
+   "county": "Western Connecticut Planning Region",
+   "state": "CT",
+   "one": "$1,023,500",
+   "two": "$1,310,300",
+   "three": "$1,583,800",
+   "four": "$1,968,300",
+   "change": "+$46,000"
+  },
+  {
+   "county": "District of Columbia",
+   "state": "DC",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Monroe County",
+   "state": "FL",
+   "one": "$1,035,000",
+   "two": "$1,325,000",
+   "three": "$1,601,600",
+   "four": "$1,990,450",
+   "change": "+$44,850"
+  },
+  {
+   "county": "Kalawao County",
+   "state": "HI",
+   "one": "$1,299,500",
+   "two": "$1,663,600",
+   "three": "$2,010,950",
+   "four": "$2,499,100",
+   "change": "No change"
+  },
+  {
+   "county": "Maui County",
+   "state": "HI",
+   "one": "$1,299,500",
+   "two": "$1,663,600",
+   "three": "$2,010,950",
+   "four": "$2,499,100",
+   "change": "No change"
+  },
+  {
+   "county": "Teton County",
+   "state": "ID",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Bristol County",
+   "state": "MA",
+   "one": "$897,000",
+   "two": "$1,148,350",
+   "three": "$1,388,050",
+   "four": "$1,725,050",
+   "change": "+$64,250"
+  },
+  {
+   "county": "Dukes County",
+   "state": "MA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Essex County",
+   "state": "MA",
+   "one": "$977,500",
+   "two": "$1,251,400",
+   "three": "$1,512,650",
+   "four": "$1,879,850",
+   "change": "+$14,950"
+  },
+  {
+   "county": "Middlesex County",
+   "state": "MA",
+   "one": "$977,500",
+   "two": "$1,251,400",
+   "three": "$1,512,650",
+   "four": "$1,879,850",
+   "change": "+$14,950"
+  },
+  {
+   "county": "Nantucket County",
+   "state": "MA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Norfolk County",
+   "state": "MA",
+   "one": "$977,500",
+   "two": "$1,251,400",
+   "three": "$1,512,650",
+   "four": "$1,879,850",
+   "change": "+$14,950"
+  },
+  {
+   "county": "Plymouth County",
+   "state": "MA",
+   "one": "$977,500",
+   "two": "$1,251,400",
+   "three": "$1,512,650",
+   "four": "$1,879,850",
+   "change": "+$14,950"
+  },
+  {
+   "county": "Suffolk County",
+   "state": "MA",
+   "one": "$977,500",
+   "two": "$1,251,400",
+   "three": "$1,512,650",
+   "four": "$1,879,850",
+   "change": "+$14,950"
+  },
+  {
+   "county": "Calvert County",
+   "state": "MD",
+   "one": "$1,209,750",
+   "two": "$1,548,975",
+   "three": "$1,872,225",
+   "four": "$2,326,875",
+   "change": "No change"
+  },
+  {
+   "county": "Charles County",
+   "state": "MD",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Frederick County",
+   "state": "MD",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Montgomery County",
+   "state": "MD",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Prince George's County",
+   "state": "MD",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Rockingham County",
+   "state": "NH",
+   "one": "$977,500",
+   "two": "$1,251,400",
+   "three": "$1,512,650",
+   "four": "$1,879,850",
+   "change": "+$14,950"
+  },
+  {
+   "county": "Strafford County",
+   "state": "NH",
+   "one": "$977,500",
+   "two": "$1,251,400",
+   "three": "$1,512,650",
+   "four": "$1,879,850",
+   "change": "+$14,950"
+  },
+  {
+   "county": "Bergen County",
+   "state": "NJ",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Essex County",
+   "state": "NJ",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Hudson County",
+   "state": "NJ",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Hunterdon County",
+   "state": "NJ",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Middlesex County",
+   "state": "NJ",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Monmouth County",
+   "state": "NJ",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Morris County",
+   "state": "NJ",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Ocean County",
+   "state": "NJ",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Passaic County",
+   "state": "NJ",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Somerset County",
+   "state": "NJ",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Sussex County",
+   "state": "NJ",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Union County",
+   "state": "NJ",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Bronx County",
+   "state": "NY",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Kings County",
+   "state": "NY",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Nassau County",
+   "state": "NY",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "New York County",
+   "state": "NY",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Putnam County",
+   "state": "NY",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Queens County",
+   "state": "NY",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Richmond County",
+   "state": "NY",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Rockland County",
+   "state": "NY",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Suffolk County",
+   "state": "NY",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Westchester County",
+   "state": "NY",
+   "one": "$1,224,750",
+   "two": "$1,567,900",
+   "three": "$1,895,250",
+   "four": "$2,355,350",
+   "change": "+$15,000"
+  },
+  {
+   "county": "Pike County",
+   "state": "PA",
+   "one": "$1,209,750",
+   "two": "$1,548,975",
+   "three": "$1,872,225",
+   "four": "$2,326,875",
+   "change": "No change"
+  },
+  {
+   "county": "Bristol County",
+   "state": "RI",
+   "one": "$897,000",
+   "two": "$1,148,350",
+   "three": "$1,388,050",
+   "four": "$1,725,050",
+   "change": "+$64,250"
+  },
+  {
+   "county": "Kent County",
+   "state": "RI",
+   "one": "$897,000",
+   "two": "$1,148,350",
+   "three": "$1,388,050",
+   "four": "$1,725,050",
+   "change": "+$64,250"
+  },
+  {
+   "county": "Newport County",
+   "state": "RI",
+   "one": "$897,000",
+   "two": "$1,148,350",
+   "three": "$1,388,050",
+   "four": "$1,725,050",
+   "change": "+$64,250"
+  },
+  {
+   "county": "Providence County",
+   "state": "RI",
+   "one": "$897,000",
+   "two": "$1,148,350",
+   "three": "$1,388,050",
+   "four": "$1,725,050",
+   "change": "+$64,250"
+  },
+  {
+   "county": "Washington County",
+   "state": "RI",
+   "one": "$897,000",
+   "two": "$1,148,350",
+   "three": "$1,388,050",
+   "four": "$1,725,050",
+   "change": "+$64,250"
+  },
+  {
+   "county": "Cannon County",
+   "state": "TN",
+   "one": "$1,086,750",
+   "two": "$1,391,250",
+   "three": "$1,681,700",
+   "four": "$2,089,950",
+   "change": "+$57,500"
+  },
+  {
+   "county": "Cheatham County",
+   "state": "TN",
+   "one": "$1,086,750",
+   "two": "$1,391,250",
+   "three": "$1,681,700",
+   "four": "$2,089,950",
+   "change": "+$57,500"
+  },
+  {
+   "county": "Davidson County",
+   "state": "TN",
+   "one": "$1,086,750",
+   "two": "$1,391,250",
+   "three": "$1,681,700",
+   "four": "$2,089,950",
+   "change": "+$57,500"
+  },
+  {
+   "county": "Dickson County",
+   "state": "TN",
+   "one": "$1,086,750",
+   "two": "$1,391,250",
+   "three": "$1,681,700",
+   "four": "$2,089,950",
+   "change": "+$57,500"
+  },
+  {
+   "county": "Hickman County",
+   "state": "TN",
+   "one": "$1,086,750",
+   "two": "$1,391,250",
+   "three": "$1,681,700",
+   "four": "$2,089,950",
+   "change": "+$57,500"
+  },
+  {
+   "county": "Macon County",
+   "state": "TN",
+   "one": "$1,086,750",
+   "two": "$1,391,250",
+   "three": "$1,681,700",
+   "four": "$2,089,950",
+   "change": "+$57,500"
+  },
+  {
+   "county": "Maury County",
+   "state": "TN",
+   "one": "$1,086,750",
+   "two": "$1,391,250",
+   "three": "$1,681,700",
+   "four": "$2,089,950",
+   "change": "+$57,500"
+  },
+  {
+   "county": "Robertson County",
+   "state": "TN",
+   "one": "$1,086,750",
+   "two": "$1,391,250",
+   "three": "$1,681,700",
+   "four": "$2,089,950",
+   "change": "+$57,500"
+  },
+  {
+   "county": "Rutherford County",
+   "state": "TN",
+   "one": "$1,086,750",
+   "two": "$1,391,250",
+   "three": "$1,681,700",
+   "four": "$2,089,950",
+   "change": "+$57,500"
+  },
+  {
+   "county": "Smith County",
+   "state": "TN",
+   "one": "$1,086,750",
+   "two": "$1,391,250",
+   "three": "$1,681,700",
+   "four": "$2,089,950",
+   "change": "+$57,500"
+  },
+  {
+   "county": "Sumner County",
+   "state": "TN",
+   "one": "$1,086,750",
+   "two": "$1,391,250",
+   "three": "$1,681,700",
+   "four": "$2,089,950",
+   "change": "+$57,500"
+  },
+  {
+   "county": "Trousdale County",
+   "state": "TN",
+   "one": "$1,086,750",
+   "two": "$1,391,250",
+   "three": "$1,681,700",
+   "four": "$2,089,950",
+   "change": "+$57,500"
+  },
+  {
+   "county": "Williamson County",
+   "state": "TN",
+   "one": "$1,086,750",
+   "two": "$1,391,250",
+   "three": "$1,681,700",
+   "four": "$2,089,950",
+   "change": "+$57,500"
+  },
+  {
+   "county": "Wilson County",
+   "state": "TN",
+   "one": "$1,086,750",
+   "two": "$1,391,250",
+   "three": "$1,681,700",
+   "four": "$2,089,950",
+   "change": "+$57,500"
+  },
+  {
+   "county": "Summit County",
+   "state": "UT",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$133,100"
+  },
+  {
+   "county": "Wasatch County",
+   "state": "UT",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$133,100"
+  },
+  {
+   "county": "Wayne County",
+   "state": "UT",
+   "one": "$997,050",
+   "two": "$1,276,400",
+   "three": "$1,542,900",
+   "four": "$1,917,450",
+   "change": "No change"
+  },
+  {
+   "county": "Alexandria City",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Arlington County",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Clarke County",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Culpeper County",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Fairfax City",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Fairfax County",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Falls Church City",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Fauquier County",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Fredericksburg City",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Loudoun County",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Madison County",
+   "state": "VA",
+   "one": "$1,209,750",
+   "two": "$1,548,975",
+   "three": "$1,872,225",
+   "four": "$2,326,875",
+   "change": "No change"
+  },
+  {
+   "county": "Manassas City",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Manassas Park City",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Prince William County",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Rappahannock County",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Spotsylvania County",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Stafford County",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Warren County",
+   "state": "VA",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "King County",
+   "state": "WA",
+   "one": "$1,063,750",
+   "two": "$1,361,800",
+   "three": "$1,646,100",
+   "four": "$2,045,700",
+   "change": "No change"
+  },
+  {
+   "county": "Pierce County",
+   "state": "WA",
+   "one": "$1,063,750",
+   "two": "$1,361,800",
+   "three": "$1,646,100",
+   "four": "$2,045,700",
+   "change": "No change"
+  },
+  {
+   "county": "Snohomish County",
+   "state": "WA",
+   "one": "$1,063,750",
+   "two": "$1,361,800",
+   "three": "$1,646,100",
+   "four": "$2,045,700",
+   "change": "No change"
+  },
+  {
+   "county": "Jefferson County",
+   "state": "WV",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  },
+  {
+   "county": "Teton County",
+   "state": "WY",
+   "one": "$1,283,100",
+   "two": "$1,642,875",
+   "three": "$1,985,850",
+   "four": "$2,468,025",
+   "change": "+$33,975"
+  }
+ ],
+ "note": "127 counties and county-equivalents have 2027 limits above the baseline. Every county not listed uses the baseline: $855,400 (1 unit), $1,095,250 (2), $1,323,900 (3), $1,645,350 (4). In Alaska, Hawaii, Guam and the U.S. Virgin Islands the one-unit baseline is $1,283,100, so only areas above that are listed. Source: FHFA, Conforming Loan Limits for Calendar Year 2027, all counties (announced November 24, 2026)."
+}
