@@ -23,7 +23,7 @@ faqs:
    a: "Technically yes: less interest paid means less potential deduction. But this concern is usually overstated. You're spending a dollar in interest to save roughly 22 to 37 cents in taxes depending on your bracket. Paying off the mortgage saves you the other 63 to 78 cents. The math generally favors payoff if that's your goal."
  - q: "Are mortgage tax benefits the same in every state?"
    a: "No. Some states have their own mortgage interest deductions that mirror federal rules; others don't. A handful of states have no income tax at all, making the federal deduction the only one available. Always check your specific state's rules."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most people overestimate what mortgage tax benefits will actually do for their finances. They sign at closing half-convinced that the government is effectively subsidizing their homeownership, and then April rolls around wondering why their refund didn't spike. Here's the short version: mortgage tax benefits are real, they're worth understanding, but the way they're typically explained sells borrowers a fantasy.
 
