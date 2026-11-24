@@ -96,7 +96,7 @@ Here's the step-by-step to run this number yourself before a lender does.
 | Remove a co-signer's debt | If debt isn't yours, document it clearly | Case-by-case | Lender must agree to exclude it |
 | Pay off installment loan early | Eliminates payment if <10 months remain | Can often be done at closing | Requires available funds |
 
-That last strategy is something I told clients about constantly. If you have an installment loan with fewer than 10 payments left, many lenders will exclude it from DTI calculations entirely. Sometimes paying off $3,000 at closing unlocks the entire deal.
+That last strategy is worth knowing about. If you have an installment loan with fewer than 10 payments left, many lenders will exclude it from DTI calculations entirely. Sometimes paying off $3,000 at closing unlocks the entire deal.
 
 ## The Compensating Factors That Can Save a High-DTI Application
 

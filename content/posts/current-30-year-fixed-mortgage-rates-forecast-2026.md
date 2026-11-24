@@ -73,7 +73,7 @@ Add another complication: when you refinance, you typically reset your amortizat
 
 ## Should You Wait, Buy Now, or Lock Something In?
 
-I spent 16 years watching people agonize over this question. Timing the mortgage market is genuinely hard, and most people who wait for the "perfect" rate end up paying more in rent, missing appreciation, or both.
+Timing the mortgage market is genuinely hard, and most people who wait for the "perfect" rate end up paying more in rent, missing appreciation, or both.
 
 That said, waiting isn't always wrong. If you're within 12 months of a major credit event that would lower your rate, or if you're right at the edge of affording the payment at current rates and a 0.5% drop would meaningfully change your situation, waiting has some logic. You know your situation better than any forecast does.
 

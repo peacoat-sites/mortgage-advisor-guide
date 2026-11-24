@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 Most people who get trapped in a predatory loan didn't see it coming. That's not because they were careless. It's because the people who design these products are very, very good at making them look reasonable until you're already signed.
 
-I spent 16 years underwriting mortgages, and I'll be honest: some of the most sophisticated borrowers I ever worked with got taken. A dentist in Phoenix. A retired schoolteacher who owned her home outright and nearly lost it in a cash-out refinance scheme. The warning signs were all there. Nobody told them what to look for.
+Some of the most sophisticated borrowers get taken by refinance schemes. A dentist or a retired schoolteacher who owns her home outright can nearly lose it in a cash-out refinance gone wrong. The warning signs are all there. The problem is that nobody tells borrowers what to look for.
 
 That's what this is.
 
