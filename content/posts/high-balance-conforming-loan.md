@@ -23,7 +23,7 @@ faqs:
    a: "Sometimes, yes. In competitive markets, jumbo lenders actively price below conforming rates to attract high-income, high-asset borrowers. I've seen jumbo rates come in 0.125% to 0.25% below the high-balance conforming rate on the same day from different institutions. The catch is the stricter qualification standards and the lack of flexibility on things like gift funds or non-occupant co-borrowers. Shop both products and compare the total cost, not just the rate."
  - q: "How often do the high-balance conforming loan limits change?"
    a: "The FHFA adjusts them annually based on the House Price Index. In markets where home values have been flat or declining, the limits can stay the same or theoretically drop (though that's rare). In markets where prices have risen sharply, the limits tend to follow. The update for any given calendar year is typically announced in November of the prior year and takes effect January 1st."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-23T18:00:00Z
 ---
 Most borrowers have never heard of a high-balance conforming loan until they actually need one. Then they're staring at two loan offers that look nearly identical, and nobody at the closing table can explain why one costs more than the other.
 
@@ -40,7 +40,7 @@ Let me fix that.
 
 ## What a High-Balance Conforming Loan Actually Is
 
-Fannie Mae and Freddie Mac buy mortgages from lenders. That's the whole machinery that keeps the mortgage market from seizing up. But they're picky. They set caps on loan size, and those caps change by county based on what homes actually cost there. The standard conforming limit in 2026 is $806,500 for a single-family home across most of the country. In expensive areas it's higher, sometimes much higher. San Francisco, Manhattan, and coastal Hawaii top out at $1,209,750.
+Fannie Mae and Freddie Mac buy mortgages from lenders. That's the whole machinery that keeps the mortgage market from seizing up. But they're picky. They set caps on loan size, and those caps change by county based on what homes actually cost there. The standard conforming limit in 2026 is $832,750 for a single-family home across most of the country. In expensive areas it's higher, sometimes much higher. San Francisco, Los Angeles and Washington, D.C. are at the $1,249,125 ceiling, New York City is at $1,209,750, and Maui County in Hawaii is $1,299,500. Every high-cost county is listed in our [2026 conforming loan limits](/conforming-loan-limits/) table.
 
 A high-balance conforming loan (sometimes called "super conforming," depending on who's talking) sits between the standard limit and the high-cost limit. Fannie and Freddie will still buy it. It's conforming in that sense. But it's not a *standard* conforming loan, and lenders price it differently.
 
@@ -60,7 +60,7 @@ On a $950,000 loan, a 0.25% rate bump costs you roughly $140 to $165 more per mo
 
 Here's where it gets confusing, and loan officers don't always clear it up.
 
-A [jumbo loan](/jumbo-loan-requirements/) exceeds the conforming limit for your county. In a standard market that's anything over $806,500. In a high-cost area it's anything over the local high-cost limit. Jumbo loans don't get sold to Fannie or Freddie. They stay on the lender's books or go to private investors. That means:
+A [jumbo loan](/jumbo-loan-requirements/) exceeds the conforming limit for your county. In a standard market that's anything over $832,750. In a high-cost area it's anything over the local high-cost limit. Jumbo loans don't get sold to Fannie or Freddie. They stay on the lender's books or go to private investors. That means:
 
 - Underwriting is stricter (higher reserve requirements, more income paperwork)
 - Rates can be higher than high-balance conforming, or sometimes lower when jumbo investors are hungry
@@ -85,7 +85,7 @@ If you're buying in a high-cost market and your loan amount hovers near these th
 
 ## Sources & References
 
-- [FHFA, Conforming Loan Limit Values](https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limit.aspx), Official 2024-2025 conforming and high-balance loan limits by county
+- [FHFA, Conforming Loan Limits](https://www.fhfa.gov/data/conforming-loan-limit), Official 2026 conforming and high-balance loan limits by county
 - [Fannie Mae, Loan Limits](https://singlefamily.fanniemae.com/originating-underwriting/loan-limits), Explains high-balance loan eligibility and pricing adjustments
 - [CFPB, What is a conforming loan?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-conforming-loan-en-1791/), Consumer-facing explanation of conforming loan basics
 

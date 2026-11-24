@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit and Qualifying"
 author_bio: "Susan Taylor is the byline used at Mortgage Advisor Guide for articles on credit scores and mortgage qualification. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-23T18:00:00Z
 ---
 A common obstacle emerges after pre-approval: underwriters discover issues that weren't caught earlier, like collections accounts, a debt-to-income ratio that's too high, or a down payment without proper documentation. Many borrowers don't realize these problems matter until it's difficult to fix them cleanly.
 
@@ -44,7 +44,7 @@ Understanding conventional loan requirements before you apply isn't just useful.
 
 A conventional loan is any mortgage that isn't backed by a federal government agency. FHA loans are insured by the Federal Housing Administration. VA loans are guaranteed by the Department of Veterans Affairs. USDA loans have their own rural-development guarantee. Conventional loans have none of that government backstop. Instead, they're either held by the lender in its own portfolio or sold to investors on the secondary market, usually through Fannie Mae or Freddie Mac.
 
-That distinction matters because Fannie Mae and Freddie Mac set the underwriting standards that most conventional lenders follow. These are called conforming loan guidelines, and they define the credit score minimums, debt-to-income limits, down payment rules, and property standards that determine whether a loan can be sold on the secondary market. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) oversees both entities and sets the conforming loan limits each year. For 2024, the baseline conforming limit for a single-family home in most of the country is $766,550. High-cost areas like San Francisco or New York get higher limits.
+That distinction matters because Fannie Mae and Freddie Mac set the underwriting standards that most conventional lenders follow. These are called conforming loan guidelines, and they define the credit score minimums, debt-to-income limits, down payment rules, and property standards that determine whether a loan can be sold on the secondary market. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) oversees both entities and sets the conforming loan limits each year. For 2026, the baseline conforming limit for a single-family home in most of the country is $832,750. High-cost areas like San Francisco or New York get higher limits (see the [2026 conforming loan limits](/conforming-loan-limits/) by county).
 
 If you borrow above that limit, you're in jumbo territory, and the requirements get stricter across the board. We'll focus on conforming conventional loans here because that's what most buyers are dealing with.
 
@@ -96,7 +96,7 @@ One comparison worth knowing:
 | Minimum down payment | 3% (with income limits) or 5% | 3.5% |
 | Mortgage insurance | Required below 20% down; cancellable | Required regardless of down payment; largely permanent |
 | Property condition | Must be safe, sound, and marketable | More stringent minimum property standards |
-| Loan limits (2024 baseline) | $766,550 | $498,257 |
+| Loan limits (2026 baseline) | $832,750 | $541,287 (floor) |
 | DTI limit | Up to 50% with strong compensating factors | Up to 57% with compensating factors |
 | Best for | Strong credit borrowers, avoiding long-term MIP | Lower credit scores, limited down payment |
 

@@ -23,7 +23,7 @@ faqs:
     a: "Neither is guaranteed to work. The mortgage market reprices before and after Fed cuts. Your best bet is to refinance when your current rate is at least 0.5 percent higher than what's available, regardless of Fed timing. The cost of waiting usually outweighs any 'perfect' timing you might achieve."
   - q: "Do mortgage rates ever go down when the Fed raises rates?"
     a: "Yes, though it's unusual and brief. It happens when recession fears spike and investors move money into bonds, pushing long-term yields down faster than the Fed's short-term rate moves up. It's rare but it does occur. This is why you shouldn't assume Fed policy automatically means mortgage policy will move the same direction."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-23T18:00:00Z
 ---
 
 Right now, most people blame the Federal Reserve for their mortgage rate when they're shopping for a home. And they're not entirely wrong. But the mechanism is more subtle than "Fed raises rates, so your mortgage gets more expensive." It's not a direct line like that. Let me walk you through what's actually happening behind the scenes, because understanding this difference changes how you should time your move.
@@ -79,7 +79,7 @@ Refinance demand affects mortgage rates. When rates drop, refinance activity sur
 
 Geopolitical events matter too. When there's international turmoil, money flows into U.S. Treasury bonds as a safe haven, pushing long-term yields down and mortgage rates with them. The flight to safety is real, and it can override Fed policy signals.
 
-Your own circumstances affect your rate as well. A 680 credit score will be quoted higher than a 760. A jumbo loan (anything over $766,550 in most of the country as of July 2026) carries a different rate than a conforming loan. Cash down and loan type also shift your personal rate. The Fed's policy is the market backdrop; your rate is your individual instrument within that backdrop.
+Your own circumstances affect your rate as well. A 680 credit score will be quoted higher than a 760. A jumbo loan (anything over $832,750 in most of the country in 2026) carries a different rate than a conforming loan. Cash down and loan type also shift your personal rate. The Fed's policy is the market backdrop; your rate is your individual instrument within that backdrop.
 
 ## How to Use This Knowledge When Rates Are Rising
 

@@ -23,7 +23,7 @@ author: "Ethan Chen"
 author_slug: "ethan-chen"
 author_title: "Housing Market"
 author_bio: "Ethan Chen is the byline used at Mortgage Advisor Guide for articles on housing market data, rates and the buying process. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-07-07
+lastmod: 2026-11-23T18:00:00Z
 ---
 Nobody knows exactly where mortgage rates are going in 2026. Not me, not the Fed, not the economists at Goldman Sachs who get paid very well to be wrong on a regular basis. What I *can* do is walk you through what the forecasts actually say, why they disagree with each other, and, more practically, how to think about the timing question if you're trying to decide whether to buy, wait, or refinance in the next 12 to 18 months.
 
@@ -91,7 +91,7 @@ Credit score has an outsized effect. The difference between a 680 and a 760 scor
 
 Loan-to-value ratio matters too. Buyers putting down 20% or more avoid PMI and typically get better pricing. Borrowers at 80% LTV look very different to an underwriter than borrowers at 95% LTV, and that risk difference shows up in your rate.
 
-Then there's loan size. Conforming loan limits for 2025 are $806,500 for single-family homes in most of the country (higher in certain high-cost areas). Loans exceeding that fall into jumbo territory, where rates can be higher or lower depending on the lender and your profile. Jumbo pricing is genuinely weird and varies more than people expect.
+Then there's loan size. The 2026 conforming loan limit is $832,750 for single-family homes in most of the country, and higher in certain high-cost areas (see the [2026 conforming loan limits](/conforming-loan-limits/) by county). Loans exceeding that fall into jumbo territory, where rates can be higher or lower depending on the lender and your profile. Jumbo pricing is genuinely weird and varies more than people expect.
 
 A borrower with a 780 score, 25% down, and a loan at 75% of the conforming limit is going to see rates well inside the lower bound of whatever forecast range you read. A borrower with a 690 score and 5% down will be near the top, or above it.
 

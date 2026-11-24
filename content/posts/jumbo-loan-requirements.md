@@ -23,7 +23,7 @@ author: "Jennifer Walsh"
 author_slug: "jennifer-walsh"
 author_title: "Loan Process"
 author_bio: "Jennifer Walsh is the byline used at Mortgage Advisor Guide for articles on the mortgage process and what underwriters look at. It is a pen name, not a loan officer or underwriter; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-23T18:00:00Z
 ---
 You find a house you love. The price is $1.4 million. You have excellent credit, a substantial down payment, and a stable high income. You walk into the bank expecting smooth sailing. Then the loan officer explains that you're in "jumbo territory," and suddenly the conversation shifts. More documentation. Higher reserves. Stricter debt ratios. A different approval process entirely. A lot of borrowers are caught completely off guard by this, and it costs them time, deals, and sometimes the house itself.
 
@@ -33,7 +33,7 @@ Here's what you need to know before you ever get to that table.
 
 A jumbo loan is any mortgage that exceeds the conforming loan limit set for a given area. These limits are established annually by the [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/), which oversees Fannie Mae and Freddie Mac. When a loan stays within those limits, the lender can sell it to Fannie or Freddie after closing, which reduces their risk. Jumbo loans can't be sold that way. The lender holds more of the risk themselves, or sells to a smaller secondary market with tighter standards. That's why everything gets stricter.
 
-For 2024, the baseline conforming loan limit for a single-family home is $766,550 in most U.S. counties. In high-cost areas like Los Angeles, New York City, and parts of Hawaii, that ceiling goes higher, reaching up to $1,149,825. If your loan exceeds the applicable limit for your specific county, you're in jumbo territory. Not your purchase price. Your loan amount. So if you're buying a $900,000 home with a $200,000 down payment, your $700,000 loan is still conforming in most areas.
+For 2026, the baseline conforming loan limit for a single-family home is $832,750 in most U.S. counties. In high-cost areas like Los Angeles and San Francisco it reaches $1,249,125 (New York City is $1,209,750). Our [2026 conforming loan limits](/conforming-loan-limits/) table lists every county above the baseline. If your loan exceeds the applicable limit for your specific county, you're in jumbo territory. Not your purchase price. Your loan amount. So if you're buying a $900,000 home with a $200,000 down payment, your $700,000 loan is still conforming in most areas.
 
 This distinction matters before you start fantasizing about what you can afford. Check a [mortgage affordability guide](/how-much-house-can-i-afford/) to work backward from your target payment to a realistic loan amount before you fall in love with a property.
 
@@ -114,7 +114,7 @@ Jumbo loans aren't impossible. Millions of borrowers close them every year, and 
 
 ## Sources & References
 
-- [FHFA, Conforming Loan Limit Values](https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limit.aspx), Official 2024 conforming loan limits by county
+- [FHFA, Conforming Loan Limits](https://www.fhfa.gov/data/conforming-loan-limit), Official 2026 conforming loan limits by county
 - [CFPB, What is a jumbo loan?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-jumbo-loan-en-1791/), Explains jumbo vs conforming loan distinctions
 - [Fannie Mae, Loan Limits](https://singlefamily.fanniemae.com/originating-underwriting/loan-limits), Confirms baseline and high-cost area limits
 

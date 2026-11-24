@@ -23,7 +23,7 @@ author: "Susan Taylor"
 author_slug: "susan-taylor"
 author_title: "Credit and Qualifying"
 author_bio: "Susan Taylor is the byline used at Mortgage Advisor Guide for articles on credit scores and mortgage qualification. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-23T18:00:00Z
 ---
 You saved up $12,000, your credit score sits at 620, and the [conventional loan](/conventional-loan-requirements/) officer just told you to come back when you have 20% down. Sound familiar? That scenario plays out in loan offices across the country every week, and it's exactly the situation FHA loans were designed to solve. But here's what most people miss: FHA loans aren't just a consolation prize for buyers who can't qualify for conventional financing. For the right borrower, they're a genuinely strategic choice. The key is understanding what you're actually getting, including the parts your loan officer might not volunteer.
 
@@ -73,7 +73,7 @@ The home itself has to meet FHA's minimum property standards. It must be your pr
 
 FHA loan limits change annually and vary by county based on local home prices. The [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/) tracks conforming loan limits, and FHA limits are pegged to a percentage of those figures.
 
-For 2024, the FHA floor (the minimum limit in lower-cost areas) is $498,257 for a single-family home. The ceiling in high-cost areas climbs to $1,149,825. If you're buying in San Francisco or Manhattan, the math changes significantly.
+For 2026, the FHA floor (the minimum limit in lower-cost areas) is $541,287 for a single-family home, according to HUD. The ceiling in high-cost areas is $1,249,125. If you're buying in San Francisco or Manhattan, the math changes significantly.
 
 You can check the specific FHA loan limit for any U.S. county using the HUD website. Do this before you start house hunting, because if your target price exceeds the limit in your area, you'll need other financing options or more cash at the table.
 
