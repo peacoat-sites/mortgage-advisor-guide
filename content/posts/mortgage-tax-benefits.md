@@ -35,7 +35,7 @@ The [mortgage interest deduction](/mortgage-interest-deduction/) (MID) lets you 
 
 Sounds great, right? Here's where it falls apart: you only get this benefit if you itemize deductions on Schedule A, and itemizing only makes sense if your total deductions exceed the standard deduction. For 2025, the standard deduction is $15,000 for single filers and $30,000 for married couples filing jointly.
 
-Do the math on your own situation before you assume you're getting anything. A married couple paying $18,000 in mortgage interest who also has $5,000 in state and local taxes (capped at $10,000 federally) has itemizable deductions of $23,000. That's less than the $30,000 standard deduction. They itemize nothing. They get zero benefit from the mortgage interest deduction, even though they paid $18,000 in interest.
+Do the math on your own situation before you assume you're getting anything. A married couple paying $18,000 in mortgage interest who also has $5,000 in state and local taxes (capped at $40,400 federally in 2026) has itemizable deductions of $23,000. That's less than the $30,000 standard deduction. They itemize nothing. They get zero benefit from the mortgage interest deduction, even though they paid $18,000 in interest.
 
 This is the conversation most loan officers skip entirely.
 
@@ -50,9 +50,9 @@ The deduction skews heavily toward higher-income borrowers with larger loans. Th
 
 If you're in a lower-cost market with a modest loan balance, the math probably won't work in your favor. Some borrowers are surprised at tax time to learn that a loan officer's mention of a deduction didn't account for the full picture. The loan officer may not have explained that the deduction only applies if you itemize, or that closing costs can offset the benefit.
 
-## Property Tax Deductions: The SALT Cap Still Bites
+## Property Tax Deductions: The SALT Cap Has Eased
 
-You can also deduct property taxes, but only as part of the broader state and local tax (SALT) deduction, which is capped at $10,000 per household. If you're in a high-tax state paying $8,500 a year in property taxes, you've got $1,500 left in SALT room for state income taxes. People in New York or California often hit that $10,000 ceiling on property taxes alone.
+You can also deduct property taxes, but only as part of the broader state and local tax (SALT) deduction, which is capped at $40,400 per household in 2026. If you're in a high-tax state paying $8,500 a year in property taxes, you've got $31,900 left in SALT room for state income taxes. People in New York or California often hit that ceiling on property taxes alone.
 
 The SALT cap came from the Tax Cuts and Jobs Act of 2017 and was set to expire after 2025, but Congress has been extending or modifying provisions repeatedly. As of mid-2026, the situation is still in flux. Check with a tax professional before building assumptions about SALT into any homebuying calculation.
 

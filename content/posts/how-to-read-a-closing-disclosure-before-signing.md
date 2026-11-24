@@ -106,7 +106,7 @@ Worked example: Same $400,000 loan, 30 years at 6.75%. Add $200/month to princip
 
 ## Sources
 
-- [Consumer Financial Protection Bureau (CFPB) -- Your Home Loan Toolkit](https://www.consumerfinance.gov/owning-a-home/): Official guide to the Loan Estimate and Closing Disclosure, including tolerance categories for fees
+- [Consumer Financial Protection Bureau (CFPB), Your Home Loan Toolkit](https://www.consumerfinance.gov/owning-a-home/): Official guide to the Loan Estimate and Closing Disclosure, including tolerance categories for fees
 - [Freddie Mac, My Home by Freddie Mac](https://myhome.freddiemac.com/): Homebuyer education resources including loan amortization tools and mortgage explainers
 - CFPB TRID Rule (TILA-RESPA Integrated Disclosure): The federal regulation governing Closing Disclosure requirements, including the 3-business-day delivery rule and zero-tolerance fee categories
 - HUD Settlement Costs Booklet (current edition): Plain-language explanation of closing costs, escrow, and what each fee covers at settlement

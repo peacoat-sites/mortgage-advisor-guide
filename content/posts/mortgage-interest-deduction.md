@@ -42,7 +42,7 @@ Say you're in the 22% federal tax bracket and paid $14,000 in mortgage interest 
 
 But here's where it gets messier. To claim that deduction, you have to itemize (that's IRS Schedule A). And to make itemizing worthwhile, your total itemized deductions have to exceed the standard deduction. As of 2026, the standard deduction is $15,000 for single filers and $30,000 for married couples filing jointly. Those are big numbers to beat.
 
-If your mortgage interest, state and local taxes (capped at $10,000), charitable contributions, and other deductible items don't add up past those thresholds, the mortgage interest deduction gives you exactly nothing extra. You'd take the standard deduction anyway.
+If your mortgage interest, state and local taxes (capped at $40,400), charitable contributions, and other deductible items don't add up past those thresholds, the mortgage interest deduction gives you exactly nothing extra. You'd take the standard deduction anyway.
 
 A borrower named Marcus, a reader who emailed me after buying a $325,000 home in suburban Columbus, Ohio, was furious when he realized this. He'd planned his budget around a $2,200 tax refund "from the mortgage interest." His accountant told him in February that he and his wife would take the $30,000 standard deduction because their itemized total came to $22,400. The deduction he'd been counting on didn't apply to a single dollar.
 
@@ -66,7 +66,7 @@ Let's be specific. Here's what actually drives someone into "yes, this deduction
 | Single, $400K income, $900K loan, New York | Significant, but capped | $750K limit applies, 37% bracket, itemizes easily |
 | Married, $70K income, $250K loan, Kansas | Zero | Standard deduction wins, no question |
 
-The California and New York cases benefit partly because their high state income taxes (which are themselves deductible, up to the $10,000 SALT cap) push their itemized deductions over the standard deduction threshold. The mortgage interest then actually gets counted. It's the combination of high state taxes plus high mortgage interest that makes the deduction meaningful.
+The California and New York cases benefit partly because their high state income taxes (which are themselves deductible, up to the $40,400 SALT cap) push their itemized deductions over the standard deduction threshold. The mortgage interest then actually gets counted. It's the combination of high state taxes plus high mortgage interest that makes the deduction meaningful.
 
 I've run this math with probably a few dozen people informally over the years. The consistent pattern: if you're in the Sun Belt, you probably don't benefit. If you're in a high-tax coastal state with a jumbo loan, you probably do.
 

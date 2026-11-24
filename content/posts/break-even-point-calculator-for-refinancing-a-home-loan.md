@@ -14,7 +14,7 @@ slug: "break-even-point-calculator-for-refinancing-a-home-loan"
 affiliate_disclosure: true
 lastmod: 2026-11-16T16:00:00Z
 ---
-A borrower came to me once, practically beaming, because she'd locked in a rate that was a full percentage point lower than her current mortgage. She was ready to sign. I asked her one question: "How long are you planning to stay in the house?" She paused. "Maybe two years, three tops." She almost paid $6,200 in closing costs to save money she'd never actually see.
+A borrower who locked in a rate a full percentage point lower than their current mortgage might feel ready to refinance. But the math often tells a different story. If that borrower plans to stay in the house for only two or three years, the $6,200 in closing costs means they'd need years of monthly savings just to break even. In this scenario, refinancing would cost them money, not save it.
 
 That's what the break-even calculation is really for. Not the math itself, which takes about four minutes, but the moment it forces on you: do the numbers actually support doing this?
 

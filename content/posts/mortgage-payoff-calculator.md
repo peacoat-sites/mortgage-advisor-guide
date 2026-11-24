@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 You've probably landed here because you're staring at your mortgage statement, wondering what would actually happen if you paid an extra $200 a month. Or maybe you just got a bonus and you're trying to decide whether to throw it at the principal or put it in the market. Either way, you're asking exactly the right question, and a mortgage payoff calculator is the tool that can finally give you a real answer instead of a gut feeling.
 
-Here's what I tell people who come to me at this stage: the math isn't complicated, but seeing it laid out concretely almost always changes how they think about their loan.
+The math isn't complicated, but seeing it laid out concretely almost always changes how you think about your loan.
 
 ## What a Mortgage Payoff Calculator Actually Does
 

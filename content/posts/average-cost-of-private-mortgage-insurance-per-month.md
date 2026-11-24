@@ -16,7 +16,7 @@ faqs:
  - q: "What is the average cost of PMI per month?"
    a: "For most borrowers with conventional loans, PMI runs between $100 and $450 per month, depending on loan size, down payment, and credit score. A reasonable rule of thumb is 0.5% to 1.5% of the original loan balance annually, divided by 12."
  - q: "Is PMI tax deductible in 2026?"
-   a: "The PMI deduction has expired and been reinstated multiple times over the years, and as of 2026 it is not currently available at the federal level. You should verify with a tax professional for your specific situation, since this has historically been subject to congressional action."
+   a: "The PMI deduction has expired and been reinstated multiple times over the years, and as of 2026 it is available at the federal level for itemizers, though income limits apply. You should verify with a tax professional for your specific situation, since this has historically been subject to congressional action."
  - q: "Can I avoid PMI without a 20% down payment?"
    a: "Yes, through a few approaches: lender-paid PMI (higher interest rate in exchange), a piggyback loan structure (an 80/10/10 where a second lien covers part of the down payment), or certain portfolio loan products that waive PMI for qualified borrowers. Each has tradeoffs worth modeling carefully."
  - q: "How soon can I cancel PMI?"

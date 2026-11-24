@@ -108,7 +108,7 @@ If you're already months behind and neither option sounds good, a HUD-approved h
 
 ## Sources
 
-- [Consumer Financial Protection Bureau (CFPB) -- Owning a Home](https://www.consumerfinance.gov/owning-a-home/): Federal guidance on mortgage options, foreclosure alternatives, and borrower rights.
+- [Consumer Financial Protection Bureau (CFPB), Owning a Home](https://www.consumerfinance.gov/owning-a-home/): Federal guidance on mortgage options, foreclosure alternatives, and borrower rights.
 - [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/): Oversees Fannie Mae and Freddie Mac; publishes servicer guidelines relevant to short sale and foreclosure timelines.
 - [Fannie Mae Selling Guide](https://selling-guide.fanniemae.com/): Official source for conventional loan waiting periods after foreclosure, short sale, and deed-in-lieu.
 - [IRS Publication 4681](https://www.irs.gov/publications/p4681): Covers canceled debt, foreclosures, repossessions, and abandonment for tax purposes.

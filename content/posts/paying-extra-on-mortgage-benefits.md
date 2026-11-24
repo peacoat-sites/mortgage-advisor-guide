@@ -26,7 +26,7 @@ faqs:
     a: "Yes. Making half your mortgage payment every two weeks results in 26 half-payments per year, which equals 13 full monthly payments instead of 12. That one extra payment per year meaningfully accelerates payoff and reduces total interest, often cutting 3-5 years off a 30-year loan without requiring a large lump sum."
 ---
 
-Most people think paying extra on their mortgage is just a "nice to have" -- something you do when you're flush and forget about when life gets expensive.  Running the numbers on a $350,000 loan at 6.75% with a basic amortization spreadsheet makes the impact immediately clear.
+Most people think paying extra on their mortgage is just a "nice to have", something you do when you're flush and forget about when life gets expensive.  Running the numbers on a $350,000 loan at 6.75% with a basic amortization spreadsheet makes the impact immediately clear.
 
 The interest you pay over 30 years on a mortgage that size? It's not a rounding error. It's often more than you borrowed in the first place. What surprised me was how dramatically that changes when you throw even a modest amount of extra money at the principal, not at the end, but early, when it actually counts.
 

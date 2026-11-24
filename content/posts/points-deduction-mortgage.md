@@ -23,7 +23,7 @@ faqs:
   - q: "How do I know if my origination fee counts as deductible points?"
     a: "Look at your Closing Disclosure, Section A. If the fee is expressed as a percentage of the loan (e.g., '1% of loan amount') and is for the use of money rather than for a specific lender service, it likely qualifies. Fees labeled as 'underwriting,' 'document prep,' or 'processing' generally don't. The IRS specifically says the fee must be computed as a percentage of the stated principal amount of the mortgage."
   - q: "Does the points deduction phase out at higher incomes?"
-    a: "The deduction itself doesn't have an income-based phase-out the way some deductions do. However, the overall benefit depends on whether you itemize, and high earners in states with significant state income tax and property taxes are more likely to clear the itemization threshold. That said, the $10,000 SALT cap (still in effect as of 2026) limits how much state and local taxes can boost your itemized total, which affects some high earners in places like California and New York."
+    a: "The deduction itself doesn't have an income-based phase-out the way some deductions do. However, the overall benefit depends on whether you itemize, and high earners in states with significant state income tax and property taxes are more likely to clear the itemization threshold. That said, the $40,400 SALT cap (in effect for 2026) limits how much state and local taxes can boost your itemized total, which affects some high earners in places like California and New York."
 ---
 
 Most homeowners who paid points on their mortgage have no idea they left money on the table at tax time.
@@ -60,7 +60,7 @@ There is one exception worth knowing: if you sell the home or refinance again be
 
 The mortgage points deduction only helps you if you itemize deductions on your federal return. Since the Tax Cuts and Jobs Act of 2017 nearly doubled the standard deduction, far fewer Americans itemize. As of the current tax year, the standard deduction is $15,000 for single filers and $30,000 for married filing jointly (2026 figures, adjusted for inflation).
 
-If your total itemized deductions, mortgage interest, state and local taxes (capped at $10,000), charitable donations, and yes, your points, don't exceed those thresholds, the points deduction does you no good at all. Full stop.
+If your total itemized deductions, mortgage interest, state and local taxes (capped at $40,400 for 2026), charitable donations, and yes, your points, don't exceed those thresholds, the points deduction does you no good at all. Full stop.
 
 Buyers sometimes get excited about deducting $6,000 in points only to realize their total itemized deductions came to $22,000 and they were married, so the standard deduction was larger. They got nothing extra for the points.
 
