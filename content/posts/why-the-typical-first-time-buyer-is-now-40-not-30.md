@@ -20,9 +20,7 @@ This matters because the mortgage market was built around the assumption that pe
 
 First-[time buyers](/fha-vs-conventional-loan-which-is-better-for-first-time-buyers/) now account for just 22% of all home purchases, barely above last year's record low of 21% and roughly half the historical norm of around 40% that held before 2008. When a group that used to represent nearly half the market drops to barely a fifth, that's not a rough patch. That's a structural problem.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The median first-time buyer age hit a record 40 in 2026, up from 30 in 2010.</li><li style="margin:5px 0">First-timers are only 22% of buyers in 2026, vs. ~40% before 2008.</li><li style="margin:5px 0">30-year rates climbed back to 7.32% after hot October CPI data (0.4%).</li><li style="margin:5px 0">A record 10% of first-time buyers paid all cash in 2026, median age 54.</li><li style="margin:5px 0">43% of builders are cutting prices, averaging a 6% reduction, plus rate buydowns.</li></ul></div>
-
 
 ## What's Keeping Rates Stubbornly High Right Now
 
@@ -93,4 +91,3 @@ The housing market has changed structurally. The 40-year-old first-time buyer is
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

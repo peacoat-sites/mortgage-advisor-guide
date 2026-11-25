@@ -89,8 +89,6 @@ The loan type itself. Conventional, FHA, VA, USDA: they're all listed on page on
 
 ---
 
----
-
 The Loan Estimate isn't perfect documentation of what you'll pay, and I won't pretend it is. Prepaids shift, closing dates move, insurance quotes change. But it's the best standardized tool buyers have, and most people don't use it. Get two of them. Read page two. Check the lock expiration. That's honestly 80% of what separates the buyers who felt good about their closing from the ones who didn't.
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
@@ -107,4 +105,3 @@ The Loan Estimate isn't perfect documentation of what you'll pay, and I won't pr
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

@@ -29,9 +29,7 @@ The period between signing your purchase contract and sitting at the closing tab
 
 It isn't. Your lender is still watching you. They'll pull your credit again before funding, verify your employment, and check your bank statements. Anything that changes your financial picture can stall your closing, raise your rate, or kill the loan entirely. Here's what to avoid, and why each one actually matters.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Lenders typically run a second hard credit pull 1-3 days before closing; new debt can change your approval.</li><li style="margin:5px 0">Opening a new credit card or financing furniture can raise your debt-to-income ratio and trigger a denial.</li><li style="margin:5px 0">Changing jobs, even for more money, can require 30+ days of pay stubs before underwriting will sign off.</li><li style="margin:5px 0">Moving large sums between accounts without a paper trail can freeze your loan in underwriting.</li><li style="margin:5px 0">Making a large cash deposit without documentation raises anti-money-laundering flags your lender must investigate.</li></ul></div>
-
 
 ## Don't Touch Your Credit
 
@@ -104,7 +102,6 @@ Rate locks have expiration dates. The Federal Housing Finance Agency publishes i
 
 ---
 
-
 *Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
 
 ---
@@ -119,4 +116,3 @@ Rate locks have expiration dates. The Federal Housing Finance Agency publishes i
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

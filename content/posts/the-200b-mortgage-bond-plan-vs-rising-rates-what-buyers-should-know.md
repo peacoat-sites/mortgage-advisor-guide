@@ -18,9 +18,7 @@ If you've been watching mortgage rates this summer hoping for some relief, you'r
 
 Freddie Mac's survey from July 16, 2026 put the 30-year fixed rate at 6.55%, up from 6.49% the week before and the highest it's been since late May. The [Freddie Mac Primary Mortgage Market Survey](https://www.freddiemac.com/pmms) is about as reliable a weekly snapshot as you'll find, and this number stings, especially when you remember that brief moment in early January when rates touched 5.99%. That one-day drop, roughly 22 basis points, came the same day Trump's post went out. But markets are not that simple, and what gave, eventually took back.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">30-year fixed mortgage rates hit 6.55% on July 16, 2026, their highest since late May.</li><li style="margin:5px 0">Trump's $200B bond-buying directive briefly pushed rates to 5.99% in January but gains reversed.</li><li style="margin:5px 0">Fannie Mae forecasts a 6.4% average for the rest of 2026; the MBA projects 6.5% through Q4.</li><li style="margin:5px 0">June CPI came in at 3.5%, still well above the Fed's 2% target, keeping rate cuts off the table.</li><li style="margin:5px 0">Most homeowners still hold mortgages around 4.4%, so a true supply unlock would need far bigger rate drops.</li></ul></div>
-
 
 ## Why the Bond-Buying Plan Didn't Stick
 
@@ -43,9 +41,7 @@ Both Fannie Mae and the Mortgage Bankers Association have weighed in for the res
 
 The gap between the administration's goal and where the industry expects rates to land is meaningful. A quarter to half a point might not sound like much, but on a $400,000 loan, the difference between 6.0% and 6.5% is roughly $130 a month. Over 30 years, that's close to $47,000. Numbers like that are why buyers care so much about that sub-6% target, and why the current plateau is genuinely painful.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">30-Year Fixed Rate: Actual vs. 2026 Forecasts</div><div class="sc-row"><span class="sc-label">Freddie Mac (Jul 16)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">6.5%</span></div><div class="sc-row"><span class="sc-label">MBA Q3 2026</span><span class="sc-track"><span class="sc-bar" style="width:99%"></span></span><span class="sc-val">6.5%</span></div><div class="sc-row"><span class="sc-label">MBA Q4 2026</span><span class="sc-track"><span class="sc-bar" style="width:99%"></span></span><span class="sc-val">6.5%</span></div><div class="sc-row"><span class="sc-label">Fannie Mae (rest of 2026)</span><span class="sc-track"><span class="sc-bar" style="width:98%"></span></span><span class="sc-val">6.4%</span></div><div class="sc-row"><span class="sc-label">Trump target</span><span class="sc-track"><span class="sc-bar" style="width:92%"></span></span><span class="sc-val">6%</span></div><div class="sc-src">Source: Freddie Mac, Fannie Mae, MBA, July 2026</div></div>
-
 
 ## The "Lock-In Effect" Problem Nobody's Talking About Enough
 
@@ -87,4 +83,3 @@ The $200 billion plan was real, the intention was real, and the one-day rate dro
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

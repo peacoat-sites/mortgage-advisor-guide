@@ -20,9 +20,7 @@ This RFI didn't come out of nowhere. It's a direct response to Executive Order 1
 
 What surprised me was the scope of it. The CFPB isn't asking narrow technical questions aimed at industry lawyers. The RFI explicitly invites input on any provision that is "increasing costs, slowing mortgage origination, or otherwise making it harder for creditworthy borrowers to obtain mortgage loans," according to the SBA Office of Advocacy's summary published July 13, 2026. That's a wide-open door. And based on the CFPB's July 6 regulatory agenda, changes are expected to start materializing as early as November 2026.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The CFPB's July 9, 2026 RFI asks the public which mortgage rules raise costs or block creditworthy buyers.</li><li style="margin:5px 0">Executive Order 14393 (March 13, 2026) targets compliance costs hurting banks under $100 billion in assets.</li><li style="margin:5px 0">The CFPB's own agenda flags mortgage rules as its top priority through November 2026.</li><li style="margin:5px 0">30-year fixed rates hit 6.77% on July 22, 2026, a near 11-month high.</li><li style="margin:5px 0">A final rule overhauling loss mitigation under Regulation X is the most consequential item on the agenda.</li></ul></div>
-
 
 ## Why Small Banks Leaving the Mortgage Market Actually Hurts You
 
@@ -48,9 +46,7 @@ None of this is happening in a calm market. As of July 22, 2026, the 30-year fix
 
 What does that have to do with a regulatory RFI? More than you'd think. When rates are this high, every fraction of a percentage point matters, and so does loan availability. If deregulation succeeds in bringing more small lenders back into the market, that's more competition, which can push rates down at the margins. It also means more options for buyers who don't fit the cookie-cutter approval profile. The timing of this regulatory push, right as affordability is being crushed by rates, is either very deliberate or very convenient, probably both.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">30-year fixed mortgage rate trend (2026)</div><div class="sc-row"><span class="sc-label">Jan 2026</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">6.9%</span></div><div class="sc-row"><span class="sc-label">Mar 2026</span><span class="sc-track"><span class="sc-bar" style="width:96%"></span></span><span class="sc-val">6.6%</span></div><div class="sc-row"><span class="sc-label">May 2026</span><span class="sc-track"><span class="sc-bar" style="width:94%"></span></span><span class="sc-val">6.5%</span></div><div class="sc-row"><span class="sc-label">Jul 22, 2026</span><span class="sc-track"><span class="sc-bar" style="width:98%"></span></span><span class="sc-val">6.8%</span></div><div class="sc-src">Source: Mortgage News Daily, July 22, 2026</div></div>
-
 
 ## What the Deregulation Critics Are Watching
 
@@ -84,4 +80,3 @@ The honest takeaway here is that this moment is real and the stakes are real, bu
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

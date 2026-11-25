@@ -20,9 +20,7 @@ A HomeLight survey of loan officers at 57 lending companies, fielded June 10–2
 
 This isn't abstract bad news. With the 30-[year fixed](/current-30-year-fixed-mortgage-rates-forecast/) rate sitting at 6.69% as of August 12, 2026, and the median monthly mortgage payment at $2,191 according to the Mortgage Bankers Association, buyers are already stretching. A $650 car payment on top of that can be the difference between approved and denied, and most buyers don't see it coming until they're already in the lender's chair.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">47% of loan officers cite auto loans (not student debt) as the top mortgage-blocking debt in summer 2026.</li><li style="margin:5px 0">The median monthly mortgage payment hit $2,191 in June 2026 at a 6.69% rate.</li><li style="margin:5px 0">Gen Z hit a record 20% of all purchase mortgage locks in Q2 2026.</li><li style="margin:5px 0">Only 4% of loan officers say first-time buyers are better financially prepared than five years ago.</li><li style="margin:5px 0">37% of loan officers say seller-paid closing costs are the most common money-saving tactic buyers request.</li></ul></div>
-
 
 ## Why a Car Loan Hits Harder Than You'd Expect
 
@@ -45,9 +43,7 @@ To see how different debts actually affect your mortgage eligibility, the compar
 
 The auto loan column is the problem. It's a high fixed payment with zero flexibility. You can't call your lender and negotiate it down before closing the way you might shift a credit card balance.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Loan officers citing debt type as top mortgage blocker (%)</div><div class="sc-row"><span class="sc-label">Auto loans</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">47%</span></div><div class="sc-row"><span class="sc-label">Credit cards</span><span class="sc-track"><span class="sc-bar" style="width:57%"></span></span><span class="sc-val">27%</span></div><div class="sc-row"><span class="sc-label">Student loans</span><span class="sc-track"><span class="sc-bar" style="width:32%"></span></span><span class="sc-val">15%</span></div><div class="sc-src">Source: HomeLight Lender Insights &amp; Predictions, Summer 2026</div></div>
-
 
 ## Gen Z Walked Into This Trap
 
@@ -96,4 +92,3 @@ The broader point is this: buyers are walking into lender offices focused on the
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

@@ -101,8 +101,6 @@ I don't have great data on how often this pathway gets used nationally. But the 
 
 ---
 
----
-
 The path back to homeownership after bankruptcy is longer and requires more documentation than a standard application, but it's not the dead end people assume it is. If you're in the middle of waiting, use that time strategically. If you're just coming out of discharge and don't know where to start, find a HUD-approved counselor before you find a loan officer. Sequence matters. And if a loan officer tells you that you just need to wait longer without explaining *exactly* why, ask them to show you which guideline says that.
 
 Borrowers in situations like Diane's, if given accurate guidance, could potentially buy a home a full year earlier. That's a year of building equity she didn't get. Don't let that be you.
@@ -121,4 +119,3 @@ Borrowers in situations like Diane's, if given accurate guidance, could potentia
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

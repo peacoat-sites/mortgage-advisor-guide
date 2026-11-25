@@ -18,9 +18,7 @@ If you've been watching mortgage rates and feeling stuck, here's what's happenin
 
 NAHB builder confidence dropped 4 points to 25 in November 2026, the lowest reading since April 2012. Builders are scared. Applications for new-home mortgages fell 13.6% year-over-year in October, the fourth straight monthly decline. So builders are doing what any business does when demand dries up: they're cutting prices and sweetening deals. Sixty-eight percent of builders offered sales incentives in November, a post-pandemic high, and 46% cut list prices, with the average reduction holding at 6% for the eighth month in a row. For buyers who can still qualify, this is a window that may not stay open long.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">New-home buyers averaged a 5.01% rate in Q3 2026 vs. 6.15% on existing homes, a 114 bps gap.</li><li style="margin:5px 0">68% of builders offered incentives in November 2026; 46% cut prices by an average of 6%.</li><li style="margin:5px 0">Builder confidence hit a 14-year low of 25 in November, pushing incentives to post-pandemic highs.</li><li style="margin:5px 0">Single-family permits fell to a 772,000 annual pace in October, fewest deals may be coming in 2027.</li><li style="margin:5px 0">Builder buydowns are temporary by default; always ask whether the rate is fixed or adjustable after year 1.</li></ul></div>
-
 
 ## What a Builder Buydown Actually Is (and What It Costs Them)
 
@@ -89,4 +87,3 @@ The rate environment is genuinely difficult right now, and builder buydowns are 
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

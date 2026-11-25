@@ -29,9 +29,7 @@ Bank statement mortgage loans exist for one reason: the standard income verifica
 
 A bank statement loan lets you prove income using 12 or 24 months of bank statements instead of W-2s and tax returns. The lender averages your deposits, applies an expense ratio, and uses that figure as your qualifying income. It's a legitimate loan product, not a loophole, and it's been a stable part of the non-QM (non-qualified mortgage) market for years.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Bank statement loans use 12-24 months of deposit history instead of tax returns to verify income.</li><li style="margin:5px 0">Expect higher rates than conventional loans, often 1-3 percentage points above prevailing 30-year fixed rates.</li><li style="margin:5px 0">Minimum down payments typically run 10-20%, with 20%+ getting you better pricing.</li><li style="margin:5px 0">These loans work best for self-employed borrowers with strong cash flow but heavy write-offs.</li><li style="margin:5px 0">Not all lenders offer them; you'll need a non-QM or portfolio lender.</li></ul></div>
-
 
 ## Who This Loan Is Actually For
 
@@ -98,7 +96,6 @@ If you want to understand non-QM mortgage terms before you sit down with a lende
 
 ---
 
-
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
@@ -113,4 +110,3 @@ If you want to understand non-QM mortgage terms before you sit down with a lende
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

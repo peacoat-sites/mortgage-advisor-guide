@@ -20,9 +20,7 @@ Here's where it gets directly relevant to anyone buying, refinancing, or carryin
 
 The window between now and December 9 is real, but it's narrow. If you're a buyer sitting on the fence, an ARM holder approaching a reset, or a HELOC borrower watching your payment creep up, understanding what's likely to happen, and what your actual options are, matters more than waiting to see how it plays out.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">30-year fixed rates jumped to 7.28% (Freddie Mac) and 7.45% (Mortgage News Daily) on Nov. 19.</li><li style="margin:5px 0">77–85% of traders expect a 25-bps Fed hike at the Dec. 8–9 FOMC meeting.</li><li style="margin:5px 0">October CPI hit 6.5% year-over-year, the highest in four years, driving renewed rate pressure.</li><li style="margin:5px 0">Existing-home sales fell to 3.75 million annualized in October, the lowest since 2010.</li><li style="margin:5px 0">ARM and HELOC holders face the most immediate risk if December's hike goes through.</li></ul></div>
-
 
 ## Why This Rate Jump Is Different From the Others
 
@@ -91,4 +89,3 @@ The situation is uncomfortable but not unusual. Rates have been elevated all yea
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

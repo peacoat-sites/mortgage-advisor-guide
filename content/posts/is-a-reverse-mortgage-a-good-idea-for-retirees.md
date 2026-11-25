@@ -64,8 +64,6 @@ The research from Harold Abelson and others who've studied coordinated retiremen
 
 ---
 
----
-
 If a reverse mortgage is on your radar, the most useful thing you can do right now is get the counseling session before you talk to a lender. Go in informed. The session is genuinely useful, and it'll help you separate what the product can do from what the advertising suggests it can do. Those are often very different things.
 
 ---
@@ -77,15 +75,7 @@ If a reverse mortgage is on your radar, the most useful thing you can do right n
 ## Sources
 
 - [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/)
-- [First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/1119860741?tag=contentportfo-20)
 - [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
-- [The Retirement Savings Time Bomb](https://www.amazon.com/Retirement-Savings-Time-Bomb-Defuse/dp/0593327861/?tag=contentportfo-20)
-- [AmazonBasics Shredder for Sensitive Financial Documents](https://www.amazon.com/dp/B07XKVJ4GB?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 
 ---
 
@@ -95,4 +85,3 @@ If a reverse mortgage is on your radar, the most useful thing you can do right n
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

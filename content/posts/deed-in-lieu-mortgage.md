@@ -106,17 +106,11 @@ One more thing that surprises people: if you're married, both spouses typically 
 
 ---
 
----
-
-If you want to understand more about your options before talking to your servicer, the HUD-approved housing counseling network (reachable through the CFPB's website) can walk you through alternatives at no cost. That conversation is worth having before you commit to any single path. And if you're the kind of person who wants to understand the full legal and financial landscape before making a decision, a book like [*The Foreclosure Survival Guide* by Amy Loftsgordon](https://www.amazon.com/Foreclosure-Survival-Guide-Keep-Home/dp/1413329888?tag=contentportfo-20) is a genuinely useful resource (note: the site may earn a small commission if you purchase through that link).
-
 The deed in lieu process has real costs: to your credit, potentially to your taxes, and to your sense of stability. But for borrowers in genuine hardship with no realistic path to keeping the home, it can be a controlled, dignified exit from an impossible situation. That matters more than most people give it credit for.
 
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
-
----
 
 ---
 
@@ -126,4 +120,3 @@ The deed in lieu process has real costs: to your credit, potentially to your tax
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

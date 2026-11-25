@@ -20,9 +20,7 @@ Here's what the numbers are actually telling you: the buyers who can still quali
 
 Rates aren't helping anyone feel confident either. The 30-[year fixed mortgage](/current-30-year-fixed-mortgage-rates-forecast/) hit a 2026 high of 7.40% in mid-October before pulling back to 7.11% on November 12, then jumping right back to 7.28% in Freddie Mac's November 19 survey. That kind of volatility in a matter of weeks makes it almost impossible to plan a purchase with any certainty. And yet, some buyers are still signing contracts. Understanding why FHA loans are the reason takes a bit of unpacking.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">FHA loans hit 36.9% of new-home applications in October 2026, more than double FHA's overall market share.</li><li style="margin:5px 0">New-home applications fell 13.6% year-over-year for the fourth straight month per MBA's November 20, 2026 survey.</li><li style="margin:5px 0">The estimated sales pace of 592,000 units in October 2026 is near the weakest since July 2022.</li><li style="margin:5px 0">Average new-home loan sizes dropped from $374,724 in September to $368,934 in October, signaling buyers are compromising on size or price.</li><li style="margin:5px 0">Builder confidence hit 25 in November, its lowest since April 2012, even as builder incentives prop up FHA demand.</li></ul></div>
-
 
 ## Why FHA Makes More Sense Than Conventional Right Now
 
@@ -90,4 +88,3 @@ The FHA dominance in new-home applications isn't a fluke. It's a pressure gauge 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 - **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25), Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.
-

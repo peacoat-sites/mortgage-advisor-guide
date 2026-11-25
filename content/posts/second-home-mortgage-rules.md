@@ -29,9 +29,7 @@ Buying a second home sounds straightforward until your lender starts asking ques
 
 Understanding why helps you make smarter decisions before you apply.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Second home mortgages typically require at least 10% down, often more.</li><li style="margin:5px 0">Rates run roughly 0.25%–0.75% higher than primary residence rates.</li><li style="margin:5px 0">Renting the property out too often gets it reclassified as an investment property (worse terms).</li><li style="margin:5px 0">You must qualify on both your existing mortgage and the new one simultaneously.</li><li style="margin:5px 0">Tax rules for second homes differ from rental properties; consult a CPA before you buy.</li></ul></div>
-
 
 ## What Lenders Actually Mean by "Second Home"
 
@@ -95,7 +93,6 @@ A common misconception is that if you qualified easily for your primary mortgage
 
 ---
 
-
 *Photo: [Karen F](https://www.pexels.com/@karen-f-1376469) via Pexels*
 
 ---
@@ -110,4 +107,3 @@ A common misconception is that if you qualified easily for your primary mortgage
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

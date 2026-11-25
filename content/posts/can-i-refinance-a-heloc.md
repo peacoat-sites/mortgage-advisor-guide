@@ -31,9 +31,7 @@ A home equity line of credit works in two phases: a [draw period](/heloc-draw-pe
 
 You've got three main paths: refinance the HELOC into a new HELOC, convert it into a fixed-rate [home equity loan](/home-equity-loan-rates/), or roll the HELOC balance into a new first mortgage through a cash-out refinance. Each path has a different cost, a different risk profile, and works better in different situations.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">You can refinance a HELOC into a new HELOC, a fixed home equity loan, or a new first mortgage.</li><li style="margin:5px 0">The biggest trigger for refinancing a HELOC is the draw-to-repayment transition, where payments can double or triple.</li><li style="margin:5px 0">Rolling a HELOC into your first mortgage resets your 30-year clock and costs the most in closing fees.</li><li style="margin:5px 0">A new HELOC from a different lender may carry a prepayment or closure fee on the old one (often $300-$500).</li><li style="margin:5px 0">Your combined loan-to-value ratio (CLTV) must generally stay below 85% to qualify for most options.</li></ul></div>
-
 
 ## Why the Draw Period Ending Changes Everything
 
@@ -109,7 +107,6 @@ And if you're within two to three years of paying the HELOC off entirely, the cl
 
 ---
 
-
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
@@ -124,4 +121,3 @@ And if you're within two to three years of paying the HELOC off entirely, the cl
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

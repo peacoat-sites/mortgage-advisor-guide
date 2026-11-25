@@ -110,15 +110,7 @@ What most people don't realize is that construction loan interest rates run high
 
 ---
 
-If you want to dig deeper into the financial planning side before talking to a lender, a workbook like [*The Complete Guide to Building Your Own Home*](https://www.amazon.com/s?k=building+your+own+home+guide) (available on Amazon, and yes, this site may earn a commission on purchases) can help you build a realistic budget and project timeline before anyone asks for your tax returns.
-
----
-
----
-
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
-
----
 
 ---
 
@@ -128,4 +120,3 @@ If you want to dig deeper into the financial planning side before talking to a l
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

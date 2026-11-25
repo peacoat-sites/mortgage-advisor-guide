@@ -31,9 +31,7 @@ Your [escrow account](/mortgage-escrow-account-explained/) is the holding accoun
 
 That's the core of it. The notice feels alarming, but it's a math problem, not a penalty.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">An escrow shortage means your account didn't have enough to cover actual property tax or insurance bills.</li><li style="margin:5px 0">Servicers recalculate your escrow every 12 months; a shortage shows up at that annual review.</li><li style="margin:5px 0">You can pay the shortage as a lump sum or spread it over 12 months added to your payment.</li><li style="margin:5px 0">Rising property tax assessments and insurance premium increases are the two most common causes.</li><li style="margin:5px 0">Federal rules (RESPA) limit how much of a cushion your servicer can collect above the actual costs.</li></ul></div>
-
 
 ## Why Shortages Happen More Than You'd Think
 
@@ -90,7 +88,6 @@ One thing worth checking: if your property taxes are creating recurring shortage
 
 ---
 
-
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
@@ -105,4 +102,3 @@ One thing worth checking: if your property taxes are creating recurring shortage
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

@@ -50,9 +50,7 @@ Here's what I tell people in this situation: don't let the headlines paralyze yo
 
 ## Should You Wait for Rates to Drop?
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">30-Year Fixed Rate Snapshots, July 2026</div><div class="sc-row"><span class="sc-label">July 2</span><span class="sc-track"><span class="sc-bar" style="width:92%"></span></span><span class="sc-val">6.4%</span></div><div class="sc-row"><span class="sc-label">July 10</span><span class="sc-track"><span class="sc-bar" style="width:96%"></span></span><span class="sc-val">6.7%</span></div><div class="sc-row"><span class="sc-label">Potential Fed Hike Scenario</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">7%</span></div><div class="sc-src">Source: Zillow / U.S. News, July 10, 2026</div></div>
-
 
 This is the question I hear most. And the honest answer is: nobody knows when rates will meaningfully drop, and betting your timeline on a Fed pivot that may not come is genuinely risky.
 
@@ -82,12 +80,9 @@ The market right now is genuinely difficult, and anyone who tells you there's an
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

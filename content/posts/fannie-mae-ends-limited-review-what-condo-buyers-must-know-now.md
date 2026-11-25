@@ -20,9 +20,7 @@ Here's the short version: before August 3, 2026, roughly 40% of condo loans went
 
 What that means in practice is that your condo building now has to pass a deep financial audit to get you a [conventional loan](/fha-vs-conventional-loan-which-is-better-for-first-time-buyers/). Reserves, litigation history, master insurance policies, all of it gets scrutinized. And if the building fails any of those checks, it doesn't matter how good your credit score is.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Fannie Mae and Freddie Mac eliminated Limited/Streamlined Review for all condo loans dated August 3, 2026 or later.</li><li style="margin:5px 0">All established condo projects with more than 10 units now require a Full Review, regardless of your down payment or credit score.</li><li style="margin:5px 0">A new $50,000 hard cap on per-unit master policy deductibles took effect July 1, 2026; buildings over that threshold lose conventional loan eligibility.</li><li style="margin:5px 0">A 15% reserve funding minimum kicks in for loans dated January 4, 2027 or later, up from the current 10% threshold.</li><li style="margin:5px 0">A 2025 survey found 42% of condo board members didn't know if their community was Fannie/Freddie eligible.</li></ul></div>
-
 
 ## What a Full Review Actually Involves
 
@@ -84,4 +82,3 @@ The research here is still early on just how many buildings will fail the new st
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

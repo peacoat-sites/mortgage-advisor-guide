@@ -29,9 +29,7 @@ Closing day is the finish line, but it rarely feels like one. You'll spend most 
 
 The longer version matters because mistakes made at closing are expensive and hard to undo.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Closing typically takes 1-2 hours; bring a government-issued ID and your cashier's check or wire confirmation.</li><li style="margin:5px 0">You'll sign roughly 30-50 documents, but three matter most: the Promissory Note, Deed of Trust, and Closing Disclosure.</li><li style="margin:5px 0">Review your Closing Disclosure at least 3 business days before closing, this is your legal right, and you should use it.</li><li style="margin:5px 0">The right to rescind (3-day cancellation window) applies to refinances, NOT purchase loans.</li><li style="margin:5px 0">Budget for closing costs of roughly 2%-5% of the loan amount; the exact figure is on your Closing Disclosure.</li></ul></div>
-
 
 ## Who's In the Room
 
@@ -104,7 +102,6 @@ For a refinance, there's a mandatory 3-business-day "right of rescission" window
 
 ---
 
-
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
 ---
@@ -119,4 +116,3 @@ For a refinance, there's a mandatory 3-business-day "right of rescission" window
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

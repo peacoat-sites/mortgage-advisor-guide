@@ -29,9 +29,7 @@ A quitclaim deed can transfer ownership of a home without guaranteeing the title
 
 The confusion usually starts here: people think signing a quitclaim deed removes them from the mortgage. It doesn't. Ownership and debt are two separate things. You can sign away your legal interest in a property and still owe the bank every single dollar. That gap is where real financial damage happens.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A quitclaim deed transfers ownership, not mortgage liability. You can still owe the debt after signing.</li><li style="margin:5px 0">Most mortgages have a due-on-sale clause. A quitclaim deed can trigger it, making the full loan due immediately.</li><li style="margin:5px 0">Lenders must agree to remove a co-borrower from a mortgage. A deed alone does not accomplish this.</li><li style="margin:5px 0">Divorce agreements do not override mortgage contracts. The lender isn't bound by your divorce decree.</li><li style="margin:5px 0">If the new owner stops paying, your credit takes the hit, even if you no longer own the house.</li></ul></div>
-
 
 ## What a Quitclaim Deed Actually Does
 
@@ -114,7 +112,6 @@ If you're a buyer receiving a quitclaim deed, be cautious. You're accepting the 
 
 ---
 
-
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
@@ -129,4 +126,3 @@ If you're a buyer receiving a quitclaim deed, be cautious. You're accepting the 
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

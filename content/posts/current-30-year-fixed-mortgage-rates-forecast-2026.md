@@ -29,7 +29,6 @@ Nobody knows exactly where mortgage rates are going in 2026. Not me, not the Fed
 
 That's the real question you're sitting with, isn't it? Not the number itself, but what you should *do* with it.
 
-
 <div class="value-module">
  <div class="vm-head">Rate Scenario Monthly Payment Comparison</div>
  <div class="vm-body">
@@ -111,12 +110,9 @@ Rates will do what rates do. What you can actually control is your credit profil
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

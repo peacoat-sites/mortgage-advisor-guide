@@ -116,8 +116,6 @@ One more thing: if you're using tax software, it will usually ask you directly w
 
 ---
 
----
-
 The points deduction isn't glamorous. It's not a loophole or a hack. It's just a tax rule that rewards you for something you already spent money on, if you know to claim it. Check your Closing Disclosure. Talk to a tax professional if your situation is complicated. And if you refinanced multiple times over the past several years, look back at those old closing documents because there may be unamortized points you haven't finished deducting yet. That's not tax advice, just the kind of thing a friend who used to do this for a living would tell you to check.
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
@@ -134,4 +132,3 @@ The points deduction isn't glamorous. It's not a loophole or a hack. It's just a
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

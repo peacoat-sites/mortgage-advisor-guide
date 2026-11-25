@@ -100,8 +100,6 @@ That variability is actually something I tell people to use in their favor. I ma
 
 ---
 
-If you want a deeper grounding in investment property financing before you shop lenders, [The Book on Rental Property Investing by Brandon Turner](https://www.amazon.com/Book-Rental-Property-Investing-Passive/dp/099071179X?tag=contentportfo-20) covers the fundamentals clearly (the site may earn a commission on purchases).
-
 *Photo: [Lukas Kosc](https://www.pexels.com/@lukas-kosc-525097851) via Pexels*
 
 ---
@@ -116,4 +114,3 @@ If you want a deeper grounding in investment property financing before you shop 
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

@@ -20,9 +20,7 @@ Here's the short version: the CFPB finalized a rule on April 22, 2026 that elimi
 
 The good news, such as it is: the Fair Housing Act, enforced by the Department of Justice and HUD, still allows disparate impact claims for residential mortgage lending. Your protection narrowed. It didn't vanish.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CFPB's disparate impact rule under ECOA took effect July 21, 2026, ending outcome-based discrimination enforcement.</li><li style="margin:5px 0">Intentional mortgage discrimination remains illegal under ECOA; disparate impact claims under the Fair Housing Act still stand.</li><li style="margin:5px 0">DOJ and HUD, not CFPB, now carry the primary load for disparate impact enforcement in mortgage lending.</li><li style="margin:5px 0">Legal challenges from state AGs and consumer groups could suspend or modify the rule's scope.</li><li style="margin:5px 0">HUD announced 14 separate FHA policy changes June 23, 2026, including expanded 203(k) rehab loan access.</li></ul></div>
-
 
 ## What "Disparate Impact" Actually Meant (and Why Removing It Matters)
 
@@ -102,4 +100,3 @@ The regulatory ground shifted on July 21. It didn't disappear. Knowing which foo
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

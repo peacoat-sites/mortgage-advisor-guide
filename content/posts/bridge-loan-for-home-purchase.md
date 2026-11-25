@@ -29,9 +29,7 @@ A bridge loan lets you buy your next home before your current one sells. That's 
 
 The catch is that bridge loans are expensive, structurally awkward, and genuinely risky if your home doesn't sell quickly. They're not a universal solution. For some buyers they're the right tool; for others they're a way to end up carrying two mortgages plus a bridge loan simultaneously while watching their savings drain.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Bridge loans typically cost 1-3% in fees plus interest rates often 1.5-3 percentage points above a standard mortgage rate.</li><li style="margin:5px 0">Most bridge loans run 6-12 months; some lenders allow up to 24 months.</li><li style="margin:5px 0">You'll generally need at least 20% equity in your current home to qualify.</li><li style="margin:5px 0">If your home doesn't sell within the term, you may face forced liquidation or costly extensions.</li><li style="margin:5px 0">Alternatives like home equity lines of credit (HELOCs) or contingency offers are usually cheaper if your timeline allows.</li></ul></div>
-
 
 ## How the Money Actually Flows
 
@@ -107,7 +105,6 @@ Renting your current home for a period is worth modeling too, particularly if yo
 
 ---
 
-
 *Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
 
 ---
@@ -122,4 +119,3 @@ Renting your current home for a period is worth modeling too, particularly if yo
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-
