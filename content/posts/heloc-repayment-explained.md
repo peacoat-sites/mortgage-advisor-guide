@@ -1,6 +1,7 @@
 ---
 title: "HELOC Repayment Explained: What to Expect Month to Month"
 date: 2026-06-13T17:04:28.998762+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how HELOC repayment works, including draw and repayment periods, monthly payment calculations, and tips to manage your home equity line of credit effectiv"
 image: "/img/heroes/4792483.jpg"
@@ -98,12 +99,3 @@ For a detailed walkthrough of how to read and compare loan products before you s
 
 - [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/)
 - [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

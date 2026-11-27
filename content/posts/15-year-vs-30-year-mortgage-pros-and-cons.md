@@ -1,6 +1,7 @@
 ---
 title: "15-Year vs 30-Year Mortgages: Which Fits Your Budget"
 date: 2026-06-08T18:17:54.634398+00:00
+googlebot_noindex: true
 draft: false
 description: "Comparing 15 vs 30 year mortgages? Discover the key pros and cons of each loan term to find the right option for your budget and financial goals."
 image: "/img/heroes/8815849.jpg"
@@ -106,12 +107,3 @@ The honest answer to "which is better" is that the 15-year wins the interest cos
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

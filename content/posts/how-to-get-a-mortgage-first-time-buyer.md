@@ -1,6 +1,7 @@
 ---
 title: "First-Time Buyer's Complete Mortgage Approval Guide"
 date: 2026-05-28T19:56:07.176395+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to get a mortgage as a first time buyer. Discover deposit requirements, eligibility tips, and step-by-step guidance to help you secure your first home"
 image: "/img/heroes/8301235.jpg"
@@ -143,12 +144,3 @@ The mortgage process rewards preparation more than any other factor. You don't n
 ---
 
 *This article is for educational purposes only and does not constitute financial or mortgage advice. Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional for guidance specific to your financial situation.*
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

@@ -1,6 +1,7 @@
 ---
 title: "Home Equity Loans: Current Rates and Your Options"
 date: 2026-05-22T04:08:09.953277+00:00
+googlebot_noindex: true
 draft: false
 description: "Explore current home equity loan rates, compare lenders, and learn how your credit score and equity affect the rate you qualify for to save money on borrowing."
 image: "/img/heroes/34811873.jpg"
@@ -130,12 +131,3 @@ A home equity loan can be genuinely useful when the rate is fair, the terms are 
 
 - [CFPB, What is a home equity loan?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-equity-loan-en-106/), Explains home equity loan structure, risks, and key terms
 - [Federal Reserve, Consumer Credit](https://www.federalreserve.gov/consumers.htm), Fed consumer resources on borrowing and interest rates
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

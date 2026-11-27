@@ -1,6 +1,7 @@
 ---
 title: "Calculate Your Mortgage Payoff Timeline in Minutes"
 date: 2026-06-20T17:12:13.185856+00:00
+googlebot_noindex: true
 draft: false
 description: "Use our mortgage payoff calculator to see how extra payments reduce your loan term and interest costs. Enter your balance, rate, and payment to get started."
 image: "/img/heroes/7821546.jpg"
@@ -102,12 +103,3 @@ A prepayment penalty is a fee the lender charges if you pay off your loan (or a 
 
 - [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/)
 - [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

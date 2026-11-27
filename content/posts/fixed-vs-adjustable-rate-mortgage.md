@@ -2,6 +2,7 @@
 title: "Fixed vs. Adjustable Rate Mortgage: Which Is Right for You?"
 image: "/img/heroes/37685036.jpg"
 date: 2026-05-27T17:30:33.621055+00:00
+googlebot_noindex: true
 slug: "fixed-vs-adjustable-rate-mortgage"
 description: "The choice between a fixed and adjustable rate mortgage depends on how long you plan to stay in the home. Here's how to decide."
 categories: ["Loan Types"]
@@ -61,12 +62,3 @@ There's no objectively correct answer here. The math works differently depending
 
 - [CFPB, Mortgage Key Terms](https://www.consumerfinance.gov/owning-a-home/loan-options/), Explains fixed vs ARM loan options and how ARMs work
 - [Freddie Mac, Mortgage Rates](https://www.freddiemac.com/pmms), Primary source for current fixed and ARM rate data
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

@@ -1,6 +1,7 @@
 ---
 title: "Should You Take an ARM Right Now to Beat High Fixed Rates?"
 date: 2026-06-15T19:35:24.815141+00:00
+googlebot_noindex: true
 draft: false
 description: "Explore whether an adjustable-rate mortgage could save you money today versus locking in a high fixed rate. Learn the risks, benefits, and when an ARM makes sen"
 image: "/img/heroes/7821470.jpg"
@@ -74,13 +75,3 @@ The ARM-to-fixed spread is real today. For the right borrower, it's worth consid
 - [Continued Iran Conflict Raises Mortgage Rate Risk Into Late 2026](https://www.housingwire.com/articles/iran-conflict-mortgage-rates/) (June 8, 2026)
 - [How Much Will Mortgage Rates Fall With the Iran Deal and Fed Week?](https://www.housingwire.com/articles/mortgage-rates-iran-fed-week/) (June 15, 2026)
 - [Why Adjustable-Rate Mortgages Are Returning in 2026](https://www.usacli.org/adjustable-rate-mortgages/) (Late May 2026)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

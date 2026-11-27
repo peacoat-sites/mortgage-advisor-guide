@@ -1,6 +1,7 @@
 ---
 title: "Take Over a Loan: The Mortgage Assumption Guide"
 date: 2026-06-21T17:12:42.078463+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how mortgage assumption works, who qualifies, and how buyers can take over a sellers existing loan to potentially secure a lower interest rate."
 image: "/img/heroes/17682883.jpg"
@@ -99,12 +100,3 @@ If you're selling a home with an assumable low-rate government loan, mention it 
 
 - [Consumer Financial Protection Bureau's buying resources](https://www.consumerfinance.gov/owning-a-home/)
 - [Freddie Mac's home buyer resources](https://myhome.freddiemac.com/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

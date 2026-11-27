@@ -1,6 +1,7 @@
 ---
 title: "What Lenders Really Need: Your Complete Income Documentation Guide"
 date: 2026-05-29T12:59:38.032108+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn what mortgage income documentation lenders require, including pay stubs, tax returns, and bank statements, to get approved for a home loan."
 image: "/img/heroes/6928878.jpg"
@@ -127,12 +128,3 @@ The mortgage process can feel rigged. But understanding what lenders actually ne
 
 - [CFPB, Ability-to-Repay and Qualified Mortgage Rule](https://www.consumerfinance.gov/rules-policy/regulations/1026/43/), explains ATR legal requirements from Dodd-Frank
 - [CFPB, Debt-to-income ratio explained](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/), defines DTI and typical thresholds for mortgages
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

@@ -1,6 +1,7 @@
 ---
 title: "Short Sale Mortgage Impact: Credit, Waiting Periods and Recovery"
 date: 2026-06-13T17:06:31.967227+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how a short sale affects your mortgage, credit score, and future home buying ability, plus tips to recover and qualify for a new loan sooner."
 image: "/img/heroes/7578894.jpg"
@@ -100,12 +101,3 @@ Yes. The waiting periods apply regardless of what you're purchasing, and for sec
 - [CFPB, What is a short sale?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-short-sale-en-287/), Explains short sale basics and credit reporting implications
 - [HUD, Buying a Home After Foreclosure](https://www.hud.gov/topics/buying_a_home), FHA waiting period requirements after mortgage default
 - [Fannie Mae, Selling Guide](https://selling-guide.fanniemae.com/), Documents conventional loan waiting periods after short sale
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

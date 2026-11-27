@@ -43,12 +43,3 @@ A lump-sum paydown (bonus, tax refund, inheritance) applied straight to principa
 Once you think you've crossed 80% LTV, send a written cancellation request to your servicer. It needs to include your loan account number, a statement that you're requesting removal under the Homeowners Protection Act, and evidence of current value if you're betting on appreciation (which usually means ordering an appraisal).
 
 Make a copy for yourself. Your servicer has 30 days to respond.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

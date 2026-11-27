@@ -1,6 +1,7 @@
 ---
 title: "What Lenders Really Look For in Jumbo Loan Applications"
 date: 2026-05-29T08:16:52.541877+00:00
+googlebot_noindex: true
 draft: false
 description: "Jumbo loan requirements vary by lender but typically include strong credit scores, significant down payments, and detailed financial documentation for approval."
 image: "/img/heroes/7876001.jpg"
@@ -117,13 +118,3 @@ Jumbo loans aren't impossible. Millions of borrowers close them every year, and 
 - [FHFA, Conforming Loan Limits](https://www.fhfa.gov/data/conforming-loan-limit), Official 2026 conforming loan limits by county
 - [CFPB, What is a jumbo loan?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-jumbo-loan-en-1791/), Explains jumbo vs conforming loan distinctions
 - [Fannie Mae, Loan Limits](https://singlefamily.fanniemae.com/originating-underwriting/loan-limits), Confirms baseline and high-cost area limits
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
-

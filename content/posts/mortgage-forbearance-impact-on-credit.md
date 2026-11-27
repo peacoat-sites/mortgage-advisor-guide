@@ -1,6 +1,7 @@
 ---
 title: "Will Mortgage Forbearance Hurt Your Credit Score?"
 date: 2026-06-22T19:01:14.850428+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how mortgage forbearance affects your credit score, what lenders report to bureaus, and steps to protect your credit during financial hardship."
 image: "/img/heroes/7014464.jpg"
@@ -91,12 +92,3 @@ If you're planning to buy or refinance within two years of a forbearance, pull y
 
 - [their documentation](https://myhome.freddiemac.com/)
 - [HUD-approved housing counselor network](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

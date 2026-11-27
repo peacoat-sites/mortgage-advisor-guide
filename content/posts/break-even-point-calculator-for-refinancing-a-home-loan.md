@@ -1,6 +1,7 @@
 ---
 title: "Break-Even Point on a Refinance: How to Run the Numbers"
 date: 2026-06-25T17:57:30.219220+00:00
+googlebot_noindex: true
 draft: false
 description: "Calculate your home loan refinance break even point instantly. See how long until savings offset closing costs and decide if refinancing makes financial sense."
 image: "/img/heroes/7578909.jpg"
@@ -122,12 +123,3 @@ The break-even calculation isn't the whole decision, but it's the foundation. Do
 
 - [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/)
 - [HUD-approved housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

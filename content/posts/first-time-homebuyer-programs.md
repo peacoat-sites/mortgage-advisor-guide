@@ -1,6 +1,7 @@
 ---
 title: "First-Time Homebuyer Programs That Actually Work"
 date: 2026-05-20T07:59:28.319437+00:00
+googlebot_noindex: true
 draft: false
 description: "First-time homebuyer programs offer down payment assistance, low-interest loans, and tax credits to help new buyers afford their first home affordably."
 image: "/img/heroes/7489099.jpg"
@@ -141,12 +142,3 @@ First-time buyer programs are real money, but they're not automatic. The buyers 
 - [HUD, Buying a Home](https://www.hud.gov/topics/buying_a_home), Federal overview of homebuyer assistance programs and resources
 - [CFPB, Buying a House](https://www.consumerfinance.gov/owning-a-home/), Explains loan options and homebuyer assistance programs
 - [USA.gov, Housing Help](https://www.usa.gov/housing-help), Directory of federal and state homebuyer assistance resources
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
